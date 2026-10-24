@@ -4,8 +4,7 @@
 # Movies to track. "year" is optional but helps avoid mix-ups with older
 # movies that share a title.
 movies:
-  - title: "Example Movie"
-    year: 2026
+  - title: "The Only Living Pickpocket in New York"
 
 # Review sites to watch. A homepage, a film/reviews section, or an RSS feed
 # all work. The bot finds the site's feed automatically when there is one,
