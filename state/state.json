@@ -452,6 +452,16 @@
         "summary": "A satisfying grown-up fairy tale, funny without cruelty, poignant, with a strong cast; one of the year's most winning unexpected pleasures.",
         "url": "https://48hills.org/2026/10/screen-grabs-sf-latino-film-fest-finds-a-happy-place-in-fraught-community-moment/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-10-24T21:03:27+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Every Movie Has a Lesson",
+        "rating": "5/5",
+        "summary": "A brilliant, beautiful, honest romance with a glowing Olivia Colman, extraordinary practical makeup, and sweeping passion, likened to Her.",
+        "url": "https://everymoviehasalesson.com/blog/2026/10/movie-review-wicker",
+        "verdict": "fresh"
       }
     ]
   },
@@ -590,6 +600,11 @@
     "wicker||https://deadline.com/print-article/1237170426?KeepThis=1&TB_iframe=1&height=500&width=750": {
       "at": "2026-10-24T14:05:06+00:00",
       "status": "duplicate"
+    },
+    "wicker||https://everymoviehasalesson.com/blog/2026/10/movie-review-wicker": {
+      "at": "2026-10-24T21:03:27+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "wicker||https://film-forward.com/comedy-2/wicker": {
       "at": "2026-10-24T13:57:21+00:00",
