@@ -1,4 +1,27 @@
 {
-  "reviews": {},
-  "seen": {}
+  "reviews": {
+    "the only living pickpocket in new york|": [
+      {
+        "at": "2026-10-24T13:34:37+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "IndieWire",
+        "rating": "",
+        "summary": "Praises Turturro's controlled performance, authentic New York locations, strong ensemble, and a restrained, humane crime story bridging old and new.",
+        "url": "https://www.indiewire.com/criticism/movies/the-only-living-pickpocket-in-new-york-review-john-turturro-1235176157/",
+        "verdict": "fresh"
+      }
+    ]
+  },
+  "seen": {
+    "the only living pickpocket in new york||https://www.indiewire.com/criticism/movies/the-only-living-pickpocket-in-new-york-review-john-turturro-1235176157/": {
+      "at": "2026-10-24T13:34:37+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "the only living pickpocket in new york||https://www.rogerebert.com/interviews/the-only-living-pickpocket-in-new-york-john-turturro-interview": {
+      "at": "2026-10-24T13:34:34+00:00",
+      "status": "not_review"
+    }
+  }
 }
