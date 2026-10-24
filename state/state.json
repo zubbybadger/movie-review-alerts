@@ -462,6 +462,16 @@
         "summary": "A brilliant, beautiful, honest romance with a glowing Olivia Colman, extraordinary practical makeup, and sweeping passion, likened to Her.",
         "url": "https://everymoviehasalesson.com/blog/2026/10/movie-review-wicker",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-10-24T21:36:08+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Should I See It?",
+        "rating": "",
+        "summary": "Colman and a wicker Skarsg\u00e5rd share wonderful chemistry in a beautifully crafted, hilarious, thoughtful fable, despite a forced late conflict.",
+        "url": "https://www.shouldiseeit.net/reviews/2026/wicker-2026",
+        "verdict": "fresh"
       }
     ]
   },
@@ -774,6 +784,15 @@
     },
     "wicker||https://www.sensacine.com/peliculas/pelicula-322884/": {
       "at": "2026-10-24T13:56:48+00:00",
+      "status": "not_review"
+    },
+    "wicker||https://www.shouldiseeit.net/reviews/2026/wicker-2026": {
+      "at": "2026-10-24T21:36:08+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "wicker||https://www.shouldiseeit.net/reviews/tag/Wicker": {
+      "at": "2026-10-24T21:36:11+00:00",
       "status": "not_review"
     },
     "wicker||https://www.slantmagazine.com/film/wicker-review-olivia-colman-alexander-skarsgard/": {
