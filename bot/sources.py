@@ -9,6 +9,7 @@ from __future__ import annotations
 
 import logging
 import re
+import time
 import unicodedata
 from dataclasses import dataclass
 from urllib.parse import urljoin, urlparse, urldefrag
@@ -95,8 +96,32 @@ def _feed_links(html: str, base: str) -> list[str]:
     links = []
     for tag in soup.find_all("link", rel=lambda r: r and "alternate" in r):
         if any(t in (tag.get("type") or "") for t in ("rss", "atom")) and tag.get("href"):
-            links.append(urljoin(base, tag["href"]))
+            href = re.sub(r"^feed://", "https://", tag["href"].strip())
+            # WordPress advertises a comments feed too; it never has reviews.
+            if "/comments/feed" in href or "feed=comments" in href:
+                continue
+            links.append(urljoin(base, href))
     return links
+
+
+def _get(client: httpx.Client, url: str) -> httpx.Response:
+    """GET with one polite retry when a site says we're going too fast."""
+    resp = client.get(url)
+    if resp.status_code == 429:
+        time.sleep(min(float(resp.headers.get("retry-after", "5") or 5), 15))
+        resp = client.get(url)
+    resp.raise_for_status()
+    return resp
+
+
+def _fallback_feeds(site: str) -> list[str]:
+    """Common feed addresses to try when a site blocks its normal pages."""
+    p = urlparse(site)
+    root = f"{p.scheme}://{p.netloc}"
+    path = p.path.rstrip("/")
+    guesses = [f"{root}{path}/feed/"] if path else []
+    guesses += [f"{root}/feed/", f"{root}/rss"]
+    return list(dict.fromkeys(guesses))
 
 
 def _entries_from_feed(xml: str) -> list[tuple[str, str, str]]:
@@ -131,16 +156,26 @@ def _entries_from_page(html: str, base: str) -> list[tuple[str, str, str]]:
 
 def fetch_entries(client: httpx.Client, site: str) -> list[tuple[str, str, str]]:
     """Return (url, title, summary) for every item listed on a site."""
-    resp = client.get(site)
-    resp.raise_for_status()
+    try:
+        resp = _get(client, site)
+    except httpx.HTTPStatusError as exc:
+        # Many sites block page scrapers but still serve their RSS feed.
+        for feed_url in _fallback_feeds(site):
+            try:
+                feed = _get(client, feed_url)
+            except httpx.HTTPError:
+                continue
+            if _looks_like_feed(feed) and (entries := _entries_from_feed(feed.text)):
+                log.info("%s blocked the page; using its feed %s", site, feed_url)
+                return entries
+        raise exc
     if _looks_like_feed(resp):
         return _entries_from_feed(resp.text)
 
     entries = []
     for feed_url in _feed_links(resp.text, str(resp.url))[:2]:
         try:
-            feed = client.get(feed_url)
-            feed.raise_for_status()
+            feed = _get(client, feed_url)
             entries.extend(_entries_from_feed(feed.text))
         except httpx.HTTPError as exc:
             log.warning("feed %s failed: %s", feed_url, exc)

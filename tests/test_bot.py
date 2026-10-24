@@ -209,3 +209,23 @@ def test_aliases_match():
     m = Movie("The Only Living Pickpocket in New York", aliases=("El último carterista de Nueva York",))
     assert sources.mentions(m, "Crítica: El último carterista de Nueva York")
     assert sources.mentions(m, "The Only Living Pickpocket in New York review")
+
+
+def test_blocked_page_falls_back_to_feed():
+    def handler(request):
+        if str(request.url) == "https://ex.com/reviews/":
+            return httpx.Response(403)
+        if str(request.url) == "https://ex.com/reviews/feed/":
+            return httpx.Response(200, text=FEED, headers={"content-type": "application/rss+xml"})
+        return httpx.Response(404)
+    c = httpx.Client(transport=httpx.MockTransport(handler))
+    found = sources.find_candidates(c, "https://ex.com/reviews/", [Movie("Dune: Part Three")])
+    assert [f.url for f in found] == ["https://ex.com/dune-3-review"]
+
+
+def test_comment_feeds_skipped_and_feed_scheme_fixed():
+    html = (
+        '<link rel="alternate" type="application/rss+xml" href="/comments/feed/">'
+        '<link rel="alternate" type="application/rss+xml" href="feed://ex.com/rss.xml">'
+    )
+    assert sources._feed_links(html, "https://ex.com/") == ["https://ex.com/rss.xml"]

@@ -33,7 +33,7 @@ MAX_ANALYSES_PER_RUN = int(os.environ.get("MAX_ANALYSES_PER_RUN", "40"))
 # Pages that keep failing to analyze are given up on after this many tries.
 MAX_ATTEMPTS = 3
 # How many sites are read at the same time.
-SITE_WORKERS = 16
+SITE_WORKERS = 8
 # More new reviews than this for one movie in one run are sent as a single digest.
 DIGEST_THRESHOLD = 3
 
