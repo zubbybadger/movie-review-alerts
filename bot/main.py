@@ -81,11 +81,17 @@ def byline(v: Verdict) -> str:
 
 
 def is_duplicate(state: dict, movie: Movie, v: Verdict) -> bool:
-    """Same critic + outlet already counted (e.g. a syndicated copy on another site)."""
-    if not v.critic:
+    """Already counted this outlet's review (e.g. a tag page or syndicated copy).
+
+    Matches on outlet, and on critic too when both have one, so two different
+    critics at the same publication still count separately.
+    """
+    if not v.outlet:
         return False
     for r in state["reviews"].get(movie.key, []):
-        if normalize(r["critic"]) == normalize(v.critic) and normalize(r["outlet"]) == normalize(v.outlet):
+        if normalize(r["outlet"]) != normalize(v.outlet):
+            continue
+        if not r["critic"] or not v.critic or normalize(r["critic"]) == normalize(v.critic):
             return True
     return False
 
@@ -191,7 +197,7 @@ def run() -> int:
                 for v, url in items:
                     alert_single(http, state, movie, v, url)
 
-    log.info("done: %d analyzed, %d new reviews, %d errors",
+    log.info("done: %d analyzed, %d new reviews, %d sites or pages failed",
              analyses, sum(len(i) for i in new_by_movie.values()), errors)
     return 0
 

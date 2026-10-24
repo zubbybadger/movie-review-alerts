@@ -52,16 +52,6 @@
         "verdict": "fresh"
       },
       {
-        "at": "2026-10-24T13:44:20+00:00",
-        "confidence": "high",
-        "critic": "Joanna Langfield",
-        "outlet": "The Movie Minute",
-        "rating": "",
-        "summary": "John Turturro gives the most lived-in, marvelous performance of his career in a heartbreaking, very New York film.",
-        "url": "https://themovieminute.com/tag/the-only-living-pickpocket-in-new-york/",
-        "verdict": "fresh"
-      },
-      {
         "at": "2026-10-24T13:44:23+00:00",
         "confidence": "high",
         "critic": "",
@@ -120,7 +110,7 @@
     },
     "the only living pickpocket in new york||https://themovieminute.com/tag/the-only-living-pickpocket-in-new-york/": {
       "at": "2026-10-24T13:44:20+00:00",
-      "status": "review",
+      "status": "duplicate",
       "verdict": "fresh"
     },
     "the only living pickpocket in new york||https://thereveal.film/in-review-the-only-living-pickpocket-in-new-york-a-talent-for-murder/": {

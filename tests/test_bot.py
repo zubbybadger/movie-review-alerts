@@ -248,3 +248,11 @@ def test_link_heavy_page_has_no_inline_entry():
     page = f"<html><body>{links}<p>Dune is mentioned in a sidebar.</p></body></html>"
     c = client({"https://ex.com/": (page, "text/html")})
     assert sources.find_candidates(c, "https://ex.com/", [Movie("Dune")]) == []
+
+
+def test_same_outlet_with_and_without_critic_is_duplicate():
+    state = {"reviews": {"m|": [{"outlet": "The Movie Minute", "critic": ""}]}, "seen": {}}
+    m = Movie("M")
+    assert main.is_duplicate(state, m, verdict(outlet="The Movie Minute", critic="Joanna Langfield"))
+    state = {"reviews": {"m|": [{"outlet": "Variety", "critic": "Peter Debruge"}]}, "seen": {}}
+    assert not main.is_duplicate(state, m, verdict(outlet="Variety", critic="Owen Gleiberman"))
