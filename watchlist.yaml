@@ -11,7 +11,7 @@ movies:
 # all work. The bot finds the site's feed automatically when there is one,
 # and otherwise scans the page for links that mention your movies.
 sites:
-  - https://www.rogerebert.com/reviews
+  - https://www.rogerebert.com/feed
   - https://variety.com/v/film/reviews/
-  - https://www.theguardian.com/film/filmreviews
+  - https://www.theguardian.com/film+tone/reviews/rss
   - https://www.indiewire.com/c/criticism/movies/
