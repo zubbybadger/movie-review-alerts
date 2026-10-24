@@ -90,6 +90,36 @@
         "summary": "The critic calls John Turturro's lead performance as an aging thief dynamite, signaling a positive take; only the listing blurb was available.",
         "url": "https://www.nytimes.com/2026/10/22/movies/the-only-living-pickpocket-in-new-york-review.html",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-10-24T14:05:09+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Los Angeles Times",
+        "rating": "",
+        "summary": "Turturro's beguiling, near career-best performance anchors a delicate, authentic New York crime mood piece the critic calls a low-key charmer.",
+        "url": "https://www.latimes.com/entertainment-arts/movies/story/2026-10-22/only-living-pickpocket-in-new-york-review-john-turturro-giancarlo-esposito-steve-buscemi-noah-segan",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-10-24T14:05:34+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "IGN",
+        "rating": "",
+        "summary": "John Turturro is magnificent in Noah Segan's tender, funny, nostalgic ode to old New York, an authentic, thrilling and wholesome caper.",
+        "url": "https://www.ign.com/articles/the-only-living-pickpocket-in-new-york-review-john-turturro",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-10-24T14:05:53+00:00",
+        "confidence": "high",
+        "critic": "Kristy Puchko",
+        "outlet": "Mashable",
+        "rating": "",
+        "summary": "A sharply paced, affectionate New York crime thriller anchored by one of John Turturro's very best, nuanced performances.",
+        "url": "https://mashable.com/entertainment/the-only-living-pickpocket-in-new-york-review",
+        "verdict": "fresh"
       }
     ],
     "wicker|": [
@@ -322,6 +352,96 @@
         "summary": "A sexy, satirically funny, haunting fable with a superb Olivia Colman, a strong cast and exquisite craft; the year's most unexpected charmer.",
         "url": "https://deadline.com/2026/10/wicker-olivia-colman-peter-dinklage-alexander-skarsgard-1237170426/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-10-24T14:05:03+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "InReview Online",
+        "rating": "",
+        "summary": "A weird but genuinely romantic fairy tale anchored by Colman's distinguished performance, despite overbearing humor and pacing lulls.",
+        "url": "https://inreviewonline.com/2026/10/23/wicker-review/",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-10-24T14:05:11+00:00",
+        "confidence": "high",
+        "critic": "Amy Nicholson",
+        "outlet": "Los Angeles Times",
+        "rating": "",
+        "summary": "A mischievous, crowd-pleasing, sharply made folktale with rich ideas and a nimble Colman, despite thin characters and skipped emotional beats.",
+        "url": "https://www.latimes.com/entertainment-arts/movies/story/2026-10-22/wicker-review-olivia-colman-alexander-skarsgard-peter-dinklage",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-10-24T14:05:14+00:00",
+        "confidence": "low",
+        "critic": "",
+        "outlet": "Vulture",
+        "rating": "",
+        "summary": "Colman and Skarsg\u00e5rd charm and the romance is wonderful, but the rushed, moralistic back half squanders the film's potential.",
+        "url": "https://www.vulture.com/article/wicker-movie-review-olivia-colman-wood.html",
+        "verdict": "rotten"
+      },
+      {
+        "at": "2026-10-24T14:05:21+00:00",
+        "confidence": "low",
+        "critic": "",
+        "outlet": "Slant Magazine",
+        "rating": "",
+        "summary": "The critic appreciates how the bawdy adult fable brings childlike sincerity to its mature themes, with Skarsg\u00e5rd a sturdy presence.",
+        "url": "https://www.slantmagazine.com/film/wicker-review-olivia-colman-alexander-skarsgard/",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-10-24T14:05:26+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "The A.V. Club",
+        "rating": "",
+        "summary": "A darkly funny, surprisingly moving adult fairy tale with an effervescent Colman, devoted Skarsg\u00e5rd, and disarming handling of insecurity.",
+        "url": "https://www.avclub.com/wicker-review-olivia-colman-alexander-skarsgard-romance",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-10-24T14:05:29+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Chicago Reader",
+        "rating": "",
+        "summary": "A charming, sensual romantic fantasy anchored by Colman's touching performance and sharp community critique; flaws are minor hiccups.",
+        "url": "https://chicagoreader.com/film-tv/movie-review/review-wicker/",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-10-24T14:05:39+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "IGN",
+        "rating": "7/10",
+        "summary": "A warm, charming fable with real pathos, elevated by Olivia Colman's exemplary performance and striking craft, despite heavy-handed themes.",
+        "url": "https://www.ign.com/articles/wicker-review",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-10-24T14:05:48+00:00",
+        "confidence": "high",
+        "critic": "Shannon Connellan",
+        "outlet": "Mashable",
+        "rating": "",
+        "summary": "A hilarious, heartfelt raunchy fairy tale with an impeccable Colman, sharp gender-role satire, and magical production design.",
+        "url": "https://mashable.com/entertainment/wicker-review",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-10-24T14:05:56+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "NME",
+        "rating": "",
+        "summary": "Fun, fresh, bawdy fable with superb production design and one of Colman's best roles, though the third act loses momentum.",
+        "url": "https://www.nme.com/reviews/film-reviews/wicker-review-olivia-colman-peter-dinklage-alexander-skarsgard-3974053",
+        "verdict": "fresh"
       }
     ]
   },
@@ -341,6 +461,11 @@
     },
     "the only living pickpocket in new york||https://inreviewonline.com/2026/10/22/the-only-living-pickpocket-in-new-york-review/": {
       "at": "2026-10-24T13:44:14+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "the only living pickpocket in new york||https://mashable.com/entertainment/the-only-living-pickpocket-in-new-york-review": {
+      "at": "2026-10-24T14:05:53+00:00",
       "status": "review",
       "verdict": "fresh"
     },
@@ -364,8 +489,22 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "the only living pickpocket in new york||https://www.avclub.com/john-turturro-the-only-living-pickpocket-in-new-york-noah-segan?utm_source=rss&utm_medium=rss&utm_campaign=john-turturro-the-only-living-pickpocket-in-new-york-noah-segan": {
+      "at": "2026-10-24T14:05:24+00:00",
+      "status": "not_review"
+    },
+    "the only living pickpocket in new york||https://www.ign.com/articles/the-only-living-pickpocket-in-new-york-review-john-turturro": {
+      "at": "2026-10-24T14:05:34+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "the only living pickpocket in new york||https://www.indiewire.com/criticism/movies/the-only-living-pickpocket-in-new-york-review-john-turturro-1235176157/": {
       "at": "2026-10-24T13:34:37+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "the only living pickpocket in new york||https://www.latimes.com/entertainment-arts/movies/story/2026-10-22/only-living-pickpocket-in-new-york-review-john-turturro-giancarlo-esposito-steve-buscemi-noah-segan": {
+      "at": "2026-10-24T14:05:09+00:00",
       "status": "review",
       "verdict": "fresh"
     },
@@ -406,6 +545,11 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "wicker||https://chicagoreader.com/film-tv/movie-review/review-wicker/": {
+      "at": "2026-10-24T14:05:29+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "wicker||https://cinapse.net/2024/09/fantastic-fest-2024-the-children-of-the-wicker-man-tell-of-robin-hardys-homespun-horror/": {
       "at": "2026-10-24T13:57:16+00:00",
       "status": "not_review"
@@ -424,13 +568,27 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "wicker||https://deadline.com/print-article/1237170426?KeepThis=1&TB_iframe=1&height=500&width=750": {
+      "at": "2026-10-24T14:05:06+00:00",
+      "status": "duplicate"
+    },
     "wicker||https://film-forward.com/comedy-2/wicker": {
       "at": "2026-10-24T13:57:21+00:00",
       "status": "review",
       "verdict": "fresh"
     },
+    "wicker||https://inreviewonline.com/2026/10/23/wicker-review/": {
+      "at": "2026-10-24T14:05:03+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "wicker||https://jmuvies.blogspot.com/2026/10/weird-wicker-works-with-colman.html": {
       "at": "2026-10-24T13:55:50+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "wicker||https://mashable.com/entertainment/wicker-review": {
+      "at": "2026-10-24T14:05:48+00:00",
       "status": "review",
       "verdict": "fresh"
     },
@@ -481,6 +639,10 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "wicker||https://theplaylist.net/olivia-colman-alexander-skarsgard-elizabeth-debicki-wicker-interview-20261022/": {
+      "at": "2026-10-24T14:05:31+00:00",
+      "status": "not_review"
+    },
     "wicker||https://thereveal.film/in-review-possible-love-fatherland-wicker/": {
       "at": "2026-10-24T13:57:08+00:00",
       "status": "review",
@@ -492,6 +654,11 @@
     },
     "wicker||https://washingtoncitypaper.com/article/793689/something-wicker-this-way-comes/": {
       "at": "2026-10-24T13:56:43+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "wicker||https://www.avclub.com/wicker-review-olivia-colman-alexander-skarsgard-romance": {
+      "at": "2026-10-24T14:05:26+00:00",
       "status": "review",
       "verdict": "fresh"
     },
@@ -507,6 +674,15 @@
       "at": "2026-10-24T13:57:35+00:00",
       "status": "not_review"
     },
+    "wicker||https://www.ign.com/articles/wicker-review": {
+      "at": "2026-10-24T14:05:39+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "wicker||https://www.ign.com/movies/wicker": {
+      "at": "2026-10-24T14:05:45+00:00",
+      "status": "duplicate"
+    },
     "wicker||https://www.indiewire.com/criticism/movies/wicker-review-olivia-colman-alexander-skarsgard-1235175039/": {
       "at": "2026-10-24T13:55:38+00:00",
       "status": "review",
@@ -520,8 +696,18 @@
       "at": "2026-10-24T13:55:35+00:00",
       "status": "not_review"
     },
+    "wicker||https://www.latimes.com/entertainment-arts/movies/story/2026-10-22/wicker-review-olivia-colman-alexander-skarsgard-peter-dinklage": {
+      "at": "2026-10-24T14:05:11+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "wicker||https://www.mullingmovies.com/2026/10/weekend-mullings-klara-and-sun-wicker.html": {
       "at": "2026-10-24T13:56:57+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "wicker||https://www.nme.com/reviews/film-reviews/wicker-review-olivia-colman-peter-dinklage-alexander-skarsgard-3974053": {
+      "at": "2026-10-24T14:05:56+00:00",
       "status": "review",
       "verdict": "fresh"
     },
@@ -544,6 +730,11 @@
       "at": "2026-10-24T13:56:48+00:00",
       "status": "not_review"
     },
+    "wicker||https://www.slantmagazine.com/film/wicker-review-olivia-colman-alexander-skarsgard/": {
+      "at": "2026-10-24T14:05:21+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "wicker||https://www.theguardian.com/film/2026/oct/20/children-of-the-wicker-man-review-folk-horror-robin-hardy": {
       "at": "2026-10-24T13:55:28+00:00",
       "status": "not_review"
@@ -562,6 +753,15 @@
       "at": "2026-10-24T13:56:24+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "wicker||https://www.vulture.com/article/what-would-happen-if-you-had-sex-with-a-wicker-dick.html": {
+      "at": "2026-10-24T14:05:19+00:00",
+      "status": "not_review"
+    },
+    "wicker||https://www.vulture.com/article/wicker-movie-review-olivia-colman-wood.html": {
+      "at": "2026-10-24T14:05:14+00:00",
+      "status": "review",
+      "verdict": "rotten"
     }
   }
 }
