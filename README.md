@@ -2,7 +2,7 @@
 
 Watches the review sites you choose for new reviews of the movies you care
 about. Each new review is read by Claude, which decides whether it's
-**fresh** or **rotten**, and you get an alert on your phone with the verdict,
+**fresh** or **rotten**, and you get an email alert with the verdict,
 a one-line reason, and a running score.
 
 ```
@@ -35,10 +35,11 @@ Claude in the project thread to do it.
 | Secret | What it is |
 | --- | --- |
 | `ANTHROPIC_API_KEY` | Key from console.anthropic.com, used to analyze reviews. |
+| `GMAIL_ADDRESS`, `GMAIL_APP_PASSWORD` | Your Gmail address and a Gmail app password (myaccount.google.com/apppasswords). Alerts are emailed to you from your own account. Optional `EMAIL_TO` sends them somewhere else. |
 | `NTFY_TOPIC` | Your private ntfy topic name, for free push alerts. Treat it like a password. |
 | `TWILIO_ACCOUNT_SID`, `TWILIO_AUTH_TOKEN`, `TWILIO_FROM`, `TWILIO_TO` | Optional, for real SMS via Twilio. |
 
-Set the ntfy secret, the Twilio ones, or both. Optional repository
+Set up any mix of email, ntfy and Twilio; every one you configure is used. Optional repository
 *variables*: `REVIEW_MODEL` (default `claude-opus-5-5`).
 
 ## Notes

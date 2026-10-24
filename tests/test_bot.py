@@ -177,3 +177,29 @@ def test_test_mode_sends_one_alert_without_touching_state(bot_env, monkeypatch):
     assert main.run_test() == 0
     assert len(sent) == 1 and sent[0][0].startswith("TEST 🤢 ROTTEN")
     assert not state_path.exists()
+
+
+def test_email(monkeypatch):
+    monkeypatch.setenv("GMAIL_ADDRESS", "me@gmail.com")
+    monkeypatch.setenv("GMAIL_APP_PASSWORD", "abcd efgh ijkl mnop")
+    for k in ("NTFY_TOPIC", "TWILIO_ACCOUNT_SID"):
+        monkeypatch.delenv(k, raising=False)
+    sent = {}
+
+    class FakeSMTP:
+        def __init__(self, host, port, timeout):
+            sent["host"] = host
+        def __enter__(self):
+            return self
+        def __exit__(self, *a):
+            return False
+        def login(self, user, pw):
+            sent["login"] = (user, pw)
+        def send_message(self, msg):
+            sent["msg"] = msg
+
+    monkeypatch.setattr(notify.smtplib, "SMTP_SSL", FakeSMTP)
+    assert notify.send(None, "🍅 FRESH: Dune", "Great.", "https://ex.com/r") is True
+    assert sent["login"] == ("me@gmail.com", "abcdefghijklmnop")
+    assert sent["msg"]["To"] == "me@gmail.com" and sent["msg"]["Subject"] == "🍅 FRESH: Dune"
+    assert "https://ex.com/r" in sent["msg"].get_content()

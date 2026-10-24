@@ -1,15 +1,18 @@
-"""Send alerts to your phone.
+"""Send alerts.
 
-Two channels, each turned on by setting its secrets:
+Three channels, each turned on by setting its secrets:
+  * Email via Gmail: GMAIL_ADDRESS, GMAIL_APP_PASSWORD (sends to yourself, or to EMAIL_TO)
   * ntfy (free push notifications): NTFY_TOPIC
   * Twilio (real SMS): TWILIO_ACCOUNT_SID, TWILIO_AUTH_TOKEN, TWILIO_FROM, TWILIO_TO
-If both are set, both are used.
+Every configured channel is used.
 """
 
 from __future__ import annotations
 
 import logging
 import os
+import smtplib
+from email.message import EmailMessage
 
 import httpx
 
@@ -36,8 +39,23 @@ def _twilio(client: httpx.Client, title: str, body: str, url: str | None) -> Non
     ).raise_for_status()
 
 
+def _email(title: str, body: str, url: str | None) -> None:
+    sender = os.environ["GMAIL_ADDRESS"]
+    msg = EmailMessage()
+    msg["Subject"] = title
+    msg["From"] = f"Review bot <{sender}>"
+    msg["To"] = os.environ.get("EMAIL_TO") or sender
+    msg.set_content(body + (f"\n\nRead the review: {url}" if url else ""))
+    with smtplib.SMTP_SSL("smtp.gmail.com", 465, timeout=30) as smtp:
+        # App passwords are shown with spaces; Gmail accepts them either way.
+        smtp.login(sender, os.environ["GMAIL_APP_PASSWORD"].replace(" ", ""))
+        smtp.send_message(msg)
+
+
 def channels() -> list[str]:
     out = []
+    if os.environ.get("GMAIL_ADDRESS") and os.environ.get("GMAIL_APP_PASSWORD"):
+        out.append("email")
     if os.environ.get("NTFY_TOPIC"):
         out.append("ntfy")
     if all(os.environ.get(k) for k in ("TWILIO_ACCOUNT_SID", "TWILIO_AUTH_TOKEN", "TWILIO_FROM", "TWILIO_TO")):
@@ -54,11 +72,13 @@ def send(client: httpx.Client, title: str, body: str, url: str | None = None, ta
     ok = False
     for name in active:
         try:
-            if name == "ntfy":
+            if name == "email":
+                _email(title, body, url)
+            elif name == "ntfy":
                 _ntfy(client, title, body, url, tags)
             else:
                 _twilio(client, title, body, url)
             ok = True
-        except httpx.HTTPError as exc:
+        except (httpx.HTTPError, smtplib.SMTPException, OSError) as exc:
             log.error("%s alert failed: %s", name, exc)
     return ok
