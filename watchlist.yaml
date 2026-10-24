@@ -190,16 +190,19 @@ sites:
   - https://timesofindia.indiatimes.com/entertainment/english/movie-reviews
   - https://timesofindia.indiatimes.com/entertainment/hindi/movie-reviews
   - https://www.indiatoday.in/movies/reviews
-  - https://www.firstpost.com/category/entertainment/
+  - https://www.firstpost.com/commonfeeds/v1/mfp/rss/entertainment.xml
+  - https://www.firstpost.com/rss/entertainment.xml
   - https://thefederal.com/category/entertainment/
   - https://scroll.in/reel
-  - https://indianexpress.com/section/entertainment/movie-review/
+  - https://indianexpress.com/section/entertainment/movie-review/feed/
+  - https://indianexpress.com/section/entertainment/feed/
   - https://www.thehindu.com/entertainment/movies/
   - https://www.hindustantimes.com/entertainment/movie-reviews
-  - https://www.ndtv.com/entertainment/reviews
+  - https://feeds.feedburner.com/ndtvmovies-latest
+  - https://www.ndtv.com/entertainment/reviews/feed
   - https://www.filmcompanion.in/reviews
   - https://www.rediff.com/movies/reviews
-  - https://www.mid-day.com/entertainment/movie-reviews
+  - https://www.mid-day.com/entertainment/bollywood-news
   - https://www.thequint.com/entertainment/movie-reviews
   - https://www.news18.com/movies/
   - https://www.livemint.com/topic/movie-review
