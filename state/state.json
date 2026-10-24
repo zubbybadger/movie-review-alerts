@@ -706,6 +706,10 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "wicker||https://www.news18.com/videos/movies/wicker-premiere-alexander-skarsgrd-olivia-colman-arrive-at-zurich-film-festival-2026-n18g-10359589.html": {
+      "at": "2026-10-24T15:05:47+00:00",
+      "status": "not_review"
+    },
     "wicker||https://www.nme.com/reviews/film-reviews/wicker-review-olivia-colman-peter-dinklage-alexander-skarsgard-3974053": {
       "at": "2026-10-24T14:05:56+00:00",
       "status": "review",
