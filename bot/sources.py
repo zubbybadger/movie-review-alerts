@@ -30,6 +30,8 @@ TIMEOUT = 20.0
 class Movie:
     title: str
     year: int | None = None
+    # Other titles the movie goes by, e.g. its name on Spanish-language sites.
+    aliases: tuple[str, ...] = ()
 
     @property
     def key(self) -> str:
@@ -59,11 +61,13 @@ def normalize(text: str) -> str:
 
 
 def mentions(movie: Movie, text: str) -> bool:
-    """True when the movie's title appears in text as whole words."""
-    needle = normalize(movie.title)
-    if not needle:
-        return False
-    return re.search(rf"(?<!\w){re.escape(needle)}(?!\w)", normalize(text)) is not None
+    """True when the movie's title (or an alias) appears in text as whole words."""
+    hay = normalize(text)
+    for name in (movie.title, *movie.aliases):
+        needle = normalize(name)
+        if needle and re.search(rf"(?<!\w){re.escape(needle)}(?!\w)", hay):
+            return True
+    return False
 
 
 def make_client() -> httpx.Client:

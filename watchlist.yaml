@@ -5,6 +5,8 @@
 # movies that share a title.
 movies:
   - title: "The Only Living Pickpocket in New York"
+    # also_known_as:
+    #   - "Another title it goes by (e.g. on Spanish-language sites)"
 
 # Review sites to watch. A homepage, a film/reviews section, or an RSS feed
 # all work. The bot finds the site's feed automatically when there is one,
@@ -14,3 +16,133 @@ sites:
   - https://variety.com/v/film/reviews/
   - https://www.theguardian.com/film+tone/reviews/rss
   - https://www.indiewire.com/c/criticism/movies/
+
+  # From Jonathan's Chrome bookmarks (2026-10-24)
+  - http://nycmovieguru.com/
+  - https://www.markreviewsmovies.com/
+  - https://48hills.org/author/dennis-harvey/
+  - https://poplifestl.com/
+  - https://www.themoviebuff.net/category/movie-review/
+  - https://silverscreenriot.com/category/reviews/
+  - https://www.elnuevodia.com/entretenimiento/peliculas-series/
+  - https://www.espinof.com/categoria/criticas
+  - https://www.pajiba.com/film_reviews/
+  - https://jmuvies.blogspot.com/
+  - https://www.thepitchkc.com/category/movies/
+  - https://athomeinhollywood.com/
+  - https://thecurvyfilmcritic.com/
+  - https://culturemixonline.com/
+  - https://everymoviehasalesson.com/blog
+  - https://moviemom.com/
+  - http://moviefreak.com/
+  - https://www.pittsburghmagazine.com/author/sean-collier/
+  - https://inreviewonline.com/film/
+  - https://www.pastemagazine.com/movies
+  - https://filmfestivaltoday.com/film-reviews
+  - https://thefilmverdict.com/all-reviews/
+  - https://www.scifinow.co.uk/cinema/
+  - https://www.elmundo.es/autor/luis-martinez.html
+  - https://www.shouldiseeit.net/reviews
+  - https://fortworthreport.org/author/joe-friar/
+  - https://www.kaplanvskaplan.com/new-releases/
+  - https://gonewiththetwins.com/
+  - https://riot-us.com/category/film-review/
+  - https://filmthreat.com/category/reviews/
+  - https://mvmoorhead.blogspot.com/
+  - https://thereader.com/author/ryan-syrek/
+  - https://boundingintocomics.com/category/reviews/movie-reviews/
+  - https://www.reelingreviews.com/
+  - https://elpais.com/noticias/cine/
+  - https://www.newcityfilm.com/
+  - https://themovieminute.com/
+  - https://www.lanacion.com.ar/espectaculos/cine/
+  - https://www.killermoviereviews.com/
+  - https://cinemaaxis.com/category/reviews/
+  - https://sunshinestatecineplex.com/category/movies/
+  - https://www.clarin.com/autor/pablo-o-scholz.html
+  - https://www.susangranger.com/?cat=3
+  - https://www.reelreviews.com/
+  - https://www.thehollywoodoutsider.com/author/aaron/
+  - https://thirdcoastreview.com/category/film-tv
+  - https://www.20minutos.es/cinemania/criticas/
+  - https://www.winnipegfreepress.com/biographies/alison-gillmor
+  - https://splicedpersonality.com/
+  - https://www.polygon.com/movies
+  - https://www.theepochtimes.com/author/mark-jackson
+  - https://www.times-herald.com/users/profile/jonathan%20hickman/
+  - https://ageofthegeek.org/
+  - https://www.combustiblecelluloid.com/
+  - https://matsentertainment.com/category/movie-reviews/
+  - https://thenightly.com.au/profile/wenlei-ma
+  - https://www.fwweekly.com/author/kristian-lin/
+  - https://lamplightreview.com/category/movie-reviews/
+  - https://neilsentertainmentpicks.com/
+  - https://filmfeeder.co.uk/reviews
+  - https://screenzealots.com/
+  - https://www.fotogramas.es/peliculas-criticas/
+  - https://www.assignmentx.com/category/reviews/movies-reviews/
+  - https://amovieguy.com/reviews/
+  - https://www.otroscines.com/criticas
+  - https://hipertextual.com/autor/aglaiaberlutti
+  - https://spectrumculture.com/category/film/film-reviews/
+  - https://washingtoncitypaper.com/film-tv/
+  - https://michaeljcinema.com/
+  - https://www.sensacine.com/peliculas/criticas-sensacine/
+  - https://moviereelist.com/review/
+  - https://bostonmovienews.com/
+  - https://www.eyeforfilm.co.uk/out_now
+  - https://list.co.uk/news/authors/emma-simmonds
+  - https://itsbetterinthedark.blogspot.com/
+  - http://mullingmovies.com/
+  - https://fictionmachine.com/
+  - https://moviecrypt.com/
+  - https://bgdailynews.com/author/michealcompton/
+  - https://bostonhassle.com/category/film-flam/
+  - https://qiibo.com/category/entretenimiento/pelicula/criiticas-cine/
+  - https://lolalambchops.com/
+  - https://1morefilmblog.com/
+  - http://www.shadowsonthewall.co.uk/
+  - https://www.movieshowplus.com/reviews
+  - https://cinemovie.tv/Articles/New-Series-and-Movie-Reviews/
+  - https://moviesthruthespectrum.com/
+  - https://www.meiermovies.com/movie-reviews/
+  - https://ianthomasmalone.com/
+  - https://www.tnp.sg/entertainment
+  - https://subcultureentertainment.com/category/film/
+  - https://lenoirauteur.net/
+  - https://www.cinefilia.blog/search/label/Cr%C3%ADticas%20archivadas
+  - https://megustaelcine.com/
+  - https://kkfi.org/program/freeze-frame/
+  - https://thereveal.film/
+  - https://cineramafilm.com/
+  - https://beyondthecineramadome.com/movie-reviews
+  - https://www.thetraverstake.com/
+  - https://www.aarp.org/entertainment/television/what-to-watch-best-new-movies-shows-streaming/
+  - https://www.emol.com/espectaculos/cine/
+  - https://algomasquecine.com/author/dionaradmin/
+  - https://www.taosnews.com/tempo/film/
+  - https://www.dailymail.com/profile-2081/brian-viner.html
+  - https://www.cbc.ca/arts/author/radheyan-simonpillai-1.6702353
+  - https://horrorpress.com/category/reviews/
+  - https://cinapse.net/
+  - https://filmfreakcentral.net/
+  - https://cinefiloserial.com.ar/author/leandroporcelli/
+  - https://www.moviejawn.com/
+  - https://film-forward.com/
+  - https://screenanarchy.com/all/reviews/
+  - https://www.movierecsbylex.com/moviereviews
+  - https://www.dailytelegraph.com.au/entertainment/movies
+  - https://www.eluniversal.com.mx/opinion/alejandro-aleman/
+  - https://letraslibres.com/author/ernesto-diezmartnez/
+  - https://www.cinemascomics.com/cine/criticas/
+  - https://cinemovie.tv/index.php/reviews
+  - https://www.styleweekly.com/author/chuck-bowentemp-styleweekly-com/
+  - https://www.macabredaily.com/
+  - https://www.cambridgeday.com/category/arts-and-culture/film/
+  - https://moviecricket.net/blog
+  - https://cocalecas.net/
+  - https://www.smh.com.au/culture/movies
+  - https://cinesinfronteras.com/category/resenas/
+  - https://cocalecas.net/category/articulos-de-cine/
+  - https://es.rollingstone.com/categoria/cine-y-tv/reviews-cine-y-tv/
+  - https://battleroyalewithcheese.com/cat/reviews/

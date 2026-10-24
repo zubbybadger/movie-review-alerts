@@ -203,3 +203,9 @@ def test_email(monkeypatch):
     assert sent["login"] == ("me@gmail.com", "abcdefghijklmnop")
     assert sent["msg"]["To"] == "me@gmail.com" and sent["msg"]["Subject"] == "🍅 FRESH: Dune"
     assert "https://ex.com/r" in sent["msg"].get_content()
+
+
+def test_aliases_match():
+    m = Movie("The Only Living Pickpocket in New York", aliases=("El último carterista de Nueva York",))
+    assert sources.mentions(m, "Crítica: El último carterista de Nueva York")
+    assert sources.mentions(m, "The Only Living Pickpocket in New York review")
