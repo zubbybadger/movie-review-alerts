@@ -151,47 +151,41 @@ sites:
   - https://www.hollywoodreporter.com/c/movies/movie-reviews/
   - https://deadline.com/category/reviews/
   - https://www.latimes.com/entertainment-arts/movies
-  - https://www.washingtonpost.com/entertainment/movies/
+  - https://feeds.washingtonpost.com/rss/entertainment
   - https://www.vulture.com/movies/
-  - https://www.thewrap.com/category/reviews/
+  - https://www.thewrap.com/feed/
   - https://www.slantmagazine.com/category/film/
   - https://www.avclub.com/film
   - https://www.rollingstone.com/tv-movies/tv-movie-reviews/
   - https://www.newyorker.com/feed/culture
   - https://time.com/section/entertainment/
   - https://www.usatoday.com/entertainment/movies/
-  - https://apnews.com/hub/movie-reviews
   - https://feeds.npr.org/4467349/rss.xml
-  - https://ew.com/movies/movie-reviews/
   - https://nypost.com/entertainment/movies/
   - https://www.chicagoreader.com/film/
   - https://chicago.suntimes.com/movies-and-tv
   - https://www.bostonglobe.com/arts/movies/
-  - https://www.sfchronicle.com/entertainment/movies/
-  - https://www.austinchronicle.com/screens/film-reviews/
-  - https://www.theatlantic.com/culture/
+  - https://www.sfchronicle.com/entertainment/feed/Entertainment-552.php
+  - https://www.theatlantic.com/feed/channel/entertainment/
   - https://www.thedailybeast.com/category/entertainment/
   - https://www.vox.com/culture
   - https://www.empireonline.com/movies/reviews/
   - https://www.gamesradar.com/movies/reviews/
   - https://lwlies.com/reviews/
   - https://www.screendaily.com/reviews
-  - https://www.independent.co.uk/arts-entertainment/films/reviews
+  - https://www.independent.co.uk/arts-entertainment/films/rss
   - https://www.telegraph.co.uk/films/
-  - https://www.bbc.com/culture/film
-  - https://www.ft.com/film
-  - https://www.theplaylist.net/category/reviews/
+  - https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml
+  - https://theplaylist.net/feed/
   - https://collider.com/movie-reviews/
   - https://screenrant.com/movie-reviews/
   - https://www.ign.com/reviews/movies
   - https://www.slashfilm.com/category/reviews/
-  - https://filmschoolrejects.com/category/reviews/
+  - https://filmschoolrejects.com/feed/
   - https://www.denofgeek.com/movies/
   - https://consequence.net/category/film/film-reviews/
   - https://screencrush.com/category/reviews/
   - https://mashable.com/entertainment
   - https://observer.com/arts/film/
   - https://www.nme.com/reviews/film-reviews
-  - https://www.wsj.com/arts-culture/film
-  - https://www.mercurynews.com/entertainment/movies/
-  - https://www.seattletimes.com/entertainment/movies/
+  - https://www.seattletimes.com/entertainment/movies/feed/
