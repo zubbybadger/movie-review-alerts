@@ -19,7 +19,7 @@ import yaml
 
 from . import notify
 from .analyzer import AnalysisError, Verdict, analyze
-from .sources import Candidate, Movie, find_candidates, make_client, normalize
+from .sources import Candidate, Movie, clean_url, fetch_entries, find_candidates, make_client, normalize
 
 log = logging.getLogger("bot")
 
@@ -178,9 +178,46 @@ def run() -> int:
     return 0
 
 
+def run_test() -> int:
+    """Analyze the newest item on the first readable site and send it as a TEST alert.
+
+    Doesn't touch the watchlist or saved state; it just proves the whole chain works.
+    """
+    _, sites = load_watchlist()
+    llm = anthropic.Anthropic()
+    with make_client() as http:
+        for site in sites:
+            try:
+                entries = fetch_entries(http, site)
+            except httpx.HTTPError as exc:
+                log.warning("could not read %s: %s", site, exc)
+                continue
+            for url, title, summary in entries[:5]:
+                cand = Candidate(Movie("the film this page reviews"), clean_url(url), title, summary, site)
+                try:
+                    v = analyze(llm, http, cand)
+                except (AnalysisError, anthropic.APIError, httpx.HTTPError) as exc:
+                    log.warning("analysis failed for %s: %s", url, exc)
+                    continue
+                if not v.is_review:
+                    continue
+                fresh = v.verdict == "fresh"
+                ok = notify.send(
+                    http,
+                    f"TEST {'🍅 FRESH' if fresh else '🤢 ROTTEN'}: {title[:80]}",
+                    f"{byline(v)}: {v.summary}\n(This is a test alert. Real alerts are only for movies on your watchlist.)",
+                    cand.url,
+                    tags="tomato" if fresh else "nauseated_face",
+                )
+                log.info("test alert %s: %s -> %s", "sent" if ok else "NOT sent", url, v.verdict)
+                return 0 if ok else 1
+    log.error("couldn't find a review to test with")
+    return 1
+
+
 def main() -> None:
     logging.basicConfig(level=logging.INFO, format="%(levelname)s %(name)s: %(message)s")
-    sys.exit(run())
+    sys.exit(run_test() if "--test" in sys.argv else run())
 
 
 if __name__ == "__main__":

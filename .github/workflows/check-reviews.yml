@@ -6,6 +6,11 @@ on:
     - cron: "*/15 * * * *"
   # Lets you run a check by hand from the Actions tab.
   workflow_dispatch:
+    inputs:
+      test_alert:
+        description: "Send a test alert built from a real review (doesn't change anything)"
+        type: boolean
+        default: false
 
 # Never run two checks at once; they'd both alert on the same review.
 concurrency:
@@ -38,7 +43,7 @@ jobs:
           TWILIO_FROM: ${{ secrets.TWILIO_FROM }}
           TWILIO_TO: ${{ secrets.TWILIO_TO }}
           REVIEW_MODEL: ${{ vars.REVIEW_MODEL }}
-        run: python -m bot.main
+        run: python -m bot.main ${{ inputs.test_alert && '--test' || '' }}
 
       - name: Save what was seen
         if: always()

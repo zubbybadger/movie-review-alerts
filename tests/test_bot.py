@@ -169,3 +169,11 @@ def test_ntfy_request(monkeypatch):
     assert notify.send(c, "🍅 FRESH: Dune", "body", "https://ex.com/r") is True
     assert seen == {"url": "https://ntfy.sh/", "topic": "secret-topic", "title": "🍅 FRESH: Dune",
                     "message": "body", "click": "https://ex.com/r", "tags": ["movie_camera"]}
+
+
+def test_test_mode_sends_one_alert_without_touching_state(bot_env, monkeypatch):
+    state_path, sent = bot_env
+    monkeypatch.setattr(main, "analyze", lambda *a: verdict(verdict="rotten"))
+    assert main.run_test() == 0
+    assert len(sent) == 1 and sent[0][0].startswith("TEST 🤢 ROTTEN")
+    assert not state_path.exists()
