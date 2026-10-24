@@ -147,7 +147,9 @@ def fetch_entries(client: httpx.Client, site: str) -> list[tuple[str, str, str]]
 
 def find_candidates(client: httpx.Client, site: str, movies: list[Movie]) -> list[Candidate]:
     found: dict[tuple[str, str], Candidate] = {}
-    for url, title, summary in fetch_entries(client, site):
+    entries = fetch_entries(client, site)
+    log.info("%s: %d links listed", site, len(entries))
+    for url, title, summary in entries:
         url = clean_url(url)
         for movie in movies:
             if mentions(movie, title) or mentions(movie, summary):
