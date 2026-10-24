@@ -1,0 +1,17 @@
+# Your watchlist. Edit this file to add or remove movies and review sites.
+# (Or just tell Claude in the project thread and it will edit it for you.)
+
+# Movies to track. "year" is optional but helps avoid mix-ups with older
+# movies that share a title.
+movies:
+  - title: "Example Movie"
+    year: 2026
+
+# Review sites to watch. A homepage, a film/reviews section, or an RSS feed
+# all work. The bot finds the site's feed automatically when there is one,
+# and otherwise scans the page for links that mention your movies.
+sites:
+  - https://www.rogerebert.com/reviews
+  - https://variety.com/v/film/reviews/
+  - https://www.theguardian.com/film/filmreviews
+  - https://www.indiewire.com/c/criticism/movies/

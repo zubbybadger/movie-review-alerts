@@ -1,0 +1,55 @@
+name: Check for new reviews
+
+on:
+  schedule:
+    # Every 15 minutes. GitHub may run scheduled jobs a few minutes late when busy.
+    - cron: "*/15 * * * *"
+  # Lets you run a check by hand from the Actions tab.
+  workflow_dispatch:
+
+# Never run two checks at once; they'd both alert on the same review.
+concurrency:
+  group: check-reviews
+  cancel-in-progress: false
+
+permissions:
+  contents: write  # to save state/state.json back to the repo
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Check sites and send alerts
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          TWILIO_ACCOUNT_SID: ${{ secrets.TWILIO_ACCOUNT_SID }}
+          TWILIO_AUTH_TOKEN: ${{ secrets.TWILIO_AUTH_TOKEN }}
+          TWILIO_FROM: ${{ secrets.TWILIO_FROM }}
+          TWILIO_TO: ${{ secrets.TWILIO_TO }}
+          REVIEW_MODEL: ${{ vars.REVIEW_MODEL }}
+        run: python -m bot.main
+
+      - name: Save what was seen
+        if: always()
+        run: |
+          git config user.name "review-bot"
+          git config user.email "review-bot@users.noreply.github.com"
+          git add state/state.json
+          if git diff --cached --quiet; then
+            echo "No changes to save."
+          else
+            git commit -m "Update review state [skip ci]"
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+            git push
+          fi
