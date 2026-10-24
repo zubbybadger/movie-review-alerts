@@ -620,6 +620,10 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "wicker||https://screenrant.com/alexander-skarsgard-wicker-movie-rotten-tomatoes-audience-score-record/": {
+      "at": "2026-10-24T16:37:57+00:00",
+      "status": "not_review"
+    },
     "wicker||https://silverscreenriot.com/wicker-review/": {
       "at": "2026-10-24T13:55:48+00:00",
       "status": "duplicate"
