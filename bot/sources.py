@@ -50,6 +50,16 @@ class Candidate:
     title: str
     summary: str
     site: str
+    # Set for sites that print their reviews right on the page instead of
+    # linking to them: the stretch of page text around the movie's title.
+    inline_text: str | None = None
+
+
+# Marks the pseudo-entry for a page whose reviews are written on the page itself.
+INLINE_PAGE = "\x00inline-page"
+# A page with fewer article links than this is treated as a page of inline reviews.
+INLINE_MIN_LINKS = 5
+INLINE_WINDOW = 8000
 
 
 def normalize(text: str) -> str:
@@ -180,8 +190,22 @@ def fetch_entries(client: httpx.Client, site: str) -> list[tuple[str, str, str]]
         except httpx.HTTPError as exc:
             log.warning("feed %s failed: %s", feed_url, exc)
     # Feeds often hold only the latest ~20 items, so scan the page too.
-    entries.extend(_entries_from_page(resp.text, str(resp.url)))
+    page_links = _entries_from_page(resp.text, str(resp.url))
+    entries.extend(page_links)
+    if len(page_links) < INLINE_MIN_LINKS:
+        text = BeautifulSoup(resp.text, "html.parser").get_text("\n", strip=True)
+        entries.append((str(resp.url), INLINE_PAGE, text))
     return entries
+
+
+def _window(movie: Movie, text: str) -> str:
+    """The text around the first mention of the movie (title or alias)."""
+    lowered = text.lower()
+    for name in (movie.title, *movie.aliases):
+        i = lowered.find(name.lower())
+        if i >= 0:
+            return text[max(0, i - 500): i + INLINE_WINDOW]
+    return text[:INLINE_WINDOW]
 
 
 def find_candidates(client: httpx.Client, site: str, movies: list[Movie]) -> list[Candidate]:
@@ -191,6 +215,13 @@ def find_candidates(client: httpx.Client, site: str, movies: list[Movie]) -> lis
     for url, title, summary in entries:
         url = clean_url(url)
         for movie in movies:
-            if mentions(movie, title) or mentions(movie, summary):
+            if title == INLINE_PAGE:
+                # Only when no link on this site already points at the movie's review.
+                if mentions(movie, summary) and not any(k == movie.key for k, _ in found):
+                    found.setdefault((movie.key, url), Candidate(
+                        movie, url, f"{movie.title} (review on {urlparse(url).netloc})", "", site,
+                        inline_text=_window(movie, summary),
+                    ))
+            elif mentions(movie, title) or mentions(movie, summary):
                 found.setdefault((movie.key, url), Candidate(movie, url, title, summary, site))
     return list(found.values())

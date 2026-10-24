@@ -229,3 +229,22 @@ def test_comment_feeds_skipped_and_feed_scheme_fixed():
         '<link rel="alternate" type="application/rss+xml" href="feed://ex.com/rss.xml">'
     )
     assert sources._feed_links(html, "https://ex.com/") == ["https://ex.com/rss.xml"]
+
+
+def test_inline_review_page():
+    page = ("<html><body><h1>2026 Films</h1><p>Some Other Movie: meh.</p>"
+            "<h2>The Only Living Pickpocket in New York</h2><p>Turturro is wonderful. 4 stars.</p>"
+            "<a href='/'>Home</a></body></html>")
+    c = client({"https://guru.com/2026films.html": (page, "text/html")})
+    found = sources.find_candidates(c, "https://guru.com/2026films.html",
+                                    [Movie("The Only Living Pickpocket in New York"), Movie("Dune")])
+    assert len(found) == 1
+    assert found[0].url == "https://guru.com/2026films.html"
+    assert "Turturro is wonderful" in found[0].inline_text
+
+
+def test_link_heavy_page_has_no_inline_entry():
+    links = "".join(f"<a href='/r{i}'>Review {i}</a>" for i in range(10))
+    page = f"<html><body>{links}<p>Dune is mentioned in a sidebar.</p></body></html>"
+    c = client({"https://ex.com/": (page, "text/html")})
+    assert sources.find_candidates(c, "https://ex.com/", [Movie("Dune")]) == []

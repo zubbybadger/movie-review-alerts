@@ -86,7 +86,7 @@ def fetch_article(client: httpx.Client, url: str) -> str | None:
 
 
 def analyze(llm: anthropic.Anthropic, http: httpx.Client, cand: Candidate) -> Verdict:
-    article = fetch_article(http, cand.url)
+    article = cand.inline_text or fetch_article(http, cand.url)
     used_full_text = article is not None
     if article is None:
         body = f"(The full page could not be loaded. Only the listing text is available.)\n\n{cand.summary}"
