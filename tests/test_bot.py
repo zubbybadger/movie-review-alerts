@@ -81,7 +81,7 @@ def bot_env(tmp_path, monkeypatch):
     monkeypatch.setattr(main.anthropic, "Anthropic", lambda: None)
     monkeypatch.setenv("ANTHROPIC_API_KEY", "test")
     sent = []
-    monkeypatch.setattr(notify, "send", lambda http, title, body, url=None, tags="": sent.append((title, body, url)))
+    monkeypatch.setattr(notify, "send", lambda http, title, body, url=None, tags="": sent.append((title, body, url)) or True)
     return state_path, sent
 
 
