@@ -10,10 +10,124 @@
         "summary": "Praises Turturro's controlled performance, authentic New York locations, strong ensemble, and a restrained, humane crime story bridging old and new.",
         "url": "https://www.indiewire.com/criticism/movies/the-only-living-pickpocket-in-new-york-review-john-turturro-1235176157/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-10-24T13:44:07+00:00",
+        "confidence": "medium",
+        "critic": "Mark Dujsik",
+        "outlet": "Mark Reviews Movies",
+        "rating": "",
+        "summary": "A character-driven, 1970s-style drama anchored by Turturro's weary, determined performance and an affecting air of mourning for obsolescence.",
+        "url": "http://www.markreviewsmovies.com/reviews/O/onlylivingpickpocketinnewyork.htm",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-10-24T13:44:10+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "The Curvy Film Critic",
+        "rating": "",
+        "summary": "Praises Turturro's magnificent, humane performance, strong supporting cast, Sam Levy's New York cinematography, and Noah Segan's moving take on caregiving.",
+        "url": "https://thecurvyfilmcritic.com/john-turturro-is-magnificent-in-the-only/",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-10-24T13:44:14+00:00",
+        "confidence": "low",
+        "critic": "",
+        "outlet": "InReview Online",
+        "rating": "",
+        "summary": "Enjoyable but disposable: Turturro and the lovingly shot New York charm, though the character study is shallow and derivative.",
+        "url": "https://inreviewonline.com/2026/10/22/the-only-living-pickpocket-in-new-york-review/",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-10-24T13:44:16+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "The Movie Minute",
+        "rating": "",
+        "summary": "John Turturro gives the most lived-in, marvelous performance of his career in a heartbreaking, quintessentially New York movie.",
+        "url": "https://themovieminute.com/2026/10/21/the-only-living-pickpocket-in-new-york/",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-10-24T13:44:20+00:00",
+        "confidence": "high",
+        "critic": "Joanna Langfield",
+        "outlet": "The Movie Minute",
+        "rating": "",
+        "summary": "John Turturro gives the most lived-in, marvelous performance of his career in a heartbreaking, very New York film.",
+        "url": "https://themovieminute.com/tag/the-only-living-pickpocket-in-new-york/",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-10-24T13:44:23+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "The Epoch Times",
+        "rating": "",
+        "summary": "Praises Turturro's performance as one of his best, plus the gritty 1970s atmosphere and the bittersweet portrait of a vanishing New York.",
+        "url": "https://www.theepochtimes.com/bright/the-only-living-pickpocket-in-new-york-one-of-turturros-finest-6099221",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-10-24T13:44:26+00:00",
+        "confidence": "high",
+        "critic": "Scott Tobias",
+        "outlet": "The Reveal",
+        "rating": "",
+        "summary": "Despite occasional sentimentality, Segan's affection for old New York and its beloved character actors, led by Turturro, proves irresistible.",
+        "url": "https://thereveal.film/in-review-the-only-living-pickpocket-in-new-york-a-talent-for-murder/",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-10-24T13:44:32+00:00",
+        "confidence": "high",
+        "critic": "Peter Travers",
+        "outlet": "The Travers Take",
+        "rating": "3/4",
+        "summary": "Turturro gives an awards-worthy lead performance, backed by a strong supporting cast and authentic New York location shooting.",
+        "url": "https://www.thetraverstake.com/featured/the-only-living-pickpocket-in-new-york/",
+        "verdict": "fresh"
       }
     ]
   },
   "seen": {
+    "the only living pickpocket in new york||http://www.markreviewsmovies.com/reviews/O/onlylivingpickpocketinnewyork.htm": {
+      "at": "2026-10-24T13:44:07+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "the only living pickpocket in new york||https://cinapse.net/2026/10/2001-reasons-to-head-to-the-2026-philadelphia-film-festival/": {
+      "at": "2026-10-24T13:44:36+00:00",
+      "status": "not_review"
+    },
+    "the only living pickpocket in new york||https://inreviewonline.com/2026/10/22/the-only-living-pickpocket-in-new-york-review/": {
+      "at": "2026-10-24T13:44:14+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "the only living pickpocket in new york||https://thecurvyfilmcritic.com/john-turturro-is-magnificent-in-the-only/": {
+      "at": "2026-10-24T13:44:10+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "the only living pickpocket in new york||https://themovieminute.com/2026/10/21/the-only-living-pickpocket-in-new-york/": {
+      "at": "2026-10-24T13:44:16+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "the only living pickpocket in new york||https://themovieminute.com/tag/the-only-living-pickpocket-in-new-york/": {
+      "at": "2026-10-24T13:44:20+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "the only living pickpocket in new york||https://thereveal.film/in-review-the-only-living-pickpocket-in-new-york-a-talent-for-murder/": {
+      "at": "2026-10-24T13:44:26+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "the only living pickpocket in new york||https://www.indiewire.com/criticism/movies/the-only-living-pickpocket-in-new-york-review-john-turturro-1235176157/": {
       "at": "2026-10-24T13:34:37+00:00",
       "status": "review",
@@ -22,6 +136,16 @@
     "the only living pickpocket in new york||https://www.rogerebert.com/interviews/the-only-living-pickpocket-in-new-york-john-turturro-interview": {
       "at": "2026-10-24T13:34:34+00:00",
       "status": "not_review"
+    },
+    "the only living pickpocket in new york||https://www.theepochtimes.com/bright/the-only-living-pickpocket-in-new-york-one-of-turturros-finest-6099221": {
+      "at": "2026-10-24T13:44:23+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "the only living pickpocket in new york||https://www.thetraverstake.com/featured/the-only-living-pickpocket-in-new-york/": {
+      "at": "2026-10-24T13:44:32+00:00",
+      "status": "review",
+      "verdict": "fresh"
     }
   }
 }
