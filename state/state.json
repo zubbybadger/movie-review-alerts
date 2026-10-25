@@ -711,6 +711,10 @@
       "status": "review",
       "verdict": "rotten"
     },
+    "wicker||https://variety.com/2026/film/news/alexander-skarsgard-olivia-colman-elizabeth-debicki-wicker-interview-1236919062/": {
+      "at": "2026-10-25T20:16:20+00:00",
+      "status": "not_review"
+    },
     "wicker||https://variety.com/2026/film/news/what-alexander-skarsgard-wicker-basket-was-made-from-1236929863/": {
       "at": "2026-10-24T13:55:25+00:00",
       "status": "not_review"
