@@ -472,6 +472,16 @@
         "summary": "Colman and a wicker Skarsg\u00e5rd share wonderful chemistry in a beautifully crafted, hilarious, thoughtful fable, despite a forced late conflict.",
         "url": "https://www.shouldiseeit.net/reviews/2026/wicker-2026",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-10-25T17:35:29+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Beyond the Cinerama Dome",
+        "rating": "",
+        "summary": "A beautifully constructed fable with committed, delightfully strange performances from Colman and Skarsg\u00e5rd, gorgeous design, and a heartfelt message about mutual love.",
+        "url": "https://beyondthecineramadome.com/movie-reviews/wicker-film-review",
+        "verdict": "fresh"
       }
     ]
   },
@@ -576,6 +586,11 @@
     },
     "wicker||https://48hills.org/2026/10/screen-grabs-sf-latino-film-fest-finds-a-happy-place-in-fraught-community-moment/": {
       "at": "2026-10-24T17:07:21+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "wicker||https://beyondthecineramadome.com/movie-reviews/wicker-film-review": {
+      "at": "2026-10-25T17:35:29+00:00",
       "status": "review",
       "verdict": "fresh"
     },
