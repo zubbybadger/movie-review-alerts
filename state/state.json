@@ -580,6 +580,10 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "wicker||http://www.mullingmovies.com/2026/10/weekend-mullings-klara-and-sun-wicker.html": {
+      "at": "2026-10-25T23:01:23+00:00",
+      "status": "duplicate"
+    },
     "wicker||https://48hills.org/2026/10/big-week-sandcastle-classic-litcrawl-annie-sprinkle-125-years-of-lawn-bowling/": {
       "at": "2026-10-24T13:55:43+00:00",
       "status": "not_review"
