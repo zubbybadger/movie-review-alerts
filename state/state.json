@@ -825,6 +825,10 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "wicker||https://www.nytimes.com/2026/10/26/movies/wicker-movie-alexander-skarsgard-olivia-colman.html": {
+      "at": "2026-10-26T09:10:22+00:00",
+      "status": "not_review"
+    },
     "wicker||https://www.reelingreviews.com/reviews/wicker/": {
       "at": "2026-10-24T13:56:07+00:00",
       "status": "review",
