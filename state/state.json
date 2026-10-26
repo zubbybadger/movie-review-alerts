@@ -502,6 +502,16 @@
         "summary": "Despite a concept stretched thin and fading humor, Colman and an able ensemble make this bawdy fairy tale a merry cinematic treat.",
         "url": "https://www.cambridgeday.com/2026/10/25/wicker-wildwood-reviews/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-10-26T14:16:53+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Little White Lies",
+        "rating": "",
+        "summary": "Entertaining, saucy fable elevated by Colman and Skarsg\u00e5rd's committed performances and impressive W\u0113t\u0101 practical effects, despite one-note humour.",
+        "url": "https://www.lwlies.com/reviews/wicker",
+        "verdict": "fresh"
       }
     ]
   },
@@ -670,6 +680,10 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "wicker||https://inreviewonline.com/2026/10/26/the-best-sex-in-town-an-interview-with-alex-huston-fischer-eleanor-wilson-on-wicker/": {
+      "at": "2026-10-26T14:16:49+00:00",
+      "status": "not_review"
+    },
     "wicker||https://jmuvies.blogspot.com/2026/10/weird-wicker-works-with-colman.html": {
       "at": "2026-10-24T13:55:50+00:00",
       "status": "review",
@@ -807,6 +821,11 @@
     },
     "wicker||https://www.latimes.com/entertainment-arts/movies/story/2026-10-22/wicker-review-olivia-colman-alexander-skarsgard-peter-dinklage": {
       "at": "2026-10-24T14:05:11+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "wicker||https://www.lwlies.com/reviews/wicker": {
+      "at": "2026-10-26T14:16:53+00:00",
       "status": "review",
       "verdict": "fresh"
     },
