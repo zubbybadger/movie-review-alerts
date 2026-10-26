@@ -130,6 +130,16 @@
         "summary": "Familiar New York settings and an overstuffed genre mix, but well-written, well-acted characters, Turturro's subtle turn, and plenty of heart.",
         "url": "https://spectrumculture.com/2026/10/25/the-only-living-pickpocket-in-new-york-review/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-10-26T19:25:00+00:00",
+        "confidence": "high",
+        "critic": "Louisa Moore",
+        "outlet": "Screen Zealots",
+        "rating": "",
+        "summary": "An understated, expertly paced crime drama about aging and dignity, anchored by one of John Turturro's most affecting performances.",
+        "url": "https://screenzealots.com/2026/10/26/the-only-living-pickpocket-in-new-york/",
+        "verdict": "fresh"
       }
     ],
     "wicker|": [
@@ -540,6 +550,11 @@
     },
     "the only living pickpocket in new york||https://mashable.com/entertainment/the-only-living-pickpocket-in-new-york-review": {
       "at": "2026-10-24T14:05:53+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "the only living pickpocket in new york||https://screenzealots.com/2026/10/26/the-only-living-pickpocket-in-new-york/": {
+      "at": "2026-10-26T19:25:00+00:00",
       "status": "review",
       "verdict": "fresh"
     },
