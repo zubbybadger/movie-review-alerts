@@ -120,6 +120,16 @@
         "summary": "A sharply paced, affectionate New York crime thriller anchored by one of John Turturro's very best, nuanced performances.",
         "url": "https://mashable.com/entertainment/the-only-living-pickpocket-in-new-york-review",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-10-26T05:42:05+00:00",
+        "confidence": "low",
+        "critic": "",
+        "outlet": "Spectrum Culture",
+        "rating": "60%",
+        "summary": "Familiar New York settings and an overstuffed genre mix, but well-written, well-acted characters, Turturro's subtle turn, and plenty of heart.",
+        "url": "https://spectrumculture.com/2026/10/25/the-only-living-pickpocket-in-new-york-review/",
+        "verdict": "fresh"
       }
     ],
     "wicker|": [
@@ -520,6 +530,11 @@
     },
     "the only living pickpocket in new york||https://mashable.com/entertainment/the-only-living-pickpocket-in-new-york-review": {
       "at": "2026-10-24T14:05:53+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "the only living pickpocket in new york||https://spectrumculture.com/2026/10/25/the-only-living-pickpocket-in-new-york-review/": {
+      "at": "2026-10-26T05:42:05+00:00",
       "status": "review",
       "verdict": "fresh"
     },
