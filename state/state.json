@@ -726,6 +726,10 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "wicker||https://screenrant.com/alexander-skarsgard-wicker-box-office-opening-weekend-domestic-result/": {
+      "at": "2026-10-26T16:32:40+00:00",
+      "status": "not_review"
+    },
     "wicker||https://screenrant.com/alexander-skarsgard-wicker-movie-rotten-tomatoes-audience-score-record/": {
       "at": "2026-10-24T16:37:57+00:00",
       "status": "not_review"
