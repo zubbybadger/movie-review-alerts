@@ -482,6 +482,16 @@
         "summary": "A beautifully constructed fable with committed, delightfully strange performances from Colman and Skarsg\u00e5rd, gorgeous design, and a heartfelt message about mutual love.",
         "url": "https://beyondthecineramadome.com/movie-reviews/wicker-film-review",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-10-26T04:17:04+00:00",
+        "confidence": "medium",
+        "critic": "Tom Meek",
+        "outlet": "Cambridge Day",
+        "rating": "",
+        "summary": "Despite a concept stretched thin and fading humor, Colman and an able ensemble make this bawdy fairy tale a merry cinematic treat.",
+        "url": "https://www.cambridgeday.com/2026/10/25/wicker-wildwood-reviews/",
+        "verdict": "fresh"
       }
     ]
   },
@@ -730,6 +740,11 @@
     },
     "wicker||https://www.avclub.com/wicker-review-olivia-colman-alexander-skarsgard-romance": {
       "at": "2026-10-24T14:05:26+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "wicker||https://www.cambridgeday.com/2026/10/25/wicker-wildwood-reviews/": {
+      "at": "2026-10-26T04:17:04+00:00",
       "status": "review",
       "verdict": "fresh"
     },
