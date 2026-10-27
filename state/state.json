@@ -140,6 +140,16 @@
         "summary": "An understated, expertly paced crime drama about aging and dignity, anchored by one of John Turturro's most affecting performances.",
         "url": "https://screenzealots.com/2026/10/26/the-only-living-pickpocket-in-new-york/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-10-27T13:45:30+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "Silver Screen Riot",
+        "rating": "B-",
+        "summary": "John Turturro's soulful performance and the film's textured New York atmosphere make it charming, despite a miscast villain and thin impact.",
+        "url": "https://silverscreenriot.com/the-only-living-pickpocket-in-new-york-review/?utm_source=rss&utm_medium=rss&utm_campaign=the-only-living-pickpocket-in-new-york-review",
+        "verdict": "fresh"
       }
     ],
     "wicker|": [
@@ -555,6 +565,11 @@
     },
     "the only living pickpocket in new york||https://screenzealots.com/2026/10/26/the-only-living-pickpocket-in-new-york/": {
       "at": "2026-10-26T19:25:00+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "the only living pickpocket in new york||https://silverscreenriot.com/the-only-living-pickpocket-in-new-york-review/?utm_source=rss&utm_medium=rss&utm_campaign=the-only-living-pickpocket-in-new-york-review": {
+      "at": "2026-10-27T13:45:30+00:00",
       "status": "review",
       "verdict": "fresh"
     },
