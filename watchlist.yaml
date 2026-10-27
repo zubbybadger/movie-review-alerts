@@ -8,6 +8,7 @@ movies:
     # also_known_as:
     #   - "Another title it goes by (e.g. on Spanish-language sites)"
   - title: "Wicker"
+  - title: "The Mongoose"
 
 # Review sites to watch. A homepage, a film/reviews section, or an RSS feed
 # all work. The bot finds the site's feed automatically when there is one,
