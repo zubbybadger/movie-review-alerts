@@ -160,6 +160,16 @@
         "summary": "An affectionate salute to the old New York indie crime film, likened to Peckinpah's wistful last ride for beloved veterans.",
         "url": "https://splicedpersonality.com/2026/10/28/the-only-living-pickpocket-in-new-york/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-10-28T12:59:10+00:00",
+        "confidence": "high",
+        "critic": "Laura Clifford",
+        "outlet": "Reeling Reviews",
+        "rating": "A-",
+        "summary": "Segan gives Turturro the role of a lifetime in a cleverly constructed, emotionally powerful crime tale destined for cult status.",
+        "url": "https://www.reelingreviews.com/reviews/the-only-living-pickpocket-in-new-york/",
+        "verdict": "fresh"
       }
     ],
     "wicker|": [
@@ -666,6 +676,11 @@
     },
     "the only living pickpocket in new york||https://www.nytimes.com/2026/10/22/movies/the-only-living-pickpocket-in-new-york-review.html": {
       "at": "2026-10-24T13:57:31+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "the only living pickpocket in new york||https://www.reelingreviews.com/reviews/the-only-living-pickpocket-in-new-york/": {
+      "at": "2026-10-28T12:59:10+00:00",
       "status": "review",
       "verdict": "fresh"
     },
