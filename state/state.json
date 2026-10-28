@@ -150,6 +150,16 @@
         "summary": "John Turturro's soulful performance and the film's textured New York atmosphere make it charming, despite a miscast villain and thin impact.",
         "url": "https://silverscreenriot.com/the-only-living-pickpocket-in-new-york-review/?utm_source=rss&utm_medium=rss&utm_campaign=the-only-living-pickpocket-in-new-york-review",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-10-28T09:27:09+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "WBUR's Arts & Culture",
+        "rating": "",
+        "summary": "An affectionate salute to the old New York indie crime film, likened to Peckinpah's wistful last ride for beloved veterans.",
+        "url": "https://splicedpersonality.com/2026/10/28/the-only-living-pickpocket-in-new-york/",
+        "verdict": "fresh"
       }
     ],
     "wicker|": [
@@ -599,6 +609,11 @@
     },
     "the only living pickpocket in new york||https://spectrumculture.com/2026/10/25/the-only-living-pickpocket-in-new-york-review/": {
       "at": "2026-10-26T05:42:05+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "the only living pickpocket in new york||https://splicedpersonality.com/2026/10/28/the-only-living-pickpocket-in-new-york/": {
+      "at": "2026-10-28T09:27:09+00:00",
       "status": "review",
       "verdict": "fresh"
     },
