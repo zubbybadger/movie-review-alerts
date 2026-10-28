@@ -1,5 +1,17 @@
 {
   "reviews": {
+    "the mongoose|": [
+      {
+        "at": "2026-10-28T22:45:45+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "The Hollywood Reporter",
+        "rating": "",
+        "summary": "Silly plot and clunky dialogue, but propulsive pacing and excellent practical stunt work make it an above-average Neeson actioner.",
+        "url": "https://www.hollywoodreporter.com/movies/movie-reviews/the-mongoose-review-liam-neeson-1236741778/",
+        "verdict": "fresh"
+      }
+    ],
     "the only living pickpocket in new york|": [
       {
         "at": "2026-10-24T13:34:37+00:00",
@@ -576,6 +588,11 @@
     ]
   },
   "seen": {
+    "the mongoose||https://www.hollywoodreporter.com/movies/movie-reviews/the-mongoose-review-liam-neeson-1236741778/": {
+      "at": "2026-10-28T22:45:45+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "the only living pickpocket in new york||http://www.markreviewsmovies.com/reviews/O/onlylivingpickpocketinnewyork.htm": {
       "at": "2026-10-24T13:44:07+00:00",
       "status": "review",
@@ -649,6 +666,10 @@
     },
     "the only living pickpocket in new york||https://www.avclub.com/john-turturro-the-only-living-pickpocket-in-new-york-noah-segan?utm_source=rss&utm_medium=rss&utm_campaign=john-turturro-the-only-living-pickpocket-in-new-york-noah-segan": {
       "at": "2026-10-24T14:05:24+00:00",
+      "status": "not_review"
+    },
+    "the only living pickpocket in new york||https://www.hollywoodreporter.com/movies/movie-features/giancarlo-esposito-breaking-bad-prequel-idea-1236742217/": {
+      "at": "2026-10-28T22:45:47+00:00",
       "status": "not_review"
     },
     "the only living pickpocket in new york||https://www.ign.com/articles/the-only-living-pickpocket-in-new-york-review-john-turturro": {
