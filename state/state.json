@@ -542,6 +542,16 @@
         "summary": "Olivia Colman dazzles in a warm, romantic folk fable with a charming village, though its moral is trite and it feels stretched.",
         "url": "https://www.fotogramas.es/peliculas-criticas/a74245064/wicker-critica-pelicula-opinion-olivia-colman/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-10-28T07:47:59+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Espinof",
+        "rating": "",
+        "summary": "A charming, bold, sexy adult fable with Olivia Colman, layered and witty, though it loses some steam after a fabulous first act.",
+        "url": "https://www.espinof.com/criticas/wicker-reivindica-estar-cachondo-cine-actual-miedo-a-nada-resultado-buenisimo-porque-pelicula-tiene-muy-buenos-mimbres",
+        "verdict": "fresh"
       }
     ]
   },
@@ -838,6 +848,11 @@
     },
     "wicker||https://www.cambridgeday.com/2026/10/25/wicker-wildwood-reviews/": {
       "at": "2026-10-26T04:17:04+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "wicker||https://www.espinof.com/criticas/wicker-reivindica-estar-cachondo-cine-actual-miedo-a-nada-resultado-buenisimo-porque-pelicula-tiene-muy-buenos-mimbres": {
+      "at": "2026-10-28T07:47:59+00:00",
       "status": "review",
       "verdict": "fresh"
     },
