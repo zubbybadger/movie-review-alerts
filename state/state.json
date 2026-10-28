@@ -182,6 +182,16 @@
         "summary": "Segan gives Turturro the role of a lifetime in a cleverly constructed, emotionally powerful crime tale destined for cult status.",
         "url": "https://www.reelingreviews.com/reviews/the-only-living-pickpocket-in-new-york/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-10-28T23:58:14+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Movies Thru the Spectrum",
+        "rating": "A-",
+        "summary": "Praises Turturro's Oscar-worthy performance, a classy cast, and Segan's wistful, loving portrait of New York despite a predictable plot.",
+        "url": "https://moviesthruthespectrum.com/2026/10/28/the-only-living-pickpocket-in-new-york-2026/",
+        "verdict": "fresh"
       }
     ],
     "wicker|": [
@@ -617,6 +627,11 @@
     },
     "the only living pickpocket in new york||https://mashable.com/entertainment/the-only-living-pickpocket-in-new-york-review": {
       "at": "2026-10-24T14:05:53+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "the only living pickpocket in new york||https://moviesthruthespectrum.com/2026/10/28/the-only-living-pickpocket-in-new-york-2026/": {
+      "at": "2026-10-28T23:58:14+00:00",
       "status": "review",
       "verdict": "fresh"
     },
