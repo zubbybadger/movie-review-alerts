@@ -706,6 +706,16 @@
         "summary": "Marvellous craftsmanship and prosthetics, but passive protagonists, hit-and-miss humour and meandering, heavy-handed storytelling leave it hollow.",
         "url": "https://cineramafilm.com/2026/10/29/wicker-review/",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-10-29T18:09:12+00:00",
+        "confidence": "low",
+        "critic": "Mike Massie",
+        "outlet": "Gone With The Twins",
+        "rating": "6/10",
+        "summary": "An on-the-nose first act and unprofound messages hold it back, but makeup effects and a strong ending make it memorable.",
+        "url": "https://gonewiththetwins.com/wicker-2026/",
+        "verdict": "fresh"
       }
     ]
   },
@@ -1010,6 +1020,11 @@
     },
     "wicker||https://film-forward.com/comedy-2/wicker": {
       "at": "2026-10-24T13:57:21+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "wicker||https://gonewiththetwins.com/wicker-2026/": {
+      "at": "2026-10-29T18:09:12+00:00",
       "status": "review",
       "verdict": "fresh"
     },
