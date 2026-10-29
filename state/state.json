@@ -202,6 +202,16 @@
         "summary": "A sparkling, gently sad debut from Noah Segan, anchored by John Turturro's elegant, resigned performance, despite a weaker final stretch.",
         "url": "https://www.fwweekly.com/2026/10/28/only-living-pickpocket-lift-and-seal/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-10-29T06:59:38+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Movie Cricket",
+        "rating": "3.5/4",
+        "summary": "Segan blends thriller pacing with a love letter to NYC, giving Turturro his best showcase since 'Quiz Show.'",
+        "url": "https://moviecricket.net/blog/2026/10/29/review-the-only-living-pickpocket-in-new-york-gives-john-turturro-the-showcase-hes-long-deserved-and-he-steals-every-moment",
+        "verdict": "fresh"
       }
     ],
     "wicker|": [
@@ -637,6 +647,11 @@
     },
     "the only living pickpocket in new york||https://mashable.com/entertainment/the-only-living-pickpocket-in-new-york-review": {
       "at": "2026-10-24T14:05:53+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "the only living pickpocket in new york||https://moviecricket.net/blog/2026/10/29/review-the-only-living-pickpocket-in-new-york-gives-john-turturro-the-showcase-hes-long-deserved-and-he-steals-every-moment": {
+      "at": "2026-10-29T06:59:38+00:00",
       "status": "review",
       "verdict": "fresh"
     },
