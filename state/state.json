@@ -192,6 +192,16 @@
         "summary": "Praises Turturro's Oscar-worthy performance, a classy cast, and Segan's wistful, loving portrait of New York despite a predictable plot.",
         "url": "https://moviesthruthespectrum.com/2026/10/28/the-only-living-pickpocket-in-new-york-2026/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-10-29T01:30:22+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Fort Worth Weekly",
+        "rating": "",
+        "summary": "A sparkling, gently sad debut from Noah Segan, anchored by John Turturro's elegant, resigned performance, despite a weaker final stretch.",
+        "url": "https://www.fwweekly.com/2026/10/28/only-living-pickpocket-lift-and-seal/",
+        "verdict": "fresh"
       }
     ],
     "wicker|": [
@@ -682,6 +692,11 @@
     "the only living pickpocket in new york||https://www.avclub.com/john-turturro-the-only-living-pickpocket-in-new-york-noah-segan?utm_source=rss&utm_medium=rss&utm_campaign=john-turturro-the-only-living-pickpocket-in-new-york-noah-segan": {
       "at": "2026-10-24T14:05:24+00:00",
       "status": "not_review"
+    },
+    "the only living pickpocket in new york||https://www.fwweekly.com/2026/10/28/only-living-pickpocket-lift-and-seal/": {
+      "at": "2026-10-29T01:30:22+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "the only living pickpocket in new york||https://www.hollywoodreporter.com/movies/movie-features/giancarlo-esposito-breaking-bad-prequel-idea-1236742217/": {
       "at": "2026-10-28T22:45:47+00:00",
