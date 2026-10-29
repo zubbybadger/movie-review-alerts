@@ -10,6 +10,16 @@
         "summary": "Silly plot and clunky dialogue, but propulsive pacing and excellent practical stunt work make it an above-average Neeson actioner.",
         "url": "https://www.hollywoodreporter.com/movies/movie-reviews/the-mongoose-review-liam-neeson-1236741778/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-10-29T09:30:12+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "The New York Times",
+        "rating": "",
+        "summary": "The critic calls it a silly, sentimental action movie, suggesting a dismissive take on Liam Neeson's veteran-on-the-run vehicle.",
+        "url": "https://www.nytimes.com/2026/10/29/movies/the-mongoose-review.html",
+        "verdict": "rotten"
       }
     ],
     "the only living pickpocket in new york|": [
@@ -632,6 +642,11 @@
       "at": "2026-10-28T22:45:45+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "the mongoose||https://www.nytimes.com/2026/10/29/movies/the-mongoose-review.html": {
+      "at": "2026-10-29T09:30:12+00:00",
+      "status": "review",
+      "verdict": "rotten"
     },
     "the only living pickpocket in new york||http://www.markreviewsmovies.com/reviews/O/onlylivingpickpocketinnewyork.htm": {
       "at": "2026-10-24T13:44:07+00:00",
