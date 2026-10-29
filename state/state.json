@@ -1,5 +1,57 @@
 {
   "reviews": {
+    "godzilla minus zero|": [
+      {
+        "at": "2026-10-29T16:23:30+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "Empire",
+        "rating": "",
+        "summary": "Staggering effects and thrilling set-pieces outweigh overcooked, clich\u00e9d drama and hammy dialogue; still the most confident vision of Godzilla.",
+        "url": "https://www.empireonline.com/movies/reviews/godzilla-minus-zero/",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-10-29T16:23:32+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "GamesRadar+",
+        "rating": "",
+        "summary": "Devastating human drama and spectacular kaiju action make it bigger than Minus One and one of the year's best films.",
+        "url": "https://www.gamesradar.com/entertainment/sci-fi-movies/godzilla-minus-zero-review/",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-10-29T16:23:38+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Collider",
+        "rating": "",
+        "summary": "A near-perfect sequel that surpasses Minus One with stunning IMAX spectacle, compelling human drama, and strong performances.",
+        "url": "https://collider.com/godzilla-minus-zero-review/",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-10-29T16:23:41+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "Screen Rant",
+        "rating": "",
+        "summary": "Stunning visuals can't save diluted human stories, an unearned ending, and a dumbed-down, remarkably mediocre sequel.",
+        "url": "https://screenrant.com/godzilla-minus-zero-movie-review-london-film-festival-2026/",
+        "verdict": "rotten"
+      },
+      {
+        "at": "2026-10-29T16:23:47+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "/Film",
+        "rating": "7.5/10",
+        "summary": "A visually stunning, emotionally rich sequel with blockbuster spectacle done right, though shaggier and less focused than Minus One.",
+        "url": "https://www.slashfilm.com/2270063/godzilla-minus-zero-revivew/",
+        "verdict": "fresh"
+      }
+    ],
     "the mongoose|": [
       {
         "at": "2026-10-28T22:45:45+00:00",
@@ -644,10 +696,73 @@
         "summary": "An intriguing, peculiar folk-horror romance blending macabre and sentimental, with a fierce Colman and droll supporting performances.",
         "url": "https://www.theguardian.com/film/2026/oct/29/wicker-review-olivia-colman-finds-the-perfect-lover-in-intriguing-folk-horror-romance",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-10-29T16:23:23+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Cinerama Film",
+        "rating": "",
+        "summary": "Marvellous craftsmanship and prosthetics, but passive protagonists, hit-and-miss humour and meandering, heavy-handed storytelling leave it hollow.",
+        "url": "https://cineramafilm.com/2026/10/29/wicker-review/",
+        "verdict": "rotten"
       }
     ]
   },
   "seen": {
+    "godzilla minus zero||https://collider.com/godzilla-minus-zero-review/": {
+      "at": "2026-10-29T16:23:38+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "godzilla minus zero||https://screenrant.com/db/movie/godzilla-minus-zero/": {
+      "at": "2026-10-29T16:23:43+00:00",
+      "status": "not_review"
+    },
+    "godzilla minus zero||https://screenrant.com/godzilla-minus-zero-movie-review-london-film-festival-2026/": {
+      "at": "2026-10-29T16:23:41+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
+    "godzilla minus zero||https://splicedpersonality.com/2026/10/06/nyff64-part-two-paper-tiger-godzilla-minus-zero-my-undesirable-friends-part-ii-exile/": {
+      "at": "2026-10-29T16:23:21+00:00",
+      "status": "not_review"
+    },
+    "godzilla minus zero||https://theplaylist.net/godzilla-minus-zero-james-cameron-aliens-terminator-2-20261027/": {
+      "at": "2026-10-29T16:23:35+00:00",
+      "status": "not_review"
+    },
+    "godzilla minus zero||https://www.bollywoodhungama.com/news/bollywood/scoop-godzilla-minus-zeros-india-release-likely-to-be-pushed-to-november-20-due-to-ramayanas-two-week-imax-exclusivity/": {
+      "at": "2026-10-29T16:23:50+00:00",
+      "status": "not_review"
+    },
+    "godzilla minus zero||https://www.empireonline.com/movies/news/godzilla-minus-zero-director-takashi-yamazakis-grandgear-casts-paul-giamatti-nico-parker-sam-nivola/": {
+      "at": "2026-10-29T16:23:26+00:00",
+      "status": "not_review"
+    },
+    "godzilla minus zero||https://www.empireonline.com/movies/news/godzilla-minus-zero-influenced-by-aliens-and-terminator-2-exclusive/": {
+      "at": "2026-10-29T16:23:29+00:00",
+      "status": "not_review"
+    },
+    "godzilla minus zero||https://www.empireonline.com/movies/reviews/godzilla-minus-zero/": {
+      "at": "2026-10-29T16:23:30+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "godzilla minus zero||https://www.gamesradar.com/entertainment/sci-fi-movies/godzilla-minus-zero-review/": {
+      "at": "2026-10-29T16:23:32+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "godzilla minus zero||https://www.ndtv.com/entertainment/godzilla-minus-zero-avoids-ramayana-clash-india-release-pushed-by-2-weeks-report-12244819": {
+      "at": "2026-10-29T16:23:49+00:00",
+      "status": "not_review"
+    },
+    "godzilla minus zero||https://www.slashfilm.com/2270063/godzilla-minus-zero-revivew/": {
+      "at": "2026-10-29T16:23:47+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "the mongoose||http://www.markreviewsmovies.com/reviews/M/mongoose.htm": {
       "at": "2026-10-29T14:31:52+00:00",
       "status": "review",
@@ -856,6 +971,11 @@
     "wicker||https://cinapse.net/2024/09/fantastic-fest-2024-the-children-of-the-wicker-man-tell-of-robin-hardys-homespun-horror/": {
       "at": "2026-10-24T13:57:16+00:00",
       "status": "not_review"
+    },
+    "wicker||https://cineramafilm.com/2026/10/29/wicker-review/": {
+      "at": "2026-10-29T16:23:23+00:00",
+      "status": "review",
+      "verdict": "rotten"
     },
     "wicker||https://collider.com/wicker-box-office-debut-5-million-olivia-colman/": {
       "at": "2026-10-26T22:24:41+00:00",
