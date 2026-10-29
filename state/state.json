@@ -614,6 +614,16 @@
         "summary": "A charming, bold, sexy adult fable with Olivia Colman, layered and witty, though it loses some steam after a fabulous first act.",
         "url": "https://www.espinof.com/criticas/wicker-reivindica-estar-cachondo-cine-actual-miedo-a-nada-resultado-buenisimo-porque-pelicula-tiene-muy-buenos-mimbres",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-10-29T07:53:25+00:00",
+        "confidence": "medium",
+        "critic": "Peter Bradshaw",
+        "outlet": "The Guardian",
+        "rating": "",
+        "summary": "An intriguing, peculiar folk-horror romance blending macabre and sentimental, with a fierce Colman and droll supporting performances.",
+        "url": "https://www.theguardian.com/film/2026/oct/29/wicker-review-olivia-colman-finds-the-perfect-lover-in-intriguing-folk-horror-romance",
+        "verdict": "fresh"
       }
     ]
   },
@@ -1079,6 +1089,11 @@
     "wicker||https://www.theguardian.com/film/2026/oct/20/children-of-the-wicker-man-review-folk-horror-robin-hardy": {
       "at": "2026-10-24T13:55:28+00:00",
       "status": "not_review"
+    },
+    "wicker||https://www.theguardian.com/film/2026/oct/29/wicker-review-olivia-colman-finds-the-perfect-lover-in-intriguing-folk-horror-romance": {
+      "at": "2026-10-29T07:53:25+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "wicker||https://www.thepitchkc.com/wicker-is-a-thorny-horny-fairy-tale-skewering-loves-accepted-social-structures/": {
       "at": "2026-10-24T13:55:56+00:00",
