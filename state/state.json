@@ -716,6 +716,16 @@
         "summary": "An on-the-nose first act and unprofound messages hold it back, but makeup effects and a strong ending make it memorable.",
         "url": "https://gonewiththetwins.com/wicker-2026/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-10-29T18:56:02+00:00",
+        "confidence": "high",
+        "critic": "Leo Brady",
+        "outlet": "AMovieGuy.com",
+        "rating": "3.5/4",
+        "summary": "A strange, heartfelt, unapologetically romantic fairy tale with Oscar-worthy makeup and a genuine love story between unlikely partners.",
+        "url": "https://amovieguy.com/2026/10/wicker/",
+        "verdict": "fresh"
       }
     ]
   },
@@ -777,6 +787,10 @@
       "at": "2026-10-29T14:31:52+00:00",
       "status": "review",
       "verdict": "rotten"
+    },
+    "the mongoose||https://timesofindia.indiatimes.com/entertainment/english/movie-details/the-mongoose/movieshow/132159959.cms": {
+      "at": "2026-10-29T18:56:05+00:00",
+      "status": "not_review"
     },
     "the mongoose||https://www.hollywoodreporter.com/movies/movie-reviews/the-mongoose-review-liam-neeson-1236741778/": {
       "at": "2026-10-28T22:45:45+00:00",
@@ -960,6 +974,11 @@
     },
     "wicker||https://48hills.org/2026/10/screen-grabs-sf-latino-film-fest-finds-a-happy-place-in-fraught-community-moment/": {
       "at": "2026-10-24T17:07:21+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "wicker||https://amovieguy.com/2026/10/wicker/": {
+      "at": "2026-10-29T18:56:02+00:00",
       "status": "review",
       "verdict": "fresh"
     },
