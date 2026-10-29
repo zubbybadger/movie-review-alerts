@@ -82,6 +82,16 @@
         "summary": "Real stunt driving has moments, but redundant chases, clunky exposition, and thin characters leave the movie with little of anything.",
         "url": "http://www.markreviewsmovies.com/reviews/M/mongoose.htm",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-10-29T21:09:53+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "Screen Rant",
+        "rating": "",
+        "summary": "Decent car stunts can't save an atrocious, lazy script; the critic calls it a bad movie, though unintentionally fun.",
+        "url": "https://screenrant.com/the-mongoose-movie-review/",
+        "verdict": "rotten"
       }
     ],
     "the only living pickpocket in new york|": [
@@ -785,6 +795,11 @@
     },
     "the mongoose||http://www.markreviewsmovies.com/reviews/M/mongoose.htm": {
       "at": "2026-10-29T14:31:52+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
+    "the mongoose||https://screenrant.com/the-mongoose-movie-review/": {
+      "at": "2026-10-29T21:09:53+00:00",
       "status": "review",
       "verdict": "rotten"
     },
