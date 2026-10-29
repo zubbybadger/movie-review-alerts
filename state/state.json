@@ -736,6 +736,16 @@
         "summary": "A strange, heartfelt, unapologetically romantic fairy tale with Oscar-worthy makeup and a genuine love story between unlikely partners.",
         "url": "https://amovieguy.com/2026/10/wicker/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-10-29T22:28:18+00:00",
+        "confidence": "medium",
+        "critic": "Kristy Puchko",
+        "outlet": "Mashable",
+        "rating": "",
+        "summary": "Mostly about the 4DX screening, but she calls the film moving, funny and bawdy, a cathartic celebration of female desire.",
+        "url": "https://mashable.com/entertainment/wicker-4dx-review",
+        "verdict": "fresh"
       }
     ]
   },
@@ -1077,6 +1087,11 @@
     },
     "wicker||https://jmuvies.blogspot.com/2026/10/weird-wicker-works-with-colman.html": {
       "at": "2026-10-24T13:55:50+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "wicker||https://mashable.com/entertainment/wicker-4dx-review": {
+      "at": "2026-10-29T22:28:18+00:00",
       "status": "review",
       "verdict": "fresh"
     },
