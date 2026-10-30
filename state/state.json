@@ -50,6 +50,16 @@
         "summary": "A visually stunning, emotionally rich sequel with blockbuster spectacle done right, though shaggier and less focused than Minus One.",
         "url": "https://www.slashfilm.com/2270063/godzilla-minus-zero-revivew/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-10-30T01:09:32+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Den of Geek",
+        "rating": "",
+        "summary": "Though less poignant than Minus One, it delivers awe-inspiring kaiju spectacle grounded in genuine post-war tragedy and strong human drama.",
+        "url": "https://www.denofgeek.com/movies/godzilla-minus-zero-review-kaiju/",
+        "verdict": "fresh"
       }
     ],
     "the mongoose|": [
@@ -776,6 +786,11 @@
       "at": "2026-10-29T16:23:50+00:00",
       "status": "not_review"
     },
+    "godzilla minus zero||https://www.denofgeek.com/movies/godzilla-minus-zero-review-kaiju/": {
+      "at": "2026-10-30T01:09:32+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "godzilla minus zero||https://www.empireonline.com/movies/news/godzilla-minus-zero-director-takashi-yamazakis-grandgear-casts-paul-giamatti-nico-parker-sam-nivola/": {
       "at": "2026-10-29T16:23:26+00:00",
       "status": "not_review"
@@ -796,6 +811,10 @@
     },
     "godzilla minus zero||https://www.ndtv.com/entertainment/godzilla-minus-zero-avoids-ramayana-clash-india-release-pushed-by-2-weeks-report-12244819": {
       "at": "2026-10-29T16:23:49+00:00",
+      "status": "not_review"
+    },
+    "godzilla minus zero||https://www.sensacine.com/peliculas/pelicula-1000014492/": {
+      "at": "2026-10-30T01:09:30+00:00",
       "status": "not_review"
     },
     "godzilla minus zero||https://www.slashfilm.com/2270063/godzilla-minus-zero-revivew/": {
