@@ -846,6 +846,36 @@
         "summary": "An enchanting, genre-bending adult fairy tale with beautiful craft and a compelling Olivia Colman, despite occasionally over-explicit dialogue.",
         "url": "https://scroll.in/reel/1096763/wicker-review-an-exquisitely-crafted-fairy-tale-romance?utm_source=rss&utm_medium=public",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-10-30T13:30:29+00:00",
+        "confidence": "high",
+        "critic": "Nell Minow",
+        "outlet": "Movie Mom",
+        "rating": "B+",
+        "summary": "A joyously bawdy, unexpected fairy tale remix with a game cast that blends outrageous humor with poignant themes of class and mortality.",
+        "url": "https://moviemom.com/wicker/?utm_source=rss&utm_medium=rss&utm_campaign=wicker",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-10-30T13:30:36+00:00",
+        "confidence": "high",
+        "critic": "Carmen Paddock",
+        "outlet": "MovieJawn",
+        "rating": "",
+        "summary": "A delightfully deranged, fully realised adult fairytale with a committed cast, superb wicker effects, and an open-hearted, sex-positive love story.",
+        "url": "https://www.moviejawn.com/home/2026/10/30/wicker-review",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-10-30T13:30:38+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "The Federal",
+        "rating": "",
+        "summary": "A charming, witty fable elevated by Colman and Skarsg\u00e5rd's chemistry, though its feather-light touch slightly blunts emotional highs.",
+        "url": "https://thefederal.com/film-reviews/wicker-movie-review-olivia-colman-alexander-akarsgrd-261315",
+        "verdict": "fresh"
       }
     ]
   },
@@ -1237,6 +1267,15 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "wicker||https://moviemom.com/wicker/": {
+      "at": "2026-10-30T13:30:33+00:00",
+      "status": "duplicate"
+    },
+    "wicker||https://moviemom.com/wicker/?utm_source=rss&utm_medium=rss&utm_campaign=wicker": {
+      "at": "2026-10-30T13:30:29+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "wicker||https://moviesthruthespectrum.com/2026/10/21/wicker-2026/": {
       "at": "2026-10-24T13:57:05+00:00",
       "status": "review",
@@ -1310,6 +1349,11 @@
     },
     "wicker||https://sunshinestatecineplex.com/2026/02/11/sundance-wicker-2026/": {
       "at": "2026-10-24T13:56:13+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "wicker||https://thefederal.com/film-reviews/wicker-movie-review-olivia-colman-alexander-akarsgrd-261315": {
+      "at": "2026-10-30T13:30:38+00:00",
       "status": "review",
       "verdict": "fresh"
     },
@@ -1431,6 +1475,11 @@
     },
     "wicker||https://www.lwlies.com/reviews/wicker": {
       "at": "2026-10-26T14:16:53+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "wicker||https://www.moviejawn.com/home/2026/10/30/wicker-review": {
+      "at": "2026-10-30T13:30:36+00:00",
       "status": "review",
       "verdict": "fresh"
     },
