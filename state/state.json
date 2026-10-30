@@ -826,6 +826,16 @@
         "summary": "Headline praises Olivia Colman and Alexander Skarsgard as shining in a wicked, strange love story; rated 3.5 stars.",
         "url": "https://www.ndtv.com/entertainment/wicker-review-olivia-colman-alexander-skarsgard-shine-in-a-wicked-and-strange-love-story-3-5-stars-12258028",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-10-30T11:47:13+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Empire",
+        "rating": "",
+        "summary": "A smart, beautifully woven fairy-tale love story with a perfectly cast Skarsg\u00e5rd and delicate Colman, despite uneven pacing and tone.",
+        "url": "https://www.empireonline.com/movies/reviews/wicker/",
+        "verdict": "fresh"
       }
     ]
   },
@@ -1327,6 +1337,11 @@
     },
     "wicker||https://www.cambridgeday.com/2026/10/25/wicker-wildwood-reviews/": {
       "at": "2026-10-26T04:17:04+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "wicker||https://www.empireonline.com/movies/reviews/wicker/": {
+      "at": "2026-10-30T11:47:13+00:00",
       "status": "review",
       "verdict": "fresh"
     },
