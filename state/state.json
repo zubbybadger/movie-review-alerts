@@ -1331,6 +1331,10 @@
       "at": "2026-10-24T14:05:45+00:00",
       "status": "duplicate"
     },
+    "wicker||https://www.independent.co.uk/arts-entertainment/films/reviews/wicker-review-olivia-colman-b3074828.html": {
+      "at": "2026-10-30T10:19:48+00:00",
+      "status": "duplicate"
+    },
     "wicker||https://www.indiewire.com/criticism/movies/wicker-review-olivia-colman-alexander-skarsgard-1235175039/": {
       "at": "2026-10-24T13:55:38+00:00",
       "status": "review",
@@ -1397,6 +1401,10 @@
     },
     "wicker||https://www.rogerebert.com/interviews/a-gorgeous-man-of-basketry-eleanor-wilson-and-alex-huston-fischer-on-wicker": {
       "at": "2026-10-29T13:34:44+00:00",
+      "status": "not_review"
+    },
+    "wicker||https://www.screendaily.com/news/uk-ireland-box-office-preview-wicker-weaves-its-way-into-676-cinemas-for-black-bear/5221917.article": {
+      "at": "2026-10-30T10:19:45+00:00",
       "status": "not_review"
     },
     "wicker||https://www.sensacine.com/peliculas/pelicula-322884/": {
