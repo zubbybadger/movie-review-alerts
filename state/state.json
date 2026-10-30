@@ -374,6 +374,16 @@
         "summary": "Turturro's awards-worthy lead performance and the vivid New York setting make Noah Segan's pickpocket caper work.",
         "url": "https://jmuvies.blogspot.com/2026/10/memorable-locales-help-stars-mold-fjord.html",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-10-30T23:27:00+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Film Threat",
+        "rating": "",
+        "summary": "A warm, delightful, poignant film showcasing New York and great character actors like Turturro, Buscemi and Esposito at their best.",
+        "url": "https://filmthreat.com/reviews/the-only-living-pickpocket-in-new-york/",
+        "verdict": "fresh"
       }
     ],
     "wicker|": [
@@ -946,6 +956,16 @@
         "summary": "A sly, ribald feminist fable elevated by Skarsg\u00e5rd's tender performance, amazing creature effects, and a skilled comic cast, despite simplistic satire.",
         "url": "https://www.polygon.com/wicker-review/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-10-30T23:27:05+00:00",
+        "confidence": "high",
+        "critic": "Shubhra Gupta",
+        "outlet": "The Indian Express",
+        "rating": "3/5",
+        "summary": "A strange, wondrous fable that mostly hits the mark, lifted by Colman and Skarsgard's fully committed performances.",
+        "url": "https://indianexpress.com/article/entertainment/movie-review/wicker-movie-review-olivia-colman-alexander-skarsgard-shine-in-a-strange-wondrous-fable-10943582/",
+        "verdict": "fresh"
       }
     ],
     "wild horse nine|": [
@@ -1219,6 +1239,11 @@
       "at": "2026-10-24T13:57:39+00:00",
       "status": "not_review"
     },
+    "the only living pickpocket in new york||https://filmthreat.com/reviews/the-only-living-pickpocket-in-new-york/": {
+      "at": "2026-10-30T23:27:00+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "the only living pickpocket in new york||https://inreviewonline.com/2026/10/22/the-only-living-pickpocket-in-new-york-review/": {
       "at": "2026-10-24T13:44:14+00:00",
       "status": "review",
@@ -1390,6 +1415,10 @@
       "at": "2026-10-30T11:06:40+00:00",
       "status": "not_review"
     },
+    "the only living pickpocket in new york||https://www.usatoday.com/story/entertainment/movies/2026/10/30/what-to-watch-right-now/92442376007/": {
+      "at": "2026-10-30T23:27:03+00:00",
+      "status": "not_review"
+    },
     "the only living pickpocket in new york||https://www.usatoday.com/videos/entertainment/movies/2026/10/29/john-turturro-apollo-robbins-pickpocket/92496377007/": {
       "at": "2026-10-30T18:07:59+00:00",
       "status": "not_review"
@@ -1494,6 +1523,11 @@
     },
     "wicker||https://gonewiththetwins.com/wicker-2026/": {
       "at": "2026-10-29T18:09:12+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "wicker||https://indianexpress.com/article/entertainment/movie-review/wicker-movie-review-olivia-colman-alexander-skarsgard-shine-in-a-strange-wondrous-fable-10943582/": {
+      "at": "2026-10-30T23:27:05+00:00",
       "status": "review",
       "verdict": "fresh"
     },
