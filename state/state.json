@@ -132,6 +132,16 @@
         "summary": "Silly flourishes and wasted supporting cast, but the top-notch, loud car chases from a stunt-veteran director deliver what you want.",
         "url": "https://thirdcoastreview.com/film-tv/2026/10/30/review-the-mongoose",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-10-30T21:44:39+00:00",
+        "confidence": "medium",
+        "critic": "Scott Collura",
+        "outlet": "IGN",
+        "rating": "5/10",
+        "summary": "Cheap, not-quite-thrilling chase movie with thin characters; Neeson's likability and some heart can't lift it above 'catch it on streaming eventually.'",
+        "url": "https://www.ign.com/articles/the-mongoose-review",
+        "verdict": "rotten"
       }
     ],
     "the only living pickpocket in new york|": [
@@ -353,6 +363,16 @@
         "rating": "",
         "summary": "Precious and nostalgic but appealing; superb veteran actors Turturro, Buscemi and Esposito carry a gentle, rueful film despite banal atonement scenes.",
         "url": "https://www.styleweekly.com/analogue-daydreams/",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-10-30T21:44:34+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "jmuvies.blogspot.com",
+        "rating": "4/5",
+        "summary": "Turturro's awards-worthy lead performance and the vivid New York setting make Noah Segan's pickpocket caper work.",
+        "url": "https://jmuvies.blogspot.com/2026/10/memorable-locales-help-stars-mold-fjord.html",
         "verdict": "fresh"
       }
     ],
@@ -1128,6 +1148,10 @@
       "status": "review",
       "verdict": "rotten"
     },
+    "the mongoose||https://jmuvies.blogspot.com/2026/10/memorable-locales-help-stars-mold-fjord.html": {
+      "at": "2026-10-30T21:44:37+00:00",
+      "status": "not_review"
+    },
     "the mongoose||https://screenrant.com/liam-neeson-the-mongoose-rotten-tomatoes-score/": {
       "at": "2026-10-30T16:55:09+00:00",
       "status": "not_review"
@@ -1150,6 +1174,15 @@
       "at": "2026-10-28T22:45:45+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "the mongoose||https://www.ign.com/articles/the-mongoose-review": {
+      "at": "2026-10-30T21:44:39+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
+    "the mongoose||https://www.ign.com/movies/the-mongoose": {
+      "at": "2026-10-30T21:44:41+00:00",
+      "status": "duplicate"
     },
     "the mongoose||https://www.nytimes.com/2026/10/29/movies/the-mongoose-review.html": {
       "at": "2026-10-29T09:30:12+00:00",
@@ -1188,6 +1221,11 @@
     },
     "the only living pickpocket in new york||https://inreviewonline.com/2026/10/22/the-only-living-pickpocket-in-new-york-review/": {
       "at": "2026-10-24T13:44:14+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "the only living pickpocket in new york||https://jmuvies.blogspot.com/2026/10/memorable-locales-help-stars-mold-fjord.html": {
+      "at": "2026-10-30T21:44:34+00:00",
       "status": "review",
       "verdict": "fresh"
     },
