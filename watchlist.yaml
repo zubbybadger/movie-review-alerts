@@ -15,6 +15,7 @@ movies:
     also_known_as:
       - "Godzilla -0.0"
       - "Godzilla Menos Cero"
+  - title: "Wild Horse Nine"
 
 # Review sites to watch. A homepage, a film/reviews section, or an RSS feed
 # all work. The bot finds the site's feed automatically when there is one,
