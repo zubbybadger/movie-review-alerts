@@ -766,6 +766,26 @@
         "summary": "Mostly about the 4DX screening, but she calls the film moving, funny and bawdy, a cathartic celebration of female desire.",
         "url": "https://mashable.com/entertainment/wicker-4dx-review",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-10-30T04:52:59+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "El Pa\u00eds",
+        "rating": "",
+        "summary": "Headline calls the film a muddled mess of necessary feminism, sociology, and cheap sexuality, signaling a negative take.",
+        "url": "https://elpais.com/cultura/cine/2026-10-30/wicker-una-empanada-de-necesario-feminismo-sociologia-y-sexualidad-de-tres-al-cuarto.html",
+        "verdict": "rotten"
+      },
+      {
+        "at": "2026-10-30T04:53:01+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Times of India",
+        "rating": "",
+        "summary": "A strange, charming fable with sharp satire on hypocrisy, wickedly funny and moving, elevated by Olivia Colman and a wonderful cast.",
+        "url": "https://timesofindia.indiatimes.com/entertainment/english/movie-reviews/wicker/movie-review/135294874.cms",
+        "verdict": "fresh"
       }
     ]
   },
@@ -1099,6 +1119,11 @@
       "at": "2026-10-24T14:05:06+00:00",
       "status": "duplicate"
     },
+    "wicker||https://elpais.com/cultura/cine/2026-10-30/wicker-una-empanada-de-necesario-feminismo-sociologia-y-sexualidad-de-tres-al-cuarto.html": {
+      "at": "2026-10-30T04:52:59+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
     "wicker||https://everymoviehasalesson.com/blog/2026/10/movie-review-wicker": {
       "at": "2026-10-24T21:03:27+00:00",
       "status": "review",
@@ -1217,6 +1242,11 @@
       "at": "2026-10-24T13:57:08+00:00",
       "status": "review",
       "verdict": "rotten"
+    },
+    "wicker||https://timesofindia.indiatimes.com/entertainment/english/movie-reviews/wicker/movie-review/135294874.cms": {
+      "at": "2026-10-30T04:53:01+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "wicker||https://variety.com/2026/film/news/alexander-skarsgard-olivia-colman-elizabeth-debicki-wicker-interview-1236919062/": {
       "at": "2026-10-25T20:16:20+00:00",
