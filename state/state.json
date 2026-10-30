@@ -304,6 +304,16 @@
         "summary": "Segan blends thriller pacing with a love letter to NYC, giving Turturro his best showcase since 'Quiz Show.'",
         "url": "https://moviecricket.net/blog/2026/10/29/review-the-only-living-pickpocket-in-new-york-gives-john-turturro-the-showcase-hes-long-deserved-and-he-steals-every-moment",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-10-30T03:24:50+00:00",
+        "confidence": "high",
+        "critic": "Stephanie Zacharek",
+        "outlet": "TIME",
+        "rating": "",
+        "summary": "A charming, nimble, affecting drama with remarkable lightness of touch, anchored by one of John Turturro's finest performances.",
+        "url": "https://time.com/article/2026/10/30/only-living-pickpocket-in-new-york-review/",
+        "verdict": "fresh"
       }
     ],
     "wicker|": [
@@ -932,6 +942,11 @@
     },
     "the only living pickpocket in new york||https://thereveal.film/in-review-the-only-living-pickpocket-in-new-york-a-talent-for-murder/": {
       "at": "2026-10-24T13:44:26+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "the only living pickpocket in new york||https://time.com/article/2026/10/30/only-living-pickpocket-in-new-york-review/": {
+      "at": "2026-10-30T03:24:50+00:00",
       "status": "review",
       "verdict": "fresh"
     },
