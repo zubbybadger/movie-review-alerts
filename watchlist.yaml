@@ -21,6 +21,9 @@ movies:
 # and otherwise scans the page for links that mention your movies.
 sites:
   - https://www.rogerebert.com/feed
+  # The main feed above carries interviews and news but not reviews.
+  - https://www.rogerebert.com/reviews/feed
+  - https://www.rogerebert.com/reviews
   - https://variety.com/v/film/reviews/
   - https://www.theguardian.com/film+tone/reviews/rss
   - https://www.indiewire.com/c/criticism/movies/
