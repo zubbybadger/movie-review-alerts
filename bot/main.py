@@ -89,7 +89,8 @@ def is_duplicate(state: dict, movie: Movie, v: Verdict) -> bool:
     if not v.outlet:
         return False
     for r in state["reviews"].get(movie.key, []):
-        if normalize(r["outlet"]) != normalize(v.outlet):
+        # Ignore spacing so "Film Feeder" and "FilmFeeder" count as one outlet.
+        if normalize(r["outlet"]).replace(" ", "") != normalize(v.outlet).replace(" ", ""):
             continue
         if not r["critic"] or not v.critic or normalize(r["critic"]) == normalize(v.critic):
             return True

@@ -256,3 +256,8 @@ def test_same_outlet_with_and_without_critic_is_duplicate():
     assert main.is_duplicate(state, m, verdict(outlet="The Movie Minute", critic="Joanna Langfield"))
     state = {"reviews": {"m|": [{"outlet": "Variety", "critic": "Peter Debruge"}]}, "seen": {}}
     assert not main.is_duplicate(state, m, verdict(outlet="Variety", critic="Owen Gleiberman"))
+
+
+def test_outlet_spacing_does_not_split_duplicates():
+    state = {"reviews": {"m|": [{"outlet": "Film Feeder", "critic": ""}]}, "seen": {}}
+    assert main.is_duplicate(state, Movie("M"), verdict(outlet="FilmFeeder", critic=""))
