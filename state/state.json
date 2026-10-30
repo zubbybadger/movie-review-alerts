@@ -796,6 +796,16 @@
         "summary": "A delightful, bawdy, smart fairy tale with sharp gender satire and excellent performances, despite one unconvincing second-act subplot.",
         "url": "https://www.bostonglobe.com/2026/10/22/arts/wicker-olivia-colman-alexander-skarsgard/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-10-30T07:00:32+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "The Independent",
+        "rating": "",
+        "summary": "A sweet, bawdy comedy with astounding practical effects bringing Alexander Skarsg\u00e5rd's kindly wicker hunk to life.",
+        "url": "https://www.the-independent.com/arts-entertainment/films/reviews/wicker-review-olivia-colman-b3074828.html",
+        "verdict": "fresh"
       }
     ]
   },
@@ -1404,6 +1414,11 @@
     },
     "wicker||https://www.slantmagazine.com/film/wicker-review-olivia-colman-alexander-skarsgard/": {
       "at": "2026-10-24T14:05:21+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "wicker||https://www.the-independent.com/arts-entertainment/films/reviews/wicker-review-olivia-colman-b3074828.html": {
+      "at": "2026-10-30T07:00:32+00:00",
       "status": "review",
       "verdict": "fresh"
     },
