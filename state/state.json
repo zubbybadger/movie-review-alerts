@@ -836,6 +836,16 @@
         "summary": "A smart, beautifully woven fairy-tale love story with a perfectly cast Skarsg\u00e5rd and delicate Colman, despite uneven pacing and tone.",
         "url": "https://www.empireonline.com/movies/reviews/wicker/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-10-30T12:29:07+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Scroll.in",
+        "rating": "",
+        "summary": "An enchanting, genre-bending adult fairy tale with beautiful craft and a compelling Olivia Colman, despite occasionally over-explicit dialogue.",
+        "url": "https://scroll.in/reel/1096763/wicker-review-an-exquisitely-crafted-fairy-tale-romance?utm_source=rss&utm_medium=public",
+        "verdict": "fresh"
       }
     ]
   },
@@ -1274,6 +1284,15 @@
     "wicker||https://screenrant.com/wicker-isnt-based-on-a-book-but-the-source-material-is-wilder/": {
       "at": "2026-10-28T17:15:01+00:00",
       "status": "not_review"
+    },
+    "wicker||https://scroll.in/reel/1096763/wicker-review-an-exquisitely-crafted-fairy-tale-romance": {
+      "at": "2026-10-30T12:29:10+00:00",
+      "status": "duplicate"
+    },
+    "wicker||https://scroll.in/reel/1096763/wicker-review-an-exquisitely-crafted-fairy-tale-romance?utm_source=rss&utm_medium=public": {
+      "at": "2026-10-30T12:29:07+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "wicker||https://silverscreenriot.com/wicker-review/": {
       "at": "2026-10-24T13:55:48+00:00",
