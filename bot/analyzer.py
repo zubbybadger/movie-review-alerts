@@ -27,6 +27,11 @@ balance, recommend the movie. It is ROTTEN when their overall take is negative
 or they would not recommend it. Mixed reviews still get one verdict: decide
 which way the critic leans overall, and lower your confidence.
 
+When the critic gives a score, it decides the verdict the way Rotten Tomatoes
+counts it, even if the prose sounds harsher or kinder: 2.5/4 stars or more,
+3/5 or more, 6/10 or more, or a letter grade of B- or better is FRESH; anything
+lower is ROTTEN. Look for the score in star graphics, headings and captions too.
+
 You will get a page that may or may not be a review of the requested movie.
 It could be news, an interview, a list, or a review of a different movie with
 a similar title. Only set is_review to true when the page is a critic's

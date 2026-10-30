@@ -105,13 +105,13 @@
       },
       {
         "at": "2026-10-30T13:39:56+00:00",
-        "confidence": "medium",
+        "confidence": "high",
         "critic": "",
         "outlet": "RogerEbert.com",
-        "rating": "",
-        "summary": "Neeson's car chases and stunts slap, but clumsy dialogue, AI-slop visuals and hack Afghanistan flashbacks sink the rest.",
+        "rating": "2.5/4",
+        "summary": "A mildly positive 2.5 stars: the car chases and stunts slap, though the dialogue is clumsy and the Afghanistan flashbacks are hack writing.",
         "url": "https://www.rogerebert.com/reviews/the-mongoose-liam-neeson-film-review-2026",
-        "verdict": "rotten"
+        "verdict": "fresh"
       }
     ],
     "the only living pickpocket in new york|": [
