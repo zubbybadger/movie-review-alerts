@@ -112,6 +112,16 @@
         "summary": "A mildly positive 2.5 stars: the car chases and stunts slap, though the dialogue is clumsy and the Afghanistan flashbacks are hack writing.",
         "url": "https://www.rogerebert.com/reviews/the-mongoose-liam-neeson-film-review-2026",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-10-30T16:12:54+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "Third Coast Review",
+        "rating": "",
+        "summary": "Silly flourishes and wasted supporting cast, but the top-notch, loud car chases from a stunt-veteran director deliver what you want.",
+        "url": "https://thirdcoastreview.com/film-tv/2026/10/30/review-the-mongoose",
+        "verdict": "fresh"
       }
     ],
     "the only living pickpocket in new york|": [
@@ -323,6 +333,16 @@
         "rating": "",
         "summary": "A charming, nimble, affecting drama with remarkable lightness of touch, anchored by one of John Turturro's finest performances.",
         "url": "https://time.com/article/2026/10/30/only-living-pickpocket-in-new-york-review/",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-10-30T16:12:58+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "Style Weekly",
+        "rating": "",
+        "summary": "Precious and nostalgic but appealing; superb veteran actors Turturro, Buscemi and Esposito carry a gentle, rueful film despite banal atonement scenes.",
+        "url": "https://www.styleweekly.com/analogue-daydreams/",
         "verdict": "fresh"
       }
     ],
@@ -976,6 +996,11 @@
       "status": "review",
       "verdict": "rotten"
     },
+    "the mongoose||https://thirdcoastreview.com/film-tv/2026/10/30/review-the-mongoose": {
+      "at": "2026-10-30T16:12:54+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "the mongoose||https://timesofindia.indiatimes.com/entertainment/english/movie-details/the-mongoose/movieshow/132159959.cms": {
       "at": "2026-10-29T18:56:05+00:00",
       "status": "not_review"
@@ -1146,6 +1171,11 @@
     "the only living pickpocket in new york||https://www.rollingstone.com/tv-movies/tv-movie-features/john-turturro-interview-only-pickpocket-in-new-york-1235640822/": {
       "at": "2026-10-29T14:31:56+00:00",
       "status": "not_review"
+    },
+    "the only living pickpocket in new york||https://www.styleweekly.com/analogue-daydreams/": {
+      "at": "2026-10-30T16:12:58+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "the only living pickpocket in new york||https://www.theepochtimes.com/article/the-only-living-pickpocket-in-new-york-one-of-turturros-finest-6099221": {
       "at": "2026-10-26T21:01:00+00:00",
@@ -1481,6 +1511,10 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "wicker||https://www.indiewire.com/features/commentary/nicolas-cage-the-wicker-man-better-than-original-1235222364/": {
+      "at": "2026-10-30T16:12:50+00:00",
+      "status": "not_review"
+    },
     "wicker||https://www.indiewire.com/features/commentary/wicker-4dx-better-hornier-sexier-1235224572/": {
       "at": "2026-10-29T17:18:15+00:00",
       "status": "duplicate"
@@ -1604,6 +1638,10 @@
       "at": "2026-10-24T13:57:14+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "wicker||https://www.thetraverstake.com/wicker/": {
+      "at": "2026-10-30T16:12:56+00:00",
+      "status": "duplicate"
     },
     "wicker||https://www.times-herald.com/arts_and_community/reviews/wicker/article_b34dfd06-ebde-4095-af96-108b39bc2a87.html": {
       "at": "2026-10-24T13:56:24+00:00",
