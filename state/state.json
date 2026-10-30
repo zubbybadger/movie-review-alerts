@@ -102,6 +102,16 @@
         "summary": "Decent car stunts can't save an atrocious, lazy script; the critic calls it a bad movie, though unintentionally fun.",
         "url": "https://screenrant.com/the-mongoose-movie-review/",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-10-30T13:39:56+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "RogerEbert.com",
+        "rating": "",
+        "summary": "The critic sarcastically frames the film as a product of hack screenwriting exploiting the Afghanistan war setting.",
+        "url": "https://www.rogerebert.com/reviews/the-mongoose-liam-neeson-film-review-2026",
+        "verdict": "rotten"
       }
     ],
     "the only living pickpocket in new york|": [
@@ -967,6 +977,11 @@
     },
     "the mongoose||https://www.nytimes.com/2026/10/29/movies/the-mongoose-review.html": {
       "at": "2026-10-29T09:30:12+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
+    "the mongoose||https://www.rogerebert.com/reviews/the-mongoose-liam-neeson-film-review-2026": {
+      "at": "2026-10-30T13:39:56+00:00",
       "status": "review",
       "verdict": "rotten"
     },
