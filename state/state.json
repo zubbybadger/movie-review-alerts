@@ -60,6 +60,16 @@
         "summary": "Though less poignant than Minus One, it delivers awe-inspiring kaiju spectacle grounded in genuine post-war tragedy and strong human drama.",
         "url": "https://www.denofgeek.com/movies/godzilla-minus-zero-review-kaiju/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-10-30T16:54:06+00:00",
+        "confidence": "medium",
+        "critic": "Diego Batlle",
+        "outlet": "Otros Cines",
+        "rating": "",
+        "summary": "More spectacular than Minus One but clumsier and more overwrought dramatically; still a positive balance with large-scale entertainment assured.",
+        "url": "https://www.otroscines.com/post/critica-de-godzilla-minus-zero-pelicula-de-takashi-yamazaki",
+        "verdict": "fresh"
       }
     ],
     "the mongoose|": [
@@ -917,6 +927,128 @@
         "url": "https://www.polygon.com/wicker-review/",
         "verdict": "fresh"
       }
+    ],
+    "wild horse nine|": [
+      {
+        "at": "2026-10-30T16:53:55+00:00",
+        "confidence": "high",
+        "critic": "Laura Clifford",
+        "outlet": "Reeling Reviews",
+        "rating": "B+",
+        "summary": "Though it closely echoes In Bruges, McDonagh's black comedy is anchored by Malkovich's rueful, haunting performance and Rockwell's jittery comic relief.",
+        "url": "https://www.reelingreviews.com/reviews/wild-horse-nine/",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-10-30T16:53:58+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "The Movie Minute",
+        "rating": "",
+        "summary": "Though McDonagh treads familiar black-comedy territory, the critic calls it a wild, enjoyable ride.",
+        "url": "https://themovieminute.com/2026/10/27/wild-horse-nine/",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-10-30T16:54:01+00:00",
+        "confidence": "low",
+        "critic": "",
+        "outlet": "Fotogramas",
+        "rating": "3/5",
+        "summary": "Praises McDonagh's new political edge and strong cast, but finds the film's misanthropy and formulaic, paralyzed characters limiting.",
+        "url": "https://www.fotogramas.es/peliculas-criticas/a73606061/wild-horse-nine-pelicula-critica-opinion-martin-mcdonagh-john-malkovich/",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-10-30T16:54:08+00:00",
+        "confidence": "high",
+        "critic": "Andrew Robertson",
+        "outlet": "Eye For Film",
+        "rating": "",
+        "summary": "Gorgeously shot, bleakly comic McDonagh film with magnetic Malkovich-Rockwell chemistry and abundant quality, though its violence and language won't suit everyone.",
+        "url": "https://www.eyeforfilm.co.uk/review/wild-horse-nine-2026-film-review-by-andrew-robertson",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-10-30T16:54:10+00:00",
+        "confidence": "high",
+        "critic": "Rich Cline",
+        "outlet": "Shadows on the Wall",
+        "rating": "MUST SEE",
+        "summary": "Hilariously black, razor-sharp satire of American foreign policy with magical Malkovich and Rockwell performances and a moving emotional core.",
+        "url": "http://www.shadowsonthewall.co.uk/26/wildhors.htm",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-10-30T16:54:15+00:00",
+        "confidence": "high",
+        "critic": "Peter Travers",
+        "outlet": "The Travers Take",
+        "rating": "3.5/4",
+        "summary": "Calls it one of the year's best films, with John Malkovich career-best brilliant in McDonagh's stinging, darkly funny CIA satire.",
+        "url": "https://www.thetraverstake.com/featured/wild-horse-nine/",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-10-30T16:54:18+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Cinapse",
+        "rating": "",
+        "summary": "Hilarious and profound, with a career-best Malkovich performance and fearless McDonagh writing; one of 2026's very best films.",
+        "url": "https://cinapse.net/2026/09/fantastic-fest-2026-martin-mcdonaghs-dangerous-wild-horse-nine/",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-10-30T16:54:24+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Cines Sin Fronteras",
+        "rating": "3.5/4",
+        "summary": "McDonagh perfectly balances humor and melancholy, with a sharp script and a memorable, award-worthy John Malkovich performance.",
+        "url": "https://cinesinfronteras.com/2026/10/11/resena-wild-horse-nine-caballo-salvaje-nueve/",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-10-30T16:54:30+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "The New Yorker",
+        "rating": "",
+        "summary": "Stiff, tonally grinding buddy comedy with a touristic view of Chile, asking sympathy for a charming but unredeemed CIA killer.",
+        "url": "https://www.newyorker.com/magazine/2026/11/09/wild-horse-nine-movie-review",
+        "verdict": "rotten"
+      },
+      {
+        "at": "2026-10-30T16:54:59+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Empire",
+        "rating": "",
+        "summary": "A terrifically entertaining, deeply human hang-out movie powered by electric Malkovich and Rockwell performances and McDonagh's rich dialogue.",
+        "url": "https://www.empireonline.com/movies/reviews/wild-horse-nine/",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-10-30T16:55:04+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Collider",
+        "rating": "",
+        "summary": "Hilarious, heartfelt McDonagh film anchored by John Malkovich's best performance in years and great chemistry with Sam Rockwell.",
+        "url": "https://collider.com/wild-horse-nine-review-john-malkovich-sam-rockwell/",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-10-30T16:55:12+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "NME",
+        "rating": "",
+        "summary": "A bitingly funny, tough black comedy with an award-worthy Malkovich performance, despite underused female characters.",
+        "url": "https://www.nme.com/reviews/film-reviews/wild-horse-nine-review-john-malkovich-sam-rockwell-martin-mcdonagh-3966848",
+        "verdict": "fresh"
+      }
     ]
   },
   "seen": {
@@ -977,6 +1109,11 @@
       "at": "2026-10-29T16:23:49+00:00",
       "status": "not_review"
     },
+    "godzilla minus zero||https://www.otroscines.com/post/critica-de-godzilla-minus-zero-pelicula-de-takashi-yamazaki": {
+      "at": "2026-10-30T16:54:06+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "godzilla minus zero||https://www.sensacine.com/peliculas/pelicula-1000014492/": {
       "at": "2026-10-30T01:09:30+00:00",
       "status": "not_review"
@@ -990,6 +1127,10 @@
       "at": "2026-10-29T14:31:52+00:00",
       "status": "review",
       "verdict": "rotten"
+    },
+    "the mongoose||https://screenrant.com/liam-neeson-the-mongoose-rotten-tomatoes-score/": {
+      "at": "2026-10-30T16:55:09+00:00",
+      "status": "not_review"
     },
     "the mongoose||https://screenrant.com/the-mongoose-movie-review/": {
       "at": "2026-10-29T21:09:53+00:00",
@@ -1109,6 +1250,10 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "the only living pickpocket in new york||https://time.com/article/2026/10/30/john-turturro-interview-only-living-pickpocket-in-new-york/": {
+      "at": "2026-10-30T16:54:33+00:00",
+      "status": "not_review"
+    },
     "the only living pickpocket in new york||https://time.com/article/2026/10/30/only-living-pickpocket-in-new-york-review/": {
       "at": "2026-10-30T03:24:50+00:00",
       "status": "review",
@@ -1190,6 +1335,10 @@
       "at": "2026-10-24T13:44:32+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "the only living pickpocket in new york||https://www.thetraverstake.com/the-only-living-pickpocket-in-new-york/": {
+      "at": "2026-10-30T16:54:13+00:00",
+      "status": "duplicate"
     },
     "the only living pickpocket in new york||https://www.usatoday.com/story/entertainment/movies/2026/10/29/john-turturro-only-living-pickpocket-movie-interview/92444781007/": {
       "at": "2026-10-30T11:06:40+00:00",
@@ -1656,6 +1805,90 @@
       "at": "2026-10-24T14:05:14+00:00",
       "status": "review",
       "verdict": "rotten"
+    },
+    "wild horse nine||http://www.shadowsonthewall.co.uk/26/wildhors.htm": {
+      "at": "2026-10-30T16:54:10+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "wild horse nine||https://chicago.suntimes.com/movies-and-tv/2026/08/25/chicago-international-film-fest-2026-lineup-bob-odenkirk-curtis-duffy-martin-mcdonagh": {
+      "at": "2026-10-30T16:54:53+00:00",
+      "status": "not_review"
+    },
+    "wild horse nine||https://chicago.suntimes.com/movies-and-tv/2026/08/27/fall-2026-movies-richard-roeper-most-anticipated": {
+      "at": "2026-10-30T16:54:46+00:00",
+      "status": "not_review"
+    },
+    "wild horse nine||https://chicago.suntimes.com/movies-and-tv/2026/09/10/chicago-fall-film-festivals-events-things-to-do-movies-ciff-cuff-reeling": {
+      "at": "2026-10-30T16:54:43+00:00",
+      "status": "not_review"
+    },
+    "wild horse nine||https://chicago.suntimes.com/movies-and-tv/2026/09/17/chicago-international-film-festival-2026-lineup-carrie-coon-marlon-wayans": {
+      "at": "2026-10-30T16:54:38+00:00",
+      "status": "not_review"
+    },
+    "wild horse nine||https://chicago.suntimes.com/movies-and-tv/2026/10/26/chicago-international-film-festival-top-movies-bill-stamets": {
+      "at": "2026-10-30T16:54:34+00:00",
+      "status": "not_review"
+    },
+    "wild horse nine||https://cinapse.net/2026/09/fantastic-fest-2026-martin-mcdonaghs-dangerous-wild-horse-nine/": {
+      "at": "2026-10-30T16:54:18+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "wild horse nine||https://cinesinfronteras.com/2026/10/11/resena-wild-horse-nine-caballo-salvaje-nueve/": {
+      "at": "2026-10-30T16:54:24+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "wild horse nine||https://collider.com/tag/movie/wild-horse-nine/": {
+      "at": "2026-10-30T16:55:08+00:00",
+      "status": "not_review"
+    },
+    "wild horse nine||https://collider.com/wild-horse-nine-review-john-malkovich-sam-rockwell/": {
+      "at": "2026-10-30T16:55:04+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "wild horse nine||https://themovieminute.com/2026/10/27/wild-horse-nine/": {
+      "at": "2026-10-30T16:53:58+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "wild horse nine||https://www.empireonline.com/movies/reviews/wild-horse-nine/": {
+      "at": "2026-10-30T16:54:59+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "wild horse nine||https://www.eyeforfilm.co.uk/review/wild-horse-nine-2026-film-review-by-andrew-robertson": {
+      "at": "2026-10-30T16:54:08+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "wild horse nine||https://www.fotogramas.es/peliculas-criticas/a73606061/wild-horse-nine-pelicula-critica-opinion-martin-mcdonagh-john-malkovich/": {
+      "at": "2026-10-30T16:54:01+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "wild horse nine||https://www.newyorker.com/magazine/2026/11/09/wild-horse-nine-movie-review": {
+      "at": "2026-10-30T16:54:30+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
+    "wild horse nine||https://www.nme.com/reviews/film-reviews/wild-horse-nine-review-john-malkovich-sam-rockwell-martin-mcdonagh-3966848": {
+      "at": "2026-10-30T16:55:12+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "wild horse nine||https://www.reelingreviews.com/reviews/wild-horse-nine/": {
+      "at": "2026-10-30T16:53:55+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "wild horse nine||https://www.thetraverstake.com/featured/wild-horse-nine/": {
+      "at": "2026-10-30T16:54:15+00:00",
+      "status": "review",
+      "verdict": "fresh"
     }
   }
 }
