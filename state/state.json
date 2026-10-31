@@ -976,6 +976,16 @@
         "summary": "Praises excellent performances by Colman, Skarsg\u00e5rd and Dinklage, sharp thematic commentary, ominous score and impeccable art direction in a refreshing fairy tale.",
         "url": "https://www.deccanherald.com/entertainment/wicker-movie-review-quaint-sincere-unconventional-4201556",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-10-31T14:18:03+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "Hipertextual",
+        "rating": "",
+        "summary": "Praises Wicker as an original, moving erotic fable with superb Colman\u2013Skarsg\u00e5rd chemistry and stunning practical visuals.",
+        "url": "https://hipertextual.com/cine-television/3-razones-para-ver-wicker-la-comedia-erotica-mas-loca-del-ano-que-causa-furor/",
+        "verdict": "fresh"
       }
     ],
     "wild horse nine|": [
@@ -1547,6 +1557,11 @@
     },
     "wicker||https://gonewiththetwins.com/wicker-2026/": {
       "at": "2026-10-29T18:09:12+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "wicker||https://hipertextual.com/cine-television/3-razones-para-ver-wicker-la-comedia-erotica-mas-loca-del-ano-que-causa-furor/": {
+      "at": "2026-10-31T14:18:03+00:00",
       "status": "review",
       "verdict": "fresh"
     },
