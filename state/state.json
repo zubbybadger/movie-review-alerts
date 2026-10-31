@@ -1098,6 +1098,16 @@
         "summary": "A bitingly funny, tough black comedy with an award-worthy Malkovich performance, despite underused female characters.",
         "url": "https://www.nme.com/reviews/film-reviews/wild-horse-nine-review-john-malkovich-sam-rockwell-martin-mcdonagh-3966848",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-10-31T06:21:38+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "The Curvy Film Critic",
+        "rating": "",
+        "summary": "Praises Malkovich and Rockwell's chemistry, McDonagh's brilliant screenplay, soundtrack and cinematography in a complex, beautiful, moving film.",
+        "url": "https://thecurvyfilmcritic.com/malkovich-and-rockwell-are-perfection-in-wild-horse-nine/",
+        "verdict": "fresh"
       }
     ]
   },
@@ -1968,6 +1978,11 @@
     "wild horse nine||https://jmuvies.blogspot.com/2026/09/33-years-and-counting-but-tiffs-still.html": {
       "at": "2026-10-30T17:30:40+00:00",
       "status": "not_review"
+    },
+    "wild horse nine||https://thecurvyfilmcritic.com/malkovich-and-rockwell-are-perfection-in-wild-horse-nine/": {
+      "at": "2026-10-31T06:21:38+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "wild horse nine||https://themovieminute.com/2026/10/27/wild-horse-nine/": {
       "at": "2026-10-30T16:53:58+00:00",
