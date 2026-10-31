@@ -384,6 +384,16 @@
         "summary": "A warm, delightful, poignant film showcasing New York and great character actors like Turturro, Buscemi and Esposito at their best.",
         "url": "https://filmthreat.com/reviews/the-only-living-pickpocket-in-new-york/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-10-31T17:00:34+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "The Movie Buff",
+        "rating": "",
+        "summary": "Clever writing, a love letter to New York, and a standout John Turturro performance outweigh a jarring third-act tonal shift.",
+        "url": "https://www.themoviebuff.net/2026/10/the-only-living-pickpocket-in-new-york-features-clever-writing-and-an-enjoyable-john-turturro/",
+        "verdict": "fresh"
       }
     ],
     "wicker|": [
@@ -1433,6 +1443,11 @@
     },
     "the only living pickpocket in new york||https://www.theepochtimes.com/bright/the-only-living-pickpocket-in-new-york-one-of-turturros-finest-6099221": {
       "at": "2026-10-24T13:44:23+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "the only living pickpocket in new york||https://www.themoviebuff.net/2026/10/the-only-living-pickpocket-in-new-york-features-clever-writing-and-an-enjoyable-john-turturro/": {
+      "at": "2026-10-31T17:00:34+00:00",
       "status": "review",
       "verdict": "fresh"
     },
