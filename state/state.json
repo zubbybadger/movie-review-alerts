@@ -394,6 +394,16 @@
         "summary": "Clever writing, a love letter to New York, and a standout John Turturro performance outweigh a jarring third-act tonal shift.",
         "url": "https://www.themoviebuff.net/2026/10/the-only-living-pickpocket-in-new-york-features-clever-writing-and-an-enjoyable-john-turturro/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-01T23:26:15+00:00",
+        "confidence": "high",
+        "critic": "Lisa",
+        "outlet": "At Home in Hollywood",
+        "rating": "",
+        "summary": "Turturro's career-defining, soulful performance and a melancholic love letter to New York make it a rewarding, recommended watch.",
+        "url": "https://athomeinhollywood.com/2026/10/28/pickpocket-in-new-york-review/",
+        "verdict": "fresh"
       }
     ],
     "wicker|": [
@@ -1286,6 +1296,11 @@
     },
     "the only living pickpocket in new york||http://www.markreviewsmovies.com/reviews/O/onlylivingpickpocketinnewyork.htm": {
       "at": "2026-10-24T13:44:07+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "the only living pickpocket in new york||https://athomeinhollywood.com/2026/10/28/pickpocket-in-new-york-review/": {
+      "at": "2026-11-01T23:26:15+00:00",
       "status": "review",
       "verdict": "fresh"
     },
