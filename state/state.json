@@ -1128,6 +1128,16 @@
         "summary": "Praises Malkovich and Rockwell's chemistry, McDonagh's brilliant screenplay, soundtrack and cinematography in a complex, beautiful, moving film.",
         "url": "https://thecurvyfilmcritic.com/malkovich-and-rockwell-are-perfection-in-wild-horse-nine/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-01T17:26:30+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "Cinefilia",
+        "rating": "7/10",
+        "summary": "Praises McDonagh's mix of dark comedy and spy thriller and the superb Malkovich and Rockwell performances, despite some heavy-handed moralizing.",
+        "url": "https://www.cinefilia.blog/2026/11/caballo-salvaje-nueve-2026-critica.html",
+        "verdict": "fresh"
       }
     ]
   },
@@ -2040,6 +2050,11 @@
     },
     "wild horse nine||https://themovieminute.com/2026/10/27/wild-horse-nine/": {
       "at": "2026-10-30T16:53:58+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "wild horse nine||https://www.cinefilia.blog/2026/11/caballo-salvaje-nueve-2026-critica.html": {
+      "at": "2026-11-01T17:26:30+00:00",
       "status": "review",
       "verdict": "fresh"
     },
