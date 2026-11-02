@@ -152,6 +152,16 @@
         "summary": "Unoriginal, but succeeds at what it sets out to do, with Neeson at ease and gleefully orchestrated car-chase action.",
         "url": "https://www.assignmentx.com/2026/movie-review-the-mongoose/?utm_source=rss&utm_medium=rss&utm_campaign=movie-review-the-mongoose",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-02T06:27:22+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Spectrum Culture",
+        "rating": "30%",
+        "summary": "A disorganized, unfocused action-thriller with weak performances and a mishandled PTSD theme that does nothing interesting or exciting.",
+        "url": "https://spectrumculture.com/2026/11/01/the-mongoose-review/",
+        "verdict": "rotten"
       }
     ],
     "the only living pickpocket in new york|": [
@@ -1264,6 +1274,11 @@
     },
     "the mongoose||https://screenrant.com/the-mongoose-movie-review/": {
       "at": "2026-10-29T21:09:53+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
+    "the mongoose||https://spectrumculture.com/2026/11/01/the-mongoose-review/": {
+      "at": "2026-11-02T06:27:22+00:00",
       "status": "review",
       "verdict": "rotten"
     },
