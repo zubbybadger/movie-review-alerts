@@ -162,6 +162,16 @@
         "summary": "A disorganized, unfocused action-thriller with weak performances and a mishandled PTSD theme that does nothing interesting or exciting.",
         "url": "https://spectrumculture.com/2026/11/01/the-mongoose-review/",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-02T07:52:55+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Variety",
+        "rating": "",
+        "summary": "Some fun vehicular action, but a shallow, one-sided script and repetitive set pieces make it a bland, heartless tribute.",
+        "url": "https://variety.com/2026/film/reviews/the-mongoose-review-liam-neeson-1236937225/",
+        "verdict": "rotten"
       }
     ],
     "the only living pickpocket in new york|": [
@@ -1290,6 +1300,11 @@
     "the mongoose||https://timesofindia.indiatimes.com/entertainment/english/movie-details/the-mongoose/movieshow/132159959.cms": {
       "at": "2026-10-29T18:56:05+00:00",
       "status": "not_review"
+    },
+    "the mongoose||https://variety.com/2026/film/reviews/the-mongoose-review-liam-neeson-1236937225/": {
+      "at": "2026-11-02T07:52:55+00:00",
+      "status": "review",
+      "verdict": "rotten"
     },
     "the mongoose||https://www.assignmentx.com/2026/movie-review-the-mongoose/": {
       "at": "2026-11-02T03:19:50+00:00",
