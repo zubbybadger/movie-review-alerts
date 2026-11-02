@@ -1188,6 +1188,16 @@
         "summary": "Masterfully orchestrated, engaging blend of political intrigue and buddy comedy, with dynamite Rockwell-Malkovich chemistry and an intoxicating Easter Island setting.",
         "url": "https://neilsentertainmentpicks.com/2026/11/02/movie-review-wild-horse-nine/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-02T14:47:05+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Cinerama Film",
+        "rating": "",
+        "summary": "McDonagh's venomous wit, gorgeous visuals and Malkovich's astounding performance outweigh an overstuffed third act.",
+        "url": "https://cineramafilm.com/2026/11/02/wild-horse-nine-review/",
+        "verdict": "fresh"
       }
     ]
   },
@@ -2108,6 +2118,11 @@
     },
     "wild horse nine||https://cinapse.net/2026/09/fantastic-fest-2026-martin-mcdonaghs-dangerous-wild-horse-nine/": {
       "at": "2026-10-30T16:54:18+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "wild horse nine||https://cineramafilm.com/2026/11/02/wild-horse-nine-review/": {
+      "at": "2026-11-02T14:47:05+00:00",
       "status": "review",
       "verdict": "fresh"
     },
