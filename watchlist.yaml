@@ -4,13 +4,7 @@
 # Movies to track. "year" is optional but helps avoid mix-ups with older
 # movies that share a title.
 movies:
-  - title: "The Only Living Pickpocket in New York"
-    # also_known_as:
-    #   - "Another title it goes by (e.g. on Spanish-language sites)"
-  - title: "Wicker"
-  - title: "The Mongoose"
-    also_known_as:
-      - "Mongoose"
+  # also_known_as lists other titles a movie goes by (e.g. on Spanish-language sites).
   - title: "Godzilla Minus Zero"
     also_known_as:
       - "Godzilla -0.0"
@@ -18,6 +12,8 @@ movies:
   - title: "Wild Horse Nine"
     also_known_as:
       - "Caballo Salvaje Nueve"
+  - title: "The Cat in the Hat"
+    year: 2026
 
 # Review sites to watch. A homepage, a film/reviews section, or an RSS feed
 # all work. The bot finds the site's feed automatically when there is one,
