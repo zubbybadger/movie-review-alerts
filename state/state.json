@@ -142,6 +142,16 @@
         "summary": "Cheap, not-quite-thrilling chase movie with thin characters; Neeson's likability and some heart can't lift it above 'catch it on streaming eventually.'",
         "url": "https://www.ign.com/articles/the-mongoose-review",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-02T01:39:42+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "Assignment X",
+        "rating": "",
+        "summary": "Unoriginal, but succeeds at what it sets out to do, with Neeson at ease and gleefully orchestrated car-chase action.",
+        "url": "https://www.assignmentx.com/2026/movie-review-the-mongoose/?utm_source=rss&utm_medium=rss&utm_campaign=movie-review-the-mongoose",
+        "verdict": "fresh"
       }
     ],
     "the only living pickpocket in new york|": [
@@ -1261,6 +1271,11 @@
     "the mongoose||https://timesofindia.indiatimes.com/entertainment/english/movie-details/the-mongoose/movieshow/132159959.cms": {
       "at": "2026-10-29T18:56:05+00:00",
       "status": "not_review"
+    },
+    "the mongoose||https://www.assignmentx.com/2026/movie-review-the-mongoose/?utm_source=rss&utm_medium=rss&utm_campaign=movie-review-the-mongoose": {
+      "at": "2026-11-02T01:39:42+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "the mongoose||https://www.hollywoodreporter.com/movies/movie-reviews/the-mongoose-review-liam-neeson-1236741778/": {
       "at": "2026-10-28T22:45:45+00:00",
