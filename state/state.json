@@ -80,6 +80,16 @@
         "summary": "Bigger, wilder sequel with flawless effects and thoughtful themes; script less tight than Minus One, but ultimately beautiful and emotionally cathartic.",
         "url": "https://consequence.net/2026/11/godzilla-minus-zero-review-takashi-yamazaki/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-02T21:31:10+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "IndieWire",
+        "rating": "",
+        "summary": "A more thematically coherent, emotionally affecting sequel with spectacular IMAX monster setpieces that improves on its predecessor in almost every way.",
+        "url": "https://www.indiewire.com/criticism/movies/godzilla-minus-zero-movie-review-1235218720/",
+        "verdict": "fresh"
       }
     ],
     "i play rocky|": [
@@ -1339,6 +1349,11 @@
     "godzilla minus zero||https://www.hollywoodreporter.com/movies/movie-news/godzilla-minus-zero-first-reactions-toho-1236743206/": {
       "at": "2026-10-30T04:12:58+00:00",
       "status": "not_review"
+    },
+    "godzilla minus zero||https://www.indiewire.com/criticism/movies/godzilla-minus-zero-movie-review-1235218720/": {
+      "at": "2026-11-02T21:31:10+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "godzilla minus zero||https://www.ndtv.com/entertainment/godzilla-minus-zero-avoids-ramayana-clash-india-release-pushed-by-2-weeks-report-12244819": {
       "at": "2026-10-29T16:23:49+00:00",
