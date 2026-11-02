@@ -70,6 +70,16 @@
         "summary": "More spectacular than Minus One but clumsier and more overwrought dramatically; still a positive balance with large-scale entertainment assured.",
         "url": "https://www.otroscines.com/post/critica-de-godzilla-minus-zero-pelicula-de-takashi-yamazaki",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-02T20:11:27+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Consequence",
+        "rating": "",
+        "summary": "Bigger, wilder sequel with flawless effects and thoughtful themes; script less tight than Minus One, but ultimately beautiful and emotionally cathartic.",
+        "url": "https://consequence.net/2026/11/godzilla-minus-zero-review-takashi-yamazaki/",
+        "verdict": "fresh"
       }
     ],
     "i play rocky|": [
@@ -1246,6 +1256,11 @@
   "seen": {
     "godzilla minus zero||https://collider.com/godzilla-minus-zero-review/": {
       "at": "2026-10-29T16:23:38+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "godzilla minus zero||https://consequence.net/2026/11/godzilla-minus-zero-review-takashi-yamazaki/": {
+      "at": "2026-11-02T20:11:27+00:00",
       "status": "review",
       "verdict": "fresh"
     },
