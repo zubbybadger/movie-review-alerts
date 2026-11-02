@@ -90,6 +90,16 @@
         "summary": "A more thematically coherent, emotionally affecting sequel with spectacular IMAX monster setpieces that improves on its predecessor in almost every way.",
         "url": "https://www.indiewire.com/criticism/movies/godzilla-minus-zero-movie-review-1235218720/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-02T22:11:37+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Winnipeg Free Press",
+        "rating": "2/4",
+        "summary": "Bloated human melodrama with shallow characters overwhelms the film, and the climactic monster battle is labored despite a superb aerial sequence.",
+        "url": "https://www.winnipegfreepress.com/arts-and-life/entertainment/2026/11/02/movie-review-in-godzilla-minus-zero-human-scaled-melodrama-stomps-out-the-kaiju-fun",
+        "verdict": "rotten"
       }
     ],
     "i play rocky|": [
@@ -1376,6 +1386,11 @@
     "godzilla minus zero||https://www.usatoday.com/story/entertainment/movies/2026/10/30/movies-new-popcorn-buckets-dune-godzilla-avengers/92487008007/": {
       "at": "2026-11-02T11:33:22+00:00",
       "status": "not_review"
+    },
+    "godzilla minus zero||https://www.winnipegfreepress.com/arts-and-life/entertainment/2026/11/02/movie-review-in-godzilla-minus-zero-human-scaled-melodrama-stomps-out-the-kaiju-fun": {
+      "at": "2026-11-02T22:11:37+00:00",
+      "status": "review",
+      "verdict": "rotten"
     },
     "i play rocky||http://www.shadowsonthewall.co.uk/26/iplayroc.htm": {
       "at": "2026-11-02T19:26:07+00:00",
