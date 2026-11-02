@@ -1214,6 +1214,10 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "godzilla minus zero||https://www.gamesradar.com/entertainment/sci-fi-movies/godzilla-minus-zero-director-would-probably-say-yes-if-toho-offered-him-a-third-film/": {
+      "at": "2026-11-02T03:19:52+00:00",
+      "status": "not_review"
+    },
     "godzilla minus zero||https://www.gamesradar.com/entertainment/sci-fi-movies/godzilla-minus-zero-review/": {
       "at": "2026-10-29T16:23:32+00:00",
       "status": "review",
@@ -1271,6 +1275,10 @@
     "the mongoose||https://timesofindia.indiatimes.com/entertainment/english/movie-details/the-mongoose/movieshow/132159959.cms": {
       "at": "2026-10-29T18:56:05+00:00",
       "status": "not_review"
+    },
+    "the mongoose||https://www.assignmentx.com/2026/movie-review-the-mongoose/": {
+      "at": "2026-11-02T03:19:50+00:00",
+      "status": "duplicate"
     },
     "the mongoose||https://www.assignmentx.com/2026/movie-review-the-mongoose/?utm_source=rss&utm_medium=rss&utm_campaign=movie-review-the-mongoose": {
       "at": "2026-11-02T01:39:42+00:00",
