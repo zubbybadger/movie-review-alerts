@@ -14,6 +14,7 @@ movies:
       - "Caballo Salvaje Nueve"
   - title: "The Cat in the Hat"
     year: 2026
+  - title: "I Play Rocky"
 
 # Review sites to watch. A homepage, a film/reviews section, or an RSS feed
 # all work. The bot finds the site's feed automatically when there is one,
