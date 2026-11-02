@@ -1178,6 +1178,16 @@
         "summary": "Praises McDonagh's mix of dark comedy and spy thriller and the superb Malkovich and Rockwell performances, despite some heavy-handed moralizing.",
         "url": "https://www.cinefilia.blog/2026/11/caballo-salvaje-nueve-2026-critica.html",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-02T11:33:20+00:00",
+        "confidence": "high",
+        "critic": "Neil Pond",
+        "outlet": "Neil's Entertainment Picks",
+        "rating": "",
+        "summary": "Masterfully orchestrated, engaging blend of political intrigue and buddy comedy, with dynamite Rockwell-Malkovich chemistry and an intoxicating Easter Island setting.",
+        "url": "https://neilsentertainmentpicks.com/2026/11/02/movie-review-wild-horse-nine/",
+        "verdict": "fresh"
       }
     ]
   },
@@ -1268,6 +1278,10 @@
       "at": "2026-10-29T16:23:47+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "godzilla minus zero||https://www.usatoday.com/story/entertainment/movies/2026/10/30/movies-new-popcorn-buckets-dune-godzilla-avengers/92487008007/": {
+      "at": "2026-11-02T11:33:22+00:00",
+      "status": "not_review"
     },
     "the mongoose||http://www.markreviewsmovies.com/reviews/M/mongoose.htm": {
       "at": "2026-10-29T14:31:52+00:00",
@@ -2110,6 +2124,11 @@
     "wild horse nine||https://jmuvies.blogspot.com/2026/09/33-years-and-counting-but-tiffs-still.html": {
       "at": "2026-10-30T17:30:40+00:00",
       "status": "not_review"
+    },
+    "wild horse nine||https://neilsentertainmentpicks.com/2026/11/02/movie-review-wild-horse-nine/": {
+      "at": "2026-11-02T11:33:20+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "wild horse nine||https://silverscreenriot.com/every-martin-mcdonagh-movie-ranked/?utm_source=rss&utm_medium=rss&utm_campaign=every-martin-mcdonagh-movie-ranked": {
       "at": "2026-11-01T16:25:03+00:00",
