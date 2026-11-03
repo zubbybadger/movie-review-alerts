@@ -2381,9 +2381,17 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "wild horse nine||https://silverscreenriot.com/every-martin-mcdonagh-movie-ranked/": {
+      "at": "2026-11-03T16:43:12+00:00",
+      "status": "not_review"
+    },
     "wild horse nine||https://silverscreenriot.com/every-martin-mcdonagh-movie-ranked/?utm_source=rss&utm_medium=rss&utm_campaign=every-martin-mcdonagh-movie-ranked": {
       "at": "2026-11-01T16:25:03+00:00",
       "status": "not_review"
+    },
+    "wild horse nine||https://silverscreenriot.com/wild-horse-nine-review/": {
+      "at": "2026-11-03T16:43:09+00:00",
+      "status": "duplicate"
     },
     "wild horse nine||https://silverscreenriot.com/wild-horse-nine-review/?utm_source=rss&utm_medium=rss&utm_campaign=wild-horse-nine-review": {
       "at": "2026-11-03T15:58:10+00:00",
