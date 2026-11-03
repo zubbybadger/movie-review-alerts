@@ -1290,6 +1290,16 @@
         "summary": "McDonagh's venomous wit, gorgeous visuals and Malkovich's astounding performance outweigh an overstuffed third act.",
         "url": "https://cineramafilm.com/2026/11/02/wild-horse-nine-review/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-03T13:05:24+00:00",
+        "confidence": "high",
+        "critic": "Michael Calabro",
+        "outlet": "IGN",
+        "rating": "8/10",
+        "summary": "McDonagh tackles CIA-backed regime change while staying hilarious, with brilliant dialogue and great Malkovich-Rockwell chemistry.",
+        "url": "https://www.ign.com/articles/wild-horse-nine-review",
+        "verdict": "fresh"
       }
     ]
   },
@@ -1328,6 +1338,10 @@
     },
     "godzilla minus zero||https://theplaylist.net/godzilla-minus-zero-james-cameron-aliens-terminator-2-20261027/": {
       "at": "2026-10-29T16:23:35+00:00",
+      "status": "not_review"
+    },
+    "godzilla minus zero||https://time.com/article/2026/11/03/godzilla-minus-zero-Takashi-Yamazaki-interview/": {
+      "at": "2026-11-03T13:05:18+00:00",
       "status": "not_review"
     },
     "godzilla minus zero||https://timesofindia.indiatimes.com/entertainment/english/movie-details/godzilla-minus-zero/movieshow/130311956.cms": {
@@ -1370,6 +1384,10 @@
     },
     "godzilla minus zero||https://www.gamesradar.com/entertainment/sci-fi-movies/godzilla-minus-zero-director-would-probably-say-yes-if-toho-offered-him-a-third-film/": {
       "at": "2026-11-02T03:19:52+00:00",
+      "status": "not_review"
+    },
+    "godzilla minus zero||https://www.gamesradar.com/entertainment/sci-fi-movies/godzilla-minus-zero-is-so-loud-that-it-gave-one-viewer-a-health-warning/": {
+      "at": "2026-11-03T13:05:22+00:00",
       "status": "not_review"
     },
     "godzilla minus zero||https://www.gamesradar.com/entertainment/sci-fi-movies/godzilla-minus-zero-review/": {
@@ -2367,6 +2385,15 @@
       "at": "2026-10-30T16:54:01+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "wild horse nine||https://www.ign.com/articles/wild-horse-nine-review": {
+      "at": "2026-11-03T13:05:24+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "wild horse nine||https://www.ign.com/movies/wild-horse-nine": {
+      "at": "2026-11-03T13:05:26+00:00",
+      "status": "duplicate"
     },
     "wild horse nine||https://www.newyorker.com/magazine/2026/11/09/wild-horse-nine-movie-review": {
       "at": "2026-10-30T16:54:30+00:00",
