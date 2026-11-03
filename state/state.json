@@ -1422,6 +1422,16 @@
         "summary": "Strikingly funny and poignant, among McDonagh's sharpest works, powered by an all-time pairing of Malkovich and Rockwell.",
         "url": "https://silverscreenriot.com/wild-horse-nine-review/?utm_source=rss&utm_medium=rss&utm_campaign=wild-horse-nine-review",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-03T18:16:59+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Winnipeg Free Press",
+        "rating": "3/4",
+        "summary": "Familiar McDonagh formula, but sharp writing and superb performances from Rockwell and Malkovich make it profound and compelling.",
+        "url": "https://www.winnipegfreepress.com/arts-and-life/entertainment/2026/11/03/movie-review-in-wild-horse-nine-death-looms-for-a-cia-goon",
+        "verdict": "fresh"
       }
     ]
   },
@@ -2630,6 +2640,11 @@
     },
     "wild horse nine||https://www.thetraverstake.com/featured/wild-horse-nine/": {
       "at": "2026-10-30T16:54:15+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "wild horse nine||https://www.winnipegfreepress.com/arts-and-life/entertainment/2026/11/03/movie-review-in-wild-horse-nine-death-looms-for-a-cia-goon": {
+      "at": "2026-11-03T18:16:59+00:00",
       "status": "review",
       "verdict": "fresh"
     }
