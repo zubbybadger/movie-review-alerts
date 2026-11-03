@@ -1310,6 +1310,16 @@
         "summary": "McDonagh tackles CIA-backed regime change while staying hilarious, with brilliant dialogue and great Malkovich-Rockwell chemistry.",
         "url": "https://www.ign.com/articles/wild-horse-nine-review",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-03T15:58:10+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Silver Screen Riot",
+        "rating": "A-",
+        "summary": "Strikingly funny and poignant, among McDonagh's sharpest works, powered by an all-time pairing of Malkovich and Rockwell.",
+        "url": "https://silverscreenriot.com/wild-horse-nine-review/?utm_source=rss&utm_medium=rss&utm_campaign=wild-horse-nine-review",
+        "verdict": "fresh"
       }
     ]
   },
@@ -1341,6 +1351,10 @@
       "at": "2026-10-29T16:23:41+00:00",
       "status": "review",
       "verdict": "rotten"
+    },
+    "godzilla minus zero||https://screenrant.com/godzilla-minus-zero-title-explained/": {
+      "at": "2026-11-03T15:58:14+00:00",
+      "status": "not_review"
     },
     "godzilla minus zero||https://splicedpersonality.com/2026/10/06/nyff64-part-two-paper-tiger-godzilla-minus-zero-my-undesirable-friends-part-ii-exile/": {
       "at": "2026-10-29T16:23:21+00:00",
@@ -2370,6 +2384,11 @@
     "wild horse nine||https://silverscreenriot.com/every-martin-mcdonagh-movie-ranked/?utm_source=rss&utm_medium=rss&utm_campaign=every-martin-mcdonagh-movie-ranked": {
       "at": "2026-11-01T16:25:03+00:00",
       "status": "not_review"
+    },
+    "wild horse nine||https://silverscreenriot.com/wild-horse-nine-review/?utm_source=rss&utm_medium=rss&utm_campaign=wild-horse-nine-review": {
+      "at": "2026-11-03T15:58:10+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "wild horse nine||https://thecurvyfilmcritic.com/malkovich-and-rockwell-are-perfection-in-wild-horse-nine/": {
       "at": "2026-10-31T06:21:38+00:00",
