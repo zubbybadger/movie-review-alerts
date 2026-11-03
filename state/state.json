@@ -100,6 +100,16 @@
         "summary": "Bloated human melodrama with shallow characters overwhelms the film, and the climactic monster battle is labored despite a superb aerial sequence.",
         "url": "https://www.winnipegfreepress.com/arts-and-life/entertainment/2026/11/02/movie-review-in-godzilla-minus-zero-human-scaled-melodrama-stomps-out-the-kaiju-fun",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-03T08:36:46+00:00",
+        "confidence": "high",
+        "critic": "Terence Johnson",
+        "outlet": "Le Noir Auteur",
+        "rating": "",
+        "summary": "Strong human drama and stunning IMAX kaiju spectacle with top-notch VFX and score outweigh occasionally overwrought emotional beats.",
+        "url": "https://lenoirauteur.net/2026/11/03/film-review-godzilla-minus-zero/",
+        "verdict": "fresh"
       }
     ],
     "i play rocky|": [
@@ -1284,6 +1294,11 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "godzilla minus zero||https://lenoirauteur.net/2026/11/03/film-review-godzilla-minus-zero/": {
+      "at": "2026-11-03T08:36:46+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "godzilla minus zero||https://screenanarchy.com/2026/11/opening-this-week-godzilla-minus-zero-paradise-lost-ramayana-rise-of-a-legend.html": {
       "at": "2026-11-02T16:43:13+00:00",
       "status": "not_review"
@@ -1435,6 +1450,10 @@
       "at": "2026-11-02T19:26:20+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "the cat in the hat|2026|https://variety.com/2026/tv/news/bill-hader-guest-star-abbott-elementary-1236938191/": {
+      "at": "2026-11-03T08:36:43+00:00",
+      "status": "not_review"
     },
     "the cat in the hat|2026|https://www.thehindu.com/entertainment/movies/the-cat-in-the-hat-writer-directors-alessandro-carloni-and-erica-rivinoja-on-dr-seusss-legacy-of-lunacy/article71627635.ece": {
       "at": "2026-11-02T19:26:25+00:00",
