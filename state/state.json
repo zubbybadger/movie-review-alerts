@@ -120,6 +120,16 @@
         "summary": "Yamazaki surpasses Minus One with deeper emotional complexity, terrifying kaiju action, and gold-standard effects blending practical and CG.",
         "url": "https://www.macabredaily.com/articles/godzilla-minus-zero-2026-improves-upon-an-already-amazing-formula-review",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-03T15:13:00+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "Espinof",
+        "rating": "",
+        "summary": "Spectacular, best-ever kaiju action can't make up for an insipid, repetitive, over-explained script and clich\u00e9d characters that drag the film down.",
+        "url": "https://www.espinof.com/criticas/godzilla-minus-zero-tiene-escenas-kaijus-espectaculares-historia-cine-ojala-no-estuvieran-rodeadas-unos-personajes-insipidos-guion-repetitivo",
+        "verdict": "rotten"
       }
     ],
     "i play rocky|": [
@@ -1378,6 +1388,11 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "godzilla minus zero||https://www.espinof.com/criticas/godzilla-minus-zero-tiene-escenas-kaijus-espectaculares-historia-cine-ojala-no-estuvieran-rodeadas-unos-personajes-insipidos-guion-repetitivo": {
+      "at": "2026-11-03T15:13:00+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
     "godzilla minus zero||https://www.gamesradar.com/entertainment/sci-fi-movies/despite-introducing-ghidorah-godzilla-minus-zero-director-says-he-didnt-want-the-sequel-to-turn-into-a-giant-pro-wrestling-match-between-two-kaiju/": {
       "at": "2026-11-02T12:33:59+00:00",
       "status": "not_review"
@@ -2365,6 +2380,10 @@
       "at": "2026-10-30T16:53:58+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "wild horse nine||https://theplaylist.net/best-actor-contenders-predictions-john-malkovich-andrew-scott-matt-damon-20261103/": {
+      "at": "2026-11-03T15:13:02+00:00",
+      "status": "not_review"
     },
     "wild horse nine||https://theplaylist.net/november-movies-godzilla-minus-zero-paper-tiger-cliff-booth-20261102/": {
       "at": "2026-11-02T16:43:16+00:00",
