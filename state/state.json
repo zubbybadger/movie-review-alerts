@@ -130,6 +130,16 @@
         "summary": "Spectacular, best-ever kaiju action can't make up for an insipid, repetitive, over-explained script and clich\u00e9d characters that drag the film down.",
         "url": "https://www.espinof.com/criticas/godzilla-minus-zero-tiene-escenas-kaijus-espectaculares-historia-cine-ojala-no-estuvieran-rodeadas-unos-personajes-insipidos-guion-repetitivo",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-03T17:31:49+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "Film Feeder",
+        "rating": "",
+        "summary": "A strong, well-made sequel with greater scale and emotion, though formulaic and overstuffed with characters compared to its predecessor.",
+        "url": "https://filmfeeder.co.uk/film-reviews/godzilla-minus-zero-dir-takashi-yamazaki?utm_source=rss&utm_medium=rss&utm_campaign=godzilla-minus-zero-dir-takashi-yamazaki",
+        "verdict": "fresh"
       }
     ],
     "i play rocky|": [
@@ -172,6 +182,98 @@
         "summary": "Though syrupy and redundant for fans, Anthony Ippolito's uncanny Stallone performance and a warm ensemble make it a loving, inspiring tribute.",
         "url": "https://www.slashfilm.com/2261212/i-play-rocky-movie-review/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-03T17:32:18+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Den of Geek",
+        "rating": "",
+        "summary": "A sweet, crowdpleasing underdog tale with an uncanny Anthony Ippolito and gossipy industry satire, despite a conventional third act.",
+        "url": "https://www.denofgeek.com/movies/i-play-rocky-review-sylvester-stallone/",
+        "verdict": "fresh"
+      }
+    ],
+    "the cat in the hat|2026": [
+      {
+        "at": "2026-11-03T17:31:42+00:00",
+        "confidence": "high",
+        "critic": "Owen Gleiberman",
+        "outlet": "Variety",
+        "rating": "",
+        "summary": "An overstuffed, corporate mash-up of blockbuster clich\u00e9s that abandons Seuss's spirit; hectic, overcrowded and underfelt, with a too-safe Hader Cat.",
+        "url": "https://variety.com/2026/film/reviews/the-cat-in-the-hat-review-bill-hader-1236937564/",
+        "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-03T17:31:47+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Winnipeg Free Press",
+        "rating": "1.5/4",
+        "summary": "Despite lovely animation and strong voice cast, it inflates Seuss's simple tale into bloated universe-ending stakes with muddled messages and no rhymes.",
+        "url": "https://www.winnipegfreepress.com/arts-and-life/entertainment/2026/11/03/movie-review-the-cat-in-the-hat-ridiculously-builds-the-stakes-so-high-the-universe-could-die",
+        "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-03T17:32:01+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "The Hollywood Reporter",
+        "rating": "",
+        "summary": "Captures Seuss's antic silliness but not his charm; overstuffed, tonally muddy, and more taxing than enjoyable despite some funny moments.",
+        "url": "https://www.hollywoodreporter.com/movies/movie-reviews/the-cat-in-the-hat-review-bill-hader-1236746055/",
+        "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-03T17:32:03+00:00",
+        "confidence": "high",
+        "critic": "Pete Hammond",
+        "outlet": "Deadline",
+        "rating": "",
+        "summary": "A smart, funny, heartfelt adaptation with a terrific Bill Hader performance, dazzling visuals and charm for the whole family.",
+        "url": "https://deadline.com/2026/11/cat-in-the-hat-review-bill-hader-dr-seuss-animated-debut-1237211639/",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-03T17:32:08+00:00",
+        "confidence": "high",
+        "critic": "Jacob Oller",
+        "outlet": "The A.V. Club",
+        "rating": "",
+        "summary": "Stretches Seuss's contained book into a generic, overcomplicated, saccharine world-hopping adventure, despite some good gags, animation, and Hader's performance.",
+        "url": "https://www.avclub.com/the-cat-in-the-hat-review-2026-dr-seuss-bill-hader-animated",
+        "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-03T17:32:11+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "Screen Rant",
+        "rating": "",
+        "summary": "Bill Hader's charming Cat and genuine humor are undercut by a jumbled, illogical narrative and heavy-handed messaging.",
+        "url": "https://screenrant.com/the-cat-in-the-hat-2026-movie-review/",
+        "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-03T17:32:14+00:00",
+        "confidence": "high",
+        "critic": "Eric Goldman",
+        "outlet": "IGN",
+        "rating": "7/10",
+        "summary": "Creative visuals, frequent laughs, and strong voice work from Bill Hader and Matt Berry outweigh an overlong, overstuffed third act.",
+        "url": "https://www.ign.com/articles/the-cat-in-the-hat-2026-review",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-03T17:32:24+00:00",
+        "confidence": "high",
+        "critic": "Kristy Puchko",
+        "outlet": "Mashable",
+        "rating": "",
+        "summary": "Warm animation and a fun Bill Hader can't save an overstuffed plot, chaotic action, and excessive fart jokes; mediocre at best.",
+        "url": "https://mashable.com/entertainment/the-cat-in-the-hat-2026-review",
+        "verdict": "rotten"
       }
     ],
     "the mongoose|": [
@@ -1324,6 +1426,10 @@
     ]
   },
   "seen": {
+    "godzilla minus zero||https://boundingintocomics.com/movies/king-ghidorah-in-godzilla-minus-zero": {
+      "at": "2026-11-03T17:31:45+00:00",
+      "status": "not_review"
+    },
     "godzilla minus zero||https://collider.com/godzilla-minus-zero-review/": {
       "at": "2026-10-29T16:23:38+00:00",
       "status": "review",
@@ -1331,6 +1437,15 @@
     },
     "godzilla minus zero||https://consequence.net/2026/11/godzilla-minus-zero-review-takashi-yamazaki/": {
       "at": "2026-11-02T20:11:27+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "godzilla minus zero||https://filmfeeder.co.uk/film-reviews/godzilla-minus-zero-dir-takashi-yamazaki": {
+      "at": "2026-11-03T17:31:56+00:00",
+      "status": "duplicate"
+    },
+    "godzilla minus zero||https://filmfeeder.co.uk/film-reviews/godzilla-minus-zero-dir-takashi-yamazaki?utm_source=rss&utm_medium=rss&utm_campaign=godzilla-minus-zero-dir-takashi-yamazaki": {
+      "at": "2026-11-03T17:31:49+00:00",
       "status": "review",
       "verdict": "fresh"
     },
@@ -1499,6 +1614,11 @@
       "at": "2026-11-02T19:26:05+00:00",
       "status": "duplicate"
     },
+    "i play rocky||https://www.denofgeek.com/movies/i-play-rocky-review-sylvester-stallone/": {
+      "at": "2026-11-03T17:32:18+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "i play rocky||https://www.hollywoodreporter.com/movies/movie-news/golden-globes-i-play-rocky-submitted-comedy-exclusive-1236746064/": {
       "at": "2026-11-02T19:26:11+00:00",
       "status": "not_review"
@@ -1517,13 +1637,61 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "the cat in the hat|2026|https://deadline.com/2026/11/cat-in-the-hat-review-bill-hader-dr-seuss-animated-debut-1237211639/": {
+      "at": "2026-11-03T17:32:03+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "the cat in the hat|2026|https://deadline.com/print-article/1237211639?KeepThis=1&TB_iframe=1&height=500&width=750": {
+      "at": "2026-11-03T17:32:05+00:00",
+      "status": "duplicate"
+    },
+    "the cat in the hat|2026|https://mashable.com/entertainment/the-cat-in-the-hat-2026-review": {
+      "at": "2026-11-03T17:32:24+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
+    "the cat in the hat|2026|https://screenrant.com/the-cat-in-the-hat-2026-movie-review/": {
+      "at": "2026-11-03T17:32:11+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
+    "the cat in the hat|2026|https://variety.com/2026/film/reviews/the-cat-in-the-hat-review-bill-hader-1236937564/": {
+      "at": "2026-11-03T17:31:42+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
     "the cat in the hat|2026|https://variety.com/2026/tv/news/bill-hader-guest-star-abbott-elementary-1236938191/": {
       "at": "2026-11-03T08:36:43+00:00",
       "status": "not_review"
     },
+    "the cat in the hat|2026|https://www.avclub.com/the-cat-in-the-hat-review-2026-dr-seuss-bill-hader-animated": {
+      "at": "2026-11-03T17:32:08+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
+    "the cat in the hat|2026|https://www.hollywoodreporter.com/movies/movie-reviews/the-cat-in-the-hat-review-bill-hader-1236746055/": {
+      "at": "2026-11-03T17:32:01+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
+    "the cat in the hat|2026|https://www.ign.com/articles/the-cat-in-the-hat-2026-review": {
+      "at": "2026-11-03T17:32:14+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "the cat in the hat|2026|https://www.ign.com/movies/the-cat-in-the-hat": {
+      "at": "2026-11-03T17:32:15+00:00",
+      "status": "duplicate"
+    },
     "the cat in the hat|2026|https://www.thehindu.com/entertainment/movies/the-cat-in-the-hat-writer-directors-alessandro-carloni-and-erica-rivinoja-on-dr-seusss-legacy-of-lunacy/article71627635.ece": {
       "at": "2026-11-02T19:26:25+00:00",
       "status": "not_review"
+    },
+    "the cat in the hat|2026|https://www.winnipegfreepress.com/arts-and-life/entertainment/2026/11/03/movie-review-the-cat-in-the-hat-ridiculously-builds-the-stakes-so-high-the-universe-could-die": {
+      "at": "2026-11-03T17:31:47+00:00",
+      "status": "review",
+      "verdict": "rotten"
     },
     "the mongoose||http://www.markreviewsmovies.com/reviews/M/mongoose.htm": {
       "at": "2026-10-29T14:31:52+00:00",
