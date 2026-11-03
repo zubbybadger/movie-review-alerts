@@ -110,6 +110,16 @@
         "summary": "Strong human drama and stunning IMAX kaiju spectacle with top-notch VFX and score outweigh occasionally overwrought emotional beats.",
         "url": "https://lenoirauteur.net/2026/11/03/film-review-godzilla-minus-zero/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-03T12:09:46+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Macabre Daily",
+        "rating": "",
+        "summary": "Yamazaki surpasses Minus One with deeper emotional complexity, terrifying kaiju action, and gold-standard effects blending practical and CG.",
+        "url": "https://www.macabredaily.com/articles/godzilla-minus-zero-2026-improves-upon-an-already-amazing-formula-review",
+        "verdict": "fresh"
       }
     ],
     "i play rocky|": [
@@ -1377,6 +1387,11 @@
     },
     "godzilla minus zero||https://www.indiewire.com/criticism/movies/godzilla-minus-zero-movie-review-1235218720/": {
       "at": "2026-11-02T21:31:10+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "godzilla minus zero||https://www.macabredaily.com/articles/godzilla-minus-zero-2026-improves-upon-an-already-amazing-formula-review": {
+      "at": "2026-11-03T12:09:46+00:00",
       "status": "review",
       "verdict": "fresh"
     },
