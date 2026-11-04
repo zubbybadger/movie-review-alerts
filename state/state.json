@@ -190,6 +190,16 @@
         "summary": "A rushed sequel with paper-thin characters, wasted ideas and gloopy sentimentality that delivers massively diminished returns.",
         "url": "https://www.lwlies.com/reviews/godzilla-minus-zero",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-04T14:40:13+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Silver Screen Riot",
+        "rating": "B+",
+        "summary": "Confident, campy maximalist monster filmmaking with thrilling set pieces and genuine emotion, despite some sagging pacing.",
+        "url": "https://silverscreenriot.com/godzilla-minus-zero-review/?utm_source=rss&utm_medium=rss&utm_campaign=godzilla-minus-zero-review",
+        "verdict": "fresh"
       }
     ],
     "i play rocky|": [
@@ -1594,6 +1604,11 @@
       "at": "2026-11-03T22:56:29+00:00",
       "status": "not_review"
     },
+    "godzilla minus zero||https://silverscreenriot.com/godzilla-minus-zero-review/?utm_source=rss&utm_medium=rss&utm_campaign=godzilla-minus-zero-review": {
+      "at": "2026-11-04T14:40:13+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "godzilla minus zero||https://splicedpersonality.com/2026/10/06/nyff64-part-two-paper-tiger-godzilla-minus-zero-my-undesirable-friends-part-ii-exile/": {
       "at": "2026-10-29T16:23:21+00:00",
       "status": "not_review"
@@ -2772,6 +2787,10 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "wild horse nine||https://www.denofgeek.com/movies/martin-mcdonagh-in-bruges-wild-horse-nine/": {
+      "at": "2026-11-04T14:40:18+00:00",
+      "status": "not_review"
+    },
     "wild horse nine||https://www.empireonline.com/movies/reviews/wild-horse-nine/": {
       "at": "2026-10-30T16:54:59+00:00",
       "status": "review",
@@ -2795,6 +2814,10 @@
     "wild horse nine||https://www.ign.com/movies/wild-horse-nine": {
       "at": "2026-11-03T13:05:26+00:00",
       "status": "duplicate"
+    },
+    "wild horse nine||https://www.independent.co.uk/news/john-malkovich-martin-mcdonagh-new-york-chris-cia-b3079073.html": {
+      "at": "2026-11-04T14:40:16+00:00",
+      "status": "not_review"
     },
     "wild horse nine||https://www.lwlies.com/in-conversation/john-malkovich-wild-horse-nine": {
       "at": "2026-11-04T13:38:55+00:00",
