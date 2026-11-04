@@ -200,6 +200,16 @@
         "summary": "Confident, campy maximalist monster filmmaking with thrilling set pieces and genuine emotion, despite some sagging pacing.",
         "url": "https://silverscreenriot.com/godzilla-minus-zero-review/?utm_source=rss&utm_medium=rss&utm_campaign=godzilla-minus-zero-review",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-04T15:30:51+00:00",
+        "confidence": "medium",
+        "critic": "Rich Cline",
+        "outlet": "Shadows on the Wall",
+        "rating": "",
+        "summary": "Thunderously engaging effects-driven set-pieces and intriguing moral textures outweigh heavy melodrama and a muddled final act.",
+        "url": "http://www.shadowsonthewall.co.uk/26/31-f.htm",
+        "verdict": "fresh"
       }
     ],
     "i play rocky|": [
@@ -1546,6 +1556,11 @@
     ]
   },
   "seen": {
+    "godzilla minus zero||http://www.shadowsonthewall.co.uk/26/31-f.htm": {
+      "at": "2026-11-04T15:30:51+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "godzilla minus zero||https://boundingintocomics.com/movies/king-ghidorah-in-godzilla-minus-zero": {
       "at": "2026-11-03T17:31:45+00:00",
       "status": "not_review"
