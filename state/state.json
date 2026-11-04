@@ -150,6 +150,46 @@
         "summary": "An epic, emotionally moving anti-war sequel with stunning IMAX visuals, only slightly more scattered than Minus One.",
         "url": "https://megustaelcine.com/critica-godzilla-minus-zero-el-rey-esta-de-vuelta/?utm_source=rss&utm_medium=rss&utm_campaign=critica-godzilla-minus-zero-el-rey-esta-de-vuelta",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-04T11:38:51+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Cineman\u00eda (20minutos)",
+        "rating": "",
+        "summary": "Despite noted nationalist concerns, Yamazaki's technical mastery and balance of monsters and humans make it among the year's best-shot blockbusters.",
+        "url": "https://www.20minutos.es/cinemania/criticas/critica-godzilla-minus-zero-blockbuster-mejor-rodado-ano_7056270_3.html",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-04T11:38:58+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "Fotogramas",
+        "rating": "",
+        "summary": "A longer but less interesting sequel whose heavy melodrama overwhelms sparingly used monster spectacle; Godzilla impresses but nothing memorable results.",
+        "url": "https://www.fotogramas.es/peliculas-criticas/a74282708/godzilla-minus-zero-critica-pelicula-opinion/",
+        "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-04T11:39:03+00:00",
+        "confidence": "low",
+        "critic": "Matt Schimkowitz",
+        "outlet": "The A.V. Club",
+        "rating": "",
+        "summary": "Thrilling aerial set pieces and strong craft, but an overstuffed plot, heavy exposition and too little Godzilla bring diminishing returns.",
+        "url": "https://www.avclub.com/godzilla-minus-zero-review-king-ghidorah-sequel",
+        "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-04T11:39:06+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Little White Lies",
+        "rating": "",
+        "summary": "A rushed sequel with paper-thin characters, wasted ideas and gloopy sentimentality that delivers massively diminished returns.",
+        "url": "https://www.lwlies.com/reviews/godzilla-minus-zero",
+        "verdict": "rotten"
       }
     ],
     "i play rocky|": [
@@ -212,6 +252,16 @@
         "summary": "Praises Ippolito's uncanny performance and the love story, but finds the broad comedy misjudged and the emotional power borrowed from the original Rocky.",
         "url": "https://www.eyeforfilm.co.uk/review/i-play-rocky-2026-film-review-by-paul-risker",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-04T11:39:09+00:00",
+        "confidence": "low",
+        "critic": "",
+        "outlet": "Little White Lies",
+        "rating": "",
+        "summary": "A toothless, hagiographic by-the-numbers biopic, but Anthony Ippolito's charming lead performance makes it fleetingly engaging.",
+        "url": "https://www.lwlies.com/reviews/i-play-rocky",
+        "verdict": "fresh"
       }
     ],
     "the cat in the hat|2026": [
@@ -1558,6 +1608,16 @@
       "at": "2026-11-01T05:26:45+00:00",
       "status": "not_review"
     },
+    "godzilla minus zero||https://www.20minutos.es/cinemania/criticas/critica-godzilla-minus-zero-blockbuster-mejor-rodado-ano_7056270_3.html": {
+      "at": "2026-11-04T11:38:51+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "godzilla minus zero||https://www.avclub.com/godzilla-minus-zero-review-king-ghidorah-sequel": {
+      "at": "2026-11-04T11:39:03+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
     "godzilla minus zero||https://www.bollywoodhungama.com/news/bollywood/scoop-godzilla-minus-zeros-india-release-likely-to-be-pushed-to-november-20-due-to-ramayanas-two-week-imax-exclusivity/": {
       "at": "2026-10-29T16:23:50+00:00",
       "status": "not_review"
@@ -1582,6 +1642,11 @@
     },
     "godzilla minus zero||https://www.espinof.com/criticas/godzilla-minus-zero-tiene-escenas-kaijus-espectaculares-historia-cine-ojala-no-estuvieran-rodeadas-unos-personajes-insipidos-guion-repetitivo": {
       "at": "2026-11-03T15:13:00+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
+    "godzilla minus zero||https://www.fotogramas.es/peliculas-criticas/a74282708/godzilla-minus-zero-critica-pelicula-opinion/": {
+      "at": "2026-11-04T11:38:58+00:00",
       "status": "review",
       "verdict": "rotten"
     },
@@ -1614,6 +1679,11 @@
       "at": "2026-11-02T21:31:10+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "godzilla minus zero||https://www.lwlies.com/reviews/godzilla-minus-zero": {
+      "at": "2026-11-04T11:39:06+00:00",
+      "status": "review",
+      "verdict": "rotten"
     },
     "godzilla minus zero||https://www.macabredaily.com/articles/godzilla-minus-zero-2026-improves-upon-an-already-amazing-formula-review": {
       "at": "2026-11-03T12:09:46+00:00",
@@ -1704,10 +1774,23 @@
       "at": "2026-11-03T14:20:06+00:00",
       "status": "not_review"
     },
+    "i play rocky||https://www.latimes.com/entertainment-arts/movies/story/2026-11-04/anthony-ippolito-i-play-rocky-peter-farrelly-sylvester-stallone": {
+      "at": "2026-11-04T11:39:00+00:00",
+      "status": "not_review"
+    },
+    "i play rocky||https://www.lwlies.com/reviews/i-play-rocky": {
+      "at": "2026-11-04T11:39:09+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "i play rocky||https://www.slashfilm.com/2261212/i-play-rocky-movie-review/": {
       "at": "2026-11-02T19:26:20+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "i play rocky||https://www.winnipegfreepress.com/arts-and-life/entertainment/2026/11/04/how-anthony-ippolito-talked-his-way-into-playing-sylvester-stallone-in-i-play-rocky": {
+      "at": "2026-11-04T11:38:54+00:00",
+      "status": "not_review"
     },
     "the cat in the hat|2026|https://culturemixonline.com/review-the-cat-in-the-hat-2026-starring-the-voices-of-bill-hader-matt-berry-quinta-brunson-xochitl-gomez-tiago-martinez-giancarlo-esposito-and-america-ferrera/": {
       "at": "2026-11-04T01:07:33+00:00",
@@ -2651,6 +2734,10 @@
       "at": "2026-11-03T15:58:10+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "wild horse nine||https://splicedpersonality.com/2026/11/04/wild-horse-nine/": {
+      "at": "2026-11-04T11:38:56+00:00",
+      "status": "not_review"
     },
     "wild horse nine||https://thecurvyfilmcritic.com/malkovich-and-rockwell-are-perfection-in-wild-horse-nine/": {
       "at": "2026-10-31T06:21:38+00:00",
