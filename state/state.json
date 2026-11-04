@@ -1572,6 +1572,26 @@
         "summary": "Colorful, beautiful, and an absolute pleasure to watch with career-best Malkovich, though ultimately ephemeral and underusing its supporting cast.",
         "url": "https://screenanarchy.com/2026/11/wild-horse-nine-review.html",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-04T20:01:20+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Filmfeeder",
+        "rating": "",
+        "summary": "McDonagh's most mature, emotionally resonant film, blending humour and poignancy, with a career-best John Malkovich leading an excellent cast.",
+        "url": "https://filmfeeder.co.uk/film-reviews/wild-horse-nine-dir-martin-mcdonagh?utm_source=rss&utm_medium=rss&utm_campaign=wild-horse-nine-dir-martin-mcdonagh",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-04T20:01:30+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Los Angeles Times",
+        "rating": "",
+        "summary": "A marvelous Malkovich and merciless McDonagh quips make this dark CIA comedy a fine In Bruges echo, despite thin suspense.",
+        "url": "https://www.latimes.com/entertainment-arts/movies/story/2026-11-04/wild-horse-nine-review-john-malkovich-sam-rockwell-steve-buscemi-martin-mcdonagh",
+        "verdict": "fresh"
       }
     ]
   },
@@ -2782,6 +2802,15 @@
       "at": "2026-10-30T18:07:54+00:00",
       "status": "not_review"
     },
+    "wild horse nine||https://filmfeeder.co.uk/film-reviews/wild-horse-nine-dir-martin-mcdonagh": {
+      "at": "2026-11-04T20:01:25+00:00",
+      "status": "duplicate"
+    },
+    "wild horse nine||https://filmfeeder.co.uk/film-reviews/wild-horse-nine-dir-martin-mcdonagh?utm_source=rss&utm_medium=rss&utm_campaign=wild-horse-nine-dir-martin-mcdonagh": {
+      "at": "2026-11-04T20:01:20+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "wild horse nine||https://jmuvies.blogspot.com/2026/09/33-years-and-counting-but-tiffs-still.html": {
       "at": "2026-10-30T17:30:40+00:00",
       "status": "not_review"
@@ -2875,6 +2904,11 @@
     "wild horse nine||https://www.independent.co.uk/news/john-malkovich-martin-mcdonagh-new-york-chris-cia-b3079073.html": {
       "at": "2026-11-04T14:40:16+00:00",
       "status": "not_review"
+    },
+    "wild horse nine||https://www.latimes.com/entertainment-arts/movies/story/2026-11-04/wild-horse-nine-review-john-malkovich-sam-rockwell-steve-buscemi-martin-mcdonagh": {
+      "at": "2026-11-04T20:01:30+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "wild horse nine||https://www.lwlies.com/in-conversation/john-malkovich-wild-horse-nine": {
       "at": "2026-11-04T13:38:55+00:00",
