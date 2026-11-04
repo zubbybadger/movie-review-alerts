@@ -2796,6 +2796,14 @@
       "at": "2026-11-03T13:05:26+00:00",
       "status": "duplicate"
     },
+    "wild horse nine||https://www.lwlies.com/in-conversation/john-malkovich-wild-horse-nine": {
+      "at": "2026-11-04T13:38:55+00:00",
+      "status": "not_review"
+    },
+    "wild horse nine||https://www.lwlies.com/in-conversation/martin-mcdonagh-wild-horse-nine": {
+      "at": "2026-11-04T13:38:58+00:00",
+      "status": "not_review"
+    },
     "wild horse nine||https://www.lwlies.com/reviews/wild-horse-nine": {
       "at": "2026-11-04T12:25:27+00:00",
       "status": "review",
@@ -2825,6 +2833,10 @@
       "at": "2026-11-03T18:16:59+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "wild horse nine||https://www.winnipegfreepress.com/arts-and-life/entertainment/2026/11/04/john-malkovich-a-world-weary-cia-man-in-wild-horse-nine-prefers-life-on-the-road": {
+      "at": "2026-11-04T13:38:53+00:00",
+      "status": "not_review"
     }
   }
 }
