@@ -282,6 +282,16 @@
         "summary": "A toothless, hagiographic by-the-numbers biopic, but Anthony Ippolito's charming lead performance makes it fleetingly engaging.",
         "url": "https://www.lwlies.com/reviews/i-play-rocky",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-04T19:06:49+00:00",
+        "confidence": "high",
+        "critic": "Monica Castillo",
+        "outlet": "The A.V. Club",
+        "rating": "",
+        "summary": "An energetic, uplifting crowdpleaser anchored by Anthony Ippolito's excellent Stallone performance; possibly Farrelly's best solo film, despite an overstuffed cast.",
+        "url": "https://www.avclub.com/i-play-rocky-review-sylvester-stallone-biopic-peter-farrelly",
+        "verdict": "fresh"
       }
     ],
     "the cat in the hat|2026": [
@@ -1805,6 +1815,11 @@
       "at": "2026-11-02T19:26:05+00:00",
       "status": "duplicate"
     },
+    "i play rocky||https://www.avclub.com/i-play-rocky-review-sylvester-stallone-biopic-peter-farrelly": {
+      "at": "2026-11-04T19:06:49+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "i play rocky||https://www.denofgeek.com/movies/i-play-rocky-review-sylvester-stallone/": {
       "at": "2026-11-03T17:32:18+00:00",
       "status": "review",
@@ -1892,6 +1907,10 @@
       "at": "2026-11-03T17:32:08+00:00",
       "status": "review",
       "verdict": "rotten"
+    },
+    "the cat in the hat|2026|https://www.fwweekly.com/2026/11/04/film-shorts-november-4-10-2026/": {
+      "at": "2026-11-04T19:06:42+00:00",
+      "status": "not_review"
     },
     "the cat in the hat|2026|https://www.hollywoodreporter.com/movies/movie-reviews/the-cat-in-the-hat-review-bill-hader-1236746055/": {
       "at": "2026-11-03T17:32:01+00:00",
