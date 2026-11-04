@@ -220,6 +220,16 @@
         "summary": "Stunning visual craft and spectacular kaiju battles, grounded by a gut-wrenching human story that lifts it above typical monster movies.",
         "url": "https://deadline.com/2026/11/godzilla-minus-zero-review-oscar-winning-takashi-yamazaki-1237213496/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-04T23:47:10+00:00",
+        "confidence": "medium",
+        "critic": "Leandro Porcelli",
+        "outlet": "Cin\u00e9filo Serial",
+        "rating": "",
+        "summary": "Less emotionally gripping than Minus One, but spectacular kaiju sequences and powerful moments make it a valuable, moving sequel.",
+        "url": "https://cinefiloserial.com.ar/critica-de-godzilla-minus-zero-de-takashi-yamazaki-2026/",
+        "verdict": "fresh"
       }
     ],
     "i play rocky|": [
@@ -1644,6 +1654,11 @@
     "godzilla minus zero||https://boundingintocomics.com/movies/king-ghidorah-in-godzilla-minus-zero": {
       "at": "2026-11-03T17:31:45+00:00",
       "status": "not_review"
+    },
+    "godzilla minus zero||https://cinefiloserial.com.ar/critica-de-godzilla-minus-zero-de-takashi-yamazaki-2026/": {
+      "at": "2026-11-04T23:47:10+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "godzilla minus zero||https://collider.com/godzilla-minus-zero-review/": {
       "at": "2026-10-29T16:23:38+00:00",
