@@ -140,6 +140,16 @@
         "summary": "A strong, well-made sequel with greater scale and emotion, though formulaic and overstuffed with characters compared to its predecessor.",
         "url": "https://filmfeeder.co.uk/film-reviews/godzilla-minus-zero-dir-takashi-yamazaki?utm_source=rss&utm_medium=rss&utm_campaign=godzilla-minus-zero-dir-takashi-yamazaki",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-04T04:34:45+00:00",
+        "confidence": "high",
+        "critic": "Sebasti\u00e1n Zavala Kahn",
+        "outlet": "Me Gusta El Cine",
+        "rating": "",
+        "summary": "An epic, emotionally moving anti-war sequel with stunning IMAX visuals, only slightly more scattered than Minus One.",
+        "url": "https://megustaelcine.com/critica-godzilla-minus-zero-el-rey-esta-de-vuelta/?utm_source=rss&utm_medium=rss&utm_campaign=critica-godzilla-minus-zero-el-rey-esta-de-vuelta",
+        "verdict": "fresh"
       }
     ],
     "i play rocky|": [
@@ -1491,6 +1501,15 @@
     },
     "godzilla minus zero||https://lenoirauteur.net/2026/11/03/film-review-godzilla-minus-zero/": {
       "at": "2026-11-03T08:36:46+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "godzilla minus zero||https://megustaelcine.com/critica-godzilla-minus-zero-el-rey-esta-de-vuelta/": {
+      "at": "2026-11-04T04:34:47+00:00",
+      "status": "duplicate"
+    },
+    "godzilla minus zero||https://megustaelcine.com/critica-godzilla-minus-zero-el-rey-esta-de-vuelta/?utm_source=rss&utm_medium=rss&utm_campaign=critica-godzilla-minus-zero-el-rey-esta-de-vuelta": {
+      "at": "2026-11-04T04:34:45+00:00",
       "status": "review",
       "verdict": "fresh"
     },
