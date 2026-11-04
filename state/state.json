@@ -1552,6 +1552,16 @@
         "summary": "A revitalising, entertaining McDonagh film with a sharp political critique and career-best Malkovich opposite a superb Rockwell.",
         "url": "https://www.lwlies.com/reviews/wild-horse-nine",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-04T17:19:26+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "ScreenAnarchy",
+        "rating": "",
+        "summary": "Colorful, beautiful, and an absolute pleasure to watch with career-best Malkovich, though ultimately ephemeral and underusing its supporting cast.",
+        "url": "https://screenanarchy.com/2026/11/wild-horse-nine-review.html",
+        "verdict": "fresh"
       }
     ]
   },
@@ -2762,6 +2772,11 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "wild horse nine||https://screenanarchy.com/2026/11/wild-horse-nine-review.html": {
+      "at": "2026-11-04T17:19:26+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "wild horse nine||https://silverscreenriot.com/every-martin-mcdonagh-movie-ranked/": {
       "at": "2026-11-03T16:43:12+00:00",
       "status": "not_review"
@@ -2799,6 +2814,10 @@
     },
     "wild horse nine||https://theplaylist.net/november-movies-godzilla-minus-zero-paper-tiger-cliff-booth-20261102/": {
       "at": "2026-11-02T16:43:16+00:00",
+      "status": "not_review"
+    },
+    "wild horse nine||https://www.avclub.com/wild-horse-nine-interview-martin-mcdonagh-john-malkovich-sam-rockwell-parker-posey-screwball-comedy": {
+      "at": "2026-11-04T17:19:29+00:00",
       "status": "not_review"
     },
     "wild horse nine||https://www.cinefilia.blog/2026/11/caballo-salvaje-nueve-2026-critica.html": {
