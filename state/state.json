@@ -1522,6 +1522,16 @@
         "summary": "Familiar McDonagh formula, but sharp writing and superb performances from Rockwell and Malkovich make it profound and compelling.",
         "url": "https://www.winnipegfreepress.com/arts-and-life/entertainment/2026/11/03/movie-review-in-wild-horse-nine-death-looms-for-a-cia-goon",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-04T12:25:27+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Little White Lies",
+        "rating": "",
+        "summary": "A revitalising, entertaining McDonagh film with a sharp political critique and career-best Malkovich opposite a superb Rockwell.",
+        "url": "https://www.lwlies.com/reviews/wild-horse-nine",
+        "verdict": "fresh"
       }
     ]
   },
@@ -2785,6 +2795,11 @@
     "wild horse nine||https://www.ign.com/movies/wild-horse-nine": {
       "at": "2026-11-03T13:05:26+00:00",
       "status": "duplicate"
+    },
+    "wild horse nine||https://www.lwlies.com/reviews/wild-horse-nine": {
+      "at": "2026-11-04T12:25:27+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "wild horse nine||https://www.newyorker.com/magazine/2026/11/09/wild-horse-nine-movie-review": {
       "at": "2026-10-30T16:54:30+00:00",
