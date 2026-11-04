@@ -302,16 +302,6 @@
         "summary": "A fun, featherweight crowd-pleaser celebrating instinctive moviemaking, though Ippolito's Stallone is too saintly and the film runs out of gas.",
         "url": "https://www.winnipegfreepress.com/arts-and-life/entertainment/2026/11/04/movie-review-in-i-play-rocky-a-middleweight-crowd-pleaser-about-the-making-of-a-classic",
         "verdict": "fresh"
-      },
-      {
-        "at": "2026-11-04T20:46:28+00:00",
-        "confidence": "medium",
-        "critic": "Jake Coyle",
-        "outlet": "Associated Press (via Hindustan Times)",
-        "rating": "2.5/4",
-        "summary": "A fun, featherweight crowd-pleaser celebrating instinctive moviemaking with terrific supporting performances, though it runs out of gas and idealizes Stallone.",
-        "url": "https://www.hindustantimes.com/entertainment/hollywood/movie-review-in-i-play-rocky-a-middleweight-crowd-pleaser-about-the-making-of-a-classic-101793824304412.html",
-        "verdict": "fresh"
       }
     ],
     "the cat in the hat|2026": [
@@ -1882,8 +1872,7 @@
     },
     "i play rocky||https://www.hindustantimes.com/entertainment/hollywood/movie-review-in-i-play-rocky-a-middleweight-crowd-pleaser-about-the-making-of-a-classic-101793824304412.html": {
       "at": "2026-11-04T20:46:28+00:00",
-      "status": "review",
-      "verdict": "fresh"
+      "status": "duplicate"
     },
     "i play rocky||https://www.hollywoodreporter.com/movies/movie-news/golden-globes-i-play-rocky-submitted-comedy-exclusive-1236746064/": {
       "at": "2026-11-02T19:26:11+00:00",

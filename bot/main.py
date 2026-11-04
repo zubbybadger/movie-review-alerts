@@ -84,11 +84,15 @@ def is_duplicate(state: dict, movie: Movie, v: Verdict) -> bool:
     """Already counted this outlet's review (e.g. a tag page or syndicated copy).
 
     Matches on outlet, and on critic too when both have one, so two different
-    critics at the same publication still count separately.
+    critics at the same publication still count separately. The same named
+    critic always counts once (e.g. an AP review run by several papers).
     """
-    if not v.outlet:
-        return False
     for r in state["reviews"].get(movie.key, []):
+        # Same named critic counts once, even when syndicated under another outlet.
+        if v.critic and r["critic"] and normalize(r["critic"]) == normalize(v.critic):
+            return True
+        if not v.outlet:
+            continue
         # Ignore spacing so "Film Feeder" and "FilmFeeder" count as one outlet.
         if normalize(r["outlet"]).replace(" ", "") != normalize(v.outlet).replace(" ", ""):
             continue
