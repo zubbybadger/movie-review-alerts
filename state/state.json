@@ -192,6 +192,16 @@
         "summary": "A sweet, crowdpleasing underdog tale with an uncanny Anthony Ippolito and gossipy industry satire, despite a conventional third act.",
         "url": "https://www.denofgeek.com/movies/i-play-rocky-review-sylvester-stallone/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-04T01:07:36+00:00",
+        "confidence": "low",
+        "critic": "Paul Risker",
+        "outlet": "Eye For Film",
+        "rating": "",
+        "summary": "Praises Ippolito's uncanny performance and the love story, but finds the broad comedy misjudged and the emotional power borrowed from the original Rocky.",
+        "url": "https://www.eyeforfilm.co.uk/review/i-play-rocky-2026-film-review-by-paul-risker",
+        "verdict": "rotten"
       }
     ],
     "the cat in the hat|2026": [
@@ -273,6 +283,26 @@
         "rating": "",
         "summary": "Warm animation and a fun Bill Hader can't save an overstuffed plot, chaotic action, and excessive fart jokes; mediocre at best.",
         "url": "https://mashable.com/entertainment/the-cat-in-the-hat-2026-review",
+        "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-04T01:07:29+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "The Curvy Film Critic",
+        "rating": "",
+        "summary": "A joyful, nostalgic adaptation with inventive animation, inclusive storytelling, and a spectacular Bill Hader lead that brings families much-needed escapism.",
+        "url": "https://thecurvyfilmcritic.com/the-cat-in-the-hat-infuses-merriment-mayhem-and-mindfulness/?utm_source=rss&utm_medium=rss&utm_campaign=the-cat-in-the-hat-infuses-merriment-mayhem-and-mindfulness",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-04T01:07:33+00:00",
+        "confidence": "high",
+        "critic": "Carla Hay",
+        "outlet": "Culture Mix",
+        "rating": "",
+        "summary": "Unfocused, poorly written, cluttered adaptation with substandard visuals and underdeveloped characters, coasting on the brand name.",
+        "url": "https://culturemixonline.com/review-the-cat-in-the-hat-2026-starring-the-voices-of-bill-hader-matt-berry-quinta-brunson-xochitl-gomez-tiago-martinez-giancarlo-esposito-and-america-ferrera/",
         "verdict": "rotten"
       }
     ],
@@ -1637,6 +1667,11 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "i play rocky||https://www.eyeforfilm.co.uk/review/i-play-rocky-2026-film-review-by-paul-risker": {
+      "at": "2026-11-04T01:07:36+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
     "i play rocky||https://www.hollywoodreporter.com/movies/movie-news/golden-globes-i-play-rocky-submitted-comedy-exclusive-1236746064/": {
       "at": "2026-11-02T19:26:11+00:00",
       "status": "not_review"
@@ -1654,6 +1689,11 @@
       "at": "2026-11-02T19:26:20+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "the cat in the hat|2026|https://culturemixonline.com/review-the-cat-in-the-hat-2026-starring-the-voices-of-bill-hader-matt-berry-quinta-brunson-xochitl-gomez-tiago-martinez-giancarlo-esposito-and-america-ferrera/": {
+      "at": "2026-11-04T01:07:33+00:00",
+      "status": "review",
+      "verdict": "rotten"
     },
     "the cat in the hat|2026|https://deadline.com/2026/11/cat-in-the-hat-review-bill-hader-dr-seuss-animated-debut-1237211639/": {
       "at": "2026-11-03T17:32:03+00:00",
@@ -1673,6 +1713,15 @@
       "at": "2026-11-03T17:32:11+00:00",
       "status": "review",
       "verdict": "rotten"
+    },
+    "the cat in the hat|2026|https://thecurvyfilmcritic.com/the-cat-in-the-hat-infuses-merriment-mayhem-and-mindfulness/": {
+      "at": "2026-11-04T01:07:31+00:00",
+      "status": "duplicate"
+    },
+    "the cat in the hat|2026|https://thecurvyfilmcritic.com/the-cat-in-the-hat-infuses-merriment-mayhem-and-mindfulness/?utm_source=rss&utm_medium=rss&utm_campaign=the-cat-in-the-hat-infuses-merriment-mayhem-and-mindfulness": {
+      "at": "2026-11-04T01:07:29+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "the cat in the hat|2026|https://variety.com/2026/film/reviews/the-cat-in-the-hat-review-bill-hader-1236937564/": {
       "at": "2026-11-03T17:31:42+00:00",
