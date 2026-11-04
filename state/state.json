@@ -210,6 +210,16 @@
         "summary": "Thunderously engaging effects-driven set-pieces and intriguing moral textures outweigh heavy melodrama and a muddled final act.",
         "url": "http://www.shadowsonthewall.co.uk/26/31-f.htm",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-04T22:27:39+00:00",
+        "confidence": "high",
+        "critic": "Pete Hammond",
+        "outlet": "Deadline",
+        "rating": "",
+        "summary": "Stunning visual craft and spectacular kaiju battles, grounded by a gut-wrenching human story that lifts it above typical monster movies.",
+        "url": "https://deadline.com/2026/11/godzilla-minus-zero-review-oscar-winning-takashi-yamazaki-1237213496/",
+        "verdict": "fresh"
       }
     ],
     "i play rocky|": [
@@ -414,6 +424,16 @@
         "summary": "A surreal, inventive Seussian adventure with shifting animation styles, standout Things and Waffles, and Hader's low-key charm.",
         "url": "https://www.reelingreviews.com/reviews/the-cat-in-the-hat/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-04T22:27:36+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "El Nuevo D\u00eda",
+        "rating": "",
+        "summary": "Despite gorgeous animation and fine voice cast, the convoluted, overstuffed MCU-style plot loses the book's charm and has a muddled message.",
+        "url": "https://www.elnuevodia.com/entretenimiento/peliculas-series/notas/the-cat-in-the-hat-eleva-el-nivel-de-tension-al-punto-que-el-universo-podria-desaparecer/",
+        "verdict": "rotten"
       }
     ],
     "the mongoose|": [
@@ -1635,6 +1655,15 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "godzilla minus zero||https://deadline.com/2026/11/godzilla-minus-zero-review-oscar-winning-takashi-yamazaki-1237213496/": {
+      "at": "2026-11-04T22:27:39+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "godzilla minus zero||https://deadline.com/print-article/1237213496?KeepThis=1&TB_iframe=1&height=500&width=750": {
+      "at": "2026-11-04T22:27:41+00:00",
+      "status": "duplicate"
+    },
     "godzilla minus zero||https://filmfeeder.co.uk/film-reviews/godzilla-minus-zero-dir-takashi-yamazaki": {
       "at": "2026-11-03T17:31:56+00:00",
       "status": "duplicate"
@@ -1668,6 +1697,10 @@
     },
     "godzilla minus zero||https://screenrant.com/godzilla-minus-zero-box-office-domestic-opening-projections/": {
       "at": "2026-11-04T21:32:50+00:00",
+      "status": "not_review"
+    },
+    "godzilla minus zero||https://screenrant.com/godzilla-minus-zero-king-ghidorah-origin-powers-history/": {
+      "at": "2026-11-04T22:27:44+00:00",
       "status": "not_review"
     },
     "godzilla minus zero||https://screenrant.com/godzilla-minus-zero-movie-review-london-film-festival-2026/": {
@@ -1966,6 +1999,11 @@
     },
     "the cat in the hat|2026|https://www.avclub.com/the-cat-in-the-hat-review-2026-dr-seuss-bill-hader-animated": {
       "at": "2026-11-03T17:32:08+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
+    "the cat in the hat|2026|https://www.elnuevodia.com/entretenimiento/peliculas-series/notas/the-cat-in-the-hat-eleva-el-nivel-de-tension-al-punto-que-el-universo-podria-desaparecer/": {
+      "at": "2026-11-04T22:27:36+00:00",
       "status": "review",
       "verdict": "rotten"
     },
