@@ -230,6 +230,16 @@
         "summary": "Less emotionally gripping than Minus One, but spectacular kaiju sequences and powerful moments make it a valuable, moving sequel.",
         "url": "https://cinefiloserial.com.ar/critica-de-godzilla-minus-zero-de-takashi-yamazaki-2026/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-05T00:34:56+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Cocalecas",
+        "rating": "",
+        "summary": "A near-perfect sequel that amplifies Minus One's spectacle and emotional depth, with stunning monster design and an exceptional cast.",
+        "url": "https://cocalecas.net/2026/11/sobre-godzilla-minus-zero-de-takashi-yamazaki/",
+        "verdict": "fresh"
       }
     ],
     "i play rocky|": [
@@ -1660,6 +1670,11 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "godzilla minus zero||https://cocalecas.net/2026/11/sobre-godzilla-minus-zero-de-takashi-yamazaki/": {
+      "at": "2026-11-05T00:34:56+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "godzilla minus zero||https://collider.com/godzilla-minus-zero-review/": {
       "at": "2026-10-29T16:23:38+00:00",
       "status": "review",
@@ -1669,6 +1684,10 @@
       "at": "2026-11-02T20:11:27+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "godzilla minus zero||https://deadline.com/2026/11/godzilla-minus-zero-ramayana-cat-in-the-hat-box-office-1237213555/": {
+      "at": "2026-11-05T00:35:11+00:00",
+      "status": "not_review"
     },
     "godzilla minus zero||https://deadline.com/2026/11/godzilla-minus-zero-review-oscar-winning-takashi-yamazaki-1237213496/": {
       "at": "2026-11-04T22:27:39+00:00",
