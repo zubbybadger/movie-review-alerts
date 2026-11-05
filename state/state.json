@@ -392,6 +392,16 @@
         "summary": "Anthony Ippolito's Oscar-worthy turn as Stallone and Farrelly's sincere direction make a thrilling underdog drama, despite over-reliance on Rocky production nostalgia.",
         "url": "https://film-forward.com/star-reviews/i-play-rocky",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-05T11:36:12+00:00",
+        "confidence": "high",
+        "critic": "Peter Bradshaw",
+        "outlet": "The Guardian",
+        "rating": "",
+        "summary": "A very enjoyable, briskly directed making-of drama, lifted by Anthony Ippolito's eerily accurate, sweet portrayal of young Stallone.",
+        "url": "https://www.theguardian.com/film/2026/nov/05/i-play-rocky-review-anthony-ippolito-adds-knockout-sweetness-to-the-story-of-stallones-hollywood-triumph",
+        "verdict": "fresh"
       }
     ],
     "the cat in the hat|2026": [
@@ -2117,6 +2127,11 @@
     },
     "i play rocky||https://www.slashfilm.com/2261212/i-play-rocky-movie-review/": {
       "at": "2026-11-02T19:26:20+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "i play rocky||https://www.theguardian.com/film/2026/nov/05/i-play-rocky-review-anthony-ippolito-adds-knockout-sweetness-to-the-story-of-stallones-hollywood-triumph": {
+      "at": "2026-11-05T11:36:12+00:00",
       "status": "review",
       "verdict": "fresh"
     },
