@@ -2005,6 +2005,10 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "godzilla minus zero||https://collider.com/godzilla-minus-zero-sequel-comments-takashi-yamazaki/": {
+      "at": "2026-11-05T20:14:48+00:00",
+      "status": "not_review"
+    },
     "godzilla minus zero||https://consequence.net/2026/11/godzilla-minus-zero-review-takashi-yamazaki/": {
       "at": "2026-11-02T20:11:27+00:00",
       "status": "review",
@@ -2372,6 +2376,10 @@
       "at": "2026-11-03T14:20:06+00:00",
       "status": "not_review"
     },
+    "i play rocky||https://www.indiewire.com/news/festivals/denver-film-festival-2026-award-winners-1235225777/": {
+      "at": "2026-11-05T20:14:44+00:00",
+      "status": "not_review"
+    },
     "i play rocky||https://www.latimes.com/entertainment-arts/movies/story/2026-11-04/anthony-ippolito-i-play-rocky-peter-farrelly-sylvester-stallone": {
       "at": "2026-11-04T11:39:00+00:00",
       "status": "not_review"
@@ -2455,6 +2463,10 @@
       "at": "2026-11-04T01:07:29+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "the cat in the hat|2026|https://timesofindia.indiatimes.com/entertainment/english/movie-details/the-cat-in-the-hat/movieshow/122004439.cms": {
+      "at": "2026-11-05T20:14:50+00:00",
+      "status": "duplicate"
     },
     "the cat in the hat|2026|https://timesofindia.indiatimes.com/entertainment/english/movie-reviews/the-cat-in-the-hat/movie-review/135569051.cms": {
       "at": "2026-11-05T17:39:31+00:00",
@@ -3459,10 +3471,18 @@
       "at": "2026-11-02T16:43:16+00:00",
       "status": "not_review"
     },
+    "wild horse nine||https://theplaylist.net/parker-posey-wild-horse-nine-interview-20261105/": {
+      "at": "2026-11-05T20:14:46+00:00",
+      "status": "not_review"
+    },
     "wild horse nine||https://thereveal.film/in-review-la-bola-negra-wild-horse-nine/": {
       "at": "2026-11-05T16:43:13+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "wild horse nine||https://timesofindia.indiatimes.com/entertainment/english/movie-details/wild-horse-nine/movieshow/129691249.cms": {
+      "at": "2026-11-05T20:14:52+00:00",
+      "status": "not_review"
     },
     "wild horse nine||https://www.avclub.com/wild-horse-nine-interview-martin-mcdonagh-john-malkovich-sam-rockwell-parker-posey-screwball-comedy": {
       "at": "2026-11-04T17:19:29+00:00",
