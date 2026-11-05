@@ -320,6 +320,16 @@
         "summary": "A disappointing, less humanist sequel with clich\u00e9d human roles, but its monster battle spectacle is genuinely entertaining and matches the original.",
         "url": "http://www.markreviewsmovies.com/reviews/G/godzillaminuszero.htm",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-05T16:43:15+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Horror Press",
+        "rating": "",
+        "summary": "Despite underdeveloped new characters, the emotionally resonant story and awe-inspiring effects and Godzilla-Ghidorah brawl make it triumphant.",
+        "url": "https://horrorpress.com/reviews/14928/godzilla-minus-zero-review/",
+        "verdict": "fresh"
       }
     ],
     "i play rocky|": [
@@ -1872,6 +1882,16 @@
         "summary": "Despite clumsy handling of Chile's politics, the witty tragicomedy and two fine leads reach genuine, Fordian emotional depth.",
         "url": "https://www.otroscines.com/post/dos-criticas-de-caballo-salvaje-nueve-wild-horse-nine-pelicula-de-martin-mcdonagh-con-john-malkovich-y-sam-rockwell",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-05T16:43:13+00:00",
+        "confidence": "medium",
+        "critic": "Scott Tobias",
+        "outlet": "The Reveal",
+        "rating": "",
+        "summary": "McDonagh's witty dialogue and a revelatory Malkovich carry it, despite an uneasy glibness about real CIA atrocities.",
+        "url": "https://thereveal.film/in-review-la-bola-negra-wild-horse-nine/",
+        "verdict": "fresh"
       }
     ]
   },
@@ -1934,6 +1954,11 @@
     },
     "godzilla minus zero||https://filmthreat.com/reviews/godzilla-minus-zero/": {
       "at": "2026-11-05T09:46:33+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "godzilla minus zero||https://horrorpress.com/reviews/14928/godzilla-minus-zero-review/": {
+      "at": "2026-11-05T16:43:15+00:00",
       "status": "review",
       "verdict": "fresh"
     },
@@ -3307,6 +3332,11 @@
     "wild horse nine||https://theplaylist.net/november-movies-godzilla-minus-zero-paper-tiger-cliff-booth-20261102/": {
       "at": "2026-11-02T16:43:16+00:00",
       "status": "not_review"
+    },
+    "wild horse nine||https://thereveal.film/in-review-la-bola-negra-wild-horse-nine/": {
+      "at": "2026-11-05T16:43:13+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "wild horse nine||https://www.avclub.com/wild-horse-nine-interview-martin-mcdonagh-john-malkovich-sam-rockwell-parker-posey-screwball-comedy": {
       "at": "2026-11-04T17:19:29+00:00",
