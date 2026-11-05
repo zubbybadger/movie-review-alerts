@@ -250,6 +250,16 @@
         "summary": "An imposing, more ambitious sequel that keeps the original's human dimension and tragic intensity, despite occasionally visible digital seams.",
         "url": "https://www.lanacion.com.ar/espectaculos/cine/godzilla-minus-zero-es-una-imponente-secuela-que-mantiene-intacta-la-dimension-humana-del-original-nid05112026/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-05T07:56:22+00:00",
+        "confidence": "high",
+        "critic": "Anthony Morris",
+        "outlet": "It's Better in the Dark",
+        "rating": "",
+        "summary": "A worthy successor to Minus One, blending thrilling monster devastation with powerful, emotionally pummeling human drama about generational trauma.",
+        "url": "https://itsbetterinthedark.blogspot.com/2026/11/review-godzilla-minus-zero.html",
+        "verdict": "fresh"
       }
     ],
     "i play rocky|": [
@@ -1662,6 +1672,16 @@
         "summary": "A marvelous Malkovich and merciless McDonagh quips make this dark CIA comedy a fine In Bruges echo, despite thin suspense.",
         "url": "https://www.latimes.com/entertainment-arts/movies/story/2026-11-04/wild-horse-nine-review-john-malkovich-sam-rockwell-steve-buscemi-martin-mcdonagh",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-05T07:56:24+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Movie Cricket",
+        "rating": "3.5/4",
+        "summary": "Funny, deeply cynical dark comedy enlivened by John Malkovich's career-best, Oscar-worthy performance and McDonagh's knack for bickering pairings.",
+        "url": "https://moviecricket.net/blog/2026/11/5/review-wild-horse-nine-is-a-funny-and-deeply-cynical-take-on-70s-cia-agents-enlivened-by-john-malkovichs-battered-lead-character",
+        "verdict": "fresh"
       }
     ]
   },
@@ -1714,6 +1734,11 @@
     },
     "godzilla minus zero||https://filmfeeder.co.uk/film-reviews/godzilla-minus-zero-dir-takashi-yamazaki?utm_source=rss&utm_medium=rss&utm_campaign=godzilla-minus-zero-dir-takashi-yamazaki": {
       "at": "2026-11-03T17:31:49+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "godzilla minus zero||https://itsbetterinthedark.blogspot.com/2026/11/review-godzilla-minus-zero.html": {
+      "at": "2026-11-05T07:56:22+00:00",
       "status": "review",
       "verdict": "fresh"
     },
@@ -2959,6 +2984,11 @@
     "wild horse nine||https://jmuvies.blogspot.com/2026/09/33-years-and-counting-but-tiffs-still.html": {
       "at": "2026-10-30T17:30:40+00:00",
       "status": "not_review"
+    },
+    "wild horse nine||https://moviecricket.net/blog/2026/11/5/review-wild-horse-nine-is-a-funny-and-deeply-cynical-take-on-70s-cia-agents-enlivened-by-john-malkovichs-battered-lead-character": {
+      "at": "2026-11-05T07:56:24+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "wild horse nine||https://neilsentertainmentpicks.com/2026/11/02/movie-review-wild-horse-nine/": {
       "at": "2026-11-02T11:33:20+00:00",
