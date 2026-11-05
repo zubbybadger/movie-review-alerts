@@ -330,6 +330,26 @@
         "summary": "Despite underdeveloped new characters, the emotionally resonant story and awe-inspiring effects and Godzilla-Ghidorah brawl make it triumphant.",
         "url": "https://horrorpress.com/reviews/14928/godzilla-minus-zero-review/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-05T19:24:58+00:00",
+        "confidence": "high",
+        "critic": "Keith Phipps",
+        "outlet": "The Reveal",
+        "rating": "",
+        "summary": "A rousing sequel whose massive action tops the original and whose historical resonance impresses, despite overwrought sentiment and franchise setup.",
+        "url": "https://thereveal.film/in-review-godzilla-minus-zero-mouse/",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-05T19:25:06+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "Vulture",
+        "rating": "",
+        "summary": "Overlong melodrama and thin characters test patience, but earnest trauma themes and thrilling kaiju action that beats recent Monsterverse films deliver.",
+        "url": "https://www.vulture.com/article/review-godzilla-minus-zero-delivers-on-the-monster-mayhem.html",
+        "verdict": "fresh"
       }
     ],
     "i play rocky|": [
@@ -1932,6 +1952,26 @@
         "summary": "Malkovich gives a mind-blowing, career-best performance in a small but thematically mighty dark comedy with strong acting, twists and gorgeous Rapa Nui setting.",
         "url": "https://consequence.net/2026/11/wild-horse-nine-review-john-malkovich/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-05T19:24:55+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "IndieWire",
+        "rating": "",
+        "summary": "Malkovich shines, but McDonagh's recycled In Bruges formula feels manufactured, with unconvincing emotions, few laughs, and a listless first half.",
+        "url": "https://www.indiewire.com/criticism/movies/wild-horse-nine-movie-review-1235213912/",
+        "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-05T19:25:03+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Vulture",
+        "rating": "",
+        "summary": "McDonagh's banter is in fine form and Malkovich gives a career-best performance, though the film may lack complexity for its larger questions.",
+        "url": "https://www.vulture.com/article/wild-horse-nine-gives-john-malkovich-the-role-of-his-career.html",
+        "verdict": "fresh"
       }
     ]
   },
@@ -2076,6 +2116,11 @@
     "godzilla minus zero||https://theplaylist.net/godzilla-minus-zero-james-cameron-aliens-terminator-2-20261027/": {
       "at": "2026-10-29T16:23:35+00:00",
       "status": "not_review"
+    },
+    "godzilla minus zero||https://thereveal.film/in-review-godzilla-minus-zero-mouse/": {
+      "at": "2026-11-05T19:24:58+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "godzilla minus zero||https://time.com/article/2026/11/03/godzilla-minus-zero-Takashi-Yamazaki-interview/": {
       "at": "2026-11-03T13:05:18+00:00",
@@ -2236,6 +2281,11 @@
       "at": "2026-11-05T17:39:26+00:00",
       "status": "not_review"
     },
+    "godzilla minus zero||https://www.vulture.com/article/review-godzilla-minus-zero-delivers-on-the-monster-mayhem.html": {
+      "at": "2026-11-05T19:25:06+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "godzilla minus zero||https://www.winnipegfreepress.com/arts-and-life/entertainment/2026/11/02/movie-review-in-godzilla-minus-zero-human-scaled-melodrama-stomps-out-the-kaiju-fun": {
       "at": "2026-11-02T22:11:37+00:00",
       "status": "review",
@@ -2340,6 +2390,10 @@
       "at": "2026-11-05T17:39:24+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "i play rocky||https://www.nytimes.com/2026/11/05/movies/i-play-rocky-review-sylvester-stallone.html": {
+      "at": "2026-11-05T19:25:01+00:00",
+      "status": "duplicate"
     },
     "i play rocky||https://www.reelingreviews.com/reviews/i-play-rocky/": {
       "at": "2026-11-05T15:41:24+00:00",
@@ -3456,6 +3510,11 @@
       "at": "2026-11-04T14:40:16+00:00",
       "status": "not_review"
     },
+    "wild horse nine||https://www.indiewire.com/criticism/movies/wild-horse-nine-movie-review-1235213912/": {
+      "at": "2026-11-05T19:24:55+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
     "wild horse nine||https://www.latimes.com/entertainment-arts/movies/story/2026-11-04/wild-horse-nine-review-john-malkovich-sam-rockwell-steve-buscemi-martin-mcdonagh": {
       "at": "2026-11-04T20:01:30+00:00",
       "status": "review",
@@ -3506,6 +3565,11 @@
     },
     "wild horse nine||https://www.usatoday.com/story/entertainment/movies/reviews/2026/11/05/wild-horse-nine-movie-review-john-malkovich-sam-rockwell/92543711007/": {
       "at": "2026-11-05T14:47:03+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "wild horse nine||https://www.vulture.com/article/wild-horse-nine-gives-john-malkovich-the-role-of-his-career.html": {
+      "at": "2026-11-05T19:25:03+00:00",
       "status": "review",
       "verdict": "fresh"
     },
