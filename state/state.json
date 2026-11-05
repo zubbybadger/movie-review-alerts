@@ -1982,6 +1982,16 @@
         "summary": "McDonagh's banter is in fine form and Malkovich gives a career-best performance, though the film may lack complexity for its larger questions.",
         "url": "https://www.vulture.com/article/wild-horse-nine-gives-john-malkovich-the-role-of-his-career.html",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-05T21:36:02+00:00",
+        "confidence": "low",
+        "critic": "",
+        "outlet": "NPR",
+        "rating": "",
+        "summary": "Only a teaser is available; the headline praises John Malkovich's scene-stealing turn in McDonagh's darkly comic CIA provocation.",
+        "url": "https://www.npr.org/2026/11/05/nx-s1-6026496/john-malkovich-gallops-away-with-wild-horse-nine",
+        "verdict": "fresh"
       }
     ]
   },
@@ -3579,6 +3589,11 @@
     },
     "wild horse nine||https://www.nme.com/reviews/film-reviews/wild-horse-nine-review-john-malkovich-sam-rockwell-martin-mcdonagh-3966848": {
       "at": "2026-10-30T16:55:12+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "wild horse nine||https://www.npr.org/2026/11/05/nx-s1-6026496/john-malkovich-gallops-away-with-wild-horse-nine": {
+      "at": "2026-11-05T21:36:02+00:00",
       "status": "review",
       "verdict": "fresh"
     },
