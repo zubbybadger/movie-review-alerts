@@ -260,6 +260,16 @@
         "summary": "A worthy successor to Minus One, blending thrilling monster devastation with powerful, emotionally pummeling human drama about generational trauma.",
         "url": "https://itsbetterinthedark.blogspot.com/2026/11/review-godzilla-minus-zero.html",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-05T08:47:18+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Movie Cricket",
+        "rating": "3.5/4",
+        "summary": "Balances weighty postwar themes with ferociously entertaining, terrifying action and strong performances, making it a worthy successor to Minus One.",
+        "url": "https://moviecricket.net/blog/2026/11/5/review-godzilla-minus-zero-packs-a-lot-of-serious-stuff-into-a-monster-movie-but-its-all-entertaining-ear-splitting-and-exciting",
+        "verdict": "fresh"
       }
     ],
     "i play rocky|": [
@@ -351,6 +361,16 @@
         "rating": "2.5/4",
         "summary": "A fun, featherweight crowd-pleaser celebrating instinctive moviemaking, though Ippolito's Stallone is too saintly and the film runs out of gas.",
         "url": "https://www.winnipegfreepress.com/arts-and-life/entertainment/2026/11/04/movie-review-in-i-play-rocky-a-middleweight-crowd-pleaser-about-the-making-of-a-classic",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-05T08:47:15+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Film-Forward",
+        "rating": "",
+        "summary": "Anthony Ippolito's Oscar-worthy turn as Stallone and Farrelly's sincere direction make a thrilling underdog drama, despite over-reliance on Rocky production nostalgia.",
+        "url": "https://film-forward.com/star-reviews/i-play-rocky",
         "verdict": "fresh"
       }
     ],
@@ -1756,6 +1776,11 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "godzilla minus zero||https://moviecricket.net/blog/2026/11/5/review-godzilla-minus-zero-packs-a-lot-of-serious-stuff-into-a-monster-movie-but-its-all-entertaining-ear-splitting-and-exciting": {
+      "at": "2026-11-05T08:47:18+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "godzilla minus zero||https://screenanarchy.com/2026/11/opening-this-week-godzilla-minus-zero-paradise-lost-ramayana-rise-of-a-legend.html": {
       "at": "2026-11-02T16:43:13+00:00",
       "status": "not_review"
@@ -1960,6 +1985,11 @@
     "i play rocky||https://chicago.suntimes.com/movies-and-tv/2026/10/26/chicago-international-film-festival-top-movies-bill-stamets": {
       "at": "2026-11-02T19:26:14+00:00",
       "status": "not_review"
+    },
+    "i play rocky||https://film-forward.com/star-reviews/i-play-rocky": {
+      "at": "2026-11-05T08:47:15+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "i play rocky||https://screenrant.com/i-play-rocky-casting-sylvester-stallone-advice/": {
       "at": "2026-11-03T22:56:26+00:00",
