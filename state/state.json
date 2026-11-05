@@ -310,6 +310,16 @@
         "summary": "A rousing, crowd-pleasing monster melodrama with incredible battles and characters you care about; a worthy successor to Minus One.",
         "url": "https://screenanarchy.com/2026/11/godzilla-minus-zero-review.html",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-05T15:41:21+00:00",
+        "confidence": "low",
+        "critic": "Mark Dujsik",
+        "outlet": "Mark Reviews Movies",
+        "rating": "",
+        "summary": "A disappointing, less humanist sequel with clich\u00e9d human roles, but its monster battle spectacle is genuinely entertaining and matches the original.",
+        "url": "http://www.markreviewsmovies.com/reviews/G/godzillaminuszero.htm",
+        "verdict": "fresh"
       }
     ],
     "i play rocky|": [
@@ -431,6 +441,26 @@
         "rating": "",
         "summary": "Ippolito's uncanny Stallone transformation and a wildly entertaining, funny underdog production story make it a must-rewatch for this Philly native.",
         "url": "https://www.moviejawn.com/home/2026/11/05/i-play-rocky-review",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-05T15:41:18+00:00",
+        "confidence": "high",
+        "critic": "Mark Dujsik",
+        "outlet": "Mark Reviews Movies",
+        "rating": "",
+        "summary": "Though familiar and formulaic, it's a convincingly cast, genuinely inspiring, heartfelt underdog story anchored by Ippolito's uncanny Stallone.",
+        "url": "http://www.markreviewsmovies.com/reviews/I/iplayrocky.htm",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-05T15:41:24+00:00",
+        "confidence": "high",
+        "critic": "Laura Clifford",
+        "outlet": "Reeling Reviews",
+        "rating": "A-",
+        "summary": "An incredible true underdog story with an uncanny Anthony Ippolito as Stallone and exceptional supporting cast; a real crowd pleaser despite an abrupt ending.",
+        "url": "https://www.reelingreviews.com/reviews/i-play-rocky/",
         "verdict": "fresh"
       }
     ],
@@ -1822,10 +1852,35 @@
         "summary": "Malkovich is a delightful, Oscar-worthy lead opposite Rockwell in a clever, violent, and touching McDonagh bromance, even if it falls short of his best.",
         "url": "https://www.usatoday.com/story/entertainment/movies/reviews/2026/11/05/wild-horse-nine-movie-review-john-malkovich-sam-rockwell/92543711007/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-05T15:41:15+00:00",
+        "confidence": "medium",
+        "critic": "Mark Dujsik",
+        "outlet": "Mark Reviews Movies",
+        "rating": "",
+        "summary": "Despite repetitive dialogue and an afterthought plot, Malkovich's great performance and the melancholy central friendship make it worthwhile.",
+        "url": "http://www.markreviewsmovies.com/reviews/W/wildhorsenine.htm",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-05T15:41:27+00:00",
+        "confidence": "medium",
+        "critic": "Diego Batlle",
+        "outlet": "Otros Cines",
+        "rating": "3.5/5",
+        "summary": "Despite clumsy handling of Chile's politics, the witty tragicomedy and two fine leads reach genuine, Fordian emotional depth.",
+        "url": "https://www.otroscines.com/post/dos-criticas-de-caballo-salvaje-nueve-wild-horse-nine-pelicula-de-martin-mcdonagh-con-john-malkovich-y-sam-rockwell",
+        "verdict": "fresh"
       }
     ]
   },
   "seen": {
+    "godzilla minus zero||http://www.markreviewsmovies.com/reviews/G/godzillaminuszero.htm": {
+      "at": "2026-11-05T15:41:21+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "godzilla minus zero||http://www.shadowsonthewall.co.uk/26/31-f.htm": {
       "at": "2026-11-04T15:30:51+00:00",
       "status": "review",
@@ -2113,6 +2168,11 @@
       "status": "review",
       "verdict": "rotten"
     },
+    "i play rocky||http://www.markreviewsmovies.com/reviews/I/iplayrocky.htm": {
+      "at": "2026-11-05T15:41:18+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "i play rocky||http://www.shadowsonthewall.co.uk/26/iplayroc.htm": {
       "at": "2026-11-02T19:26:07+00:00",
       "status": "review",
@@ -2148,6 +2208,10 @@
       "at": "2026-11-04T19:06:49+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "i play rocky||https://www.avclub.com/i-play-rocky-review-sylvester-stallone-biopic-peter-farrelly?utm_source=rss&utm_medium=rss&utm_campaign=i-play-rocky-review-sylvester-stallone-biopic-peter-farrelly": {
+      "at": "2026-11-05T15:41:31+00:00",
+      "status": "duplicate"
     },
     "i play rocky||https://www.denofgeek.com/movies/i-play-rocky-review-sylvester-stallone/": {
       "at": "2026-11-03T17:32:18+00:00",
@@ -2187,6 +2251,11 @@
     },
     "i play rocky||https://www.moviejawn.com/home/2026/11/05/i-play-rocky-review": {
       "at": "2026-11-05T14:46:58+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "i play rocky||https://www.reelingreviews.com/reviews/i-play-rocky/": {
+      "at": "2026-11-05T15:41:24+00:00",
       "status": "review",
       "verdict": "fresh"
     },
@@ -3100,6 +3169,11 @@
       "status": "review",
       "verdict": "rotten"
     },
+    "wild horse nine||http://www.markreviewsmovies.com/reviews/W/wildhorsenine.htm": {
+      "at": "2026-11-05T15:41:15+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "wild horse nine||http://www.shadowsonthewall.co.uk/26/wildhors.htm": {
       "at": "2026-10-30T16:54:10+00:00",
       "status": "review",
@@ -3310,6 +3384,11 @@
     },
     "wild horse nine||https://www.nytimes.com/2026/11/05/movies/wild-horse-nine-review.html": {
       "at": "2026-11-05T10:44:40+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "wild horse nine||https://www.otroscines.com/post/dos-criticas-de-caballo-salvaje-nueve-wild-horse-nine-pelicula-de-martin-mcdonagh-con-john-malkovich-y-sam-rockwell": {
+      "at": "2026-11-05T15:41:27+00:00",
       "status": "review",
       "verdict": "fresh"
     },
