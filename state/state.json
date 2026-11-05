@@ -300,6 +300,16 @@
         "summary": "Praises Yamazaki's spectacular visual effects rivaling Hollywood blockbusters and an effective human melodrama, despite occasional soap-opera excess.",
         "url": "https://www.sensacine.com/noticias/cine/noticia-1000230803/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-05T14:47:01+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "ScreenAnarchy",
+        "rating": "",
+        "summary": "A rousing, crowd-pleasing monster melodrama with incredible battles and characters you care about; a worthy successor to Minus One.",
+        "url": "https://screenanarchy.com/2026/11/godzilla-minus-zero-review.html",
+        "verdict": "fresh"
       }
     ],
     "i play rocky|": [
@@ -411,6 +421,16 @@
         "rating": "",
         "summary": "A very enjoyable, briskly directed making-of drama, lifted by Anthony Ippolito's eerily accurate, sweet portrayal of young Stallone.",
         "url": "https://www.theguardian.com/film/2026/nov/05/i-play-rocky-review-anthony-ippolito-adds-knockout-sweetness-to-the-story-of-stallones-hollywood-triumph",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-05T14:46:58+00:00",
+        "confidence": "high",
+        "critic": "Mike Patrick",
+        "outlet": "MovieJawn",
+        "rating": "",
+        "summary": "Ippolito's uncanny Stallone transformation and a wildly entertaining, funny underdog production story make it a must-rewatch for this Philly native.",
+        "url": "https://www.moviejawn.com/home/2026/11/05/i-play-rocky-review",
         "verdict": "fresh"
       }
     ],
@@ -1782,6 +1802,26 @@
         "summary": "Only a teaser is available; describing it as a laugh- and blood-flecked romp hints at a mildly positive take.",
         "url": "https://www.nytimes.com/2026/11/05/movies/wild-horse-nine-review.html",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-05T14:46:55+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "InReview Online",
+        "rating": "",
+        "summary": "Calls it arguably McDonagh's best film, a modest masterpiece with his funniest jokes and a career-high, poignant Malkovich performance.",
+        "url": "https://inreviewonline.com/2026/11/05/wild-horse-nine-review/",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-05T14:47:03+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "USA Today",
+        "rating": "3/4",
+        "summary": "Malkovich is a delightful, Oscar-worthy lead opposite Rockwell in a clever, violent, and touching McDonagh bromance, even if it falls short of his best.",
+        "url": "https://www.usatoday.com/story/entertainment/movies/reviews/2026/11/05/wild-horse-nine-movie-review-john-malkovich-sam-rockwell/92543711007/",
+        "verdict": "fresh"
       }
     ]
   },
@@ -1863,6 +1903,11 @@
     },
     "godzilla minus zero||https://moviecricket.net/blog/2026/11/5/review-godzilla-minus-zero-packs-a-lot-of-serious-stuff-into-a-monster-movie-but-its-all-entertaining-ear-splitting-and-exciting": {
       "at": "2026-11-05T08:47:18+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "godzilla minus zero||https://screenanarchy.com/2026/11/godzilla-minus-zero-review.html": {
+      "at": "2026-11-05T14:47:01+00:00",
       "status": "review",
       "verdict": "fresh"
     },
@@ -2137,6 +2182,11 @@
     },
     "i play rocky||https://www.lwlies.com/reviews/i-play-rocky": {
       "at": "2026-11-04T11:39:09+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "i play rocky||https://www.moviejawn.com/home/2026/11/05/i-play-rocky-review": {
+      "at": "2026-11-05T14:46:58+00:00",
       "status": "review",
       "verdict": "fresh"
     },
@@ -3121,6 +3171,11 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "wild horse nine||https://inreviewonline.com/2026/11/05/wild-horse-nine-review/": {
+      "at": "2026-11-05T14:46:55+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "wild horse nine||https://jmuvies.blogspot.com/2026/09/33-years-and-counting-but-tiffs-still.html": {
       "at": "2026-10-30T17:30:40+00:00",
       "status": "not_review"
@@ -3265,6 +3320,11 @@
     },
     "wild horse nine||https://www.thetraverstake.com/featured/wild-horse-nine/": {
       "at": "2026-10-30T16:54:15+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "wild horse nine||https://www.usatoday.com/story/entertainment/movies/reviews/2026/11/05/wild-horse-nine-movie-review-john-malkovich-sam-rockwell/92543711007/": {
+      "at": "2026-11-05T14:47:03+00:00",
       "status": "review",
       "verdict": "fresh"
     },
