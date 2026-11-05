@@ -270,6 +270,16 @@
         "summary": "Balances weighty postwar themes with ferociously entertaining, terrifying action and strong performances, making it a worthy successor to Minus One.",
         "url": "https://moviecricket.net/blog/2026/11/5/review-godzilla-minus-zero-packs-a-lot-of-serious-stuff-into-a-monster-movie-but-its-all-entertaining-ear-splitting-and-exciting",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-05T09:46:33+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Film Threat",
+        "rating": "",
+        "summary": "Heartfelt family story, unpredictable plot, and spectacular real-looking monster fights make it a highly recommended favorite of the year.",
+        "url": "https://filmthreat.com/reviews/godzilla-minus-zero/",
+        "verdict": "fresh"
       }
     ],
     "i play rocky|": [
@@ -1702,6 +1712,26 @@
         "summary": "Funny, deeply cynical dark comedy enlivened by John Malkovich's career-best, Oscar-worthy performance and McDonagh's knack for bickering pairings.",
         "url": "https://moviecricket.net/blog/2026/11/5/review-wild-horse-nine-is-a-funny-and-deeply-cynical-take-on-70s-cia-agents-enlivened-by-john-malkovichs-battered-lead-character",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-05T09:46:36+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Fort Worth Weekly",
+        "rating": "",
+        "summary": "Praises McDonagh's beautifully structured, funny script and calls Malkovich's performance possibly the greatest of his career, better than In Bruges.",
+        "url": "https://www.fwweekly.com/2026/11/05/wild-horse-nine-just-shoot-me/",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-05T09:46:39+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Film-Forward",
+        "rating": "",
+        "summary": "Despite a slow, disjointed first act, Malkovich and Rockwell's chemistry and a haunting, cathartic back half make the payoff worthwhile.",
+        "url": "https://film-forward.com/road-trip-2/wild-horse-nine",
+        "verdict": "fresh"
       }
     ]
   },
@@ -1754,6 +1784,11 @@
     },
     "godzilla minus zero||https://filmfeeder.co.uk/film-reviews/godzilla-minus-zero-dir-takashi-yamazaki?utm_source=rss&utm_medium=rss&utm_campaign=godzilla-minus-zero-dir-takashi-yamazaki": {
       "at": "2026-11-03T17:31:49+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "godzilla minus zero||https://filmthreat.com/reviews/godzilla-minus-zero/": {
+      "at": "2026-11-05T09:46:33+00:00",
       "status": "review",
       "verdict": "fresh"
     },
@@ -3002,6 +3037,11 @@
       "at": "2026-10-30T18:07:54+00:00",
       "status": "not_review"
     },
+    "wild horse nine||https://film-forward.com/road-trip-2/wild-horse-nine": {
+      "at": "2026-11-05T09:46:39+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "wild horse nine||https://filmfeeder.co.uk/film-reviews/wild-horse-nine-dir-martin-mcdonagh": {
       "at": "2026-11-04T20:01:25+00:00",
       "status": "duplicate"
@@ -3094,6 +3134,11 @@
     },
     "wild horse nine||https://www.fotogramas.es/peliculas-criticas/a73606061/wild-horse-nine-pelicula-critica-opinion-martin-mcdonagh-john-malkovich/": {
       "at": "2026-10-30T16:54:01+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "wild horse nine||https://www.fwweekly.com/2026/11/05/wild-horse-nine-just-shoot-me/": {
+      "at": "2026-11-05T09:46:36+00:00",
       "status": "review",
       "verdict": "fresh"
     },
