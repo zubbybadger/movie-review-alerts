@@ -240,6 +240,16 @@
         "summary": "A near-perfect sequel that amplifies Minus One's spectacle and emotional depth, with stunning monster design and an exceptional cast.",
         "url": "https://cocalecas.net/2026/11/sobre-godzilla-minus-zero-de-takashi-yamazaki/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-05T03:33:16+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "La Naci\u00f3n",
+        "rating": "Muy buena",
+        "summary": "An imposing, more ambitious sequel that keeps the original's human dimension and tragic intensity, despite occasionally visible digital seams.",
+        "url": "https://www.lanacion.com.ar/espectaculos/cine/godzilla-minus-zero-es-una-imponente-secuela-que-mantiene-intacta-la-dimension-humana-del-original-nid05112026/",
+        "verdict": "fresh"
       }
     ],
     "i play rocky|": [
@@ -1856,6 +1866,11 @@
     },
     "godzilla minus zero||https://www.indiewire.com/criticism/movies/godzilla-minus-zero-movie-review-1235218720/": {
       "at": "2026-11-02T21:31:10+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "godzilla minus zero||https://www.lanacion.com.ar/espectaculos/cine/godzilla-minus-zero-es-una-imponente-secuela-que-mantiene-intacta-la-dimension-humana-del-original-nid05112026/": {
+      "at": "2026-11-05T03:33:16+00:00",
       "status": "review",
       "verdict": "fresh"
     },
