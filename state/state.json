@@ -290,6 +290,16 @@
         "summary": "The critic calls the sequel dazzling and darkly haunted, praising Godzilla's return to terrorize survivors and battle a new foe.",
         "url": "https://www.nytimes.com/2026/11/05/movies/godzilla-minus-zero-review-reprieve-of-destruction.html",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-05T13:55:03+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "SensaCine",
+        "rating": "",
+        "summary": "Praises Yamazaki's spectacular visual effects rivaling Hollywood blockbusters and an effective human melodrama, despite occasional soap-opera excess.",
+        "url": "https://www.sensacine.com/noticias/cine/noticia-1000230803/",
+        "verdict": "fresh"
       }
     ],
     "i play rocky|": [
@@ -2030,6 +2040,11 @@
     "godzilla minus zero||https://www.scifinow.co.uk/news/godzilla-minus-zero-vfx-sound-design/": {
       "at": "2026-11-03T07:41:08+00:00",
       "status": "not_review"
+    },
+    "godzilla minus zero||https://www.sensacine.com/noticias/cine/noticia-1000230803/": {
+      "at": "2026-11-05T13:55:03+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "godzilla minus zero||https://www.sensacine.com/peliculas/pelicula-1000014492/": {
       "at": "2026-10-30T01:09:30+00:00",
