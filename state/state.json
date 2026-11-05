@@ -350,6 +350,16 @@
         "summary": "Overlong melodrama and thin characters test patience, but earnest trauma themes and thrilling kaiju action that beats recent Monsterverse films deliver.",
         "url": "https://www.vulture.com/article/review-godzilla-minus-zero-delivers-on-the-monster-mayhem.html",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-05T20:58:37+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "El Mundo",
+        "rating": "4/5",
+        "summary": "Yamazaki renews kaiju iconography with spectacular, hypnotic monster battles matched by quiet human drama, despite an erratic script.",
+        "url": "https://www.elmundo.es/cultura/cine/2026/11/05/6aea1ce121efa0a51e8b45bb.html",
+        "verdict": "fresh"
       }
     ],
     "i play rocky|": [
@@ -2169,6 +2179,11 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "godzilla minus zero||https://www.elmundo.es/cultura/cine/2026/11/05/6aea1ce121efa0a51e8b45bb.html": {
+      "at": "2026-11-05T20:58:37+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "godzilla minus zero||https://www.empireonline.com/movies/news/godzilla-minus-zero-director-takashi-yamazakis-grandgear-casts-paul-giamatti-nico-parker-sam-nivola/": {
       "at": "2026-10-29T16:23:26+00:00",
       "status": "not_review"
@@ -3431,6 +3446,10 @@
       "at": "2026-11-04T17:19:26+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "wild horse nine||https://screenrant.com/wild-horse-nine-john-malkovich-martin-mcdonagh-cast-legacy-interview/": {
+      "at": "2026-11-05T20:58:40+00:00",
+      "status": "not_review"
     },
     "wild horse nine||https://silverscreenriot.com/every-martin-mcdonagh-movie-ranked/": {
       "at": "2026-11-03T16:43:12+00:00",
