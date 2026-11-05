@@ -472,6 +472,26 @@
         "summary": "An incredible true underdog story with an uncanny Anthony Ippolito as Stallone and exceptional supporting cast; a real crowd pleaser despite an abrupt ending.",
         "url": "https://www.reelingreviews.com/reviews/i-play-rocky/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-05T17:39:15+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Film Feeder",
+        "rating": "",
+        "summary": "A winning, likeable underdog tale lifted by Anthony Ippolito's uncanny Stallone performance, though the script stays surface-level.",
+        "url": "https://filmfeeder.co.uk/film-reviews/i-play-rocky-dir-peter-farrelly?utm_source=rss&utm_medium=rss&utm_campaign=i-play-rocky-dir-peter-farrelly",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-05T17:39:24+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "The New York Times",
+        "rating": "",
+        "summary": "Headline calls it a champion and praises Anthony Ippolito's charming turn as Sly; only a snippet was available.",
+        "url": "https://www.nytimes.com/2026/11/05/movies/i-play-rocky-review-hes-a-champion.html",
+        "verdict": "fresh"
       }
     ],
     "the cat in the hat|2026": [
@@ -603,6 +623,16 @@
         "rating": "",
         "summary": "Peppy animation with bold colors, half-decent jokes and catchy tunes, though the headline questions whether it adds anything new.",
         "url": "https://www.nytimes.com/2026/11/05/movies/the-cat-in-the-hat-review.html",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-05T17:39:31+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Times of India",
+        "rating": "",
+        "summary": "Despite straying from Seuss's charm, Bill Hader's spirited performance, inventive animation and emotional warmth make it an enjoyable family watch.",
+        "url": "https://timesofindia.indiatimes.com/entertainment/english/movie-reviews/the-cat-in-the-hat/movie-review/135569051.cms",
         "verdict": "fresh"
       }
     ],
@@ -1892,6 +1922,16 @@
         "summary": "McDonagh's witty dialogue and a revelatory Malkovich carry it, despite an uneasy glibness about real CIA atrocities.",
         "url": "https://thereveal.film/in-review-la-bola-negra-wild-horse-nine/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-05T17:39:28+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Consequence",
+        "rating": "",
+        "summary": "Malkovich gives a mind-blowing, career-best performance in a small but thematically mighty dark comedy with strong acting, twists and gorgeous Rapa Nui setting.",
+        "url": "https://consequence.net/2026/11/wild-horse-nine-review-john-malkovich/",
+        "verdict": "fresh"
       }
     ]
   },
@@ -2188,6 +2228,10 @@
       "at": "2026-11-02T11:33:22+00:00",
       "status": "not_review"
     },
+    "godzilla minus zero||https://www.vulture.com/article/godzilla-minus-zero-kid-friendly.html": {
+      "at": "2026-11-05T17:39:26+00:00",
+      "status": "not_review"
+    },
     "godzilla minus zero||https://www.winnipegfreepress.com/arts-and-life/entertainment/2026/11/02/movie-review-in-godzilla-minus-zero-human-scaled-melodrama-stomps-out-the-kaiju-fun": {
       "at": "2026-11-02T22:11:37+00:00",
       "status": "review",
@@ -2213,6 +2257,15 @@
     },
     "i play rocky||https://film-forward.com/star-reviews/i-play-rocky": {
       "at": "2026-11-05T08:47:15+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "i play rocky||https://filmfeeder.co.uk/film-reviews/i-play-rocky-dir-peter-farrelly": {
+      "at": "2026-11-05T17:39:20+00:00",
+      "status": "duplicate"
+    },
+    "i play rocky||https://filmfeeder.co.uk/film-reviews/i-play-rocky-dir-peter-farrelly?utm_source=rss&utm_medium=rss&utm_campaign=i-play-rocky-dir-peter-farrelly": {
+      "at": "2026-11-05T17:39:15+00:00",
       "status": "review",
       "verdict": "fresh"
     },
@@ -2279,6 +2332,11 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "i play rocky||https://www.nytimes.com/2026/11/05/movies/i-play-rocky-review-hes-a-champion.html": {
+      "at": "2026-11-05T17:39:24+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "i play rocky||https://www.reelingreviews.com/reviews/i-play-rocky/": {
       "at": "2026-11-05T15:41:24+00:00",
       "status": "review",
@@ -2337,6 +2395,11 @@
     },
     "the cat in the hat|2026|https://thecurvyfilmcritic.com/the-cat-in-the-hat-infuses-merriment-mayhem-and-mindfulness/?utm_source=rss&utm_medium=rss&utm_campaign=the-cat-in-the-hat-infuses-merriment-mayhem-and-mindfulness": {
       "at": "2026-11-04T01:07:29+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "the cat in the hat|2026|https://timesofindia.indiatimes.com/entertainment/english/movie-reviews/the-cat-in-the-hat/movie-review/135569051.cms": {
+      "at": "2026-11-05T17:39:31+00:00",
       "status": "review",
       "verdict": "fresh"
     },
@@ -3251,6 +3314,11 @@
     "wild horse nine||https://collider.com/wild-horse-nine-rotten-tomatoes-score-is-it-good/": {
       "at": "2026-11-04T21:32:47+00:00",
       "status": "not_review"
+    },
+    "wild horse nine||https://consequence.net/2026/11/wild-horse-nine-review-john-malkovich/": {
+      "at": "2026-11-05T17:39:28+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "wild horse nine||https://deadline.com/2026/10/santa-barbara-film-festival-awards-2027-honorees-1237112049/": {
       "at": "2026-10-30T18:07:54+00:00",
