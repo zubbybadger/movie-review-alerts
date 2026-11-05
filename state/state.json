@@ -360,6 +360,16 @@
         "summary": "Yamazaki renews kaiju iconography with spectacular, hypnotic monster battles matched by quiet human drama, despite an erratic script.",
         "url": "https://www.elmundo.es/cultura/cine/2026/11/05/6aea1ce121efa0a51e8b45bb.html",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-05T22:27:53+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Age of the Geek",
+        "rating": "4/5",
+        "summary": "Worth seeing even without IMAX, with high-quality monster effects and a meaningful anti-nuclear message, though it could be tightened.",
+        "url": "https://ageofthegeek.org/2026/11/05/godzilla-goes-imax-godzilla-minus-zero-thrills-%e2%ad%90%ef%b8%8f%e2%ad%90%ef%b8%8f%e2%ad%90%ef%b8%8f%e2%ad%90%ef%b8%8f/",
+        "verdict": "fresh"
       }
     ],
     "i play rocky|": [
@@ -2006,6 +2016,11 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "godzilla minus zero||https://ageofthegeek.org/2026/11/05/godzilla-goes-imax-godzilla-minus-zero-thrills-%e2%ad%90%ef%b8%8f%e2%ad%90%ef%b8%8f%e2%ad%90%ef%b8%8f%e2%ad%90%ef%b8%8f/": {
+      "at": "2026-11-05T22:27:53+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "godzilla minus zero||https://boundingintocomics.com/movies/king-ghidorah-in-godzilla-minus-zero": {
       "at": "2026-11-03T17:31:45+00:00",
       "status": "not_review"
@@ -3456,6 +3471,10 @@
       "at": "2026-11-04T17:19:26+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "wild horse nine||https://screenrant.com/wild-horse-nine-ending-explained/": {
+      "at": "2026-11-05T22:27:56+00:00",
+      "status": "not_review"
     },
     "wild horse nine||https://screenrant.com/wild-horse-nine-john-malkovich-martin-mcdonagh-cast-legacy-interview/": {
       "at": "2026-11-05T20:58:40+00:00",
