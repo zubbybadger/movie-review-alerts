@@ -2386,6 +2386,14 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "godzilla minus zero||https://www.empireonline.com/movies/features/best-japanese-godzilla-movies-to-stream-after-godzilla-minus-zero/": {
+      "at": "2026-11-06T13:36:08+00:00",
+      "status": "not_review"
+    },
+    "godzilla minus zero||https://www.empireonline.com/movies/features/godzilla-minus-zero-director-reinventing-king-ghidorah-interview/": {
+      "at": "2026-11-06T13:36:06+00:00",
+      "status": "not_review"
+    },
     "godzilla minus zero||https://www.empireonline.com/movies/news/godzilla-minus-zero-director-takashi-yamazakis-grandgear-casts-paul-giamatti-nico-parker-sam-nivola/": {
       "at": "2026-10-29T16:23:26+00:00",
       "status": "not_review"
@@ -2450,6 +2458,10 @@
       "at": "2026-11-02T21:31:10+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "godzilla minus zero||https://www.indiewire.com/features/interviews/godzilla-minus-zero-spoilers-interview-fight-scenes-1235225726/": {
+      "at": "2026-11-06T13:36:01+00:00",
+      "status": "not_review"
     },
     "godzilla minus zero||https://www.killermoviereviews.com/movie/godzilla-minus-zero/": {
       "at": "2026-11-06T00:32:58+00:00",
@@ -2518,6 +2530,10 @@
     },
     "godzilla minus zero||https://www.usatoday.com/story/entertainment/movies/2026/10/30/movies-new-popcorn-buckets-dune-godzilla-avengers/92487008007/": {
       "at": "2026-11-02T11:33:22+00:00",
+      "status": "not_review"
+    },
+    "godzilla minus zero||https://www.usatoday.com/story/entertainment/movies/2026/11/06/godzilla-essential-films-which-movies-to-watch/92594786007/": {
+      "at": "2026-11-06T13:36:04+00:00",
       "status": "not_review"
     },
     "godzilla minus zero||https://www.vulture.com/article/godzilla-minus-zero-kid-friendly.html": {
