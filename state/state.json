@@ -380,6 +380,26 @@
         "summary": "Yamazaki's sequel delivers spectacular kaiju battles enriched by thoughtful details, social commentary, and strong performances, especially Yoshioka's Noda.",
         "url": "https://www.killermoviereviews.com/movie/godzilla-minus-zero/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-06T06:24:36+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "El Pa\u00eds",
+        "rating": "",
+        "summary": "Repetitive, nostalgia-embalmed sequel whose brief monster duel is overwhelmed by tedious, emotionless human drama despite some good visual moments.",
+        "url": "https://elpais.com/cultura/cine/2026-11-06/godzilla-minus-zero-nostalgia-kaiju-embalsamada.html",
+        "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-06T06:24:41+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Spectrum Culture",
+        "rating": "74%",
+        "summary": "Thoughtful exploration of postwar trauma with clear, brutal, breathtaking kaiju action, despite occasionally maudlin melodrama and an overlong denouement.",
+        "url": "https://spectrumculture.com/2026/11/05/godzilla-minus-zero-review/",
+        "verdict": "fresh"
       }
     ],
     "i play rocky|": [
@@ -2012,6 +2032,16 @@
         "summary": "Only a teaser is available; the headline praises John Malkovich's scene-stealing turn in McDonagh's darkly comic CIA provocation.",
         "url": "https://www.npr.org/2026/11/05/nx-s1-6026496/john-malkovich-gallops-away-with-wild-horse-nine",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-06T06:24:39+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Spectrum Culture",
+        "rating": "92%",
+        "summary": "McDonagh balances humor, sadness and violence, with sharp dialogue and one of Malkovich's best performances in years.",
+        "url": "https://spectrumculture.com/2026/11/05/wild-horse-nine-review/",
+        "verdict": "fresh"
       }
     ]
   },
@@ -2075,6 +2105,11 @@
     "godzilla minus zero||https://deadline.com/print-article/1237213496?KeepThis=1&TB_iframe=1&height=500&width=750": {
       "at": "2026-11-04T22:27:41+00:00",
       "status": "duplicate"
+    },
+    "godzilla minus zero||https://elpais.com/cultura/cine/2026-11-06/godzilla-minus-zero-nostalgia-kaiju-embalsamada.html": {
+      "at": "2026-11-06T06:24:36+00:00",
+      "status": "review",
+      "verdict": "rotten"
     },
     "godzilla minus zero||https://filmfeeder.co.uk/film-reviews/godzilla-minus-zero-dir-takashi-yamazaki": {
       "at": "2026-11-03T17:31:56+00:00",
@@ -2163,6 +2198,11 @@
     },
     "godzilla minus zero||https://silverscreenriot.com/godzilla-minus-zero-review/?utm_source=rss&utm_medium=rss&utm_campaign=godzilla-minus-zero-review": {
       "at": "2026-11-04T14:40:13+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "godzilla minus zero||https://spectrumculture.com/2026/11/05/godzilla-minus-zero-review/": {
+      "at": "2026-11-06T06:24:41+00:00",
       "status": "review",
       "verdict": "fresh"
     },
@@ -3525,6 +3565,11 @@
     },
     "wild horse nine||https://silverscreenriot.com/wild-horse-nine-review/?utm_source=rss&utm_medium=rss&utm_campaign=wild-horse-nine-review": {
       "at": "2026-11-03T15:58:10+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "wild horse nine||https://spectrumculture.com/2026/11/05/wild-horse-nine-review/": {
+      "at": "2026-11-06T06:24:39+00:00",
       "status": "review",
       "verdict": "fresh"
     },
