@@ -490,6 +490,16 @@
         "summary": "Less resonant than its predecessor, but the genuine human drama grounds the bigger spectacle, making it immensely entertaining.",
         "url": "https://www.times-herald.com/arts_and_community/reviews/godzilla-minus-zero/article_32b91925-bcd4-436b-bcda-02a83ebdc96c.html",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-06T19:25:44+00:00",
+        "confidence": "low",
+        "critic": "",
+        "outlet": "Boston Hassle",
+        "rating": "",
+        "summary": "Only a snippet is available; its opening quote about even bad genre films being great hints at an affectionate, positive take.",
+        "url": "https://bostonhassle.com/review-godzilla-minus-zero-2026-dir-takashi-yamazaki/",
+        "verdict": "fresh"
       }
     ],
     "i play rocky|": [
@@ -2346,6 +2356,11 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "godzilla minus zero||https://bostonhassle.com/review-godzilla-minus-zero-2026-dir-takashi-yamazaki/": {
+      "at": "2026-11-06T19:25:44+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "godzilla minus zero||https://boundingintocomics.com/movies/king-ghidorah-in-godzilla-minus-zero": {
       "at": "2026-11-03T17:31:45+00:00",
       "status": "not_review"
@@ -2681,6 +2696,10 @@
       "at": "2026-11-05T18:21:43+00:00",
       "status": "not_review"
     },
+    "godzilla minus zero||https://www.hollywoodreporter.com/movies/movie-news/godzilla-minus-zero-box-office-previews-the-cat-in-the-hat-1236749470/": {
+      "at": "2026-11-06T19:25:47+00:00",
+      "status": "not_review"
+    },
     "godzilla minus zero||https://www.hollywoodreporter.com/movies/movie-news/godzilla-minus-zero-crashes-tokyo-film-festival-ryunosuke-kamiki-minami-hamabe-1236744328/": {
       "at": "2026-11-01T10:07:21+00:00",
       "status": "not_review"
@@ -2992,6 +3011,10 @@
       "at": "2026-11-06T15:25:12+00:00",
       "status": "review",
       "verdict": "rotten"
+    },
+    "the cat in the hat|2026|https://collider.com/video/the-cat-in-the-hat-3-art-styles-created-a-huge-problem-set-stories/": {
+      "at": "2026-11-06T19:25:51+00:00",
+      "status": "not_review"
     },
     "the cat in the hat|2026|https://culturemixonline.com/review-the-cat-in-the-hat-2026-starring-the-voices-of-bill-hader-matt-berry-quinta-brunson-xochitl-gomez-tiago-martinez-giancarlo-esposito-and-america-ferrera/": {
       "at": "2026-11-04T01:07:33+00:00",
@@ -4153,6 +4176,10 @@
       "at": "2026-11-05T09:46:36+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "wild horse nine||https://www.hollywoodreporter.com/movies/movie-news/godzilla-minus-zero-box-office-previews-the-cat-in-the-hat-1236749470/": {
+      "at": "2026-11-06T19:25:49+00:00",
+      "status": "not_review"
     },
     "wild horse nine||https://www.ign.com/articles/wild-horse-nine-review": {
       "at": "2026-11-03T13:05:24+00:00",
