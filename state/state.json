@@ -2072,6 +2072,16 @@
         "summary": "McDonagh balances humor, sadness and violence, with sharp dialogue and one of Malkovich's best performances in years.",
         "url": "https://spectrumculture.com/2026/11/05/wild-horse-nine-review/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-06T09:35:40+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Film Threat",
+        "rating": "",
+        "summary": "Praises McDonagh's deft balance of dark humor, politics, and history, with peak performances from Malkovich and Rockwell.",
+        "url": "https://filmthreat.com/reviews/wild-horse-nine/",
+        "verdict": "fresh"
       }
     ]
   },
@@ -3573,6 +3583,11 @@
     },
     "wild horse nine||https://filmfeeder.co.uk/film-reviews/wild-horse-nine-dir-martin-mcdonagh?utm_source=rss&utm_medium=rss&utm_campaign=wild-horse-nine-dir-martin-mcdonagh": {
       "at": "2026-11-04T20:01:20+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "wild horse nine||https://filmthreat.com/reviews/wild-horse-nine/": {
+      "at": "2026-11-06T09:35:40+00:00",
       "status": "review",
       "verdict": "fresh"
     },
