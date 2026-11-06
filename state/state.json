@@ -480,6 +480,16 @@
         "summary": "A magnificent entertainment with a melancholy heart, superb creature effects, and a resonant sense of history and guilt.",
         "url": "https://time.com/article/2026/11/06/godzilla-minus-zero-review/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-06T17:42:53+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "The Times-Herald",
+        "rating": "",
+        "summary": "Less resonant than its predecessor, but the genuine human drama grounds the bigger spectacle, making it immensely entertaining.",
+        "url": "https://www.times-herald.com/arts_and_community/reviews/godzilla-minus-zero/article_32b91925-bcd4-436b-bcda-02a83ebdc96c.html",
+        "verdict": "fresh"
       }
     ],
     "i play rocky|": [
@@ -2272,6 +2282,46 @@
         "summary": "A witty, twisty spy comedy with top-form Malkovich-Rockwell banter, a scene-stealing Buscemi, and unexpected heart\u2014a total treat.",
         "url": "https://thirdcoastreview.com/film-tv/2026/11/06/review-wild-horse-nine",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-06T17:42:37+00:00",
+        "confidence": "high",
+        "critic": "Nell Minow",
+        "outlet": "Movie Mom",
+        "rating": "B+",
+        "summary": "A fresh, engaging McDonagh twist on In Bruges with superb performances, hilarious banter, and a script that grapples with big moral questions.",
+        "url": "https://moviemom.com/wild-horse-nine/?utm_source=rss&utm_medium=rss&utm_campaign=wild-horse-nine",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-06T17:42:43+00:00",
+        "confidence": "medium",
+        "critic": "Susan Granger",
+        "outlet": "SusanGranger.com",
+        "rating": "7/10",
+        "summary": "Praises Malkovich and Rockwell's awards-worthy performances, memorable monologues and picturesque cinematography in a sinister, sardonic performance piece.",
+        "url": "https://www.susangranger.com/?p=19525",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-06T17:42:52+00:00",
+        "confidence": "low",
+        "critic": "",
+        "outlet": "The Times-Herald",
+        "rating": "",
+        "summary": "Page content unavailable; it appears to be a review from the reviews section, but the critic's stance cannot be determined.",
+        "url": "https://www.times-herald.com/arts_and_community/reviews/wild-horse-nine/article_a9a2cd35-d0f7-44d3-876d-738d66d3b4ca.html",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-06T17:42:55+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Bowling Green Daily News",
+        "rating": "A",
+        "summary": "Malkovich gives an Oscar-worthy performance, with great chemistry with Rockwell and McDonagh's razor-sharp, tonally balanced script.",
+        "url": "https://bgdailynews.com/2026/11/06/wild-horse-nine-provides-worthy-showcase-for-malkovich/",
+        "verdict": "fresh"
       }
     ]
   },
@@ -2321,6 +2371,10 @@
     },
     "godzilla minus zero||https://collider.com/godzilla-minus-zero-sequel-comments-takashi-yamazaki/": {
       "at": "2026-11-05T20:14:48+00:00",
+      "status": "not_review"
+    },
+    "godzilla minus zero||https://collider.com/godzilla-movie-series-ranked/": {
+      "at": "2026-11-06T17:43:06+00:00",
       "status": "not_review"
     },
     "godzilla minus zero||https://consequence.net/2026/11/godzilla-minus-zero-review-takashi-yamazaki/": {
@@ -2413,12 +2467,20 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "godzilla minus zero||https://screenanarchy.com/2026/11/now-playing-godzilla-minus-zero-paradise-lost-ramayana-rise-of-a-legend.html": {
+      "at": "2026-11-06T17:42:59+00:00",
+      "status": "not_review"
+    },
     "godzilla minus zero||https://screenanarchy.com/2026/11/opening-this-week-godzilla-minus-zero-paradise-lost-ramayana-rise-of-a-legend.html": {
       "at": "2026-11-02T16:43:13+00:00",
       "status": "not_review"
     },
     "godzilla minus zero||https://screenrant.com/db/movie/godzilla-minus-zero/": {
       "at": "2026-10-29T16:23:43+00:00",
+      "status": "not_review"
+    },
+    "godzilla minus zero||https://screenrant.com/godzilla-minus-one-how-to-watch-streaming-netflix-minus-zero/": {
+      "at": "2026-11-06T17:43:08+00:00",
       "status": "not_review"
     },
     "godzilla minus zero||https://screenrant.com/godzilla-minus-zero-box-office-domestic-opening-projections/": {
@@ -2515,6 +2577,10 @@
       "at": "2026-10-31T01:39:44+00:00",
       "status": "not_review"
     },
+    "godzilla minus zero||https://variety.com/2026/film/box-office/box-office-godzilla-minus-zero-previews-1236941301/": {
+      "at": "2026-11-06T17:42:35+00:00",
+      "status": "not_review"
+    },
     "godzilla minus zero||https://variety.com/2026/film/box-office/godzilla-minus-zero-box-office-opening-weekend-estimates-cat-in-the-hat-1236938885/": {
       "at": "2026-11-04T21:32:43+00:00",
       "status": "not_review"
@@ -2535,6 +2601,10 @@
     },
     "godzilla minus zero||https://www.bollywoodhungama.com/news/bollywood/scoop-godzilla-minus-zeros-india-release-likely-to-be-pushed-to-november-20-due-to-ramayanas-two-week-imax-exclusivity/": {
       "at": "2026-10-29T16:23:50+00:00",
+      "status": "not_review"
+    },
+    "godzilla minus zero||https://www.denofgeek.com/movies/godzilla-minus-zero-exploring-ending-nuclear-destruction-ideals/": {
+      "at": "2026-11-06T17:43:16+00:00",
       "status": "not_review"
     },
     "godzilla minus zero||https://www.denofgeek.com/movies/godzilla-minus-zero-review-kaiju/": {
@@ -2671,6 +2741,10 @@
       "at": "2026-11-06T16:14:23+00:00",
       "status": "not_review"
     },
+    "godzilla minus zero||https://www.polygon.com/its-almost-singing-how-godzilla-minus-zero-brought-king-ghidorah-to-life-like-never-before/": {
+      "at": "2026-11-06T17:42:50+00:00",
+      "status": "not_review"
+    },
     "godzilla minus zero||https://www.scifinow.co.uk/news/godzilla-minus-zero-vfx-sound-design/": {
       "at": "2026-11-03T07:41:08+00:00",
       "status": "not_review"
@@ -2705,6 +2779,11 @@
     "godzilla minus zero||https://www.the-independent.com/arts-entertainment/films/news/godzilla-munus-zero-king-ghidorah-b3080347.html": {
       "at": "2026-11-06T15:25:16+00:00",
       "status": "not_review"
+    },
+    "godzilla minus zero||https://www.times-herald.com/arts_and_community/reviews/godzilla-minus-zero/article_32b91925-bcd4-436b-bcda-02a83ebdc96c.html": {
+      "at": "2026-11-06T17:42:53+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "godzilla minus zero||https://www.usatoday.com/story/entertainment/movies/2026/10/30/movies-new-popcorn-buckets-dune-godzilla-avengers/92487008007/": {
       "at": "2026-11-02T11:33:22+00:00",
@@ -3840,6 +3919,11 @@
       "at": "2026-11-06T03:31:49+00:00",
       "status": "not_review"
     },
+    "wild horse nine||https://bgdailynews.com/2026/11/06/wild-horse-nine-provides-worthy-showcase-for-malkovich/": {
+      "at": "2026-11-06T17:42:55+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "wild horse nine||https://chicago.suntimes.com/movies-and-tv/2026/08/25/chicago-international-film-fest-2026-lineup-bob-odenkirk-curtis-duffy-martin-mcdonagh": {
       "at": "2026-10-30T16:54:53+00:00",
       "status": "not_review"
@@ -3932,6 +4016,15 @@
     },
     "wild horse nine||https://moviecricket.net/blog/2026/11/5/review-wild-horse-nine-is-a-funny-and-deeply-cynical-take-on-70s-cia-agents-enlivened-by-john-malkovichs-battered-lead-character": {
       "at": "2026-11-05T07:56:24+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "wild horse nine||https://moviemom.com/wild-horse-nine/": {
+      "at": "2026-11-06T17:42:40+00:00",
+      "status": "duplicate"
+    },
+    "wild horse nine||https://moviemom.com/wild-horse-nine/?utm_source=rss&utm_medium=rss&utm_campaign=wild-horse-nine": {
+      "at": "2026-11-06T17:42:37+00:00",
       "status": "review",
       "verdict": "fresh"
     },
@@ -4104,6 +4197,10 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "wild horse nine||https://www.npr.org/2026/11/06/nx-s1-6027774/wild-horse-nine-review": {
+      "at": "2026-11-06T17:43:01+00:00",
+      "status": "duplicate"
+    },
     "wild horse nine||https://www.nytimes.com/2026/11/05/movies/wild-horse-nine-review.html": {
       "at": "2026-11-05T10:44:40+00:00",
       "status": "review",
@@ -4128,8 +4225,22 @@
       "at": "2026-11-06T10:41:10+00:00",
       "status": "not_review"
     },
+    "wild horse nine||https://www.susangranger.com/?p=19525": {
+      "at": "2026-11-06T17:42:43+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "wild horse nine||https://www.thetraverstake.com/featured/wild-horse-nine/": {
       "at": "2026-10-30T16:54:15+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "wild horse nine||https://www.thetraverstake.com/wild-horse-nine/": {
+      "at": "2026-11-06T17:42:57+00:00",
+      "status": "duplicate"
+    },
+    "wild horse nine||https://www.times-herald.com/arts_and_community/reviews/wild-horse-nine/article_a9a2cd35-d0f7-44d3-876d-738d66d3b4ca.html": {
+      "at": "2026-11-06T17:42:52+00:00",
       "status": "review",
       "verdict": "fresh"
     },
