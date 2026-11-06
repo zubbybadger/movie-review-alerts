@@ -824,6 +824,26 @@
         "summary": "Frenetic, loud, and forgettable, it trades Seuss whimsy for stale retread gags despite appealing animation and Bill Hader.",
         "url": "https://silverscreenriot.com/the-cat-in-the-hat-review/",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-06T15:25:06+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "The Guardian",
+        "rating": "",
+        "summary": "Hader's lively voice work can't save an overlong, derivative, corporate-minded reboot that calls itself a mess.",
+        "url": "https://www.theguardian.com/film/2026/nov/06/cat-in-the-hat-movie-review",
+        "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-06T15:25:12+00:00",
+        "confidence": "high",
+        "critic": "Mark Dujsik",
+        "outlet": "Mark Reviews Movies",
+        "rating": "",
+        "summary": "An overbusy, gag-stuffed adaptation with inconsistent, sometimes troubling messages and a generic plot, only barely clearing the 2003 film's low bar.",
+        "url": "http://www.markreviewsmovies.com/reviews/C/catinthehat-2026.htm",
+        "verdict": "rotten"
       }
     ],
     "the mongoose|": [
@@ -2192,6 +2212,16 @@
         "summary": "McDonagh's funny, rage-filled conspiracy buddy comedy shines thanks to sharp banter and a standout, poignant John Malkovich performance.",
         "url": "https://www.rollingstone.com/tv-movies/tv-movie-reviews/wild-horse-nine-review-john-malkovich-1235651172/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-06T15:25:14+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Washington City Paper",
+        "rating": "",
+        "summary": "Calls it stronger than In Bruges, hilarious and stunningly shot, with a stacked cast, and one of the year's strongest films.",
+        "url": "https://washingtoncitypaper.com/article/794518/in-wild-horse-nine-martin-mcdonagh-brings-new-insight-to-his-old-interests/",
+        "verdict": "fresh"
       }
     ]
   },
@@ -2578,6 +2608,10 @@
       "at": "2026-11-03T03:19:48+00:00",
       "status": "not_review"
     },
+    "godzilla minus zero||https://www.the-independent.com/arts-entertainment/films/news/godzilla-munus-zero-king-ghidorah-b3080347.html": {
+      "at": "2026-11-06T15:25:16+00:00",
+      "status": "not_review"
+    },
     "godzilla minus zero||https://www.usatoday.com/story/entertainment/movies/2026/10/30/movies-new-popcorn-buckets-dune-godzilla-avengers/92487008007/": {
       "at": "2026-11-02T11:33:22+00:00",
       "status": "not_review"
@@ -2695,6 +2729,10 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "i play rocky||https://www.indiewire.com/features/commentary/sylvester-stallone-screenwriter-rocky-rambo-1235225006/": {
+      "at": "2026-11-06T15:25:08+00:00",
+      "status": "not_review"
+    },
     "i play rocky||https://www.indiewire.com/features/interviews/sylvester-stallone-i-play-rocky-star-anthony-ippolito-1235225053/": {
       "at": "2026-11-03T14:20:06+00:00",
       "status": "not_review"
@@ -2762,6 +2800,11 @@
     },
     "the cat in the hat|2026|http://moviefreak.com/cat-in-the-hat-2026-movie-review/": {
       "at": "2026-11-06T08:37:17+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
+    "the cat in the hat|2026|http://www.markreviewsmovies.com/reviews/C/catinthehat-2026.htm": {
+      "at": "2026-11-06T15:25:12+00:00",
       "status": "review",
       "verdict": "rotten"
     },
@@ -2874,6 +2917,11 @@
     },
     "the cat in the hat|2026|https://www.rogerebert.com/reviews/the-cat-in-the-hat-bill-hader-dr-seuss-movie-review-2026": {
       "at": "2026-11-06T14:35:44+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
+    "the cat in the hat|2026|https://www.theguardian.com/film/2026/nov/06/cat-in-the-hat-movie-review": {
+      "at": "2026-11-06T15:25:06+00:00",
       "status": "review",
       "verdict": "rotten"
     },
@@ -3863,6 +3911,11 @@
     "wild horse nine||https://timesofindia.indiatimes.com/entertainment/english/movie-details/wild-horse-nine/movieshow/129691249.cms": {
       "at": "2026-11-05T20:14:52+00:00",
       "status": "not_review"
+    },
+    "wild horse nine||https://washingtoncitypaper.com/article/794518/in-wild-horse-nine-martin-mcdonagh-brings-new-insight-to-his-old-interests/": {
+      "at": "2026-11-06T15:25:14+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "wild horse nine||https://www.avclub.com/wild-horse-nine-interview-martin-mcdonagh-john-malkovich-sam-rockwell-parker-posey-screwball-comedy": {
       "at": "2026-11-04T17:19:29+00:00",
