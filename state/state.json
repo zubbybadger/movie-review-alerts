@@ -420,6 +420,16 @@
         "summary": "Spectacular, epic action and kaiju battles make it one of the year's blockbusters, despite weaker emotional impact and uneven pacing versus Minus One.",
         "url": "https://hipertextual.com/cine-television/godzilla-minus-zero-critica/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-06T10:41:14+00:00",
+        "confidence": "high",
+        "critic": "Kristy Puchko",
+        "outlet": "Mashable",
+        "rating": "",
+        "summary": "A sensational, truly epic sequel balancing thrilling R-rated monster battles with earnest human drama and a sobering anti-war message.",
+        "url": "https://mashable.com/entertainment/godzilla-minus-zero-review",
+        "verdict": "fresh"
       }
     ],
     "i play rocky|": [
@@ -581,6 +591,16 @@
         "rating": "",
         "summary": "Headline calls it a champion and praises Anthony Ippolito's charming turn as Sly; only a snippet was available.",
         "url": "https://www.nytimes.com/2026/11/05/movies/i-play-rocky-review-hes-a-champion.html",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-06T10:41:12+00:00",
+        "confidence": "high",
+        "critic": "Kristy Puchko",
+        "outlet": "Mashable",
+        "rating": "",
+        "summary": "A rousing, wonderful crowd-pleaser with a crackling cast led by a terrific Ippolito, though its final act over-indulges in Rocky recreations.",
+        "url": "https://mashable.com/entertainment/i-play-rocky-review",
         "verdict": "fresh"
       }
     ],
@@ -2082,6 +2102,16 @@
         "summary": "Praises McDonagh's deft balance of dark humor, politics, and history, with peak performances from Malkovich and Rockwell.",
         "url": "https://filmthreat.com/reviews/wild-horse-nine/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-06T10:41:17+00:00",
+        "confidence": "medium",
+        "critic": "Kristy Puchko",
+        "outlet": "Mashable",
+        "rating": "",
+        "summary": "Though it feels redundant within McDonagh's work, its repetition deepens it, with gorgeous cinematography and a wickedly compelling Malkovich.",
+        "url": "https://mashable.com/entertainment/wild-horse-nine-movie-review",
+        "verdict": "fresh"
       }
     ]
   },
@@ -2187,6 +2217,11 @@
     },
     "godzilla minus zero||https://lenoirauteur.net/2026/11/03/film-review-godzilla-minus-zero/": {
       "at": "2026-11-03T08:36:46+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "godzilla minus zero||https://mashable.com/entertainment/godzilla-minus-zero-review": {
+      "at": "2026-11-06T10:41:14+00:00",
       "status": "review",
       "verdict": "fresh"
     },
@@ -2420,6 +2455,10 @@
       "at": "2026-11-03T07:41:08+00:00",
       "status": "not_review"
     },
+    "godzilla minus zero||https://www.screendaily.com/news/uk-ireland-box-office-preview-wild-horse-nine-godzilla-minus-zero-stomp-into-cinemas/5222120.article": {
+      "at": "2026-11-06T10:41:06+00:00",
+      "status": "not_review"
+    },
     "godzilla minus zero||https://www.sensacine.com/noticias/cine/noticia-1000230803/": {
       "at": "2026-11-05T13:55:03+00:00",
       "status": "review",
@@ -2489,6 +2528,11 @@
     },
     "i play rocky||https://filmfeeder.co.uk/film-reviews/i-play-rocky-dir-peter-farrelly?utm_source=rss&utm_medium=rss&utm_campaign=i-play-rocky-dir-peter-farrelly": {
       "at": "2026-11-05T17:39:15+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "i play rocky||https://mashable.com/entertainment/i-play-rocky-review": {
+      "at": "2026-11-06T10:41:12+00:00",
       "status": "review",
       "verdict": "fresh"
     },
@@ -3600,6 +3644,11 @@
       "at": "2026-10-30T17:30:40+00:00",
       "status": "not_review"
     },
+    "wild horse nine||https://mashable.com/entertainment/wild-horse-nine-movie-review": {
+      "at": "2026-11-06T10:41:17+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "wild horse nine||https://moviecricket.net/blog/2026/11/5/review-wild-horse-nine-is-a-funny-and-deeply-cynical-take-on-70s-cia-agents-enlivened-by-john-malkovichs-battered-lead-character": {
       "at": "2026-11-05T07:56:24+00:00",
       "status": "review",
@@ -3778,6 +3827,10 @@
       "at": "2026-10-30T16:53:55+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "wild horse nine||https://www.screendaily.com/news/uk-ireland-box-office-preview-wild-horse-nine-godzilla-minus-zero-stomp-into-cinemas/5222120.article": {
+      "at": "2026-11-06T10:41:10+00:00",
+      "status": "not_review"
     },
     "wild horse nine||https://www.thetraverstake.com/featured/wild-horse-nine/": {
       "at": "2026-10-30T16:54:15+00:00",
