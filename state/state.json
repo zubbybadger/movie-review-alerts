@@ -622,6 +622,26 @@
         "summary": "An endearing, sentimental crowd-pleaser carried by Ippolito's excellent Stallone, though it feels too neat and leans heavily on nostalgia.",
         "url": "https://www.latimes.com/entertainment-arts/movies/story/2026-11-06/i-play-rocky-review-sylvester-stallone-anthony-ippolito-peter-farrelly-annasophia-robb-tracy-letts",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-06T14:35:50+00:00",
+        "confidence": "low",
+        "critic": "",
+        "outlet": "ScreenAnarchy",
+        "rating": "",
+        "summary": "Nostalgia and Ippolito's uncanny Stallone excuse sentimentality and uneven performances, though Farrelly's flat visuals feel made-for-cable.",
+        "url": "https://screenanarchy.com/2026/11/i-play-rocky-review-making-of-biopic-leans-heavily-into-underdog-nostalgia-1.html",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-06T14:35:52+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "Vulture",
+        "rating": "",
+        "summary": "Despite syrupy pandering and slight substance, its palpable affection for the chaos of filmmaking and the production scenes won the critic over.",
+        "url": "https://www.vulture.com/article/i-play-rocky-movie-review-endearing-despite-itself.html",
+        "verdict": "fresh"
       }
     ],
     "the cat in the hat|2026": [
@@ -783,6 +803,26 @@
         "rating": "",
         "summary": "Despite talented voice cast and colorful world-building, the film is formulaic, maudlin, and overloaded with sappy lessons instead of Seussian fun.",
         "url": "https://www.latimes.com/entertainment-arts/movies/story/2026-11-06/cat-in-hat-review-bill-hader-alessandro-carloni-erica-rivinoja-america-ferrera",
+        "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-06T14:35:44+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "RogerEbert.com",
+        "rating": "",
+        "summary": "Strains so hard to transcend the Dr. Seuss source material that it loses what makes the story enduring.",
+        "url": "https://www.rogerebert.com/reviews/the-cat-in-the-hat-bill-hader-dr-seuss-movie-review-2026",
+        "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-06T14:35:47+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "Silver Screen Riot",
+        "rating": "C",
+        "summary": "Frenetic, loud, and forgettable, it trades Seuss whimsy for stale retread gags despite appealing animation and Bill Hader.",
+        "url": "https://silverscreenriot.com/the-cat-in-the-hat-review/",
         "verdict": "rotten"
       }
     ],
@@ -2142,6 +2182,16 @@
         "summary": "Though it feels redundant within McDonagh's work, its repetition deepens it, with gorgeous cinematography and a wickedly compelling Malkovich.",
         "url": "https://mashable.com/entertainment/wild-horse-nine-movie-review",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-06T14:35:54+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Rolling Stone",
+        "rating": "",
+        "summary": "McDonagh's funny, rage-filled conspiracy buddy comedy shines thanks to sharp banter and a standout, poignant John Malkovich performance.",
+        "url": "https://www.rollingstone.com/tv-movies/tv-movie-reviews/wild-horse-nine-review-john-malkovich-1235651172/",
+        "verdict": "fresh"
       }
     ]
   },
@@ -2591,6 +2641,11 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "i play rocky||https://screenanarchy.com/2026/11/i-play-rocky-review-making-of-biopic-leans-heavily-into-underdog-nostalgia-1.html": {
+      "at": "2026-11-06T14:35:50+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "i play rocky||https://screenrant.com/i-play-rocky-casting-sylvester-stallone-advice/": {
       "at": "2026-11-03T22:56:26+00:00",
       "status": "not_review"
@@ -2691,6 +2746,11 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "i play rocky||https://www.vulture.com/article/i-play-rocky-movie-review-endearing-despite-itself.html": {
+      "at": "2026-11-06T14:35:52+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "i play rocky||https://www.winnipegfreepress.com/arts-and-life/entertainment/2026/11/04/how-anthony-ippolito-talked-his-way-into-playing-sylvester-stallone-in-i-play-rocky": {
       "at": "2026-11-04T11:38:54+00:00",
       "status": "not_review"
@@ -2732,6 +2792,11 @@
     "the cat in the hat|2026|https://screenrant.com/video/cat-in-the-hat-bill-hader-quinta-brunson-america-ferrera-directors-interview/": {
       "at": "2026-11-04T23:10:01+00:00",
       "status": "not_review"
+    },
+    "the cat in the hat|2026|https://silverscreenriot.com/the-cat-in-the-hat-review/": {
+      "at": "2026-11-06T14:35:47+00:00",
+      "status": "review",
+      "verdict": "rotten"
     },
     "the cat in the hat|2026|https://thecurvyfilmcritic.com/the-cat-in-the-hat-infuses-merriment-mayhem-and-mindfulness/": {
       "at": "2026-11-04T01:07:31+00:00",
@@ -2806,6 +2871,11 @@
       "at": "2026-11-04T20:46:23+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "the cat in the hat|2026|https://www.rogerebert.com/reviews/the-cat-in-the-hat-bill-hader-dr-seuss-movie-review-2026": {
+      "at": "2026-11-06T14:35:44+00:00",
+      "status": "review",
+      "verdict": "rotten"
     },
     "the cat in the hat|2026|https://www.thehindu.com/entertainment/movies/the-cat-in-the-hat-writer-directors-alessandro-carloni-and-erica-rivinoja-on-dr-seusss-legacy-of-lunacy/article71627635.ece": {
       "at": "2026-11-02T19:26:25+00:00",
@@ -3890,6 +3960,11 @@
     },
     "wild horse nine||https://www.reelingreviews.com/reviews/wild-horse-nine/": {
       "at": "2026-10-30T16:53:55+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "wild horse nine||https://www.rollingstone.com/tv-movies/tv-movie-reviews/wild-horse-nine-review-john-malkovich-1235651172/": {
+      "at": "2026-11-06T14:35:54+00:00",
       "status": "review",
       "verdict": "fresh"
     },
