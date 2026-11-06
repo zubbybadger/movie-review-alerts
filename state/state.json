@@ -954,6 +954,16 @@
         "summary": "Bill Hader's lively voice work can't save a bland, safe script that leashes the Cat's Seussian anarchy; read the book instead.",
         "url": "https://www.thetraverstake.com/featured/the-cat-in-the-hat/",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-06T20:52:06+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "Deccan Herald",
+        "rating": "",
+        "summary": "Despite pacing drags and unremarkable animation, clever rhyming script and good humor make it worth a family watch.",
+        "url": "https://www.deccanherald.com/entertainment/the-cat-in-the-hat-movie-review-a-cat-a-hat-and-something-to-laugh-at-4210457",
+        "verdict": "fresh"
       }
     ],
     "the mongoose|": [
@@ -2392,6 +2402,16 @@
         "summary": "Calls it one of McDonagh's finest: wickedly funny, politically furious, tender, with awards-worthy turns from Malkovich and Rockwell.",
         "url": "https://www.reelreviews.com/intheaters/wild-horse-nine-review",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-06T20:52:04+00:00",
+        "confidence": "high",
+        "critic": "Leo Brady",
+        "outlet": "AMovieGuy.com",
+        "rating": "3.5/4",
+        "summary": "A bittersweet, darkly funny McDonagh film with excellent Malkovich and Rockwell performances; 'another winner.'",
+        "url": "https://amovieguy.com/2026/11/wild-horse-nine/",
+        "verdict": "fresh"
       }
     ]
   },
@@ -2729,6 +2749,10 @@
       "at": "2026-11-03T15:13:00+00:00",
       "status": "review",
       "verdict": "rotten"
+    },
+    "godzilla minus zero||https://www.espinof.com/estrenos/animalada-duelo-lagarto-gigante-gato-sombrero": {
+      "at": "2026-11-06T20:52:00+00:00",
+      "status": "not_review"
     },
     "godzilla minus zero||https://www.fotogramas.es/peliculas-criticas/a74282708/godzilla-minus-zero-critica-pelicula-opinion/": {
       "at": "2026-11-04T11:38:58+00:00",
@@ -3172,6 +3196,11 @@
       "at": "2026-11-03T17:32:08+00:00",
       "status": "review",
       "verdict": "rotten"
+    },
+    "the cat in the hat|2026|https://www.deccanherald.com/entertainment/the-cat-in-the-hat-movie-review-a-cat-a-hat-and-something-to-laugh-at-4210457": {
+      "at": "2026-11-06T20:52:06+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "the cat in the hat|2026|https://www.elnuevodia.com/entretenimiento/peliculas-series/notas/the-cat-in-the-hat-eleva-el-nivel-de-tension-al-punto-que-el-universo-podria-desaparecer/": {
       "at": "2026-11-04T22:27:36+00:00",
@@ -4042,6 +4071,11 @@
     "wild horse nine||https://algomasquecine.com/martin-mcdonagh-y-john-malkovich-revelan-los-secretos-detras-de-wild-horse-nine-una-historia-de-amistad-politica-y-memoria-historica/": {
       "at": "2026-11-06T03:31:49+00:00",
       "status": "not_review"
+    },
+    "wild horse nine||https://amovieguy.com/2026/11/wild-horse-nine/": {
+      "at": "2026-11-06T20:52:04+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "wild horse nine||https://bgdailynews.com/2026/11/06/wild-horse-nine-provides-worthy-showcase-for-malkovich/": {
       "at": "2026-11-06T17:42:55+00:00",
