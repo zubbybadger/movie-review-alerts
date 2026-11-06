@@ -500,6 +500,26 @@
         "summary": "Only a snippet is available; its opening quote about even bad genre films being great hints at an affectionate, positive take.",
         "url": "https://bostonhassle.com/review-godzilla-minus-zero-2026-dir-takashi-yamazaki/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-06T20:10:32+00:00",
+        "confidence": "high",
+        "critic": "Peter Travers",
+        "outlet": "The Travers Take",
+        "rating": "3.5/4",
+        "summary": "Weaker emotional story than Minus One, but spectacular Imax visual effects and kaiju battles make it a must-see.",
+        "url": "https://www.thetraverstake.com/featured/godzilla-minus-zero/",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-06T20:10:36+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Style Weekly",
+        "rating": "",
+        "summary": "Even more poetic than its predecessor, with astonishing monster battles, rich human drama, and a haunting score that puts awe back into awesome.",
+        "url": "https://www.styleweekly.com/monster-of-my-heart/",
+        "verdict": "fresh"
       }
     ],
     "i play rocky|": [
@@ -702,6 +722,26 @@
         "summary": "Despite syrupy pandering and slight substance, its palpable affection for the chaos of filmmaking and the production scenes won the critic over.",
         "url": "https://www.vulture.com/article/i-play-rocky-movie-review-endearing-despite-itself.html",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-06T20:10:30+00:00",
+        "confidence": "medium",
+        "critic": "Peter Travers",
+        "outlet": "The Travers Take",
+        "rating": "",
+        "summary": "Travers calls this making-of-Rocky film a likely crowd pleaser of the year, celebrating its underdog spirit.",
+        "url": "https://www.thetraverstake.com/featured/i-play-rocky/",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-06T20:10:38+00:00",
+        "confidence": "high",
+        "critic": "Stephanie Zacharek",
+        "outlet": "TIME",
+        "rating": "",
+        "summary": "A sweet, moving crowd-pleaser with an uncanny Ippolito as young Stallone; Farrelly hits all the right beats.",
+        "url": "https://time.com/article/2026/11/06/i-play-rocky-movie-review/",
+        "verdict": "fresh"
       }
     ],
     "the cat in the hat|2026": [
@@ -903,6 +943,16 @@
         "rating": "",
         "summary": "An overbusy, gag-stuffed adaptation with inconsistent, sometimes troubling messages and a generic plot, only barely clearing the 2003 film's low bar.",
         "url": "http://www.markreviewsmovies.com/reviews/C/catinthehat-2026.htm",
+        "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-06T20:10:34+00:00",
+        "confidence": "high",
+        "critic": "Peter Travers",
+        "outlet": "The Travers Take",
+        "rating": "2/4",
+        "summary": "Bill Hader's lively voice work can't save a bland, safe script that leashes the Cat's Seussian anarchy; read the book instead.",
+        "url": "https://www.thetraverstake.com/featured/the-cat-in-the-hat/",
         "verdict": "rotten"
       }
     ],
@@ -2332,6 +2382,16 @@
         "summary": "Malkovich gives an Oscar-worthy performance, with great chemistry with Rockwell and McDonagh's razor-sharp, tonally balanced script.",
         "url": "https://bgdailynews.com/2026/11/06/wild-horse-nine-provides-worthy-showcase-for-malkovich/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-06T20:10:27+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Reel Reviews",
+        "rating": "",
+        "summary": "Calls it one of McDonagh's finest: wickedly funny, politically furious, tender, with awards-worthy turns from Malkovich and Rockwell.",
+        "url": "https://www.reelreviews.com/intheaters/wild-horse-nine-review",
+        "verdict": "fresh"
       }
     ]
   },
@@ -2494,6 +2554,10 @@
       "at": "2026-10-29T16:23:43+00:00",
       "status": "not_review"
     },
+    "godzilla minus zero||https://screenrant.com/godzilla-all-movies-ranked/": {
+      "at": "2026-11-06T20:10:44+00:00",
+      "status": "not_review"
+    },
     "godzilla minus zero||https://screenrant.com/godzilla-minus-one-how-to-watch-streaming-netflix-minus-zero/": {
       "at": "2026-11-06T17:43:08+00:00",
       "status": "not_review"
@@ -2602,6 +2666,10 @@
     },
     "godzilla minus zero||https://variety.com/2026/film/festivals/godzilla-minus-zero-stars-relive-hollywood-ovation-tokyo-festival-1236936612/": {
       "at": "2026-11-01T05:26:45+00:00",
+      "status": "not_review"
+    },
+    "godzilla minus zero||https://variety.com/lists/godzilla-movies-ranked/": {
+      "at": "2026-11-06T20:10:23+00:00",
       "status": "not_review"
     },
     "godzilla minus zero||https://www.20minutos.es/cinemania/criticas/critica-godzilla-minus-zero-blockbuster-mejor-rodado-ano_7056270_3.html": {
@@ -2798,6 +2866,11 @@
       "at": "2026-11-03T03:19:48+00:00",
       "status": "not_review"
     },
+    "godzilla minus zero||https://www.styleweekly.com/monster-of-my-heart/": {
+      "at": "2026-11-06T20:10:36+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "godzilla minus zero||https://www.taosnews.com/tempo/reviews/battle-of-the-kaiju-titans/article_bccd7e01-aeee-4204-ba92-a47126c7007c.html": {
       "at": "2026-11-06T17:00:00+00:00",
       "status": "review",
@@ -2806,6 +2879,11 @@
     "godzilla minus zero||https://www.the-independent.com/arts-entertainment/films/news/godzilla-munus-zero-king-ghidorah-b3080347.html": {
       "at": "2026-11-06T15:25:16+00:00",
       "status": "not_review"
+    },
+    "godzilla minus zero||https://www.thetraverstake.com/featured/godzilla-minus-zero/": {
+      "at": "2026-11-06T20:10:32+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "godzilla minus zero||https://www.times-herald.com/arts_and_community/reviews/godzilla-minus-zero/article_32b91925-bcd4-436b-bcda-02a83ebdc96c.html": {
       "at": "2026-11-06T17:42:53+00:00",
@@ -2901,6 +2979,11 @@
       "at": "2026-11-02T19:26:05+00:00",
       "status": "duplicate"
     },
+    "i play rocky||https://time.com/article/2026/11/06/i-play-rocky-movie-review/": {
+      "at": "2026-11-06T20:10:38+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "i play rocky||https://www.avclub.com/i-play-rocky-review-sylvester-stallone-biopic-peter-farrelly": {
       "at": "2026-11-04T19:06:49+00:00",
       "status": "review",
@@ -2985,6 +3068,11 @@
     },
     "i play rocky||https://www.theguardian.com/film/2026/nov/05/i-play-rocky-review-anthony-ippolito-adds-knockout-sweetness-to-the-story-of-stallones-hollywood-triumph": {
       "at": "2026-11-05T11:36:12+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "i play rocky||https://www.thetraverstake.com/featured/i-play-rocky/": {
+      "at": "2026-11-06T20:10:30+00:00",
       "status": "review",
       "verdict": "fresh"
     },
@@ -3136,6 +3224,11 @@
     "the cat in the hat|2026|https://www.thehindu.com/entertainment/movies/the-cat-in-the-hat-writer-directors-alessandro-carloni-and-erica-rivinoja-on-dr-seusss-legacy-of-lunacy/article71627635.ece": {
       "at": "2026-11-02T19:26:25+00:00",
       "status": "not_review"
+    },
+    "the cat in the hat|2026|https://www.thetraverstake.com/featured/the-cat-in-the-hat/": {
+      "at": "2026-11-06T20:10:34+00:00",
+      "status": "review",
+      "verdict": "rotten"
     },
     "the cat in the hat|2026|https://www.winnipegfreepress.com/arts-and-life/entertainment/2026/11/03/movie-review-the-cat-in-the-hat-ridiculously-builds-the-stakes-so-high-the-universe-could-die": {
       "at": "2026-11-03T17:31:47+00:00",
@@ -4248,6 +4341,11 @@
     },
     "wild horse nine||https://www.reelingreviews.com/reviews/wild-horse-nine/": {
       "at": "2026-10-30T16:53:55+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "wild horse nine||https://www.reelreviews.com/intheaters/wild-horse-nine-review": {
+      "at": "2026-11-06T20:10:27+00:00",
       "status": "review",
       "verdict": "fresh"
     },
