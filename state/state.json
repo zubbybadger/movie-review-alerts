@@ -520,6 +520,16 @@
         "summary": "Even more poetic than its predecessor, with astonishing monster battles, rich human drama, and a haunting score that puts awe back into awesome.",
         "url": "https://www.styleweekly.com/monster-of-my-heart/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-06T23:25:59+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "jmuvies.blogspot.com",
+        "rating": "4.5/5",
+        "summary": "Critic was surprised by how much he enjoyed Yamazaki's visual magic, human emotion, and thunderous big-screen kaiju spectacle.",
+        "url": "https://jmuvies.blogspot.com/2026/11/wild-horse-9-godzilla-minus-0-neatly.html",
+        "verdict": "fresh"
       }
     ],
     "i play rocky|": [
@@ -2412,6 +2422,16 @@
         "summary": "A bittersweet, darkly funny McDonagh film with excellent Malkovich and Rockwell performances; 'another winner.'",
         "url": "https://amovieguy.com/2026/11/wild-horse-nine/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-06T23:26:02+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "jmuvies.blogspot.com",
+        "rating": "4/5",
+        "summary": "Praises Malkovich and Rockwell's mischievous odd-couple CIA duo and a delicious political dark comedy, though somewhat predictable for McDonagh.",
+        "url": "https://jmuvies.blogspot.com/2026/11/wild-horse-9-godzilla-minus-0-neatly.html",
+        "verdict": "fresh"
       }
     ]
   },
@@ -2534,6 +2554,11 @@
     },
     "godzilla minus zero||https://itsbetterinthedark.blogspot.com/2026/11/review-godzilla-minus-zero.html": {
       "at": "2026-11-05T07:56:22+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "godzilla minus zero||https://jmuvies.blogspot.com/2026/11/wild-horse-9-godzilla-minus-0-neatly.html": {
+      "at": "2026-11-06T23:25:59+00:00",
       "status": "review",
       "verdict": "fresh"
     },
@@ -3153,6 +3178,10 @@
     "the cat in the hat|2026|https://deadline.com/print-article/1237211639?KeepThis=1&TB_iframe=1&height=500&width=750": {
       "at": "2026-11-03T17:32:05+00:00",
       "status": "duplicate"
+    },
+    "the cat in the hat|2026|https://jmuvies.blogspot.com/2026/11/wild-horse-9-godzilla-minus-0-neatly.html": {
+      "at": "2026-11-06T23:26:04+00:00",
+      "status": "not_review"
     },
     "the cat in the hat|2026|https://mashable.com/entertainment/the-cat-in-the-hat-2026-review": {
       "at": "2026-11-03T17:32:24+00:00",
@@ -4182,6 +4211,11 @@
     "wild horse nine||https://jmuvies.blogspot.com/2026/09/33-years-and-counting-but-tiffs-still.html": {
       "at": "2026-10-30T17:30:40+00:00",
       "status": "not_review"
+    },
+    "wild horse nine||https://jmuvies.blogspot.com/2026/11/wild-horse-9-godzilla-minus-0-neatly.html": {
+      "at": "2026-11-06T23:26:02+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "wild horse nine||https://mashable.com/entertainment/wild-horse-nine-movie-review": {
       "at": "2026-11-06T10:41:17+00:00",
