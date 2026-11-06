@@ -400,6 +400,26 @@
         "summary": "Thoughtful exploration of postwar trauma with clear, brutal, breathtaking kaiju action, despite occasionally maudlin melodrama and an overlong denouement.",
         "url": "https://spectrumculture.com/2026/11/05/godzilla-minus-zero-review/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-06T08:37:20+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "MovieFreak",
+        "rating": "4/4",
+        "summary": "Despite some narrative convolution, spectacular kaiju action, a sensational climax, and resonant anti-war human drama make it equal to Minus One.",
+        "url": "http://moviefreak.com/godzilla-minus-zero-2026-movie-review/",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-06T08:37:23+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Hipertextual",
+        "rating": "3.5/5",
+        "summary": "Spectacular, epic action and kaiju battles make it one of the year's blockbusters, despite weaker emotional impact and uneven pacing versus Minus One.",
+        "url": "https://hipertextual.com/cine-television/godzilla-minus-zero-critica/",
+        "verdict": "fresh"
       }
     ],
     "i play rocky|": [
@@ -704,6 +724,16 @@
         "summary": "Despite straying from Seuss's charm, Bill Hader's spirited performance, inventive animation and emotional warmth make it an enjoyable family watch.",
         "url": "https://timesofindia.indiatimes.com/entertainment/english/movie-reviews/the-cat-in-the-hat/movie-review/135569051.cms",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-06T08:37:17+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "MovieFreak",
+        "rating": "2.5/4",
+        "summary": "Bill Hader's lively voice work and inventive animation can't overcome a bland, unadventurous CliffsNotes-style story; Seuss deserves better.",
+        "url": "http://moviefreak.com/cat-in-the-hat-2026-movie-review/",
+        "verdict": "rotten"
       }
     ],
     "the mongoose|": [
@@ -2046,6 +2076,11 @@
     ]
   },
   "seen": {
+    "godzilla minus zero||http://moviefreak.com/godzilla-minus-zero-2026-movie-review/": {
+      "at": "2026-11-06T08:37:20+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "godzilla minus zero||http://www.markreviewsmovies.com/reviews/G/godzillaminuszero.htm": {
       "at": "2026-11-05T15:41:21+00:00",
       "status": "review",
@@ -2122,6 +2157,11 @@
     },
     "godzilla minus zero||https://filmthreat.com/reviews/godzilla-minus-zero/": {
       "at": "2026-11-05T09:46:33+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "godzilla minus zero||https://hipertextual.com/cine-television/godzilla-minus-zero-critica/": {
+      "at": "2026-11-06T08:37:23+00:00",
       "status": "review",
       "verdict": "fresh"
     },
@@ -2298,8 +2338,16 @@
       "at": "2026-11-02T03:19:52+00:00",
       "status": "not_review"
     },
+    "godzilla minus zero||https://www.gamesradar.com/entertainment/sci-fi-movies/godzilla-minus-zero-ending-explained-ghidorah/": {
+      "at": "2026-11-06T08:37:27+00:00",
+      "status": "not_review"
+    },
     "godzilla minus zero||https://www.gamesradar.com/entertainment/sci-fi-movies/godzilla-minus-zero-is-so-loud-that-it-gave-one-viewer-a-health-warning/": {
       "at": "2026-11-03T13:05:22+00:00",
+      "status": "not_review"
+    },
+    "godzilla minus zero||https://www.gamesradar.com/entertainment/sci-fi-movies/godzilla-minus-zero-post-credits-scene/": {
+      "at": "2026-11-06T08:37:25+00:00",
       "status": "not_review"
     },
     "godzilla minus zero||https://www.gamesradar.com/entertainment/sci-fi-movies/godzilla-minus-zero-review/": {
@@ -2537,6 +2585,11 @@
       "at": "2026-11-04T20:46:26+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "the cat in the hat|2026|http://moviefreak.com/cat-in-the-hat-2026-movie-review/": {
+      "at": "2026-11-06T08:37:17+00:00",
+      "status": "review",
+      "verdict": "rotten"
     },
     "the cat in the hat|2026|https://culturemixonline.com/review-the-cat-in-the-hat-2026-starring-the-voices-of-bill-hader-matt-berry-quinta-brunson-xochitl-gomez-tiago-martinez-giancarlo-esposito-and-america-ferrera/": {
       "at": "2026-11-04T01:07:33+00:00",
