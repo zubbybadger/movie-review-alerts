@@ -370,6 +370,16 @@
         "summary": "Worth seeing even without IMAX, with high-quality monster effects and a meaningful anti-nuclear message, though it could be tightened.",
         "url": "https://ageofthegeek.org/2026/11/05/godzilla-goes-imax-godzilla-minus-zero-thrills-%e2%ad%90%ef%b8%8f%e2%ad%90%ef%b8%8f%e2%ad%90%ef%b8%8f%e2%ad%90%ef%b8%8f/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-06T00:32:58+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Killer Movie Reviews",
+        "rating": "4",
+        "summary": "Yamazaki's sequel delivers spectacular kaiju battles enriched by thoughtful details, social commentary, and strong performances, especially Yoshioka's Noda.",
+        "url": "https://www.killermoviereviews.com/movie/godzilla-minus-zero/",
+        "verdict": "fresh"
       }
     ],
     "i play rocky|": [
@@ -2267,6 +2277,11 @@
     },
     "godzilla minus zero||https://www.indiewire.com/criticism/movies/godzilla-minus-zero-movie-review-1235218720/": {
       "at": "2026-11-02T21:31:10+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "godzilla minus zero||https://www.killermoviereviews.com/movie/godzilla-minus-zero/": {
+      "at": "2026-11-06T00:32:58+00:00",
       "status": "review",
       "verdict": "fresh"
     },
