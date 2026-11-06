@@ -430,6 +430,16 @@
         "summary": "A sensational, truly epic sequel balancing thrilling R-rated monster battles with earnest human drama and a sobering anti-war message.",
         "url": "https://mashable.com/entertainment/godzilla-minus-zero-review",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-06T11:31:14+00:00",
+        "confidence": "low",
+        "critic": "",
+        "outlet": "Los Angeles Times",
+        "rating": "",
+        "summary": "Spectacular, thrilling monster action makes this a decent sequel, though wan leads and a grim, guilt-heavy tone weigh it down.",
+        "url": "https://www.latimes.com/entertainment-arts/movies/story/2026-11-06/godzilla-minus-zero-review-ryunosuke-kamiki-minami-hamabe-min-tanaka-takashi-yamazaki",
+        "verdict": "fresh"
       }
     ],
     "i play rocky|": [
@@ -602,6 +612,16 @@
         "summary": "A rousing, wonderful crowd-pleaser with a crackling cast led by a terrific Ippolito, though its final act over-indulges in Rocky recreations.",
         "url": "https://mashable.com/entertainment/i-play-rocky-review",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-06T11:31:16+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "Los Angeles Times",
+        "rating": "",
+        "summary": "An endearing, sentimental crowd-pleaser carried by Ippolito's excellent Stallone, though it feels too neat and leans heavily on nostalgia.",
+        "url": "https://www.latimes.com/entertainment-arts/movies/story/2026-11-06/i-play-rocky-review-sylvester-stallone-anthony-ippolito-peter-farrelly-annasophia-robb-tracy-letts",
+        "verdict": "fresh"
       }
     ],
     "the cat in the hat|2026": [
@@ -753,6 +773,16 @@
         "rating": "2.5/4",
         "summary": "Bill Hader's lively voice work and inventive animation can't overcome a bland, unadventurous CliffsNotes-style story; Seuss deserves better.",
         "url": "http://moviefreak.com/cat-in-the-hat-2026-movie-review/",
+        "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-06T11:31:12+00:00",
+        "confidence": "high",
+        "critic": "Katie Walsh",
+        "outlet": "Los Angeles Times",
+        "rating": "",
+        "summary": "Despite talented voice cast and colorful world-building, the film is formulaic, maudlin, and overloaded with sappy lessons instead of Seussian fun.",
+        "url": "https://www.latimes.com/entertainment-arts/movies/story/2026-11-06/cat-in-hat-review-bill-hader-alessandro-carloni-erica-rivinoja-america-ferrera",
         "verdict": "rotten"
       }
     ],
@@ -2427,6 +2457,11 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "godzilla minus zero||https://www.latimes.com/entertainment-arts/movies/story/2026-11-06/godzilla-minus-zero-review-ryunosuke-kamiki-minami-hamabe-min-tanaka-takashi-yamazaki": {
+      "at": "2026-11-06T11:31:14+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "godzilla minus zero||https://www.lwlies.com/reviews/godzilla-minus-zero": {
       "at": "2026-11-04T11:39:06+00:00",
       "status": "review",
@@ -2597,6 +2632,11 @@
       "at": "2026-11-04T11:39:00+00:00",
       "status": "not_review"
     },
+    "i play rocky||https://www.latimes.com/entertainment-arts/movies/story/2026-11-06/i-play-rocky-review-sylvester-stallone-anthony-ippolito-peter-farrelly-annasophia-robb-tracy-letts": {
+      "at": "2026-11-06T11:31:16+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "i play rocky||https://www.lwlies.com/reviews/i-play-rocky": {
       "at": "2026-11-04T11:39:09+00:00",
       "status": "review",
@@ -2731,6 +2771,11 @@
     "the cat in the hat|2026|https://www.ign.com/movies/the-cat-in-the-hat": {
       "at": "2026-11-03T17:32:15+00:00",
       "status": "duplicate"
+    },
+    "the cat in the hat|2026|https://www.latimes.com/entertainment-arts/movies/story/2026-11-06/cat-in-hat-review-bill-hader-alessandro-carloni-erica-rivinoja-america-ferrera": {
+      "at": "2026-11-06T11:31:12+00:00",
+      "status": "review",
+      "verdict": "rotten"
     },
     "the cat in the hat|2026|https://www.nytimes.com/2026/11/05/movies/the-cat-in-the-hat-review.html": {
       "at": "2026-11-05T10:44:45+00:00",
