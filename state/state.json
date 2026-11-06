@@ -450,6 +450,36 @@
         "summary": "Too much time with dull human characters, but spectacular, awards-worthy monster battles make it worth seeing on the biggest screen.",
         "url": "https://thirdcoastreview.com/film-tv/2026/11/06/review-godzilla-minus-zero",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-06T16:59:54+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "InReview Online",
+        "rating": "",
+        "summary": "A thrilling, politically provocative sequel with a terrifying new monster, tactile effects, balanced performances, and kaiju battles that are a helluva good time.",
+        "url": "https://inreviewonline.com/2026/11/06/godzilla-minus-zero-review/",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-06T17:00:00+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Taos News",
+        "rating": "A",
+        "summary": "An epic, breathtaking spectacle that also works as an affecting human drama with social commentary, moving enough to draw tears.",
+        "url": "https://www.taosnews.com/tempo/reviews/battle-of-the-kaiju-titans/article_bccd7e01-aeee-4204-ba92-a47126c7007c.html",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-06T17:00:03+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "TIME",
+        "rating": "",
+        "summary": "A magnificent entertainment with a melancholy heart, superb creature effects, and a resonant sense of history and guilt.",
+        "url": "https://time.com/article/2026/11/06/godzilla-minus-zero-review/",
+        "verdict": "fresh"
       }
     ],
     "i play rocky|": [
@@ -2232,6 +2262,16 @@
         "summary": "Calls it stronger than In Bruges, hilarious and stunningly shot, with a stacked cast, and one of the year's strongest films.",
         "url": "https://washingtoncitypaper.com/article/794518/in-wild-horse-nine-martin-mcdonagh-brings-new-insight-to-his-old-interests/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-06T16:59:56+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Third Coast Review",
+        "rating": "",
+        "summary": "A witty, twisty spy comedy with top-form Malkovich-Rockwell banter, a scene-stealing Buscemi, and unexpected heart\u2014a total treat.",
+        "url": "https://thirdcoastreview.com/film-tv/2026/11/06/review-wild-horse-nine",
+        "verdict": "fresh"
       }
     ]
   },
@@ -2331,6 +2371,11 @@
     },
     "godzilla minus zero||https://horrorpress.com/reviews/14928/godzilla-minus-zero-review/": {
       "at": "2026-11-05T16:43:15+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "godzilla minus zero||https://inreviewonline.com/2026/11/06/godzilla-minus-zero-review/": {
+      "at": "2026-11-06T16:59:54+00:00",
       "status": "review",
       "verdict": "fresh"
     },
@@ -2452,6 +2497,11 @@
     "godzilla minus zero||https://time.com/article/2026/11/03/godzilla-minus-zero-Takashi-Yamazaki-interview/": {
       "at": "2026-11-03T13:05:18+00:00",
       "status": "not_review"
+    },
+    "godzilla minus zero||https://time.com/article/2026/11/06/godzilla-minus-zero-review/": {
+      "at": "2026-11-06T17:00:03+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "godzilla minus zero||https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/ramayana-rise-of-a-legend-to-challenge-godzilla-minus-zero-at-global-box-office-indian-epic-tipped-to-surprise-with-usd-75-million-haul/articleshow/135560496.cms": {
       "at": "2026-11-05T06:39:05+00:00",
@@ -2613,6 +2663,10 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "godzilla minus zero||https://www.otroscines.com/post/godzilla-minus-zero-arranco-primera-en-argentina-es-un-exito-en-el-resto-del-mundo-y-bate-records-en-japon": {
+      "at": "2026-11-06T16:59:58+00:00",
+      "status": "not_review"
+    },
     "godzilla minus zero||https://www.polygon.com/godzilla-minus-zero-final-trailer-king-ghidorah/": {
       "at": "2026-11-06T16:14:23+00:00",
       "status": "not_review"
@@ -2642,6 +2696,11 @@
     "godzilla minus zero||https://www.smh.com.au/culture/movies/official-trailer-for-godzilla-minus-zero-20261103-p61azo.html": {
       "at": "2026-11-03T03:19:48+00:00",
       "status": "not_review"
+    },
+    "godzilla minus zero||https://www.taosnews.com/tempo/reviews/battle-of-the-kaiju-titans/article_bccd7e01-aeee-4204-ba92-a47126c7007c.html": {
+      "at": "2026-11-06T17:00:00+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "godzilla minus zero||https://www.the-independent.com/arts-entertainment/films/news/godzilla-munus-zero-king-ghidorah-b3080347.html": {
       "at": "2026-11-06T15:25:16+00:00",
@@ -3944,6 +4003,11 @@
     },
     "wild horse nine||https://thereveal.film/in-review-la-bola-negra-wild-horse-nine/": {
       "at": "2026-11-05T16:43:13+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "wild horse nine||https://thirdcoastreview.com/film-tv/2026/11/06/review-wild-horse-nine": {
+      "at": "2026-11-06T16:59:56+00:00",
       "status": "review",
       "verdict": "fresh"
     },
