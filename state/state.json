@@ -2545,6 +2545,10 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "godzilla minus zero||https://collider.com/godzilla-minus-zero-box-office-opening-33-million/": {
+      "at": "2026-11-07T17:00:44+00:00",
+      "status": "not_review"
+    },
     "godzilla minus zero||https://collider.com/godzilla-minus-zero-king-ghidorah-scariest-version/": {
       "at": "2026-11-06T12:20:39+00:00",
       "status": "not_review"
@@ -2689,6 +2693,10 @@
       "at": "2026-11-04T21:32:50+00:00",
       "status": "not_review"
     },
+    "godzilla minus zero||https://screenrant.com/godzilla-minus-zero-box-office-opening-weekend-domestic-result/": {
+      "at": "2026-11-07T17:00:51+00:00",
+      "status": "not_review"
+    },
     "godzilla minus zero||https://screenrant.com/godzilla-minus-zero-ending-explained/": {
       "at": "2026-11-05T23:49:15+00:00",
       "status": "not_review"
@@ -2789,6 +2797,10 @@
     },
     "godzilla minus zero||https://timesofindia.indiatimes.com/videos/entertainment/regional/others/godzilla-minus-zero-official-trailer/videoshow/135632975.cms": {
       "at": "2026-11-07T10:11:28+00:00",
+      "status": "not_review"
+    },
+    "godzilla minus zero||https://variety.com/2026/film/box-office/box-office-godzilla-minus-zero-cat-in-the-hat-1236942032/": {
+      "at": "2026-11-07T17:00:34+00:00",
       "status": "not_review"
     },
     "godzilla minus zero||https://variety.com/2026/film/box-office/box-office-godzilla-minus-zero-previews-1236941301/": {
@@ -2901,6 +2913,10 @@
     },
     "godzilla minus zero||https://www.hollywoodreporter.com/movies/movie-features/godzilla-minus-zero-takashi-yamazaki-on-sequel-third-film-1236748616/": {
       "at": "2026-11-05T18:21:43+00:00",
+      "status": "not_review"
+    },
+    "godzilla minus zero||https://www.hollywoodreporter.com/movies/movie-news/godzilla-minus-zero-box-office-opening-the-cat-in-the-hat-1236750019/": {
+      "at": "2026-11-07T17:00:40+00:00",
       "status": "not_review"
     },
     "godzilla minus zero||https://www.hollywoodreporter.com/movies/movie-news/godzilla-minus-zero-box-office-previews-the-cat-in-the-hat-1236749470/": {
@@ -3308,6 +3324,10 @@
       "at": "2026-11-07T03:58:04+00:00",
       "status": "not_review"
     },
+    "the cat in the hat|2026|https://screenrant.com/the-cat-in-the-hat-2026-box-office-opening-weekend-domestic-result/": {
+      "at": "2026-11-07T17:00:49+00:00",
+      "status": "not_review"
+    },
     "the cat in the hat|2026|https://screenrant.com/the-cat-in-the-hat-2026-movie-review/": {
       "at": "2026-11-03T17:32:11+00:00",
       "status": "review",
@@ -3339,6 +3359,10 @@
       "at": "2026-11-05T17:39:31+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "the cat in the hat|2026|https://variety.com/2026/film/box-office/box-office-godzilla-minus-zero-cat-in-the-hat-1236942032/": {
+      "at": "2026-11-07T17:00:38+00:00",
+      "status": "not_review"
     },
     "the cat in the hat|2026|https://variety.com/2026/film/box-office/godzilla-minus-zero-box-office-opening-weekend-estimates-cat-in-the-hat-1236938885/": {
       "at": "2026-11-04T21:32:45+00:00",
@@ -4524,6 +4548,10 @@
     },
     "wild horse nine||https://www.hindustantimes.com/entertainment/hollywood/john-malkovich-reflects-on-the-limits-of-friendship-in-wild-horse-nine-101794032731689.html": {
       "at": "2026-11-07T06:59:57+00:00",
+      "status": "not_review"
+    },
+    "wild horse nine||https://www.hollywoodreporter.com/movies/movie-news/godzilla-minus-zero-box-office-opening-the-cat-in-the-hat-1236750019/": {
+      "at": "2026-11-07T17:00:42+00:00",
       "status": "not_review"
     },
     "wild horse nine||https://www.hollywoodreporter.com/movies/movie-news/godzilla-minus-zero-box-office-previews-the-cat-in-the-hat-1236749470/": {
