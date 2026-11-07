@@ -2432,6 +2432,16 @@
         "summary": "Praises Malkovich and Rockwell's mischievous odd-couple CIA duo and a delicious political dark comedy, though somewhat predictable for McDonagh.",
         "url": "https://jmuvies.blogspot.com/2026/11/wild-horse-9-godzilla-minus-0-neatly.html",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-07T01:42:24+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Mat's Entertainment",
+        "rating": "",
+        "summary": "Calls it hilarious and moving, McDonagh's most complete film, with an Oscar-worthy Malkovich performance and great chemistry with Rockwell.",
+        "url": "https://matsentertainment.com/wild-horse-nine-gives-malkovich-room-to-run/",
+        "verdict": "fresh"
       }
     ]
   },
@@ -3269,6 +3279,10 @@
     "the cat in the hat|2026|https://www.ign.com/movies/the-cat-in-the-hat": {
       "at": "2026-11-03T17:32:15+00:00",
       "status": "duplicate"
+    },
+    "the cat in the hat|2026|https://www.indiewire.com/news/business/eric-bauza-final-looney-tunes-film-in-theaters-dies-1235226076/": {
+      "at": "2026-11-07T01:42:22+00:00",
+      "status": "not_review"
     },
     "the cat in the hat|2026|https://www.latimes.com/entertainment-arts/movies/story/2026-11-06/cat-in-hat-review-bill-hader-alessandro-carloni-erica-rivinoja-america-ferrera": {
       "at": "2026-11-06T11:31:12+00:00",
@@ -4223,6 +4237,11 @@
     },
     "wild horse nine||https://mashable.com/entertainment/wild-horse-nine-movie-review": {
       "at": "2026-11-06T10:41:17+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "wild horse nine||https://matsentertainment.com/wild-horse-nine-gives-malkovich-room-to-run/": {
+      "at": "2026-11-07T01:42:24+00:00",
       "status": "review",
       "verdict": "fresh"
     },
