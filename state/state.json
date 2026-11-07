@@ -540,6 +540,16 @@
         "summary": "Spectacular effects and action can't offset long, boring stretches, wooden acting, and forced melodrama; a staggering step back from Minus One.",
         "url": "https://www.shouldiseeit.net/reviews/2026/godzilla-minus-zero-2026",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-07T07:52:48+00:00",
+        "confidence": "low",
+        "critic": "",
+        "outlet": "IGN",
+        "rating": "",
+        "summary": "Breathtaking VFX and thrilling monster action, but the human characters' emotional resonance from Minus One is missing, and the film suffers for it.",
+        "url": "https://www.ign.com/articles/godzilla-minus-zero-review",
+        "verdict": "rotten"
       }
     ],
     "i play rocky|": [
@@ -983,6 +993,16 @@
         "rating": "",
         "summary": "Despite pacing drags and unremarkable animation, clever rhyming script and good humor make it worth a family watch.",
         "url": "https://www.deccanherald.com/entertainment/the-cat-in-the-hat-movie-review-a-cat-a-hat-and-something-to-laugh-at-4210457",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-07T07:52:55+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "The Hindu",
+        "rating": "",
+        "summary": "Inventive visual gags, good voice work, and a touching moral make it a fun holiday treat despite being overly busy.",
+        "url": "https://www.thehindu.com/entertainment/movies/the-cat-in-the-hat-movie-review-dr-seuss-erica-rivinoja-alessandro-carloni-bill-hader-matt-berry-quinta-brunson/article71674694.ece",
         "verdict": "fresh"
       }
     ],
@@ -2873,6 +2893,11 @@
       "at": "2026-10-30T04:12:58+00:00",
       "status": "not_review"
     },
+    "godzilla minus zero||https://www.ign.com/articles/godzilla-minus-zero-review": {
+      "at": "2026-11-07T07:52:48+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
     "godzilla minus zero||https://www.indiewire.com/criticism/movies/godzilla-minus-zero-movie-review-1235218720/": {
       "at": "2026-11-02T21:31:10+00:00",
       "status": "review",
@@ -3241,6 +3266,18 @@
       "status": "review",
       "verdict": "rotten"
     },
+    "the cat in the hat|2026|https://mvmoorhead.blogspot.com/2026/11/heads-and-hats.html": {
+      "at": "2026-11-07T07:52:39+00:00",
+      "status": "not_review"
+    },
+    "the cat in the hat|2026|https://mvmoorhead.blogspot.com/search/label/THE%20CAT%20IN%20THE%20HAT": {
+      "at": "2026-11-07T07:52:42+00:00",
+      "status": "not_review"
+    },
+    "the cat in the hat|2026|https://mvmoorhead.blogspot.com/search/label/THE%20CAT%20IN%20THE%20HAT%20REVIEW": {
+      "at": "2026-11-07T07:52:44+00:00",
+      "status": "not_review"
+    },
     "the cat in the hat|2026|https://screenrant.com/cat-in-the-hat-sequel-minions-animated-franchise/": {
       "at": "2026-11-07T03:58:04+00:00",
       "status": "not_review"
@@ -3294,6 +3331,10 @@
       "at": "2026-11-03T17:32:08+00:00",
       "status": "review",
       "verdict": "rotten"
+    },
+    "the cat in the hat|2026|https://www.bollywoodhungama.com/movie/the-cat-in-the-hat-english/box-office/": {
+      "at": "2026-11-07T07:52:57+00:00",
+      "status": "not_review"
     },
     "the cat in the hat|2026|https://www.deccanherald.com/entertainment/the-cat-in-the-hat-movie-review-a-cat-a-hat-and-something-to-laugh-at-4210457": {
       "at": "2026-11-06T20:52:06+00:00",
@@ -3351,6 +3392,11 @@
       "at": "2026-11-06T15:25:06+00:00",
       "status": "review",
       "verdict": "rotten"
+    },
+    "the cat in the hat|2026|https://www.thehindu.com/entertainment/movies/the-cat-in-the-hat-movie-review-dr-seuss-erica-rivinoja-alessandro-carloni-bill-hader-matt-berry-quinta-brunson/article71674694.ece": {
+      "at": "2026-11-07T07:52:55+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "the cat in the hat|2026|https://www.thehindu.com/entertainment/movies/the-cat-in-the-hat-writer-directors-alessandro-carloni-and-erica-rivinoja-on-dr-seusss-legacy-of-lunacy/article71627635.ece": {
       "at": "2026-11-02T19:26:25+00:00",
@@ -4310,6 +4356,14 @@
       "at": "2026-11-06T17:42:37+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "wild horse nine||https://mvmoorhead.blogspot.com/2026/11/heads-and-hats.html": {
+      "at": "2026-11-07T07:52:37+00:00",
+      "status": "not_review"
+    },
+    "wild horse nine||https://mvmoorhead.blogspot.com/search/label/WILD%20HORSE%20NINE%20REVIEW": {
+      "at": "2026-11-07T07:52:46+00:00",
+      "status": "not_review"
     },
     "wild horse nine||https://neilsentertainmentpicks.com/2026/11/02/movie-review-wild-horse-nine/": {
       "at": "2026-11-02T11:33:20+00:00",
