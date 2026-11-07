@@ -2492,6 +2492,16 @@
         "summary": "Electric Malkovich and Rockwell performances, biting dialogue with hidden heart, and gorgeous cinematography outweigh a glib streak and polarizing ending.",
         "url": "https://www.shouldiseeit.net/reviews/2026/wild-horse-nine-2026",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-07T13:33:27+00:00",
+        "confidence": "medium",
+        "critic": "Alejandro Alem\u00e1n",
+        "outlet": "El Universal",
+        "rating": "",
+        "summary": "Witty dialogue and brilliant Malkovich-Rockwell chemistry win out despite feeling like an In Bruges remake and troubling moral ambiguity.",
+        "url": "https://www.eluniversal.com.mx/opinion/alejandro-aleman/wild-horse-nine-requiem-por-los-opresores/",
+        "verdict": "fresh"
       }
     ]
   },
@@ -4478,6 +4488,11 @@
     "wild horse nine||https://www.denofgeek.com/movies/martin-mcdonagh-in-bruges-wild-horse-nine/": {
       "at": "2026-11-04T14:40:18+00:00",
       "status": "not_review"
+    },
+    "wild horse nine||https://www.eluniversal.com.mx/opinion/alejandro-aleman/wild-horse-nine-requiem-por-los-opresores/": {
+      "at": "2026-11-07T13:33:27+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "wild horse nine||https://www.empireonline.com/movies/reviews/wild-horse-nine/": {
       "at": "2026-10-30T16:54:59+00:00",
