@@ -2462,6 +2462,16 @@
         "summary": "Despite strong Malkovich and Rockwell performances and gorgeous cinematography, the film feels recycled, overly staged, predictable, and lazily repeats McDonagh's formula.",
         "url": "https://culturemixonline.com/review-wild-horse-nine-starring-john-malkovich-sam-rockwell-steve-buscemi-tom-waits-and-parker-posey/",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-07T03:14:46+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Should I See It?",
+        "rating": "",
+        "summary": "Electric Malkovich and Rockwell performances, biting dialogue with hidden heart, and gorgeous cinematography outweigh a glib streak and polarizing ending.",
+        "url": "https://www.shouldiseeit.net/reviews/2026/wild-horse-nine-2026",
+        "verdict": "fresh"
       }
     ]
   },
@@ -4505,6 +4515,15 @@
     },
     "wild horse nine||https://www.screendaily.com/news/uk-ireland-box-office-preview-wild-horse-nine-godzilla-minus-zero-stomp-into-cinemas/5222120.article": {
       "at": "2026-11-06T10:41:10+00:00",
+      "status": "not_review"
+    },
+    "wild horse nine||https://www.shouldiseeit.net/reviews/2026/wild-horse-nine-2026": {
+      "at": "2026-11-07T03:14:46+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "wild horse nine||https://www.shouldiseeit.net/reviews/tag/Wild+Horse+Nine": {
+      "at": "2026-11-07T03:14:50+00:00",
       "status": "not_review"
     },
     "wild horse nine||https://www.susangranger.com/?p=19525": {
