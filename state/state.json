@@ -530,6 +530,16 @@
         "summary": "Critic was surprised by how much he enjoyed Yamazaki's visual magic, human emotion, and thunderous big-screen kaiju spectacle.",
         "url": "https://jmuvies.blogspot.com/2026/11/wild-horse-9-godzilla-minus-0-neatly.html",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-07T02:26:55+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Should I See It?",
+        "rating": "",
+        "summary": "Spectacular effects and action can't offset long, boring stretches, wooden acting, and forced melodrama; a staggering step back from Minus One.",
+        "url": "https://www.shouldiseeit.net/reviews/2026/godzilla-minus-zero-2026",
+        "verdict": "rotten"
       }
     ],
     "i play rocky|": [
@@ -2442,6 +2452,16 @@
         "summary": "Calls it hilarious and moving, McDonagh's most complete film, with an Oscar-worthy Malkovich performance and great chemistry with Rockwell.",
         "url": "https://matsentertainment.com/wild-horse-nine-gives-malkovich-room-to-run/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-07T02:26:52+00:00",
+        "confidence": "medium",
+        "critic": "Carla Hay",
+        "outlet": "Culture Mix",
+        "rating": "",
+        "summary": "Despite strong Malkovich and Rockwell performances and gorgeous cinematography, the film feels recycled, overly staged, predictable, and lazily repeats McDonagh's formula.",
+        "url": "https://culturemixonline.com/review-wild-horse-nine-starring-john-malkovich-sam-rockwell-steve-buscemi-tom-waits-and-parker-posey/",
+        "verdict": "rotten"
       }
     ]
   },
@@ -2926,6 +2946,15 @@
     },
     "godzilla minus zero||https://www.sensacine.com/peliculas/pelicula-1000014492/": {
       "at": "2026-10-30T01:09:30+00:00",
+      "status": "not_review"
+    },
+    "godzilla minus zero||https://www.shouldiseeit.net/reviews/2026/godzilla-minus-zero-2026": {
+      "at": "2026-11-07T02:26:55+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
+    "godzilla minus zero||https://www.shouldiseeit.net/reviews/tag/Godzilla+Minus+Zero": {
+      "at": "2026-11-07T02:26:57+00:00",
       "status": "not_review"
     },
     "godzilla minus zero||https://www.slashfilm.com/2270063/godzilla-minus-zero-revivew/": {
@@ -4176,6 +4205,10 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "wild horse nine||https://collider.com/best-sam-rockwell-movies-ranked/": {
+      "at": "2026-11-07T02:26:59+00:00",
+      "status": "not_review"
+    },
     "wild horse nine||https://collider.com/tag/movie/wild-horse-nine/": {
       "at": "2026-10-30T16:55:08+00:00",
       "status": "not_review"
@@ -4193,6 +4226,11 @@
       "at": "2026-11-05T17:39:28+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "wild horse nine||https://culturemixonline.com/review-wild-horse-nine-starring-john-malkovich-sam-rockwell-steve-buscemi-tom-waits-and-parker-posey/": {
+      "at": "2026-11-07T02:26:52+00:00",
+      "status": "review",
+      "verdict": "rotten"
     },
     "wild horse nine||https://deadline.com/2026/10/santa-barbara-film-festival-awards-2027-honorees-1237112049/": {
       "at": "2026-10-30T18:07:54+00:00",
