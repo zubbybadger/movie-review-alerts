@@ -560,6 +560,16 @@
         "summary": "A worthy sequel blending compelling human drama with peerless kaiju spectacle, masterful VFX, IMAX framing, and sound; a magnificent companion to Minus One.",
         "url": "https://cinapse.net/2026/11/godzilla-minus-zero-the-king-bows-to-no-one/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-08T21:59:13+00:00",
+        "confidence": "low",
+        "critic": "Andrew Robertson",
+        "outlet": "Eye For Film",
+        "rating": "",
+        "summary": "Spectacular IMAX visuals, sound and score thrill, but bloated runtime, uneven pacing and convoluted structure leave it wanting.",
+        "url": "https://www.eyeforfilm.co.uk/review/godzilla-minus-zero-2026-film-review-by-andrew-robertson",
+        "verdict": "fresh"
       }
     ],
     "i play rocky|": [
@@ -2965,6 +2975,11 @@
     "godzilla minus zero||https://www.espinof.com/estrenos/siquiera-dios-puede-mejor-monstruo-cine-ciencia-ficcion-godzilla-minus-zero-revienta-taquilla-mundial-63-millones-solo-tres-dias": {
       "at": "2026-11-08T18:50:30+00:00",
       "status": "not_review"
+    },
+    "godzilla minus zero||https://www.eyeforfilm.co.uk/review/godzilla-minus-zero-2026-film-review-by-andrew-robertson": {
+      "at": "2026-11-08T21:59:13+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "godzilla minus zero||https://www.fotogramas.es/peliculas-criticas/a74282708/godzilla-minus-zero-critica-pelicula-opinion/": {
       "at": "2026-11-04T11:38:58+00:00",
