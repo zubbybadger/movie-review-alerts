@@ -550,6 +550,16 @@
         "summary": "Breathtaking VFX and thrilling monster action, but the human characters' emotional resonance from Minus One is missing, and the film suffers for it.",
         "url": "https://www.ign.com/articles/godzilla-minus-zero-review",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-08T19:29:53+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Cinapse",
+        "rating": "",
+        "summary": "A worthy sequel blending compelling human drama with peerless kaiju spectacle, masterful VFX, IMAX framing, and sound; a magnificent companion to Minus One.",
+        "url": "https://cinapse.net/2026/11/godzilla-minus-zero-the-king-bows-to-no-one/",
+        "verdict": "fresh"
       }
     ],
     "i play rocky|": [
@@ -2545,6 +2555,11 @@
       "at": "2026-11-03T17:31:45+00:00",
       "status": "not_review"
     },
+    "godzilla minus zero||https://cinapse.net/2026/11/godzilla-minus-zero-the-king-bows-to-no-one/": {
+      "at": "2026-11-08T19:29:53+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "godzilla minus zero||https://cinefiloserial.com.ar/critica-de-godzilla-minus-zero-de-takashi-yamazaki-2026/": {
       "at": "2026-11-04T23:47:10+00:00",
       "status": "review",
@@ -2662,6 +2677,10 @@
       "at": "2026-11-03T08:36:46+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "godzilla minus zero||https://lenoirauteur.net/2026/11/08/2-black-guys-talk-godzilla-bonus-episode-godzilla-minus-zero/": {
+      "at": "2026-11-08T19:29:50+00:00",
+      "status": "not_review"
     },
     "godzilla minus zero||https://mashable.com/entertainment/godzilla-minus-zero-review": {
       "at": "2026-11-06T10:41:14+00:00",
@@ -3143,6 +3162,10 @@
     },
     "godzilla minus zero||https://www.usatoday.com/story/entertainment/movies/2026/11/06/what-to-watch-right-now/92543829007/": {
       "at": "2026-11-06T16:14:26+00:00",
+      "status": "not_review"
+    },
+    "godzilla minus zero||https://www.usatoday.com/story/entertainment/movies/2026/11/08/godzilla-minus-zero-box-office-record/92678536007/": {
+      "at": "2026-11-08T19:29:55+00:00",
       "status": "not_review"
     },
     "godzilla minus zero||https://www.vulture.com/article/godzilla-minus-zero-kid-friendly.html": {
