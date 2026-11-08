@@ -792,6 +792,16 @@
         "summary": "A sweet, moving crowd-pleaser with an uncanny Ippolito as young Stallone; Farrelly hits all the right beats.",
         "url": "https://time.com/article/2026/11/06/i-play-rocky-movie-review/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-08T23:42:07+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Cinemovie.tv",
+        "rating": "",
+        "summary": "Funny, heartfelt and inspiring, with Anthony Ippolito's awards-worthy Stallone performance and Farrelly's balance of humor and heart.",
+        "url": "https://cinemovie.tv/index.php/new-series-and-movie-reviews/i-play-rocky-movie-review-anthony-ippolito-sylvester-stallone",
+        "verdict": "fresh"
       }
     ],
     "the cat in the hat|2026": [
@@ -2902,6 +2912,10 @@
       "at": "2026-11-04T21:32:43+00:00",
       "status": "not_review"
     },
+    "godzilla minus zero||https://variety.com/2026/film/box-office/godzilla-minus-zero-ramayana-nternational-box-office-1236942760/": {
+      "at": "2026-11-08T23:42:05+00:00",
+      "status": "not_review"
+    },
     "godzilla minus zero||https://variety.com/2026/film/festivals/godzilla-minus-zero-stars-relive-hollywood-ovation-tokyo-festival-1236936612/": {
       "at": "2026-11-01T05:26:45+00:00",
       "status": "not_review"
@@ -3039,6 +3053,10 @@
       "at": "2026-11-07T07:52:48+00:00",
       "status": "review",
       "verdict": "rotten"
+    },
+    "godzilla minus zero||https://www.independent.co.uk/news/new-york-japanese-indian-warner-bros-oscar-b3081312.html": {
+      "at": "2026-11-08T23:42:10+00:00",
+      "status": "not_review"
     },
     "godzilla minus zero||https://www.indiewire.com/criticism/movies/godzilla-minus-zero-movie-review-1235218720/": {
       "at": "2026-11-02T21:31:10+00:00",
@@ -3242,6 +3260,11 @@
     "i play rocky||https://chicago.suntimes.com/movies-and-tv/2026/10/26/chicago-international-film-festival-top-movies-bill-stamets": {
       "at": "2026-11-02T19:26:14+00:00",
       "status": "not_review"
+    },
+    "i play rocky||https://cinemovie.tv/index.php/new-series-and-movie-reviews/i-play-rocky-movie-review-anthony-ippolito-sylvester-stallone": {
+      "at": "2026-11-08T23:42:07+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "i play rocky||https://deadline.com/2026/11/indie-films-opening-i-play-rocky-club-kid-wild-horse-nine-1237215727/": {
       "at": "2026-11-06T22:05:32+00:00",
@@ -3553,6 +3576,10 @@
     "the cat in the hat|2026|https://www.ign.com/movies/the-cat-in-the-hat": {
       "at": "2026-11-03T17:32:15+00:00",
       "status": "duplicate"
+    },
+    "the cat in the hat|2026|https://www.independent.co.uk/news/new-york-japanese-indian-warner-bros-oscar-b3081312.html": {
+      "at": "2026-11-08T23:42:12+00:00",
+      "status": "not_review"
     },
     "the cat in the hat|2026|https://www.indiewire.com/news/business/eric-bauza-final-looney-tunes-film-in-theaters-dies-1235226076/": {
       "at": "2026-11-07T01:42:22+00:00",
@@ -4474,6 +4501,10 @@
     },
     "wild horse nine||https://collider.com/best-sam-rockwell-movies-ranked/": {
       "at": "2026-11-07T02:26:59+00:00",
+      "status": "not_review"
+    },
+    "wild horse nine||https://collider.com/seven-psychopaths-wild-horse-nine-tracing-sam-rockwells-obsession-playing-broken-men/": {
+      "at": "2026-11-08T23:42:14+00:00",
       "status": "not_review"
     },
     "wild horse nine||https://collider.com/tag/movie/wild-horse-nine/": {
