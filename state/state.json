@@ -1004,6 +1004,16 @@
         "summary": "Inventive visual gags, good voice work, and a touching moral make it a fun holiday treat despite being overly busy.",
         "url": "https://www.thehindu.com/entertainment/movies/the-cat-in-the-hat-movie-review-dr-seuss-erica-rivinoja-alessandro-carloni-bill-hader-matt-berry-quinta-brunson/article71674694.ece",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-08T00:34:11+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "Killer Movie Reviews",
+        "rating": "3",
+        "summary": "Not very Seussian and purists may be disappointed, but it's energetic, ambitious fun that kids will enjoy.",
+        "url": "https://www.killermoviereviews.com/movie/the-cat-in-the-hat/",
+        "verdict": "fresh"
       }
     ],
     "the mongoose|": [
@@ -3437,6 +3447,11 @@
     "the cat in the hat|2026|https://www.indiewire.com/news/business/eric-bauza-final-looney-tunes-film-in-theaters-dies-1235226076/": {
       "at": "2026-11-07T01:42:22+00:00",
       "status": "not_review"
+    },
+    "the cat in the hat|2026|https://www.killermoviereviews.com/movie/the-cat-in-the-hat/": {
+      "at": "2026-11-08T00:34:11+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "the cat in the hat|2026|https://www.latimes.com/entertainment-arts/movies/story/2026-11-06/cat-in-hat-review-bill-hader-alessandro-carloni-erica-rivinoja-america-ferrera": {
       "at": "2026-11-06T11:31:12+00:00",
