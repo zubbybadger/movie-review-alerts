@@ -580,6 +580,16 @@
         "summary": "Yamazaki again pairs a moving human story with stunning, scary kaiju spectacle on a small budget, shaming Hollywood blockbusters.",
         "url": "https://everymoviehasalesson.com/blog/2026/11/movie-review-godzilla-minus-zero",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-09T12:20:15+00:00",
+        "confidence": "high",
+        "critic": "James Grebey",
+        "outlet": "The A.V. Club",
+        "rating": "",
+        "summary": "A rare kaiju sequel that keeps its gravity, pairing a spectacular Godzilla-Ghidorah fight with grounded human stakes and serious themes.",
+        "url": "https://www.avclub.com/godzilla-minus-zero-the-only-kaiju-sequel-adds-monsters-but-stays-serious",
+        "verdict": "fresh"
       }
     ],
     "i play rocky|": [
@@ -2974,6 +2984,11 @@
       "at": "2026-11-04T11:39:03+00:00",
       "status": "review",
       "verdict": "rotten"
+    },
+    "godzilla minus zero||https://www.avclub.com/godzilla-minus-zero-the-only-kaiju-sequel-adds-monsters-but-stays-serious": {
+      "at": "2026-11-09T12:20:15+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "godzilla minus zero||https://www.bollywoodhungama.com/news/bollywood/scoop-godzilla-minus-zeros-india-release-likely-to-be-pushed-to-november-20-due-to-ramayanas-two-week-imax-exclusivity/": {
       "at": "2026-10-29T16:23:50+00:00",
