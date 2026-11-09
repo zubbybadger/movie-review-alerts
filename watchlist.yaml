@@ -5,16 +5,11 @@
 # movies that share a title.
 movies:
   # also_known_as lists other titles a movie goes by (e.g. on Spanish-language sites).
-  - title: "Godzilla Minus Zero"
-    also_known_as:
-      - "Godzilla -0.0"
-      - "Godzilla Menos Cero"
-  - title: "Wild Horse Nine"
-    also_known_as:
-      - "Caballo Salvaje Nueve"
-  - title: "The Cat in the Hat"
-    year: 2026
   - title: "I Play Rocky"
+  - title: "Ebenezer"
+    year: 2026
+  - title: "How to Rob a Bank"
+    year: 2026
 
 # Review sites to watch. A homepage, a film/reviews section, or an RSS feed
 # all work. The bot finds the site's feed automatically when there is one,
