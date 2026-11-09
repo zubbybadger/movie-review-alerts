@@ -812,6 +812,16 @@
         "summary": "Funny, heartfelt and inspiring, with Anthony Ippolito's awards-worthy Stallone performance and Farrelly's balance of humor and heart.",
         "url": "https://cinemovie.tv/index.php/new-series-and-movie-reviews/i-play-rocky-movie-review-anthony-ippolito-sylvester-stallone",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-09T08:45:41+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "IGN",
+        "rating": "",
+        "summary": "Shameless but effective, with terrific performances from Ippolito and Robb and Farrelly's best work in years, despite a weaker, episodic second half.",
+        "url": "https://www.ign.com/articles/i-play-rocky-review",
+        "verdict": "fresh"
       }
     ],
     "the cat in the hat|2026": [
@@ -3390,6 +3400,11 @@
       "at": "2026-11-02T19:26:11+00:00",
       "status": "not_review"
     },
+    "i play rocky||https://www.ign.com/articles/i-play-rocky-review": {
+      "at": "2026-11-09T08:45:41+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "i play rocky||https://www.indiewire.com/criticism/movies/i-play-rocky-review-sylvester-stallone-1235216617/": {
       "at": "2026-11-02T19:26:00+00:00",
       "status": "review",
@@ -4879,6 +4894,10 @@
     },
     "wild horse nine||https://www.screendaily.com/news/uk-ireland-box-office-preview-wild-horse-nine-godzilla-minus-zero-stomp-into-cinemas/5222120.article": {
       "at": "2026-11-06T10:41:10+00:00",
+      "status": "not_review"
+    },
+    "wild horse nine||https://www.sensacine.com/noticias/cine/noticia-1000230867/": {
+      "at": "2026-11-09T08:45:39+00:00",
       "status": "not_review"
     },
     "wild horse nine||https://www.sensacine.com/peliculas/pelicula-298024/": {
