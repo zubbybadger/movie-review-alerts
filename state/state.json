@@ -832,6 +832,16 @@
         "summary": "Shameless but effective, with terrific performances from Ippolito and Robb and Farrelly's best work in years, despite a weaker, episodic second half.",
         "url": "https://www.ign.com/articles/i-play-rocky-review",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-09T14:36:50+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "Silver Screen Riot",
+        "rating": "C",
+        "summary": "A paint-by-numbers, nostalgia-baiting biopic with flat direction, unfunny comedy and an impersonation-level lead that never finds its own spark.",
+        "url": "https://silverscreenriot.com/i-play-rocky-review/",
+        "verdict": "rotten"
       }
     ],
     "the cat in the hat|2026": [
@@ -3331,6 +3341,10 @@
       "at": "2026-11-09T13:41:35+00:00",
       "status": "not_review"
     },
+    "how to rob a bank|2026|https://www.usatoday.com/videos/entertainment/movies/2026/11/09/pete-davidson-and-nicholas-hoult-became-best-friends-on-set/92686298007/": {
+      "at": "2026-11-09T14:36:53+00:00",
+      "status": "not_review"
+    },
     "i play rocky||http://www.markreviewsmovies.com/reviews/I/iplayrocky.htm": {
       "at": "2026-11-05T15:41:18+00:00",
       "status": "review",
@@ -3397,6 +3411,11 @@
     "i play rocky||https://silverscreenriot.com/best-movies-about-making-movies/": {
       "at": "2026-11-08T18:50:27+00:00",
       "status": "not_review"
+    },
+    "i play rocky||https://silverscreenriot.com/i-play-rocky-review/": {
+      "at": "2026-11-09T14:36:50+00:00",
+      "status": "review",
+      "verdict": "rotten"
     },
     "i play rocky||https://themovieminute.com/2026/10/27/i-play-rocky/": {
       "at": "2026-11-02T19:26:02+00:00",
