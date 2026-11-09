@@ -570,6 +570,16 @@
         "summary": "Spectacular IMAX visuals, sound and score thrill, but bloated runtime, uneven pacing and convoluted structure leave it wanting.",
         "url": "https://www.eyeforfilm.co.uk/review/godzilla-minus-zero-2026-film-review-by-andrew-robertson",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-09T01:17:21+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Every Movie Has a Lesson",
+        "rating": "4 stars",
+        "summary": "Yamazaki again pairs a moving human story with stunning, scary kaiju spectacle on a small budget, shaming Hollywood blockbusters.",
+        "url": "https://everymoviehasalesson.com/blog/2026/11/movie-review-godzilla-minus-zero",
+        "verdict": "fresh"
       }
     ],
     "i play rocky|": [
@@ -2650,6 +2660,15 @@
       "status": "review",
       "verdict": "rotten"
     },
+    "godzilla minus zero||https://everymoviehasalesson.com/blog/2026/11/movie-review-godzilla-minus-zero": {
+      "at": "2026-11-09T01:17:21+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "godzilla minus zero||https://everymoviehasalesson.com/blog/tag/Godzilla+Minus+Zero": {
+      "at": "2026-11-09T01:17:23+00:00",
+      "status": "duplicate"
+    },
     "godzilla minus zero||https://filmfeeder.co.uk/film-reviews/godzilla-minus-zero-dir-takashi-yamazaki": {
       "at": "2026-11-03T17:31:56+00:00",
       "status": "duplicate"
@@ -2760,6 +2779,10 @@
     },
     "godzilla minus zero||https://screenrant.com/godzilla-minus-zero-box-office-opening-weekend-domestic-result/": {
       "at": "2026-11-07T17:00:51+00:00",
+      "status": "not_review"
+    },
+    "godzilla minus zero||https://screenrant.com/godzilla-minus-zero-director-clarifies-whether-godzilla-humans-are-allies/": {
+      "at": "2026-11-09T01:17:26+00:00",
       "status": "not_review"
     },
     "godzilla minus zero||https://screenrant.com/godzilla-minus-zero-ending-explained/": {
