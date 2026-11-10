@@ -872,6 +872,16 @@
         "summary": "Faintly cartoonish myth-making that ducks drama, but Ippolito's uncanny Stallone impression makes it absorbing and pretty good fun.",
         "url": "https://www.telegraph.co.uk/films/0/i-play-rocky-review/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-10T15:42:48+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "The Boston Globe",
+        "rating": "",
+        "summary": "Headline calls it \"a real palooka of a movie\"; added by hand because the Globe's pages didn't list it.",
+        "url": "https://www.bostonglobe.com/2026/11/10/arts/i-play-rocky-review/",
+        "verdict": "rotten"
       }
     ],
     "the cat in the hat|2026": [
@@ -3542,6 +3552,10 @@
     "i play rocky||https://www.avclub.com/sylvester-stallone-curate-public-image-i-play-rocky-the-steps-autobiography-self-mythologizing-donald-trump": {
       "at": "2026-11-10T15:41:50+00:00",
       "status": "not_review"
+    },
+    "i play rocky||https://www.bostonglobe.com/2026/11/10/arts/i-play-rocky-review/": {
+      "at": "2026-11-10T15:42:48+00:00",
+      "status": "review"
     },
     "i play rocky||https://www.denofgeek.com/movies/i-play-rocky-review-sylvester-stallone/": {
       "at": "2026-11-03T17:32:18+00:00",
