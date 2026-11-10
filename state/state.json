@@ -842,6 +842,36 @@
         "summary": "A paint-by-numbers, nostalgia-baiting biopic with flat direction, unfunny comedy and an impersonation-level lead that never finds its own spark.",
         "url": "https://silverscreenriot.com/i-play-rocky-review/",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-10T15:41:44+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "InReview Online",
+        "rating": "",
+        "summary": "A sanitized, IMDB-trivia hagiography of Stallone with lifeless visuals, hackneyed gags, and an unfair, disdainful portrait of director John Avildsen.",
+        "url": "https://inreviewonline.com/2026/11/10/i-play-rocky-review/",
+        "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-10T15:41:53+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "The Globe and Mail",
+        "rating": "",
+        "summary": "Strong performances, especially Ippolito's, can't save a glossy, imitative, corporate-safe biopic that lacks the original Rocky's grit and depth.",
+        "url": "https://www.theglobeandmail.com/culture/film-and-tv/film/article-i-play-rocky-review-peter-farrelly-anthony-ippolito-annasophia-robb/",
+        "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-10T15:41:58+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "The Telegraph",
+        "rating": "",
+        "summary": "Faintly cartoonish myth-making that ducks drama, but Ippolito's uncanny Stallone impression makes it absorbing and pretty good fun.",
+        "url": "https://www.telegraph.co.uk/films/0/i-play-rocky-review/",
+        "verdict": "fresh"
       }
     ],
     "the cat in the hat|2026": [
@@ -2634,6 +2664,10 @@
       "at": "2026-11-10T14:27:30+00:00",
       "status": "not_review"
     },
+    "ebenezer|2026|https://www.the-independent.com/arts-entertainment/films/news/johnny-depp-fans-thanks-ebenezer-b3082258.html": {
+      "at": "2026-11-10T15:41:55+00:00",
+      "status": "not_review"
+    },
     "ebenezer|2026|https://www.usatoday.com/videos/news/2026/11/09/crowd-elated-as-johnny-depp-appears-as-ebenezer-scrooge-in-san-diego/91043801007/": {
       "at": "2026-11-09T23:21:14+00:00",
       "status": "not_review"
@@ -3389,6 +3423,10 @@
       "at": "2026-11-09T13:41:35+00:00",
       "status": "not_review"
     },
+    "how to rob a bank|2026|https://theplaylist.net/tony-mcnamara-mosquito-kyle-soller-phoebe-fox-20261110/": {
+      "at": "2026-11-10T15:42:01+00:00",
+      "status": "not_review"
+    },
     "how to rob a bank|2026|https://www.usatoday.com/story/entertainment/movies/2026/11/09/pete-davidson-nicholas-hoult-interview-how-to-rob-a-bank/92560675007/": {
       "at": "2026-11-09T22:35:16+00:00",
       "status": "not_review"
@@ -3438,6 +3476,11 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "i play rocky||https://inreviewonline.com/2026/11/10/i-play-rocky-review/": {
+      "at": "2026-11-10T15:41:44+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
     "i play rocky||https://mashable.com/entertainment/i-play-rocky-review": {
       "at": "2026-11-06T10:41:12+00:00",
       "status": "review",
@@ -3474,6 +3517,10 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "i play rocky||https://themovieminute.com/i-play-rocky/": {
+      "at": "2026-11-10T15:41:47+00:00",
+      "status": "duplicate"
+    },
     "i play rocky||https://themovieminute.com/tag/i-play-rocky/": {
       "at": "2026-11-02T19:26:05+00:00",
       "status": "duplicate"
@@ -3491,6 +3538,10 @@
     "i play rocky||https://www.avclub.com/i-play-rocky-review-sylvester-stallone-biopic-peter-farrelly?utm_source=rss&utm_medium=rss&utm_campaign=i-play-rocky-review-sylvester-stallone-biopic-peter-farrelly": {
       "at": "2026-11-05T15:41:31+00:00",
       "status": "duplicate"
+    },
+    "i play rocky||https://www.avclub.com/sylvester-stallone-curate-public-image-i-play-rocky-the-steps-autobiography-self-mythologizing-donald-trump": {
+      "at": "2026-11-10T15:41:50+00:00",
+      "status": "not_review"
     },
     "i play rocky||https://www.denofgeek.com/movies/i-play-rocky-review-sylvester-stallone/": {
       "at": "2026-11-03T17:32:18+00:00",
@@ -3569,6 +3620,16 @@
       "at": "2026-11-02T19:26:20+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "i play rocky||https://www.telegraph.co.uk/films/0/i-play-rocky-review/": {
+      "at": "2026-11-10T15:41:58+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "i play rocky||https://www.theglobeandmail.com/culture/film-and-tv/film/article-i-play-rocky-review-peter-farrelly-anthony-ippolito-annasophia-robb/": {
+      "at": "2026-11-10T15:41:53+00:00",
+      "status": "review",
+      "verdict": "rotten"
     },
     "i play rocky||https://www.theguardian.com/film/2026/nov/05/i-play-rocky-review-anthony-ippolito-adds-knockout-sweetness-to-the-story-of-stallones-hollywood-triumph": {
       "at": "2026-11-05T11:36:12+00:00",
