@@ -261,3 +261,14 @@ def test_same_outlet_with_and_without_critic_is_duplicate():
 def test_outlet_spacing_does_not_split_duplicates():
     state = {"reviews": {"m|": [{"outlet": "Film Feeder", "critic": ""}]}, "seen": {}}
     assert main.is_duplicate(state, Movie("M"), verdict(outlet="FilmFeeder", critic=""))
+
+
+def test_link_matched_by_url_slug_when_headline_skips_title():
+    page = """<html><body>
+<a href="/2026/11/10/arts/i-play-rocky-review/">Yo, Adrian! This one is a real palooka of a movie</a>
+<a href="/2026/11/10/arts/other-film-review/">Another headline</a>
+<a href="/a">x</a><a href="/b">y</a><a href="/c">z</a>
+</body></html>"""
+    c = client({"https://ex.com/arts/": (page, "text/html")})
+    found = sources.find_candidates(c, "https://ex.com/arts/", [Movie("I Play Rocky")])
+    assert [f.url for f in found] == ["https://ex.com/2026/11/10/arts/i-play-rocky-review/"]

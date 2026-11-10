@@ -198,6 +198,14 @@ def fetch_entries(client: httpx.Client, site: str) -> list[tuple[str, str, str]]
     return entries
 
 
+def _slug(url: str) -> str:
+    """The URL path as words, e.g. /2026/11/10/arts/i-play-rocky-review/ -> "2026 11 10 arts i play rocky review".
+
+    Some headlines never name the film ("Yo, Adrian! ... a real palooka"), but the URL usually does.
+    """
+    return re.sub(r"[-_/.]+", " ", urlparse(url).path)
+
+
 def _window(movie: Movie, text: str) -> str:
     """The text around the first mention of the movie (title or alias)."""
     lowered = text.lower()
@@ -222,6 +230,6 @@ def find_candidates(client: httpx.Client, site: str, movies: list[Movie]) -> lis
                         movie, url, f"{movie.title} (review on {urlparse(url).netloc})", "", site,
                         inline_text=_window(movie, summary),
                     ))
-            elif mentions(movie, title) or mentions(movie, summary):
+            elif mentions(movie, title) or mentions(movie, summary) or mentions(movie, _slug(url)):
                 found.setdefault((movie.key, url), Candidate(movie, url, title, summary, site))
     return list(found.values())

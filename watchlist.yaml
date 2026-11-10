@@ -43,6 +43,7 @@ sites:
   - http://moviefreak.com/
   - https://www.pittsburghmagazine.com/author/sean-collier/
   - https://inreviewonline.com/film/
+  - https://inreviewonline.com/feed/
   - https://www.pastemagazine.com/movies
   - https://filmfestivaltoday.com/film-reviews
   - https://thefilmverdict.com/all-reviews/
@@ -170,6 +171,9 @@ sites:
   - https://www.chicagoreader.com/film/
   - https://chicago.suntimes.com/movies-and-tv
   - https://www.bostonglobe.com/arts/movies/
+  # Boston Globe film reviews are filed under /arts/, not /arts/movies/ (seen 2026-11-10).
+  - https://www.bostonglobe.com/arts/
+  - https://www.theglobeandmail.com/culture/film-and-tv/film/
   - https://www.thedailybeast.com/category/entertainment/
   - https://www.vox.com/culture
   - https://www.empireonline.com/movies/reviews/
