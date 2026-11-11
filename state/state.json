@@ -832,6 +832,16 @@
         "summary": "Despite an annoying stylized first hour and a listless Kravitz, it's a fun, diverting heist fable with strong performances and welcome twists.",
         "url": "https://www.bostonglobe.com/2026/11/11/arts/how-rob-bank-is-primer-making-an-enjoyable-heist-flick/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-11T19:28:47+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "The Playlist",
+        "rating": "C+",
+        "summary": "Energetic and well-cast but conventional, with shallow politics, dated online-culture posturing, and an anodyne screenplay that never delivers clever ideas.",
+        "url": "https://theplaylist.net/how-to-rob-a-bank-review-david-leitch-nicholas-hoult-20261111/",
+        "verdict": "rotten"
       }
     ],
     "i play rocky|": [
@@ -3782,6 +3792,11 @@
     "how to rob a bank|2026|https://screenrant.com/nicholas-hoult-how-to-rob-a-bank-first-reactions/": {
       "at": "2026-11-11T14:41:39+00:00",
       "status": "not_review"
+    },
+    "how to rob a bank|2026|https://theplaylist.net/how-to-rob-a-bank-review-david-leitch-nicholas-hoult-20261111/": {
+      "at": "2026-11-11T19:28:47+00:00",
+      "status": "review",
+      "verdict": "rotten"
     },
     "how to rob a bank|2026|https://theplaylist.net/tony-mcnamara-mosquito-kyle-soller-phoebe-fox-20261110/": {
       "at": "2026-11-10T15:42:01+00:00",
