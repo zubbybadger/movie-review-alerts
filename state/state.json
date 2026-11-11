@@ -892,6 +892,16 @@
         "summary": "Inspiring, rewatchable underdog biopic anchored by Anthony Ippolito's precise Stallone performance and a fascinating behind-the-scenes look at filmmaking.",
         "url": "https://movieweb.com/i-play-rocky-review/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-11T12:58:53+00:00",
+        "confidence": "high",
+        "critic": "Katie Doll",
+        "outlet": "CBR",
+        "rating": "7/10",
+        "summary": "A safe, conventional biopic, but Ippolito's Stallone and a strong supporting cast make it worth watching.",
+        "url": "https://www.cbr.com/i-play-rocky-review/",
+        "verdict": "fresh"
       }
     ],
     "the cat in the hat|2026": [
@@ -3639,6 +3649,10 @@
     "i play rocky||https://www.bostonglobe.com/2026/11/11/arts/i-play-rocky-peter-farrelly/": {
       "at": "2026-11-11T11:33:36+00:00",
       "status": "not_review"
+    },
+    "i play rocky||https://www.cbr.com/i-play-rocky-review/": {
+      "at": "2026-11-11T12:58:53+00:00",
+      "status": "review"
     },
     "i play rocky||https://www.denofgeek.com/movies/i-play-rocky-review-sylvester-stallone/": {
       "at": "2026-11-03T17:32:18+00:00",
