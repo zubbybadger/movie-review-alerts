@@ -203,10 +203,10 @@ sites:
   - https://www.cgmagonline.com/review/movie/
   - https://www.deepfocusreview.com/reviews/
   # Added 2026-11-11 after they had How to Rob a Bank reviews the bot never saw.
-  - https://www.highonfilms.com/category/movie-reviews/
+  - https://www.highonfilms.com/feed/
   - https://movieswithmark.com/category/reviews/
   - https://www.hollywoodintoto.com/category/reviews/
-  - https://thesunbreak.com/category/film/
+  - https://thesunbreak.com/feed/
   # Added 2026-11-10 after they had I Play Rocky reviews the bot never saw (URLs unverified).
   - https://movieweb.com/movie-reviews/
   - https://www.cbr.com/category/movies/movie-reviews/
