@@ -792,6 +792,26 @@
         "summary": "A sharp-witted, well-made action-thriller with strong set pieces, great performances from Hoult and Reilly, and an unexpected political punch.",
         "url": "https://www.timeout.com/movies/how-to-rob-a-bank-review-2026",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-11T17:25:24+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "The Guardian",
+        "rating": "",
+        "summary": "Flat, sluggish and dated caper whose shallow anti-capitalist politics, weak heists and unengaging characters never land.",
+        "url": "https://www.theguardian.com/film/2026/nov/11/how-to-rob-a-bank-movie-review-amazon",
+        "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-11T17:25:27+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Polygon",
+        "rating": "",
+        "summary": "Despite a promising premise and committed performances, tonal whiplash between meme-ified comedy and serious drama leaves the heist film disappointing and incoherent.",
+        "url": "https://www.polygon.com/how-to-rob-a-bank-review/",
+        "verdict": "rotten"
       }
     ],
     "i play rocky|": [
@@ -3790,6 +3810,11 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "how to rob a bank|2026|https://www.polygon.com/how-to-rob-a-bank-review/": {
+      "at": "2026-11-11T17:25:27+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
     "how to rob a bank|2026|https://www.reelingreviews.com/reviews/how-to-rob-a-bank/": {
       "at": "2026-11-10T18:10:15+00:00",
       "status": "not_review"
@@ -3811,6 +3836,11 @@
     },
     "how to rob a bank|2026|https://www.theglobeandmail.com/culture/film-and-tv/film/article-how-to-rob-a-bank-review-nicholas-hoult/": {
       "at": "2026-11-11T15:24:17+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
+    "how to rob a bank|2026|https://www.theguardian.com/film/2026/nov/11/how-to-rob-a-bank-movie-review-amazon": {
+      "at": "2026-11-11T17:25:24+00:00",
       "status": "review",
       "verdict": "rotten"
     },
