@@ -812,6 +812,16 @@
         "summary": "Despite a promising premise and committed performances, tonal whiplash between meme-ified comedy and serious drama leaves the heist film disappointing and incoherent.",
         "url": "https://www.polygon.com/how-to-rob-a-bank-review/",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-11T17:59:21+00:00",
+        "confidence": "high",
+        "critic": "Eric Goldman",
+        "outlet": "IGN",
+        "rating": "5/10",
+        "summary": "Charismatic cast and some fun moments, but the film only skims its themes of inequality and mistakes loud, frenetic style for impact.",
+        "url": "https://www.ign.com/articles/how-to-rob-a-bank-review",
+        "verdict": "rotten"
       }
     ],
     "i play rocky|": [
@@ -3804,6 +3814,15 @@
       "at": "2026-11-11T14:06:20+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "how to rob a bank|2026|https://www.ign.com/articles/how-to-rob-a-bank-review": {
+      "at": "2026-11-11T17:59:21+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
+    "how to rob a bank|2026|https://www.ign.com/movies/how-to-rob-a-bank": {
+      "at": "2026-11-11T17:59:23+00:00",
+      "status": "duplicate"
     },
     "how to rob a bank|2026|https://www.indiewire.com/criticism/movies/how-to-rob-a-bank-movie-review-1235226457/": {
       "at": "2026-11-11T14:06:12+00:00",
