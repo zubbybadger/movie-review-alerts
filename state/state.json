@@ -842,6 +842,46 @@
         "summary": "Energetic and well-cast but conventional, with shallow politics, dated online-culture posturing, and an anodyne screenplay that never delivers clever ideas.",
         "url": "https://theplaylist.net/how-to-rob-a-bank-review-david-leitch-nicholas-hoult-20261111/",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-11T22:22:47+00:00",
+        "confidence": "low",
+        "critic": "",
+        "outlet": "High On Films",
+        "rating": "",
+        "summary": "Surprisingly sincere anti-capitalist spirit and Leitch's welcome restraint outweigh thin characterization and sanitized, toothless commentary\u2014a 'moderate feat.'",
+        "url": "https://www.highonfilms.com/how-to-rob-a-bank-2026-movie-review/",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-11T22:22:49+00:00",
+        "confidence": "low",
+        "critic": "",
+        "outlet": "Movies With Mark",
+        "rating": "",
+        "summary": "Leitch's stylish direction, thrilling action and the Reilly-Kravitz duo mostly save it, though thin robbers and a preachy script drag it down.",
+        "url": "https://movieswithmark.com/how-to-rob-a-bank-2026-review/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-rob-a-bank-2026-review",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-11T22:22:56+00:00",
+        "confidence": "high",
+        "critic": "Christian Toto",
+        "outlet": "Hollywood in Toto",
+        "rating": "1/5",
+        "summary": "Calls it a bloated, morally irresponsible propaganda piece that glorifies bank robbery, with jarring tonal shifts and plot holes despite slick action.",
+        "url": "https://www.hollywoodintoto.com/how-to-rob-a-bank-review/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-rob-a-bank-review",
+        "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-11T22:23:10+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "The SunBreak",
+        "rating": "",
+        "summary": "Wildly entertaining but its anti-capitalism is superficial and self-important; it never earns its place among great heist films.",
+        "url": "https://thesunbreak.com/2026/11/11/how-to-rob-a-bank-2026-review/",
+        "verdict": "rotten"
       }
     ],
     "i play rocky|": [
@@ -1153,6 +1193,16 @@
         "rating": "7/10",
         "summary": "A safe, conventional biopic, but Ippolito's Stallone and a strong supporting cast make it worth watching.",
         "url": "https://www.cbr.com/i-play-rocky-review/",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-11T22:23:00+00:00",
+        "confidence": "high",
+        "critic": "Christian Toto",
+        "outlet": "Hollywood in Toto",
+        "rating": "4.5/5",
+        "summary": "Ippolito's uncanny Stallone, a smart funny script, and Farrelly's warm, crowd-pleasing direction make it a great American-dream story.",
+        "url": "https://www.hollywoodintoto.com/i-play-rocky-review/?utm_source=rss&utm_medium=rss&utm_campaign=i-play-rocky-review",
         "verdict": "fresh"
       }
     ],
@@ -3777,6 +3827,15 @@
       "status": "review",
       "verdict": "rotten"
     },
+    "how to rob a bank|2026|https://movieswithmark.com/how-to-rob-a-bank-2026-review/": {
+      "at": "2026-11-11T22:22:52+00:00",
+      "status": "duplicate"
+    },
+    "how to rob a bank|2026|https://movieswithmark.com/how-to-rob-a-bank-2026-review/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-rob-a-bank-2026-review": {
+      "at": "2026-11-11T22:22:49+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "how to rob a bank|2026|https://movieweb.com/how-to-rob-a-bank-first-reactions/": {
       "at": "2026-11-11T12:58:12+00:00",
       "status": "not_review"
@@ -3818,6 +3877,11 @@
       "at": "2026-11-10T15:42:01+00:00",
       "status": "not_review"
     },
+    "how to rob a bank|2026|https://thesunbreak.com/2026/11/11/how-to-rob-a-bank-2026-review/": {
+      "at": "2026-11-11T22:23:10+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
     "how to rob a bank|2026|https://www.avclub.com/how-to-rob-a-bank-david-leitch-nichoulas-hoult-zoe-kravitz": {
       "at": "2026-11-11T15:24:14+00:00",
       "status": "review",
@@ -3845,6 +3909,20 @@
     },
     "how to rob a bank|2026|https://www.empireonline.com/movies/reviews/how-to-rob-a-bank/": {
       "at": "2026-11-11T14:41:34+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
+    "how to rob a bank|2026|https://www.highonfilms.com/how-to-rob-a-bank-2026-movie-review/": {
+      "at": "2026-11-11T22:22:47+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "how to rob a bank|2026|https://www.hollywoodintoto.com/how-to-rob-a-bank-review/": {
+      "at": "2026-11-11T22:23:02+00:00",
+      "status": "duplicate"
+    },
+    "how to rob a bank|2026|https://www.hollywoodintoto.com/how-to-rob-a-bank-review/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-rob-a-bank-review": {
+      "at": "2026-11-11T22:22:56+00:00",
       "status": "review",
       "verdict": "rotten"
     },
@@ -3955,6 +4033,10 @@
     },
     "i play rocky||https://deadline.com/2026/11/indie-films-opening-i-play-rocky-club-kid-wild-horse-nine-1237215727/": {
       "at": "2026-11-06T22:05:32+00:00",
+      "status": "not_review"
+    },
+    "i play rocky||https://deadline.com/2026/11/sun-valley-film-festival-honorees-lineup-1237220789/": {
+      "at": "2026-11-11T22:22:44+00:00",
       "status": "not_review"
     },
     "i play rocky||https://film-forward.com/star-reviews/i-play-rocky": {
@@ -4084,6 +4166,23 @@
     "i play rocky||https://www.hindustantimes.com/entertainment/hollywood/movie-review-in-i-play-rocky-a-middleweight-crowd-pleaser-about-the-making-of-a-classic-101793824304412.html": {
       "at": "2026-11-04T20:46:28+00:00",
       "status": "duplicate"
+    },
+    "i play rocky||https://www.hollywoodintoto.com/i-play-rocky-box-office-numbers/": {
+      "at": "2026-11-11T22:23:05+00:00",
+      "status": "not_review"
+    },
+    "i play rocky||https://www.hollywoodintoto.com/i-play-rocky-box-office-numbers/?utm_source=rss&utm_medium=rss&utm_campaign=i-play-rocky-box-office-numbers": {
+      "at": "2026-11-11T22:22:58+00:00",
+      "status": "not_review"
+    },
+    "i play rocky||https://www.hollywoodintoto.com/i-play-rocky-review/": {
+      "at": "2026-11-11T22:23:07+00:00",
+      "status": "duplicate"
+    },
+    "i play rocky||https://www.hollywoodintoto.com/i-play-rocky-review/?utm_source=rss&utm_medium=rss&utm_campaign=i-play-rocky-review": {
+      "at": "2026-11-11T22:23:00+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "i play rocky||https://www.hollywoodreporter.com/movies/movie-news/golden-globes-i-play-rocky-submitted-comedy-exclusive-1236746064/": {
       "at": "2026-11-02T19:26:11+00:00",
