@@ -882,6 +882,16 @@
         "summary": "Headline calls it \"a real palooka of a movie\"; added by hand because the Globe's pages didn't list it.",
         "url": "https://www.bostonglobe.com/2026/11/10/arts/i-play-rocky-review/",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-11T12:58:15+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "MovieWeb",
+        "rating": "",
+        "summary": "Inspiring, rewatchable underdog biopic anchored by Anthony Ippolito's precise Stallone performance and a fascinating behind-the-scenes look at filmmaking.",
+        "url": "https://movieweb.com/i-play-rocky-review/",
+        "verdict": "fresh"
       }
     ],
     "the cat in the hat|2026": [
@@ -2670,6 +2680,10 @@
       "at": "2026-11-09T13:41:45+00:00",
       "status": "not_review"
     },
+    "ebenezer|2026|https://www.cbr.com/johnny-depp-confirms-ebenezer-a-nightmare-on-elm-street-reference/": {
+      "at": "2026-11-11T12:58:20+00:00",
+      "status": "not_review"
+    },
     "ebenezer|2026|https://www.denofgeek.com/movies/ebenezer-ti-west-johnny-depp-freddy-krueger-scrooge-agree-with/": {
       "at": "2026-11-10T14:27:32+00:00",
       "status": "not_review"
@@ -3461,6 +3475,10 @@
       "at": "2026-11-09T13:41:35+00:00",
       "status": "not_review"
     },
+    "how to rob a bank|2026|https://movieweb.com/how-to-rob-a-bank-first-reactions/": {
+      "at": "2026-11-11T12:58:12+00:00",
+      "status": "not_review"
+    },
     "how to rob a bank|2026|https://theplaylist.net/tony-mcnamara-mosquito-kyle-soller-phoebe-fox-20261110/": {
       "at": "2026-11-10T15:42:01+00:00",
       "status": "not_review"
@@ -3535,6 +3553,15 @@
       "at": "2026-11-06T10:41:12+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "i play rocky||https://movieweb.com/i-play-rocky-review/": {
+      "at": "2026-11-11T12:58:15+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "i play rocky||https://movieweb.com/tag/movie/i-play-rocky/": {
+      "at": "2026-11-11T12:58:18+00:00",
+      "status": "not_review"
     },
     "i play rocky||https://screenanarchy.com/2026/11/i-play-rocky-review-making-of-biopic-leans-heavily-into-underdog-nostalgia-1.html": {
       "at": "2026-11-06T14:35:50+00:00",
