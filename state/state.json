@@ -672,6 +672,46 @@
         "summary": "A wildly entertaining, timely anti-capitalist heist comedy with grounded action and a charming Nicholas Hoult performance.",
         "url": "https://movieweb.com/how-to-rob-a-bank-review/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-11T14:41:32+00:00",
+        "confidence": "low",
+        "critic": "",
+        "outlet": "RogerEbert.com",
+        "rating": "",
+        "summary": "The critic faults its watered-down radical ideology and reliance on everyday Internet vernacular.",
+        "url": "https://www.rogerebert.com/reviews/how-to-rob-a-bank-nicholas-hoult-film-review-2026",
+        "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-11T14:41:34+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "Empire",
+        "rating": "",
+        "summary": "Flashy with a likeable cast, but it keeps switching tones, fizzles out, and sidelines its most interesting characters, Reilly and Kravitz.",
+        "url": "https://www.empireonline.com/movies/reviews/how-to-rob-a-bank/",
+        "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-11T14:41:36+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "Screen Daily",
+        "rating": "",
+        "summary": "Kinetic, fun and propulsive with an infectious punky vibe and strong Hoult, though superficial and its anti-capitalist message lacks impact.",
+        "url": "https://www.screendaily.com/reviews/how-to-rob-a-bank-review-nicholas-hoult-is-a-gen-z-robin-hood-in-david-leitchs-fun-forgettable-heist-movie/5222295.article",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-11T14:41:42+00:00",
+        "confidence": "high",
+        "critic": "Kristy Puchko",
+        "outlet": "Mashable",
+        "rating": "",
+        "summary": "Shallow, clich\u00e9 characters, half-hearted class politics, and underwhelming action make this a toothless, gutless bank robbery knockoff.",
+        "url": "https://mashable.com/entertainment/how-to-rob-a-bank-review",
+        "verdict": "rotten"
       }
     ],
     "i play rocky|": [
@@ -3581,6 +3621,11 @@
       "at": "2026-11-11T14:06:25+00:00",
       "status": "duplicate"
     },
+    "how to rob a bank|2026|https://mashable.com/entertainment/how-to-rob-a-bank-review": {
+      "at": "2026-11-11T14:41:42+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
     "how to rob a bank|2026|https://movieweb.com/how-to-rob-a-bank-first-reactions/": {
       "at": "2026-11-11T12:58:12+00:00",
       "status": "not_review"
@@ -3604,9 +3649,18 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "how to rob a bank|2026|https://screenrant.com/nicholas-hoult-how-to-rob-a-bank-first-reactions/": {
+      "at": "2026-11-11T14:41:39+00:00",
+      "status": "not_review"
+    },
     "how to rob a bank|2026|https://theplaylist.net/tony-mcnamara-mosquito-kyle-soller-phoebe-fox-20261110/": {
       "at": "2026-11-10T15:42:01+00:00",
       "status": "not_review"
+    },
+    "how to rob a bank|2026|https://www.empireonline.com/movies/reviews/how-to-rob-a-bank/": {
+      "at": "2026-11-11T14:41:34+00:00",
+      "status": "review",
+      "verdict": "rotten"
     },
     "how to rob a bank|2026|https://www.hollywoodreporter.com/movies/movie-features/how-to-rob-a-bank-david-leitch-1236752122/": {
       "at": "2026-11-10T21:12:04+00:00",
@@ -3629,6 +3683,16 @@
     "how to rob a bank|2026|https://www.reelingreviews.com/reviews/how-to-rob-a-bank/": {
       "at": "2026-11-10T18:10:15+00:00",
       "status": "not_review"
+    },
+    "how to rob a bank|2026|https://www.rogerebert.com/reviews/how-to-rob-a-bank-nicholas-hoult-film-review-2026": {
+      "at": "2026-11-11T14:41:32+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
+    "how to rob a bank|2026|https://www.screendaily.com/reviews/how-to-rob-a-bank-review-nicholas-hoult-is-a-gen-z-robin-hood-in-david-leitchs-fun-forgettable-heist-movie/5222295.article": {
+      "at": "2026-11-11T14:41:36+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "how to rob a bank|2026|https://www.slantmagazine.com/film/how-to-rob-a-bank-review-nicholas-hoult-zoe-kravitz/": {
       "at": "2026-11-11T14:06:28+00:00",
