@@ -1204,6 +1204,16 @@
         "summary": "Ippolito's uncanny Stallone, a smart funny script, and Farrelly's warm, crowd-pleasing direction make it a great American-dream story.",
         "url": "https://www.hollywoodintoto.com/i-play-rocky-review/?utm_source=rss&utm_medium=rss&utm_campaign=i-play-rocky-review",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-11T23:28:50+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Otros Cines",
+        "rating": "",
+        "summary": "Hilarious, moving crowdpleaser among Farrelly's best, anchored by Anthony Ippolito's uncanny, emotionally rich Stallone and strong supporting cast.",
+        "url": "https://www.otroscines.com/post/critica-de-yo-soy-rocky-i-play-rocky-pelicula-de-peter-farrelly-con-anthony-ippolito-annasophia-robb-toby-kebbell-pj-byrne-jay-duplass-matt-dillon-y-tracy-letts",
+        "verdict": "fresh"
       }
     ],
     "the cat in the hat|2026": [
@@ -4237,6 +4247,11 @@
     "i play rocky||https://www.nytimes.com/2026/11/05/movies/i-play-rocky-review-sylvester-stallone.html": {
       "at": "2026-11-05T19:25:01+00:00",
       "status": "duplicate"
+    },
+    "i play rocky||https://www.otroscines.com/post/critica-de-yo-soy-rocky-i-play-rocky-pelicula-de-peter-farrelly-con-anthony-ippolito-annasophia-robb-toby-kebbell-pj-byrne-jay-duplass-matt-dillon-y-tracy-letts": {
+      "at": "2026-11-11T23:28:50+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "i play rocky||https://www.reelingreviews.com/reviews/i-play-rocky/": {
       "at": "2026-11-05T15:41:24+00:00",
