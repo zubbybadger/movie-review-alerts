@@ -712,6 +712,36 @@
         "summary": "Shallow, clich\u00e9 characters, half-hearted class politics, and underwhelming action make this a toothless, gutless bank robbery knockoff.",
         "url": "https://mashable.com/entertainment/how-to-rob-a-bank-review",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-11T15:24:10+00:00",
+        "confidence": "high",
+        "critic": "Carla Hay",
+        "outlet": "Culture Mix",
+        "rating": "",
+        "summary": "Bloated, illogical and tonally jarring, with tedious scenes, soulless performances and a half-baked ending that wastes viewers' time.",
+        "url": "https://culturemixonline.com/review-how-to-rob-a-bank-2026-starring-nicholas-hoult-zoe-kravitz-anna-sawai-rhenzy-feliz-pete-davidson-and-john-c-reilly/",
+        "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-11T15:24:14+00:00",
+        "confidence": "medium",
+        "critic": "Jesse Hassenger",
+        "outlet": "The A.V. Club",
+        "rating": "",
+        "summary": "Leitch's heist film whipsaws uncomfortably between breezy caper and grim class-warfare drama, never reconciling its tones despite nice Reilly-Kravitz chemistry.",
+        "url": "https://www.avclub.com/how-to-rob-a-bank-david-leitch-nichoulas-hoult-zoe-kravitz",
+        "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-11T15:24:17+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "The Globe and Mail",
+        "rating": "",
+        "summary": "A dumb, hyperactive heist comedy that skips the craft, pandering to social media audiences with hollow characters and obnoxious YouTube-style visuals.",
+        "url": "https://www.theglobeandmail.com/culture/film-and-tv/film/article-how-to-rob-a-bank-review-nicholas-hoult/",
+        "verdict": "rotten"
       }
     ],
     "i play rocky|": [
@@ -3612,6 +3642,11 @@
       "at": "2026-11-09T13:41:35+00:00",
       "status": "not_review"
     },
+    "how to rob a bank|2026|https://culturemixonline.com/review-how-to-rob-a-bank-2026-starring-nicholas-hoult-zoe-kravitz-anna-sawai-rhenzy-feliz-pete-davidson-and-john-c-reilly/": {
+      "at": "2026-11-11T15:24:10+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
     "how to rob a bank|2026|https://deadline.com/2026/11/how-to-rob-a-bank-review-david-leitch-nicholas-hoult-john-c-reilly-1237220151/": {
       "at": "2026-11-11T14:06:23+00:00",
       "status": "review",
@@ -3657,6 +3692,11 @@
       "at": "2026-11-10T15:42:01+00:00",
       "status": "not_review"
     },
+    "how to rob a bank|2026|https://www.avclub.com/how-to-rob-a-bank-david-leitch-nichoulas-hoult-zoe-kravitz": {
+      "at": "2026-11-11T15:24:14+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
     "how to rob a bank|2026|https://www.empireonline.com/movies/reviews/how-to-rob-a-bank/": {
       "at": "2026-11-11T14:41:34+00:00",
       "status": "review",
@@ -3696,6 +3736,11 @@
     },
     "how to rob a bank|2026|https://www.slantmagazine.com/film/how-to-rob-a-bank-review-nicholas-hoult-zoe-kravitz/": {
       "at": "2026-11-11T14:06:28+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
+    "how to rob a bank|2026|https://www.theglobeandmail.com/culture/film-and-tv/film/article-how-to-rob-a-bank-review-nicholas-hoult/": {
+      "at": "2026-11-11T15:24:17+00:00",
       "status": "review",
       "verdict": "rotten"
     },
