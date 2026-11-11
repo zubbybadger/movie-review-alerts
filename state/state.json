@@ -822,6 +822,16 @@
         "summary": "Charismatic cast and some fun moments, but the film only skims its themes of inequality and mistakes loud, frenetic style for impact.",
         "url": "https://www.ign.com/articles/how-to-rob-a-bank-review",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-11T18:29:13+00:00",
+        "confidence": "high",
+        "critic": "Odie Henderson",
+        "outlet": "Boston Globe",
+        "rating": "3/4",
+        "summary": "Despite an annoying stylized first hour and a listless Kravitz, it's a fun, diverting heist fable with strong performances and welcome twists.",
+        "url": "https://www.bostonglobe.com/2026/11/11/arts/how-rob-bank-is-primer-making-an-enjoyable-heist-flick/",
+        "verdict": "fresh"
       }
     ],
     "i play rocky|": [
@@ -3781,6 +3791,11 @@
       "at": "2026-11-11T15:24:14+00:00",
       "status": "review",
       "verdict": "rotten"
+    },
+    "how to rob a bank|2026|https://www.bostonglobe.com/2026/11/11/arts/how-rob-bank-is-primer-making-an-enjoyable-heist-flick/": {
+      "at": "2026-11-11T18:29:13+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "how to rob a bank|2026|https://www.cgmagonline.com/review/movie/how-to-rob-a-bank-review/": {
       "at": "2026-11-11T15:27:23+00:00",
