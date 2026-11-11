@@ -742,6 +742,46 @@
         "summary": "A dumb, hyperactive heist comedy that skips the craft, pandering to social media audiences with hollow characters and obnoxious YouTube-style visuals.",
         "url": "https://www.theglobeandmail.com/culture/film-and-tv/film/article-how-to-rob-a-bank-review-nicholas-hoult/",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-11T15:27:18+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Next Best Picture",
+        "rating": "",
+        "summary": "A bland, rarely riveting heist film with thin characters, flat comedy, simplistic commentary, and spectacle arriving too late.",
+        "url": "https://nextbestpicture.com/how-to-rob-a-bank/",
+        "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-11T15:27:21+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "ComingSoon.net",
+        "rating": "8/10",
+        "summary": "A timely, entertaining, grounded heist thriller with impressive practical stunts and strong performances, though some ideas lack depth.",
+        "url": "https://www.comingsoon.net/movies/reviews/2220584-how-to-rob-a-bank-review-nicholas-hoults-fun-heist-movie",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-11T15:27:23+00:00",
+        "confidence": "low",
+        "critic": "",
+        "outlet": "CGMagazine",
+        "rating": "",
+        "summary": "Cartoonish script and thin characters hurt it, but fun set pieces and Kravitz-Reilly dynamic make it enjoyable throwaway entertainment.",
+        "url": "https://www.cgmagonline.com/review/movie/how-to-rob-a-bank-review/",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-11T15:27:27+00:00",
+        "confidence": "high",
+        "critic": "Brian Eggert",
+        "outlet": "Deep Focus Review",
+        "rating": "",
+        "summary": "Despite likable leads, the film's derivative, social-media-styled approach and tonal whiplash make it restless, obnoxious, and unoriginal.",
+        "url": "https://www.deepfocusreview.com/reviews/how-to-rob-a-bank/",
+        "verdict": "rotten"
       }
     ],
     "i play rocky|": [
@@ -3674,6 +3714,11 @@
       "at": "2026-11-11T14:06:34+00:00",
       "status": "not_review"
     },
+    "how to rob a bank|2026|https://nextbestpicture.com/how-to-rob-a-bank/": {
+      "at": "2026-11-11T15:27:18+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
     "how to rob a bank|2026|https://riot-us.com/2026/11/11/how-to-rob-a-bank-swerves-rioutus-review/": {
       "at": "2026-11-11T14:06:16+00:00",
       "status": "review",
@@ -3694,6 +3739,21 @@
     },
     "how to rob a bank|2026|https://www.avclub.com/how-to-rob-a-bank-david-leitch-nichoulas-hoult-zoe-kravitz": {
       "at": "2026-11-11T15:24:14+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
+    "how to rob a bank|2026|https://www.cgmagonline.com/review/movie/how-to-rob-a-bank-review/": {
+      "at": "2026-11-11T15:27:23+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "how to rob a bank|2026|https://www.comingsoon.net/movies/reviews/2220584-how-to-rob-a-bank-review-nicholas-hoults-fun-heist-movie": {
+      "at": "2026-11-11T15:27:21+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "how to rob a bank|2026|https://www.deepfocusreview.com/reviews/how-to-rob-a-bank/": {
+      "at": "2026-11-11T15:27:27+00:00",
       "status": "review",
       "verdict": "rotten"
     },
