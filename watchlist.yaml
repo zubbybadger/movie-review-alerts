@@ -210,6 +210,9 @@ sites:
   # Added 2026-11-12 after they had Ebenezer reviews the bot never saw.
   - https://attractionsmagazine.com/feed/
   - https://bloody-flicks.co.uk/feed/
+  - https://bloody-disgusting.com/category/reviews/feed/
+  - https://thefutureoftheforce.com/feed/
+  - https://theholofiles.com/feed/
   # Added 2026-11-10 after they had I Play Rocky reviews the bot never saw (URLs unverified).
   - https://movieweb.com/movie-reviews/
   - https://www.cbr.com/category/movies/movie-reviews/
