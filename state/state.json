@@ -20,6 +20,16 @@
         "summary": "Faithful, well-staged ghostly scares and a committed Depp, though slow, ponderous, and lacking a joyful finale.",
         "url": "https://www.empireonline.com/movies/reviews/ebenezer/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-12T14:31:24+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Attractions Magazine",
+        "rating": "",
+        "summary": "A Gothic, genuinely spooky Christmas Carol that balances scares with humor and heart, anchored by a nuanced Johnny Depp.",
+        "url": "https://attractionsmagazine.com/ebenezer-review-johnny-depp-spoilers/",
+        "verdict": "fresh"
       }
     ],
     "godzilla minus zero|": [
@@ -3020,6 +3030,11 @@
     ]
   },
   "seen": {
+    "ebenezer|2026|https://attractionsmagazine.com/ebenezer-review-johnny-depp-spoilers/": {
+      "at": "2026-11-12T14:31:24+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "ebenezer|2026|https://collider.com/johnny-depp-jack-sparrow-ebenezer-scrooge-ti-west-interview/": {
       "at": "2026-11-12T09:29:02+00:00",
       "status": "not_review"
