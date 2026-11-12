@@ -944,6 +944,16 @@
         "summary": "Leitch stages hellacious heists, but the frantic social-media style, wasted setups and mismanaged dark tone make it wildly uneven.",
         "url": "https://moviecricket.net/blog/2026/11/12/review-how-to-rob-a-bank-puts-a-social-media-gloss-on-the-heist-flick-but-dives-into-serious-topics-its-not-serious-enough-to-handle",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-12T16:29:41+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "ScreenAnarchy",
+        "rating": "",
+        "summary": "A frantic, overstimulated style-over-substance heist film with cartoonish internet satire and paper-thin characters; only John C. Reilly stands out.",
+        "url": "https://screenanarchy.com/2026/11/how-to-rob-a-bank-review-empty-heist-thriller-steals-nothing-but-your-time-1.html",
+        "verdict": "rotten"
       }
     ],
     "i play rocky|": [
@@ -3063,6 +3073,10 @@
       "at": "2026-11-12T01:23:37+00:00",
       "status": "not_review"
     },
+    "ebenezer|2026|https://screenrant.com/video/ebenezer-tramell-tillman-andrea-riseborough-sam-claflin-interview/": {
+      "at": "2026-11-12T16:29:44+00:00",
+      "status": "not_review"
+    },
     "ebenezer|2026|https://timesofindia.indiatimes.com/videos/entertainment/english/ebenezer-official-trailer/videoshow/134637439.cms": {
       "at": "2026-11-09T13:41:42+00:00",
       "status": "not_review"
@@ -3972,6 +3986,11 @@
       "at": "2026-11-11T14:06:16+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "how to rob a bank|2026|https://screenanarchy.com/2026/11/how-to-rob-a-bank-review-empty-heist-thriller-steals-nothing-but-your-time-1.html": {
+      "at": "2026-11-12T16:29:41+00:00",
+      "status": "review",
+      "verdict": "rotten"
     },
     "how to rob a bank|2026|https://screenrant.com/david-leitch-how-to-rob-a-bank-rotten-tomatoes-score-debut-record/": {
       "at": "2026-11-12T00:14:47+00:00",
