@@ -390,6 +390,16 @@
         "summary": "Beautifully designed, horror-leaning Christmas Carol with a solid Depp performance, though heavy-handed and lacking the balance of better versions.",
         "url": "https://moviemom.com/ebenezer/?utm_source=rss&utm_medium=rss&utm_campaign=ebenezer",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-12T22:26:04+00:00",
+        "confidence": "high",
+        "critic": "Louisa Moore",
+        "outlet": "Screen Zealots",
+        "rating": "",
+        "summary": "Ti West's gothic horror take on Dickens is atmospheric and scary, with a terrific Depp and a genuine emotional core.",
+        "url": "https://screenzealots.com/2026/11/12/ebenezer/",
+        "verdict": "fresh"
       }
     ],
     "godzilla minus zero|": [
@@ -3576,6 +3586,11 @@
       "at": "2026-11-12T16:29:44+00:00",
       "status": "not_review"
     },
+    "ebenezer|2026|https://screenzealots.com/2026/11/12/ebenezer/": {
+      "at": "2026-11-12T22:26:04+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "ebenezer|2026|https://thefutureoftheforce.com/2026/11/11/ebenezer-sprinkles-christmas-magic-over-londons-leadenhall-market/": {
       "at": "2026-11-12T17:29:43+00:00",
       "status": "not_review"
@@ -3585,6 +3600,10 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "ebenezer|2026|https://theholofiles.com/2026/11/12/ebenezer-johnny-depp-a-christmas-carol-differences/": {
+      "at": "2026-11-12T22:26:15+00:00",
+      "status": "not_review"
+    },
     "ebenezer|2026|https://theholofiles.com/2026/11/12/ebenezer-johnny-depp-nightmare-on-elm-street-easter-egg/": {
       "at": "2026-11-12T21:40:01+00:00",
       "status": "not_review"
@@ -3593,6 +3612,10 @@
       "at": "2026-11-12T17:29:47+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "ebenezer|2026|https://theholofiles.com/2026/11/12/johnny-depps-surprise-second-role-in-ebenezer-explained/": {
+      "at": "2026-11-12T22:26:13+00:00",
+      "status": "not_review"
     },
     "ebenezer|2026|https://theplaylist.net/ebenezer-review-johnny-depp-ti-west-scrooge-20261112/": {
       "at": "2026-11-12T17:05:40+00:00",
@@ -3775,6 +3798,10 @@
       "at": "2026-11-12T17:05:20+00:00",
       "status": "review",
       "verdict": "rotten"
+    },
+    "ebenezer|2026|https://www.nytimes.com/2026/11/12/movies/ebenezer-review-johnny-depp.html": {
+      "at": "2026-11-12T22:26:06+00:00",
+      "status": "duplicate"
     },
     "ebenezer|2026|https://www.rogerebert.com/reviews/ebenezer-scrooge-johnny-depp-film-review-2026": {
       "at": "2026-11-12T17:29:13+00:00",
@@ -4669,6 +4696,10 @@
       "at": "2026-11-12T00:14:47+00:00",
       "status": "not_review"
     },
+    "how to rob a bank|2026|https://screenrant.com/how-to-rob-a-bank-ending-explained/": {
+      "at": "2026-11-12T22:26:11+00:00",
+      "status": "not_review"
+    },
     "how to rob a bank|2026|https://screenrant.com/how-to-rob-a-bank-movie-review/": {
       "at": "2026-11-11T14:06:30+00:00",
       "status": "review",
@@ -4676,6 +4707,10 @@
     },
     "how to rob a bank|2026|https://screenrant.com/nicholas-hoult-how-to-rob-a-bank-first-reactions/": {
       "at": "2026-11-11T14:41:39+00:00",
+      "status": "not_review"
+    },
+    "how to rob a bank|2026|https://screenrant.com/video/how-to-rob-a-bank-david-leitch-interview/": {
+      "at": "2026-11-12T22:26:09+00:00",
       "status": "not_review"
     },
     "how to rob a bank|2026|https://thefutureoftheforce.com/2026/11/11/review-how-to-rob-a-bank-2026/": {
