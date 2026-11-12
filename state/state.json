@@ -902,6 +902,16 @@
         "summary": "Annoyingly flashy, tonally berserk heist movie with clunky script, thin characters, unearned emotion, and a plodding two-hour runtime.",
         "url": "https://variety.com/2026/film/reviews/how-to-rob-a-bank-review-1236945761/",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-12T07:23:35+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "Movie Cricket",
+        "rating": "2.5/4",
+        "summary": "Leitch stages hellacious heists, but the frantic social-media style, wasted setups and mismanaged dark tone make it wildly uneven.",
+        "url": "https://moviecricket.net/blog/2026/11/12/review-how-to-rob-a-bank-puts-a-social-media-gloss-on-the-heist-flick-but-dives-into-serious-topics-its-not-serious-enough-to-handle",
+        "verdict": "rotten"
       }
     ],
     "i play rocky|": [
@@ -3862,6 +3872,11 @@
     },
     "how to rob a bank|2026|https://mashable.com/entertainment/how-to-rob-a-bank-review": {
       "at": "2026-11-11T14:41:42+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
+    "how to rob a bank|2026|https://moviecricket.net/blog/2026/11/12/review-how-to-rob-a-bank-puts-a-social-media-gloss-on-the-heist-flick-but-dives-into-serious-topics-its-not-serious-enough-to-handle": {
+      "at": "2026-11-12T07:23:35+00:00",
       "status": "review",
       "verdict": "rotten"
     },
