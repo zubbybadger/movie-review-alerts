@@ -350,6 +350,26 @@
         "summary": "Depp's strong Scrooge, excellent ghosts, spooky practical effects and production values outweigh the overly familiar, predictable story.",
         "url": "https://www.hollywoodintoto.com/ebenezer-review-johnny-depp/?utm_source=rss&utm_medium=rss&utm_campaign=ebenezer-review-johnny-depp",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-12T18:59:21+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "La Naci\u00f3n",
+        "rating": "Buena",
+        "summary": "Ti West's gothic horror staging and ghost sequences impress, though the comedy and Depp's exaggerated comic scenes fall flat.",
+        "url": "https://www.lanacion.com.ar/espectaculos/cine/ebenezer-los-fantasmas-de-navidad-marca-el-regreso-de-johnny-depp-con-destacadas-escenas-de-terror-y-nid12112026/",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-12T18:59:29+00:00",
+        "confidence": "high",
+        "critic": "Simon Thompson",
+        "outlet": "Bloody Flicks",
+        "rating": "",
+        "summary": "A solid, faithful adaptation with strong performances, especially Depp and Grint, and gothic art direction that leans into nightmarish horror.",
+        "url": "https://bloody-flicks.co.uk/2026/11/11/ebenezer-review/",
+        "verdict": "fresh"
       }
     ],
     "godzilla minus zero|": [
@@ -1294,6 +1314,16 @@
         "summary": "Entertaining, action-packed caper with strong cast and Leitch's stylish direction, though fun rather than truly memorable.",
         "url": "https://thefutureoftheforce.com/2026/11/11/review-how-to-rob-a-bank-2026/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-12T18:59:24+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Collider",
+        "rating": "",
+        "summary": "Tedious, toothless heist film with thin characters, no moral tension, minimal action, and a jarring tonal shift despite Kravitz's charm.",
+        "url": "https://collider.com/how-to-rob-a-bank-review-nicholas-hoult-david-leitch/",
+        "verdict": "rotten"
       }
     ],
     "i play rocky|": [
@@ -1655,6 +1685,16 @@
         "rating": "",
         "summary": "Farrelly and his team deliver a remarkably crowd-pleasing film that lands its punches.",
         "url": "https://www.rogerebert.com/reviews/i-play-rocky-peter-farrelly-movie-review-2026",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-12T18:59:16+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "The Film Verdict",
+        "rating": "",
+        "summary": "Praises Ippolito's spot-on Stallone, a strong ensemble, vivid 1970s craft, and genuinely exhilarating crowd-pleasing moments, despite loose truthfulness.",
+        "url": "https://thefilmverdict.com/i-play-rocky-film-review/",
         "verdict": "fresh"
       }
     ],
@@ -3410,6 +3450,11 @@
       "status": "review",
       "verdict": "rotten"
     },
+    "ebenezer|2026|https://bloody-flicks.co.uk/2026/11/11/ebenezer-review/": {
+      "at": "2026-11-12T18:59:29+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "ebenezer|2026|https://collider.com/johnny-depp-jack-sparrow-ebenezer-scrooge-ti-west-interview/": {
       "at": "2026-11-12T09:29:02+00:00",
       "status": "not_review"
@@ -3512,6 +3557,10 @@
       "at": "2026-11-12T17:05:15+00:00",
       "status": "review",
       "verdict": "rotten"
+    },
+    "ebenezer|2026|https://timesofindia.indiatimes.com/entertainment/english/movie-details/ebenezer-a-christmas-carol/movieshow/132153276.cms": {
+      "at": "2026-11-12T18:59:31+00:00",
+      "status": "not_review"
     },
     "ebenezer|2026|https://timesofindia.indiatimes.com/videos/entertainment/english/ebenezer-official-trailer/videoshow/134637439.cms": {
       "at": "2026-11-09T13:41:42+00:00",
@@ -3660,6 +3709,11 @@
     },
     "ebenezer|2026|https://www.kaplanvskaplan.com/new-releases/ebenezer/": {
       "at": "2026-11-12T16:58:45+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "ebenezer|2026|https://www.lanacion.com.ar/espectaculos/cine/ebenezer-los-fantasmas-de-navidad-marca-el-regreso-de-johnny-depp-con-destacadas-escenas-de-terror-y-nid12112026/": {
+      "at": "2026-11-12T18:59:21+00:00",
       "status": "review",
       "verdict": "fresh"
     },
@@ -4483,6 +4537,15 @@
       "at": "2026-11-12T17:29:28+00:00",
       "status": "not_review"
     },
+    "how to rob a bank|2026|https://collider.com/how-to-rob-a-bank-review-nicholas-hoult-david-leitch/": {
+      "at": "2026-11-12T18:59:24+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
+    "how to rob a bank|2026|https://collider.com/tag/movie/how-to-rob-a-bank-2026/": {
+      "at": "2026-11-12T18:59:26+00:00",
+      "status": "not_review"
+    },
     "how to rob a bank|2026|https://culturemixonline.com/review-how-to-rob-a-bank-2026-starring-nicholas-hoult-zoe-kravitz-anna-sawai-rhenzy-feliz-pete-davidson-and-john-c-reilly/": {
       "at": "2026-11-11T15:24:10+00:00",
       "status": "review",
@@ -4843,6 +4906,11 @@
       "at": "2026-11-12T12:29:24+00:00",
       "status": "review",
       "verdict": "rotten"
+    },
+    "i play rocky||https://thefilmverdict.com/i-play-rocky-film-review/": {
+      "at": "2026-11-12T18:59:16+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "i play rocky||https://theholofiles.com/2026/11/11/i-play-rocky-ending-explained/": {
       "at": "2026-11-12T17:29:56+00:00",
