@@ -1266,6 +1266,16 @@
         "summary": "Hilarious, moving crowdpleaser among Farrelly's best, anchored by Anthony Ippolito's uncanny, emotionally rich Stallone and strong supporting cast.",
         "url": "https://www.otroscines.com/post/critica-de-yo-soy-rocky-i-play-rocky-pelicula-de-peter-farrelly-con-anthony-ippolito-annasophia-robb-toby-kebbell-pj-byrne-jay-duplass-matt-dillon-y-tracy-letts",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-12T12:29:24+00:00",
+        "confidence": "high",
+        "critic": "Sean Burns",
+        "outlet": "WBUR's Arts & Culture",
+        "rating": "",
+        "summary": "A phony, frictionless pile of content paste that turns a familiar story into a cosplay baby-food retelling with no purpose.",
+        "url": "https://splicedpersonality.com/2026/11/12/i-play-rocky/",
+        "verdict": "rotten"
       }
     ],
     "the cat in the hat|2026": [
@@ -4214,6 +4224,11 @@
     },
     "i play rocky||https://silverscreenriot.com/i-play-rocky-review/": {
       "at": "2026-11-09T14:36:50+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
+    "i play rocky||https://splicedpersonality.com/2026/11/12/i-play-rocky/": {
+      "at": "2026-11-12T12:29:24+00:00",
       "status": "review",
       "verdict": "rotten"
     },
