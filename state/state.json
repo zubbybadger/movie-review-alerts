@@ -400,6 +400,16 @@
         "summary": "Ti West's gothic horror take on Dickens is atmospheric and scary, with a terrific Depp and a genuine emotional core.",
         "url": "https://screenzealots.com/2026/11/12/ebenezer/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-12T23:29:00+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Killer Movie Reviews",
+        "rating": "4",
+        "summary": "Ti West's horror-tinged A Christmas Carol feels new yet faithful to Dickens, anchored by one of Depp's best performances and unsettling spirits.",
+        "url": "https://www.killermoviereviews.com/movie/ebenezer/",
+        "verdict": "fresh"
       }
     ],
     "godzilla minus zero|": [
@@ -3790,6 +3800,11 @@
     },
     "ebenezer|2026|https://www.kaplanvskaplan.com/new-releases/ebenezer/": {
       "at": "2026-11-12T16:58:45+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "ebenezer|2026|https://www.killermoviereviews.com/movie/ebenezer/": {
+      "at": "2026-11-12T23:29:00+00:00",
       "status": "review",
       "verdict": "fresh"
     },
