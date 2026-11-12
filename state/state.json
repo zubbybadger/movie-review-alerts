@@ -1,5 +1,27 @@
 {
   "reviews": {
+    "ebenezer|2026": [
+      {
+        "at": "2026-11-12T09:28:57+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "The Guardian",
+        "rating": "",
+        "summary": "An unexpectedly watchable, faithful Christmas Carol adaptation with witty new touches and a rather good Depp, though the redeemed Scrooge lacks pathos.",
+        "url": "https://www.theguardian.com/film/2026/nov/12/ebenezer-review-johnny-depp-scrooge-dickens",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-12T09:29:00+00:00",
+        "confidence": "low",
+        "critic": "",
+        "outlet": "Empire",
+        "rating": "",
+        "summary": "Faithful, well-staged ghostly scares and a committed Depp, though slow, ponderous, and lacking a joyful finale.",
+        "url": "https://www.empireonline.com/movies/reviews/ebenezer/",
+        "verdict": "fresh"
+      }
+    ],
     "godzilla minus zero|": [
       {
         "at": "2026-10-29T16:23:30+00:00",
@@ -2988,6 +3010,10 @@
     ]
   },
   "seen": {
+    "ebenezer|2026|https://collider.com/johnny-depp-jack-sparrow-ebenezer-scrooge-ti-west-interview/": {
+      "at": "2026-11-12T09:29:02+00:00",
+      "status": "not_review"
+    },
     "ebenezer|2026|https://collider.com/johnny-depp-return-ebenezer-first-reactions/": {
       "at": "2026-11-10T11:28:57+00:00",
       "status": "not_review"
@@ -3060,6 +3086,11 @@
       "at": "2026-11-10T14:27:32+00:00",
       "status": "not_review"
     },
+    "ebenezer|2026|https://www.empireonline.com/movies/reviews/ebenezer/": {
+      "at": "2026-11-12T09:29:00+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "ebenezer|2026|https://www.hollywoodreporter.com/movies/movie-news/bay-theater-to-reopen-on-friday-1236752197/": {
       "at": "2026-11-10T21:47:26+00:00",
       "status": "not_review"
@@ -3095,6 +3126,11 @@
     "ebenezer|2026|https://www.the-independent.com/arts-entertainment/films/news/johnny-depp-fans-thanks-ebenezer-b3082258.html": {
       "at": "2026-11-10T15:41:55+00:00",
       "status": "not_review"
+    },
+    "ebenezer|2026|https://www.theguardian.com/film/2026/nov/12/ebenezer-review-johnny-depp-scrooge-dickens": {
+      "at": "2026-11-12T09:28:57+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "ebenezer|2026|https://www.usatoday.com/videos/news/2026/11/09/crowd-elated-as-johnny-depp-appears-as-ebenezer-scrooge-in-san-diego/91043801007/": {
       "at": "2026-11-09T23:21:14+00:00",
