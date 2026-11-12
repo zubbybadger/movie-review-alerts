@@ -370,6 +370,16 @@
         "summary": "A solid, faithful adaptation with strong performances, especially Depp and Grint, and gothic art direction that leans into nightmarish horror.",
         "url": "https://bloody-flicks.co.uk/2026/11/11/ebenezer-review/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-12T21:29:16+00:00",
+        "confidence": "high",
+        "critic": "Carla Hay",
+        "outlet": "Culture Mix",
+        "rating": "",
+        "summary": "Despite strong production design and a talented cast, the film is dull, tonally uneven, and a formulaic 'reheated leftovers' version of A Christmas Carol.",
+        "url": "https://culturemixonline.com/review-ebenezer-2026-starring-johnny-depp-rupert-grint-andrea-riseborough-sam-claflin-daisy-ridley-arthur-conti-ellie-bamber-tramell-tillman-and-ian-mckellen/",
+        "verdict": "rotten"
       }
     ],
     "godzilla minus zero|": [
@@ -3465,6 +3475,11 @@
     },
     "ebenezer|2026|https://consequence.net/2026/11/ebenezer-review-johnny-depp-ti-west/": {
       "at": "2026-11-12T17:05:49+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
+    "ebenezer|2026|https://culturemixonline.com/review-ebenezer-2026-starring-johnny-depp-rupert-grint-andrea-riseborough-sam-claflin-daisy-ridley-arthur-conti-ellie-bamber-tramell-tillman-and-ian-mckellen/": {
+      "at": "2026-11-12T21:29:16+00:00",
       "status": "review",
       "verdict": "rotten"
     },
