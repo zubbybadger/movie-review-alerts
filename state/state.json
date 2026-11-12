@@ -30,6 +30,26 @@
         "summary": "A Gothic, genuinely spooky Christmas Carol that balances scares with humor and heart, anchored by a nuanced Johnny Depp.",
         "url": "https://attractionsmagazine.com/ebenezer-review-johnny-depp-spoilers/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-12T16:58:45+00:00",
+        "confidence": "high",
+        "critic": "Jeanne Kaplan and David Kaplan",
+        "outlet": "Kaplan vs. Kaplan",
+        "rating": "SEE IT NOW! / STRONG SEE IT NOW!",
+        "summary": "Both critics praise Ti West's darker adaptation and Johnny Depp's riveting Scrooge, plus strong cast, sets and costumes.",
+        "url": "https://www.kaplanvskaplan.com/new-releases/ebenezer/",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-12T16:58:47+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Next Best Picture",
+        "rating": "",
+        "summary": "Depp's overblown performance and a shallow, conventional reworking of Scrooge's arc squander the material despite a strong supporting cast and McKellen.",
+        "url": "https://nextbestpicture.com/ebenezer/",
+        "verdict": "rotten"
       }
     ],
     "godzilla minus zero|": [
@@ -3071,6 +3091,11 @@
       "at": "2026-11-10T01:45:38+00:00",
       "status": "not_review"
     },
+    "ebenezer|2026|https://nextbestpicture.com/ebenezer/": {
+      "at": "2026-11-12T16:58:47+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
     "ebenezer|2026|https://screenrant.com/daisy-ridley-upcoming-movies-tv-shows/": {
       "at": "2026-11-10T18:57:05+00:00",
       "status": "not_review"
@@ -3159,6 +3184,11 @@
     "ebenezer|2026|https://www.independent.co.uk/bulletin/culture/johnny-depp-ebenezer-release-date-b3082467.html": {
       "at": "2026-11-10T15:56:25+00:00",
       "status": "not_review"
+    },
+    "ebenezer|2026|https://www.kaplanvskaplan.com/new-releases/ebenezer/": {
+      "at": "2026-11-12T16:58:45+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "ebenezer|2026|https://www.smh.com.au/culture/movies/ebenezer-trailer-20261112-p61dnq.html": {
       "at": "2026-11-12T03:15:38+00:00",
