@@ -892,6 +892,16 @@
         "summary": "Leitch's muddled eat-the-rich satire lacks tension and timely insight, sidelining its most enjoyable characters, Reilly and Kravitz.",
         "url": "https://www.fwweekly.com/2026/11/11/how-to-rob-a-bank-pittsburgh-stealers/",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-12T01:23:35+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Variety",
+        "rating": "",
+        "summary": "Annoyingly flashy, tonally berserk heist movie with clunky script, thin characters, unearned emotion, and a plodding two-hour runtime.",
+        "url": "https://variety.com/2026/film/reviews/how-to-rob-a-bank-review-1236945761/",
+        "verdict": "rotten"
       }
     ],
     "i play rocky|": [
@@ -2988,6 +2998,10 @@
       "at": "2026-11-09T23:21:16+00:00",
       "status": "not_review"
     },
+    "ebenezer|2026|https://screenrant.com/muppet-christmas-carol-biggest-advantage-johnny-depp-ebenezer/": {
+      "at": "2026-11-12T01:23:37+00:00",
+      "status": "not_review"
+    },
     "ebenezer|2026|https://timesofindia.indiatimes.com/videos/entertainment/english/ebenezer-official-trailer/videoshow/134637439.cms": {
       "at": "2026-11-09T13:41:42+00:00",
       "status": "not_review"
@@ -3903,6 +3917,11 @@
     },
     "how to rob a bank|2026|https://thesunbreak.com/2026/11/11/how-to-rob-a-bank-2026-review/": {
       "at": "2026-11-11T22:23:10+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
+    "how to rob a bank|2026|https://variety.com/2026/film/reviews/how-to-rob-a-bank-review-1236945761/": {
+      "at": "2026-11-12T01:23:35+00:00",
       "status": "review",
       "verdict": "rotten"
     },
