@@ -340,6 +340,16 @@
         "summary": "Depp's mugging performance clashes, but Ti West's artfully eerie ghost-story take, spooky spirits, and strong supporting cast make it pretty good.",
         "url": "https://www.vulture.com/article/review-johnny-depp-is-the-worst-part-of-ebenezer.html",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-12T18:29:08+00:00",
+        "confidence": "medium",
+        "critic": "Christian Toto",
+        "outlet": "Hollywood in Toto",
+        "rating": "3.5/5",
+        "summary": "Depp's strong Scrooge, excellent ghosts, spooky practical effects and production values outweigh the overly familiar, predictable story.",
+        "url": "https://www.hollywoodintoto.com/ebenezer-review-johnny-depp/?utm_source=rss&utm_medium=rss&utm_campaign=ebenezer-review-johnny-depp",
+        "verdict": "fresh"
       }
     ],
     "godzilla minus zero|": [
@@ -3594,6 +3604,15 @@
       "at": "2026-11-12T17:05:54+00:00",
       "status": "review",
       "verdict": "rotten"
+    },
+    "ebenezer|2026|https://www.hollywoodintoto.com/ebenezer-review-johnny-depp/": {
+      "at": "2026-11-12T18:29:11+00:00",
+      "status": "duplicate"
+    },
+    "ebenezer|2026|https://www.hollywoodintoto.com/ebenezer-review-johnny-depp/?utm_source=rss&utm_medium=rss&utm_campaign=ebenezer-review-johnny-depp": {
+      "at": "2026-11-12T18:29:08+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "ebenezer|2026|https://www.hollywoodreporter.com/movies/movie-news/bay-theater-to-reopen-on-friday-1236752197/": {
       "at": "2026-11-10T21:47:26+00:00",
