@@ -380,6 +380,16 @@
         "summary": "Despite strong production design and a talented cast, the film is dull, tonally uneven, and a formulaic 'reheated leftovers' version of A Christmas Carol.",
         "url": "https://culturemixonline.com/review-ebenezer-2026-starring-johnny-depp-rupert-grint-andrea-riseborough-sam-claflin-daisy-ridley-arthur-conti-ellie-bamber-tramell-tillman-and-ian-mckellen/",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-12T21:39:52+00:00",
+        "confidence": "medium",
+        "critic": "Nell Minow",
+        "outlet": "Movie Mom",
+        "rating": "B",
+        "summary": "Beautifully designed, horror-leaning Christmas Carol with a solid Depp performance, though heavy-handed and lacking the balance of better versions.",
+        "url": "https://moviemom.com/ebenezer/?utm_source=rss&utm_medium=rss&utm_campaign=ebenezer",
+        "verdict": "fresh"
       }
     ],
     "godzilla minus zero|": [
@@ -3505,6 +3515,15 @@
       "status": "review",
       "verdict": "rotten"
     },
+    "ebenezer|2026|https://moviemom.com/ebenezer/": {
+      "at": "2026-11-12T21:39:56+00:00",
+      "status": "duplicate"
+    },
+    "ebenezer|2026|https://moviemom.com/ebenezer/?utm_source=rss&utm_medium=rss&utm_campaign=ebenezer": {
+      "at": "2026-11-12T21:39:52+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "ebenezer|2026|https://movieweb.com/ebenezer-review/": {
       "at": "2026-11-12T17:30:05+00:00",
       "status": "review",
@@ -3565,6 +3584,10 @@
       "at": "2026-11-12T17:29:38+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "ebenezer|2026|https://theholofiles.com/2026/11/12/ebenezer-johnny-depp-nightmare-on-elm-street-easter-egg/": {
+      "at": "2026-11-12T21:40:01+00:00",
+      "status": "not_review"
     },
     "ebenezer|2026|https://theholofiles.com/2026/11/12/ebenezer-review/": {
       "at": "2026-11-12T17:29:47+00:00",
@@ -3656,6 +3679,10 @@
     },
     "ebenezer|2026|https://www.comingsoon.net/movies/news/2222051-johnny-depp-ebenezer-reviews-miscast-scrooge": {
       "at": "2026-11-12T20:59:38+00:00",
+      "status": "not_review"
+    },
+    "ebenezer|2026|https://www.comingsoon.net/movies/news/2222086-johnny-depp-ebenezer-rotten-tomatoes-score-michael-caine-albert-finney-scrooge": {
+      "at": "2026-11-12T21:39:59+00:00",
       "status": "not_review"
     },
     "ebenezer|2026|https://www.denofgeek.com/movies/ebenezer-review-a-christmas-carol-for-capitalists/": {
