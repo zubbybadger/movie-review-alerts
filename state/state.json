@@ -330,6 +330,16 @@
         "summary": "Despite Ti West's strong atmospheric ghost-story visuals, Depp's uninspired performance and misguided story changes make the adaptation fall flat.",
         "url": "https://www.cbr.com/ebenezer-review/",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-12T17:59:11+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "Vulture",
+        "rating": "",
+        "summary": "Depp's mugging performance clashes, but Ti West's artfully eerie ghost-story take, spooky spirits, and strong supporting cast make it pretty good.",
+        "url": "https://www.vulture.com/article/review-johnny-depp-is-the-worst-part-of-ebenezer.html",
+        "verdict": "fresh"
       }
     ],
     "godzilla minus zero|": [
@@ -3692,6 +3702,11 @@
     "ebenezer|2026|https://www.usatoday.com/videos/news/2026/11/09/johnny-depp-reimagined-ebenezer-scrooge/92581284007/": {
       "at": "2026-11-09T23:21:11+00:00",
       "status": "not_review"
+    },
+    "ebenezer|2026|https://www.vulture.com/article/review-johnny-depp-is-the-worst-part-of-ebenezer.html": {
+      "at": "2026-11-12T17:59:11+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "godzilla minus zero||http://moviefreak.com/godzilla-minus-zero-2026-movie-review/": {
       "at": "2026-11-06T08:37:20+00:00",
