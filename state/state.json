@@ -882,6 +882,16 @@
         "summary": "Wildly entertaining but its anti-capitalism is superficial and self-important; it never earns its place among great heist films.",
         "url": "https://thesunbreak.com/2026/11/11/how-to-rob-a-bank-2026-review/",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-12T00:14:30+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Fort Worth Weekly",
+        "rating": "",
+        "summary": "Leitch's muddled eat-the-rich satire lacks tension and timely insight, sidelining its most enjoyable characters, Reilly and Kravitz.",
+        "url": "https://www.fwweekly.com/2026/11/11/how-to-rob-a-bank-pittsburgh-stealers/",
+        "verdict": "rotten"
       }
     ],
     "i play rocky|": [
@@ -3869,6 +3879,10 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "how to rob a bank|2026|https://screenrant.com/david-leitch-how-to-rob-a-bank-rotten-tomatoes-score-debut-record/": {
+      "at": "2026-11-12T00:14:47+00:00",
+      "status": "not_review"
+    },
     "how to rob a bank|2026|https://screenrant.com/how-to-rob-a-bank-movie-review/": {
       "at": "2026-11-11T14:06:30+00:00",
       "status": "review",
@@ -3922,10 +3936,23 @@
       "status": "review",
       "verdict": "rotten"
     },
+    "how to rob a bank|2026|https://www.fwweekly.com/2026/11/11/how-to-rob-a-bank-pittsburgh-stealers/": {
+      "at": "2026-11-12T00:14:30+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
     "how to rob a bank|2026|https://www.highonfilms.com/how-to-rob-a-bank-2026-movie-review/": {
       "at": "2026-11-11T22:22:47+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "how to rob a bank|2026|https://www.hollywoodintoto.com/how-to-rob-a-bank-review-woke/": {
+      "at": "2026-11-12T00:14:52+00:00",
+      "status": "duplicate"
+    },
+    "how to rob a bank|2026|https://www.hollywoodintoto.com/how-to-rob-a-bank-review-woke/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-rob-a-bank-review-woke": {
+      "at": "2026-11-12T00:14:50+00:00",
+      "status": "duplicate"
     },
     "how to rob a bank|2026|https://www.hollywoodintoto.com/how-to-rob-a-bank-review/": {
       "at": "2026-11-11T22:23:02+00:00",
