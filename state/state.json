@@ -610,6 +610,26 @@
         "summary": "Depp's grieving, nasty Scrooge is worth watching, but the sentimental, underfunded, unscary PG-13 film is a mess.",
         "url": "https://www.thetraverstake.com/featured/ebenezer/",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-13T21:29:10+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "jmuvies (blogspot)",
+        "rating": "3.5/5",
+        "summary": "A faithful, capably directed Christmas Carol with a quirky Depp, nifty Victorian design, and convincing ghosts, especially Tramell Tillman.",
+        "url": "https://jmuvies.blogspot.com/2026/11/ebenezer-re-learns-christmas-lessons.html",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-13T21:29:15+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "Lola Lambchops",
+        "rating": "",
+        "summary": "A parents guide with a mildly positive take: not groundbreaking, but entertaining, with a unique dark spin, Depp's humor and charming supporting actors.",
+        "url": "https://lolalambchops.com/ebenezer-kid-friendly-parents-guide/?utm_source=rss&utm_medium=rss&utm_campaign=ebenezer-kid-friendly-parents-guide",
+        "verdict": "fresh"
       }
     ],
     "godzilla minus zero|": [
@@ -2135,6 +2155,16 @@
         "rating": "",
         "summary": "Anthony Ippolito's electrifying Stallone and a funny, heartfelt balance of comedy and drama outweigh vague, somewhat out-of-touch biographical details.",
         "url": "https://bostonhassle.com/review-i-play-rocky-2026-dir-peter-farrelly/",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-13T21:29:23+00:00",
+        "confidence": "low",
+        "critic": "",
+        "outlet": "NPR",
+        "rating": "",
+        "summary": "Page only teases a joint review pairing it with Bitter Christmas; no clear evaluative stance is visible in the snippet.",
+        "url": "https://www.npr.org/2026/11/13/nx-s1-6034398/in-different-ways-these-2-new-films-take-on-the-craft-and-the-business-of-filmmaking",
         "verdict": "fresh"
       }
     ],
@@ -3977,8 +4007,22 @@
       "status": "review",
       "verdict": "rotten"
     },
+    "ebenezer|2026|https://jmuvies.blogspot.com/2026/11/ebenezer-re-learns-christmas-lessons.html": {
+      "at": "2026-11-13T21:29:10+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "ebenezer|2026|https://kkfi.org/program-episodes/freeze-frame-ebenezer-pg-13-how-to-rob-a-bank-r-once-upon-a-time-in-harlem-pg-13-being-heumann-r/": {
       "at": "2026-11-13T04:28:33+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "ebenezer|2026|https://lolalambchops.com/ebenezer-kid-friendly-parents-guide/": {
+      "at": "2026-11-13T21:29:19+00:00",
+      "status": "duplicate"
+    },
+    "ebenezer|2026|https://lolalambchops.com/ebenezer-kid-friendly-parents-guide/?utm_source=rss&utm_medium=rss&utm_campaign=ebenezer-kid-friendly-parents-guide": {
+      "at": "2026-11-13T21:29:15+00:00",
       "status": "review",
       "verdict": "fresh"
     },
@@ -5279,6 +5323,10 @@
       "status": "review",
       "verdict": "rotten"
     },
+    "how to rob a bank|2026|https://jmuvies.blogspot.com/2026/11/ebenezer-re-learns-christmas-lessons.html": {
+      "at": "2026-11-13T21:29:12+00:00",
+      "status": "not_review"
+    },
     "how to rob a bank|2026|https://kkfi.org/program-episodes/freeze-frame-ebenezer-pg-13-how-to-rob-a-bank-r-once-upon-a-time-in-harlem-pg-13-being-heumann-r/": {
       "at": "2026-11-13T04:28:35+00:00",
       "status": "review",
@@ -5480,6 +5528,10 @@
       "at": "2026-11-13T18:58:19+00:00",
       "status": "not_review"
     },
+    "how to rob a bank|2026|https://www.hollywoodreporter.com/gallery/focker-in-law-how-to-rob-bank-red-carpet-events-1236750052/": {
+      "at": "2026-11-13T21:29:21+00:00",
+      "status": "not_review"
+    },
     "how to rob a bank|2026|https://www.hollywoodreporter.com/movies/movie-features/how-to-rob-a-bank-david-leitch-1236752122/": {
       "at": "2026-11-10T21:12:04+00:00",
       "status": "not_review"
@@ -5653,6 +5705,10 @@
       "at": "2026-11-10T15:41:44+00:00",
       "status": "review",
       "verdict": "rotten"
+    },
+    "i play rocky||https://jmuvies.blogspot.com/2026/11/ebenezer-re-learns-christmas-lessons.html": {
+      "at": "2026-11-13T21:29:07+00:00",
+      "status": "not_review"
     },
     "i play rocky||https://mashable.com/entertainment/i-play-rocky-review": {
       "at": "2026-11-06T10:41:12+00:00",
@@ -5915,6 +5971,11 @@
       "at": "2026-11-13T15:16:31+00:00",
       "status": "review",
       "verdict": "rotten"
+    },
+    "i play rocky||https://www.npr.org/2026/11/13/nx-s1-6034398/in-different-ways-these-2-new-films-take-on-the-craft-and-the-business-of-filmmaking": {
+      "at": "2026-11-13T21:29:23+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "i play rocky||https://www.nytimes.com/2026/11/05/movies/i-play-rocky-review-hes-a-champion.html": {
       "at": "2026-11-05T17:39:24+00:00",
