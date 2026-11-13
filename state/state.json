@@ -3702,6 +3702,10 @@
       "status": "review",
       "verdict": "rotten"
     },
+    "ebenezer|2026|https://deadline.com/2026/11/afm-david-walliams-international-insider-1237221498/": {
+      "at": "2026-11-13T13:52:01+00:00",
+      "status": "not_review"
+    },
     "ebenezer|2026|https://deadline.com/2026/11/daisy-ridley-darren-criss-travis-fimmel-join-cupid-1237219257/": {
       "at": "2026-11-10T21:47:29+00:00",
       "status": "not_review"
@@ -3893,6 +3897,10 @@
       "at": "2026-11-13T12:29:10+00:00",
       "status": "not_review"
     },
+    "ebenezer|2026|https://www.avclub.com/johnny-depp-uncancellation-ebenezer-actually-refusing-to-admit-his-acting-is-the-problem?utm_source=rss&utm_medium=rss&utm_campaign=johnny-depp-uncancellation-ebenezer-actually-refusing-to-admit-his-acting-is-the-problem": {
+      "at": "2026-11-13T13:52:04+00:00",
+      "status": "not_review"
+    },
     "ebenezer|2026|https://www.bollywoodhungama.com/movie/ebenezer-english/": {
       "at": "2026-11-09T13:41:45+00:00",
       "status": "not_review"
@@ -3946,6 +3954,10 @@
     },
     "ebenezer|2026|https://www.comingsoon.net/movies/news/2222086-johnny-depp-ebenezer-rotten-tomatoes-score-michael-caine-albert-finney-scrooge": {
       "at": "2026-11-12T21:39:59+00:00",
+      "status": "not_review"
+    },
+    "ebenezer|2026|https://www.comingsoon.net/movies/news/2222620-ebenezer-box-office-johnny-depp-opening-predictions": {
+      "at": "2026-11-13T13:52:14+00:00",
       "status": "not_review"
     },
     "ebenezer|2026|https://www.denofgeek.com/movies/ebenezer-review-a-christmas-carol-for-capitalists/": {
@@ -4136,6 +4148,14 @@
       "at": "2026-11-13T00:29:03+00:00",
       "status": "review",
       "verdict": "rotten"
+    },
+    "ebenezer|2026|https://www.usatoday.com/story/entertainment/movies/2026/11/13/best-ebenezer-scrooge-actors-ranked/92642485007/": {
+      "at": "2026-11-13T13:52:08+00:00",
+      "status": "not_review"
+    },
+    "ebenezer|2026|https://www.usatoday.com/videos/entertainment/movies/2026/11/13/ebenezer-johnny-depp-movie-trailer/92737423007/": {
+      "at": "2026-11-13T13:52:10+00:00",
+      "status": "not_review"
     },
     "ebenezer|2026|https://www.usatoday.com/videos/news/2026/11/09/crowd-elated-as-johnny-depp-appears-as-ebenezer-scrooge-in-san-diego/91043801007/": {
       "at": "2026-11-09T23:21:14+00:00",
@@ -5295,6 +5315,10 @@
     },
     "i play rocky||https://screenrant.com/i-play-rocky-movie-rotten-tomatoes-audience-score-sylvester-stallone-franchise-knockout/": {
       "at": "2026-11-10T16:37:41+00:00",
+      "status": "not_review"
+    },
+    "i play rocky||https://screenrant.com/i-play-rocky-movie-true-story-sylvester-stallone-real-life-accuracy/": {
+      "at": "2026-11-13T13:52:12+00:00",
       "status": "not_review"
     },
     "i play rocky||https://screenrant.com/video/i-play-rocky-anthony-ippolito-annasophia-robb-kiki-seto-stephan-james-interview/": {
