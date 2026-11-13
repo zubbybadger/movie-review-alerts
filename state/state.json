@@ -530,6 +530,36 @@
         "summary": "A solid, atmospheric adaptation with a strong ensemble and adequate Depp turn, though it doesn't reinvent A Christmas Carol.",
         "url": "https://thefilmverdict.com/ebenezer-film-review/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-13T15:16:17+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "InReview Online",
+        "rating": "",
+        "summary": "A conventional, risk-averse retelling whose Depp-comeback apologia distracts, and whose biggest crime is being thoroughly boring.",
+        "url": "https://inreviewonline.com/2026/11/13/ebenezer-review/",
+        "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-13T15:16:23+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "The Times-Herald",
+        "rating": "",
+        "summary": "Depp's distracting, comical performance and an overly familiar, timid horror take make this Christmas Carol feel like microwaved leftovers.",
+        "url": "https://www.times-herald.com/arts_and_community/reviews/ebenezer/article_e258d21a-b6da-47ae-b204-eb950d444956.html",
+        "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-13T15:16:33+00:00",
+        "confidence": "medium",
+        "critic": "Peter Howell",
+        "outlet": "NightViz",
+        "rating": "2.5/4",
+        "summary": "Not a future classic, but Depp's charming Scrooge and Ti West's merry-macabre horror touches make it an enjoyable, spirited Dickens adaptation.",
+        "url": "https://www.nightviz.ca/single-post/ebenezer-is-no-mere-humbug-as-depp-dallys-with-dickens",
+        "verdict": "fresh"
       }
     ],
     "godzilla minus zero|": [
@@ -1514,6 +1544,36 @@
         "summary": "Sincere and substantive but predictable and barely average; tiresome internet-video segments and thin characters make it forgettable.",
         "url": "https://spectrumculture.com/2026/11/12/how-to-rob-a-bank-review/",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-13T15:16:20+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "InReview Online",
+        "rating": "",
+        "summary": "A toothless, pandering heist thriller with cardboard characters and little action; possibly the worst film of 2026.",
+        "url": "https://inreviewonline.com/2026/11/13/how-to-rob-a-bank-review/",
+        "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-13T15:16:25+00:00",
+        "confidence": "high",
+        "critic": "Charlie von Peterffy",
+        "outlet": "Boston Hassle",
+        "rating": "",
+        "summary": "Despite a strong cast and timely message, the film's noisy action, thin characters and cartoonish, unearned rage make it a mindless dud.",
+        "url": "https://bostonhassle.com/review-how-to-rob-a-bank-2026-dir-david-leitch/",
+        "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-13T15:16:28+00:00",
+        "confidence": "medium",
+        "critic": "Scott Tobias",
+        "outlet": "The Reveal",
+        "rating": "",
+        "summary": "Leitch's maximalist style gives muscularity but never finds another gear, leaving the anti-corporate heist film hollow, insincere, and trend-hopping.",
+        "url": "https://thereveal.film/in-review-bitter-christmas-how-to-rob-a-bank-victorian-psycho/",
+        "verdict": "rotten"
       }
     ],
     "i play rocky|": [
@@ -1916,6 +1976,16 @@
         "summary": "Ippolito's compelling performance and the film's affectionate underdog story make it engaging, despite conventional biopic beats and reliance on Rocky nostalgia.",
         "url": "https://www.indiatoday.in/movies/reviews/story/i-play-rocky-review-anthony-ippolito-anchors-a-spirited-sylvester-stallone-biopic-3037978-2026-11-13",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-13T15:16:31+00:00",
+        "confidence": "low",
+        "critic": "Peter Howell",
+        "outlet": "NightViz",
+        "rating": "2.5/4",
+        "summary": "Ippolito's Stallone impresses, but the film feels calculated and safe, dwelling on dealmaking over boxing despite crowd-pleasing uplift.",
+        "url": "https://www.nightviz.ca/single-post/i-play-rocky-turns-an-underdog-triumph-into-a-safe-bet",
+        "verdict": "rotten"
       }
     ],
     "the cat in the hat|2026": [
@@ -3743,6 +3813,11 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "ebenezer|2026|https://inreviewonline.com/2026/11/13/ebenezer-review/": {
+      "at": "2026-11-13T15:16:17+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
     "ebenezer|2026|https://kkfi.org/program-episodes/freeze-frame-ebenezer-pg-13-how-to-rob-a-bank-r-once-upon-a-time-in-harlem-pg-13-being-heumann-r/": {
       "at": "2026-11-13T04:28:33+00:00",
       "status": "review",
@@ -4083,6 +4158,11 @@
       "status": "review",
       "verdict": "rotten"
     },
+    "ebenezer|2026|https://www.nightviz.ca/single-post/ebenezer-is-no-mere-humbug-as-depp-dallys-with-dickens": {
+      "at": "2026-11-13T15:16:33+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "ebenezer|2026|https://www.nytimes.com/2026/11/12/movies/ebenezer-review-holiday-humbug.html": {
       "at": "2026-11-12T17:05:20+00:00",
       "status": "review",
@@ -4161,6 +4241,11 @@
     },
     "ebenezer|2026|https://www.thepitchkc.com/joyless-bland-and-boring-ebenezer-earns-no-christmas-redemption-for-story-or-star/": {
       "at": "2026-11-13T00:29:03+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
+    "ebenezer|2026|https://www.times-herald.com/arts_and_community/reviews/ebenezer/article_e258d21a-b6da-47ae-b204-eb950d444956.html": {
+      "at": "2026-11-13T15:16:23+00:00",
       "status": "review",
       "verdict": "rotten"
     },
@@ -4942,6 +5027,11 @@
       "status": "review",
       "verdict": "rotten"
     },
+    "how to rob a bank|2026|https://bostonhassle.com/review-how-to-rob-a-bank-2026-dir-david-leitch/": {
+      "at": "2026-11-13T15:16:25+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
     "how to rob a bank|2026|https://cocalecas.net/2026/09/how-to-rob-a-bank-trailer-nicholas-hoult-zoe-kravitz/": {
       "at": "2026-11-09T13:41:35+00:00",
       "status": "not_review"
@@ -4972,6 +5062,11 @@
     "how to rob a bank|2026|https://deadline.com/print-article/1237220151?KeepThis=1&TB_iframe=1&height=500&width=750": {
       "at": "2026-11-11T14:06:25+00:00",
       "status": "duplicate"
+    },
+    "how to rob a bank|2026|https://inreviewonline.com/2026/11/13/how-to-rob-a-bank-review/": {
+      "at": "2026-11-13T15:16:20+00:00",
+      "status": "review",
+      "verdict": "rotten"
     },
     "how to rob a bank|2026|https://kkfi.org/program-episodes/freeze-frame-ebenezer-pg-13-how-to-rob-a-bank-r-once-upon-a-time-in-harlem-pg-13-being-heumann-r/": {
       "at": "2026-11-13T04:28:35+00:00",
@@ -5076,6 +5171,11 @@
     "how to rob a bank|2026|https://theplaylist.net/tony-mcnamara-mosquito-kyle-soller-phoebe-fox-20261110/": {
       "at": "2026-11-10T15:42:01+00:00",
       "status": "not_review"
+    },
+    "how to rob a bank|2026|https://thereveal.film/in-review-bitter-christmas-how-to-rob-a-bank-victorian-psycho/": {
+      "at": "2026-11-13T15:16:28+00:00",
+      "status": "review",
+      "verdict": "rotten"
     },
     "how to rob a bank|2026|https://thesunbreak.com/2026/11/11/how-to-rob-a-bank-2026-review/": {
       "at": "2026-11-11T22:23:10+00:00",
@@ -5533,6 +5633,11 @@
       "at": "2026-11-05T14:46:58+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "i play rocky||https://www.nightviz.ca/single-post/i-play-rocky-turns-an-underdog-triumph-into-a-safe-bet": {
+      "at": "2026-11-13T15:16:31+00:00",
+      "status": "review",
+      "verdict": "rotten"
     },
     "i play rocky||https://www.nytimes.com/2026/11/05/movies/i-play-rocky-review-hes-a-champion.html": {
       "at": "2026-11-05T17:39:24+00:00",
