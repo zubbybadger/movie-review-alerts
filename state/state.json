@@ -4007,6 +4007,10 @@
       "status": "review",
       "verdict": "rotten"
     },
+    "ebenezer|2026|https://www.screendaily.com/news/uk-ireland-box-office-preview-johnny-depps-comeback-ebenezer-out-in-634-cinemas-for-paramount/5222373.article": {
+      "at": "2026-11-13T10:30:04+00:00",
+      "status": "not_review"
+    },
     "ebenezer|2026|https://www.screendaily.com/reviews/ebenezer-review-johnny-depp-is-a-cartoonish-scrooge-in-ti-wests-underwhelming-unnecessary-dickens-adaptation/5222254.article": {
       "at": "2026-11-12T17:05:35+00:00",
       "status": "review",
@@ -5430,6 +5434,14 @@
     },
     "i play rocky||https://www.nytimes.com/2026/11/12/movies/i-play-rocky-how-it-got-made.html": {
       "at": "2026-11-12T10:29:20+00:00",
+      "status": "not_review"
+    },
+    "i play rocky||https://www.nytimes.com/2026/11/13/movies/i-play-rocky-clip.html": {
+      "at": "2026-11-13T10:29:59+00:00",
+      "status": "not_review"
+    },
+    "i play rocky||https://www.nytimes.com/video/movies/100000011244066/i-play-rocky-scene.html": {
+      "at": "2026-11-13T10:30:01+00:00",
       "status": "not_review"
     },
     "i play rocky||https://www.otroscines.com/post/critica-de-yo-soy-rocky-i-play-rocky-pelicula-de-peter-farrelly-con-anthony-ippolito-annasophia-robb-toby-kebbell-pj-byrne-jay-duplass-matt-dillon-y-tracy-letts": {
