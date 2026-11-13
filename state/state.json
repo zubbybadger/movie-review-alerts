@@ -600,6 +600,16 @@
         "summary": "West brings genuine horror to the spirits and Depp has emotional peaks, but the grey, overwrought film is hard to love.",
         "url": "https://thirdcoastreview.com/film-tv/2026/11/13/review-ebenezer",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-13T18:58:13+00:00",
+        "confidence": "high",
+        "critic": "Peter Travers",
+        "outlet": "The Travers Take",
+        "rating": "2/4",
+        "summary": "Depp's grieving, nasty Scrooge is worth watching, but the sentimental, underfunded, unscary PG-13 film is a mess.",
+        "url": "https://www.thetraverstake.com/featured/ebenezer/",
+        "verdict": "rotten"
       }
     ],
     "godzilla minus zero|": [
@@ -1643,6 +1653,16 @@
         "rating": "",
         "summary": "Thinly drawn characters, generic investigative plotting and shallow messaging make this flashy heist movie a dull waste of time.",
         "url": "https://www.latimes.com/entertainment-arts/movies/story/2026-11-13/how-to-rob-a-bank-david-leitch-nicholas-hoult-zoe-kravitz-john-c-reilly",
+        "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-13T18:58:15+00:00",
+        "confidence": "medium",
+        "critic": "Peter Travers",
+        "outlet": "The Travers Take",
+        "rating": "2/4",
+        "summary": "Despite Hoult's charisma and fun Reilly-Kravitz byplay, heavy-handed writing and hypocritical anti-capitalist posturing undercut the film's revolutionary spirit.",
+        "url": "https://www.thetraverstake.com/featured/how-to-rob-a-bank/",
         "verdict": "rotten"
       }
     ],
@@ -4400,6 +4420,11 @@
       "status": "review",
       "verdict": "rotten"
     },
+    "ebenezer|2026|https://www.thetraverstake.com/featured/ebenezer/": {
+      "at": "2026-11-13T18:58:13+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
     "ebenezer|2026|https://www.times-herald.com/arts_and_community/reviews/ebenezer/article_e258d21a-b6da-47ae-b204-eb950d444956.html": {
       "at": "2026-11-13T15:16:23+00:00",
       "status": "review",
@@ -5375,6 +5400,10 @@
       "at": "2026-11-12T04:06:10+00:00",
       "status": "not_review"
     },
+    "how to rob a bank|2026|https://www.comingsoon.net/movies/news/2222996-how-to-rob-a-bank-pete-davidson-viewer-reactions": {
+      "at": "2026-11-13T18:58:17+00:00",
+      "status": "not_review"
+    },
     "how to rob a bank|2026|https://www.comingsoon.net/movies/reviews/2220584-how-to-rob-a-bank-review-nicholas-hoults-fun-heist-movie": {
       "at": "2026-11-11T15:27:21+00:00",
       "status": "review",
@@ -5416,6 +5445,10 @@
       "at": "2026-11-11T22:22:56+00:00",
       "status": "review",
       "verdict": "rotten"
+    },
+    "how to rob a bank|2026|https://www.hollywoodintoto.com/how-to-rob-bank-box-office/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-rob-bank-box-office": {
+      "at": "2026-11-13T18:58:19+00:00",
+      "status": "not_review"
     },
     "how to rob a bank|2026|https://www.hollywoodreporter.com/movies/movie-features/how-to-rob-a-bank-david-leitch-1236752122/": {
       "at": "2026-11-10T21:12:04+00:00",
@@ -5493,6 +5526,11 @@
     },
     "how to rob a bank|2026|https://www.theguardian.com/film/2026/nov/11/how-to-rob-a-bank-movie-review-amazon": {
       "at": "2026-11-11T17:25:24+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
+    "how to rob a bank|2026|https://www.thetraverstake.com/featured/how-to-rob-a-bank/": {
+      "at": "2026-11-13T18:58:15+00:00",
       "status": "review",
       "verdict": "rotten"
     },
