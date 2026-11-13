@@ -590,6 +590,16 @@
         "summary": "Nothing particularly wrong, but little right; a film content with mediocrity that never aims to be more.",
         "url": "https://www.kget.com/community/ricks-reviews/ebenezer-is-mediocre-telling-of-classic-story/",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-13T18:11:14+00:00",
+        "confidence": "low",
+        "critic": "",
+        "outlet": "Third Coast Review",
+        "rating": "",
+        "summary": "West brings genuine horror to the spirits and Depp has emotional peaks, but the grey, overwrought film is hard to love.",
+        "url": "https://thirdcoastreview.com/film-tv/2026/11/13/review-ebenezer",
+        "verdict": "rotten"
       }
     ],
     "godzilla minus zero|": [
@@ -2065,6 +2075,16 @@
         "rating": "3.5/5",
         "summary": "Made with heart and craft, anchored by Anthony Ippolito's uncanny, winning Stallone; a rousing film for film lovers despite some repetitiveness.",
         "url": "https://indianexpress.com/article/entertainment/movie-review/i-play-rocky-review-anthony-ippolito-shines-in-a-delightful-tribute-to-sylvester-stallone-10962094/",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-13T18:11:16+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "ScreenCrush",
+        "rating": "7/10",
+        "summary": "Anthony Ippolito's uncanny, soulful Stallone performance and the film's warmth and uplift overcome a familiar, redundant story.",
+        "url": "https://screencrush.com/i-play-rocky-review/",
         "verdict": "fresh"
       }
     ],
@@ -4038,6 +4058,11 @@
       "status": "review",
       "verdict": "rotten"
     },
+    "ebenezer|2026|https://thirdcoastreview.com/film-tv/2026/11/13/review-ebenezer": {
+      "at": "2026-11-13T18:11:14+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
     "ebenezer|2026|https://timesofindia.indiatimes.com/entertainment/english/movie-details/ebenezer-a-christmas-carol/movieshow/132153276.cms": {
       "at": "2026-11-12T18:59:31+00:00",
       "status": "not_review"
@@ -5543,6 +5568,11 @@
     },
     "i play rocky||https://screenanarchy.com/2026/11/i-play-rocky-review-making-of-biopic-leans-heavily-into-underdog-nostalgia-1.html": {
       "at": "2026-11-06T14:35:50+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "i play rocky||https://screencrush.com/i-play-rocky-review/": {
+      "at": "2026-11-13T18:11:16+00:00",
       "status": "review",
       "verdict": "fresh"
     },
