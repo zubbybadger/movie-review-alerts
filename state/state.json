@@ -460,6 +460,26 @@
         "summary": "Depp's miscalculated mugging, aimless direction, and a charmless, reactionary script make this Christmas Carol a spiritless disaster.",
         "url": "https://spectrumculture.com/2026/11/12/ebenezer-review/",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-13T09:29:08+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Film Threat",
+        "rating": "",
+        "summary": "Highly recommends Ti West's faithful, scary horror take on A Christmas Carol, praising Depp's fully realized Scrooge and its moving redemption themes.",
+        "url": "https://filmthreat.com/reviews/ebenezer/",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-13T09:29:11+00:00",
+        "confidence": "low",
+        "critic": "",
+        "outlet": "Spliced Personality Substack",
+        "rating": "",
+        "summary": "A handsome, faithful Hammer-style adaptation shot on 35mm with practical atmospherics, though Depp's lead performance disappoints.",
+        "url": "https://splicedpersonality.com/2026/11/13/ebenezer/",
+        "verdict": "fresh"
       }
     ],
     "godzilla minus zero|": [
@@ -1835,6 +1855,16 @@
         "rating": "",
         "summary": "Familiar and shallow at times, but charming, entertaining, with a strong Ippolito performance and a good balance of emotion and humour.",
         "url": "https://timesofindia.indiatimes.com/entertainment/english/movie-reviews/i-play-rocky/movie-review/135768328.cms",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-13T09:29:17+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "India Today",
+        "rating": "",
+        "summary": "Ippolito's compelling performance and the film's affectionate underdog story make it engaging, despite conventional biopic beats and reliance on Rocky nostalgia.",
+        "url": "https://www.indiatoday.in/movies/reviews/story/i-play-rocky-review-anthony-ippolito-anchors-a-spirited-sylvester-stallone-biopic-3037978-2026-11-13",
         "verdict": "fresh"
       }
     ],
@@ -3640,6 +3670,11 @@
       "status": "review",
       "verdict": "rotten"
     },
+    "ebenezer|2026|https://filmthreat.com/reviews/ebenezer/": {
+      "at": "2026-11-13T09:29:08+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "ebenezer|2026|https://kkfi.org/program-episodes/freeze-frame-ebenezer-pg-13-how-to-rob-a-bank-r-once-upon-a-time-in-harlem-pg-13-being-heumann-r/": {
       "at": "2026-11-13T04:28:33+00:00",
       "status": "review",
@@ -3724,6 +3759,11 @@
       "at": "2026-11-13T06:29:10+00:00",
       "status": "review",
       "verdict": "rotten"
+    },
+    "ebenezer|2026|https://splicedpersonality.com/2026/11/13/ebenezer/": {
+      "at": "2026-11-13T09:29:11+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "ebenezer|2026|https://thefutureoftheforce.com/2026/11/11/ebenezer-sprinkles-christmas-magic-over-londons-leadenhall-market/": {
       "at": "2026-11-12T17:29:43+00:00",
@@ -3837,6 +3877,10 @@
       "at": "2026-11-12T17:05:52+00:00",
       "status": "review",
       "verdict": "rotten"
+    },
+    "ebenezer|2026|https://www.comingsoon.net/guides/news/2222619-ebenezer-digital-streaming-release-date-johnny-depp": {
+      "at": "2026-11-13T09:29:16+00:00",
+      "status": "not_review"
     },
     "ebenezer|2026|https://www.comingsoon.net/movies/news/2222051-johnny-depp-ebenezer-reviews-miscast-scrooge": {
       "at": "2026-11-12T20:59:38+00:00",
@@ -5327,6 +5371,11 @@
     },
     "i play rocky||https://www.ign.com/articles/i-play-rocky-review": {
       "at": "2026-11-09T08:45:41+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "i play rocky||https://www.indiatoday.in/movies/reviews/story/i-play-rocky-review-anthony-ippolito-anchors-a-spirited-sylvester-stallone-biopic-3037978-2026-11-13": {
+      "at": "2026-11-13T09:29:17+00:00",
       "status": "review",
       "verdict": "fresh"
     },
