@@ -500,6 +500,26 @@
         "summary": "A grim, tonally confused adaptation too dark for kids, not scary enough for adults, with Depp's too-cute Scrooge hijacking the movie.",
         "url": "https://www.latimes.com/entertainment-arts/movies/story/2026-11-13/ebenezer-review-johnny-depp-rupert-grint-daisy-ridley-ian-mckellen-ti-west",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-13T12:29:07+00:00",
+        "confidence": "medium",
+        "critic": "Rich Cline",
+        "outlet": "Shadows on the Wall",
+        "rating": "",
+        "summary": "A faithful, well-made adaptation with a fun cast led by Depp, though over-familiar, never scary, and missing a fresher angle.",
+        "url": "http://www.shadowsonthewall.co.uk/26/ebenezer.htm",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-13T12:29:15+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "The Telegraph",
+        "rating": "",
+        "summary": "A handsome, surprisingly scary gothic adaptation with magnificent ghosts and Depp's best, least self-serving performance in years, despite trimmed Dickens dialogue.",
+        "url": "https://www.telegraph.co.uk/films/2026/11/12/ebenezer-review-johnny-depp/",
+        "verdict": "fresh"
       }
     ],
     "godzilla minus zero|": [
@@ -3635,6 +3655,11 @@
       "status": "review",
       "verdict": "rotten"
     },
+    "ebenezer|2026|http://www.shadowsonthewall.co.uk/26/ebenezer.htm": {
+      "at": "2026-11-13T12:29:07+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "ebenezer|2026|https://attractionsmagazine.com/ebenezer-review-johnny-depp-spoilers/": {
       "at": "2026-11-12T14:31:24+00:00",
       "status": "review",
@@ -3864,6 +3889,10 @@
       "status": "review",
       "verdict": "rotten"
     },
+    "ebenezer|2026|https://www.avclub.com/johnny-depp-uncancellation-ebenezer-actually-refusing-to-admit-his-acting-is-the-problem": {
+      "at": "2026-11-13T12:29:10+00:00",
+      "status": "not_review"
+    },
     "ebenezer|2026|https://www.bollywoodhungama.com/movie/ebenezer-english/": {
       "at": "2026-11-09T13:41:45+00:00",
       "status": "not_review"
@@ -4067,6 +4096,11 @@
     "ebenezer|2026|https://www.smh.com.au/culture/movies/ebenezer-trailer-20261112-p61dnq.html": {
       "at": "2026-11-12T03:15:38+00:00",
       "status": "not_review"
+    },
+    "ebenezer|2026|https://www.telegraph.co.uk/films/2026/11/12/ebenezer-review-johnny-depp/": {
+      "at": "2026-11-13T12:29:15+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "ebenezer|2026|https://www.the-independent.com/arts-entertainment/films/news/johnny-depp-ebenezer-scrooge-comeback-b3082272.html": {
       "at": "2026-11-10T14:27:30+00:00",
@@ -5506,6 +5540,10 @@
       "at": "2026-11-10T15:41:58+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "i play rocky||https://www.theglobeandmail.com/culture/film-and-tv/film/article-anthony-ippolito-takes-the-spotlight-in-i-play-rocky/": {
+      "at": "2026-11-13T12:29:13+00:00",
+      "status": "not_review"
     },
     "i play rocky||https://www.theglobeandmail.com/culture/film-and-tv/film/article-i-play-rocky-review-peter-farrelly-anthony-ippolito-annasophia-robb/": {
       "at": "2026-11-10T15:41:53+00:00",
