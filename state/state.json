@@ -420,6 +420,26 @@
         "summary": "An uninventive, beat-for-beat retelling with shoddy CGI ghosts and a dull Depp performance; only Tramell Tillman stands out.",
         "url": "https://www.thepitchkc.com/joyless-bland-and-boring-ebenezer-earns-no-christmas-redemption-for-story-or-star/",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-13T04:28:33+00:00",
+        "confidence": "low",
+        "critic": "",
+        "outlet": "KKFI Freeze Frame",
+        "rating": "",
+        "summary": "A relatively faithful, horror-leaning adaptation where Depp is fine and the themes come through, though too intense for kids.",
+        "url": "https://kkfi.org/program-episodes/freeze-frame-ebenezer-pg-13-how-to-rob-a-bank-r-once-upon-a-time-in-harlem-pg-13-being-heumann-r/",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-13T04:28:37+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Film Forward",
+        "rating": "",
+        "summary": "Despite a surprisingly understated Depp and competent craft, Ti West's faithful adaptation is a lifeless, unoriginal retread of countless better versions.",
+        "url": "https://film-forward.com/book-adaptation/ebenezer",
+        "verdict": "rotten"
       }
     ],
     "godzilla minus zero|": [
@@ -1373,6 +1393,16 @@
         "rating": "",
         "summary": "Tedious, toothless heist film with thin characters, no moral tension, minimal action, and a jarring tonal shift despite Kravitz's charm.",
         "url": "https://collider.com/how-to-rob-a-bank-review-nicholas-hoult-david-leitch/",
+        "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-13T04:28:35+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "KKFI Freeze Frame",
+        "rating": "",
+        "summary": "An absurd, over-the-top action flick posing as social commentary, with frenetic MTV-style editing that wastes a talented cast.",
+        "url": "https://kkfi.org/program-episodes/freeze-frame-ebenezer-pg-13-how-to-rob-a-bank-r-once-upon-a-time-in-harlem-pg-13-being-heumann-r/",
         "verdict": "rotten"
       }
     ],
@@ -3550,6 +3580,16 @@
       "at": "2026-11-12T17:05:26+00:00",
       "status": "duplicate"
     },
+    "ebenezer|2026|https://film-forward.com/book-adaptation/ebenezer": {
+      "at": "2026-11-13T04:28:37+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
+    "ebenezer|2026|https://kkfi.org/program-episodes/freeze-frame-ebenezer-pg-13-how-to-rob-a-bank-r-once-upon-a-time-in-harlem-pg-13-being-heumann-r/": {
+      "at": "2026-11-13T04:28:33+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "ebenezer|2026|https://moviecricket.net/blog/2026/11/12/review-ebenezer-gives-johnny-depp-the-chance-to-play-scrooge-but-its-the-audience-that-will-say-humbug-to-this-mirthless-adaptation": {
       "at": "2026-11-12T17:05:18+00:00",
       "status": "review",
@@ -3708,6 +3748,10 @@
       "at": "2026-11-12T17:30:10+00:00",
       "status": "review",
       "verdict": "rotten"
+    },
+    "ebenezer|2026|https://www.cbr.com/ebenezer-rotten-tomatoes-score/": {
+      "at": "2026-11-13T04:28:40+00:00",
+      "status": "not_review"
     },
     "ebenezer|2026|https://www.cbr.com/johnny-depp-confirms-ebenezer-a-nightmare-on-elm-street-reference/": {
       "at": "2026-11-11T12:58:20+00:00",
@@ -4704,6 +4748,11 @@
     "how to rob a bank|2026|https://deadline.com/print-article/1237220151?KeepThis=1&TB_iframe=1&height=500&width=750": {
       "at": "2026-11-11T14:06:25+00:00",
       "status": "duplicate"
+    },
+    "how to rob a bank|2026|https://kkfi.org/program-episodes/freeze-frame-ebenezer-pg-13-how-to-rob-a-bank-r-once-upon-a-time-in-harlem-pg-13-being-heumann-r/": {
+      "at": "2026-11-13T04:28:35+00:00",
+      "status": "review",
+      "verdict": "rotten"
     },
     "how to rob a bank|2026|https://mashable.com/entertainment/how-to-rob-a-bank-review": {
       "at": "2026-11-11T14:41:42+00:00",
