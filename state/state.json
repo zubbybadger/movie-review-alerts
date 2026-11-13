@@ -580,6 +580,16 @@
         "summary": "A faithful, atmospheric gothic adaptation with a less annoying Depp and creepy ghosts, though never truly scary; worth a visit.",
         "url": "https://www.mullingmovies.com/2026/11/weekend-mullings-ebenezer.html",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-13T17:12:46+00:00",
+        "confidence": "medium",
+        "critic": "Rick Bentley",
+        "outlet": "KGET",
+        "rating": "",
+        "summary": "Nothing particularly wrong, but little right; a film content with mediocrity that never aims to be more.",
+        "url": "https://www.kget.com/community/ricks-reviews/ebenezer-is-mediocre-telling-of-classic-story/",
+        "verdict": "rotten"
       }
     ],
     "godzilla minus zero|": [
@@ -4189,6 +4199,11 @@
       "at": "2026-11-12T16:58:45+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "ebenezer|2026|https://www.kget.com/community/ricks-reviews/ebenezer-is-mediocre-telling-of-classic-story/": {
+      "at": "2026-11-13T17:12:46+00:00",
+      "status": "review",
+      "verdict": "rotten"
     },
     "ebenezer|2026|https://www.killermoviereviews.com/movie/ebenezer/": {
       "at": "2026-11-12T23:29:00+00:00",
