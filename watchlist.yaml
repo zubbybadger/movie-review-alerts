@@ -217,6 +217,7 @@ sites:
   - https://imageryatthemovies.com/
   # The site itself returns 403 to the bot, so also watch it through Google News.
   - https://news.google.com/rss/search?q=site:imageryatthemovies.com&hl=en-US&gl=US&ceid=US:en
+  - https://www.nightviz.ca/
   # Added 2026-11-10 after they had I Play Rocky reviews the bot never saw (URLs unverified).
   - https://movieweb.com/movie-reviews/
   - https://www.cbr.com/category/movies/movie-reviews/
