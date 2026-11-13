@@ -2026,6 +2026,26 @@
         "summary": "Competent and engaging but by-the-numbers and safe, leaning on nostalgia; it never earns the rousing emotional payoff it reaches for.",
         "url": "https://thefederal.com/film-reviews/film-release-review-english-hollywood-i-play-rocky-sylvester-stallone-action-262838",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-13T17:20:05+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Third Coast Review",
+        "rating": "",
+        "summary": "Farrelly crafts an exceptional, humorous making-of drama with a note-perfect Ippolito; an inspiring underdog story likely to draw awards attention.",
+        "url": "https://thirdcoastreview.com/film-tv/2026/11/13/review-i-play-rocky",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-13T17:20:08+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "The Indian Express",
+        "rating": "3.5/5",
+        "summary": "Made with heart and craft, anchored by Anthony Ippolito's uncanny, winning Stallone; a rousing film for film lovers despite some repetitiveness.",
+        "url": "https://indianexpress.com/article/entertainment/movie-review/i-play-rocky-review-anthony-ippolito-shines-in-a-delightful-tribute-to-sylvester-stallone-10962094/",
+        "verdict": "fresh"
       }
     ],
     "the cat in the hat|2026": [
@@ -5467,6 +5487,11 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "i play rocky||https://indianexpress.com/article/entertainment/movie-review/i-play-rocky-review-anthony-ippolito-shines-in-a-delightful-tribute-to-sylvester-stallone-10962094/": {
+      "at": "2026-11-13T17:20:08+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "i play rocky||https://inreviewonline.com/2026/11/10/i-play-rocky-review/": {
       "at": "2026-11-10T15:41:44+00:00",
       "status": "review",
@@ -5567,6 +5592,11 @@
     },
     "i play rocky||https://thereveal.film/in-review-ebenezer-i-play-rocky/": {
       "at": "2026-11-12T17:05:13+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "i play rocky||https://thirdcoastreview.com/film-tv/2026/11/13/review-i-play-rocky": {
+      "at": "2026-11-13T17:20:05+00:00",
       "status": "review",
       "verdict": "fresh"
     },
