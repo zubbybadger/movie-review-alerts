@@ -410,6 +410,16 @@
         "summary": "Ti West's horror-tinged A Christmas Carol feels new yet faithful to Dickens, anchored by one of Depp's best performances and unsettling spirits.",
         "url": "https://www.killermoviereviews.com/movie/ebenezer/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-13T00:29:03+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "The Pitch",
+        "rating": "",
+        "summary": "An uninventive, beat-for-beat retelling with shoddy CGI ghosts and a dull Depp performance; only Tramell Tillman stands out.",
+        "url": "https://www.thepitchkc.com/joyless-bland-and-boring-ebenezer-earns-no-christmas-redemption-for-story-or-star/",
+        "verdict": "rotten"
       }
     ],
     "godzilla minus zero|": [
@@ -3758,6 +3768,10 @@
       "at": "2026-11-12T23:08:47+00:00",
       "status": "not_review"
     },
+    "ebenezer|2026|https://www.hollywoodreporter.com/movies/movie-news/johnny-depp-ebenezer-box-office-career-comeback-paramount-1236754032/": {
+      "at": "2026-11-13T00:29:08+00:00",
+      "status": "not_review"
+    },
     "ebenezer|2026|https://www.hollywoodreporter.com/movies/movie-news/johnny-depp-ebenezer-first-reactions-scrooge-1236751441/": {
       "at": "2026-11-10T05:20:37+00:00",
       "status": "not_review"
@@ -3842,6 +3856,10 @@
       "status": "review",
       "verdict": "rotten"
     },
+    "ebenezer|2026|https://www.smh.com.au/culture/movies/a-christmas-miracle-how-ebenezer-could-revive-johnny-depp-s-career-20261113-p61d5g.html": {
+      "at": "2026-11-13T00:29:06+00:00",
+      "status": "not_review"
+    },
     "ebenezer|2026|https://www.smh.com.au/culture/movies/ebenezer-trailer-20261112-p61dnq.html": {
       "at": "2026-11-12T03:15:38+00:00",
       "status": "not_review"
@@ -3871,6 +3889,11 @@
       "at": "2026-11-12T09:28:57+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "ebenezer|2026|https://www.thepitchkc.com/joyless-bland-and-boring-ebenezer-earns-no-christmas-redemption-for-story-or-star/": {
+      "at": "2026-11-13T00:29:03+00:00",
+      "status": "review",
+      "verdict": "rotten"
     },
     "ebenezer|2026|https://www.usatoday.com/videos/news/2026/11/09/crowd-elated-as-johnny-depp-appears-as-ebenezer-scrooge-in-san-diego/91043801007/": {
       "at": "2026-11-09T23:21:14+00:00",
@@ -5003,6 +5026,10 @@
     },
     "i play rocky||https://screenrant.com/i-play-rocky-casting-sylvester-stallone-advice/": {
       "at": "2026-11-03T22:56:26+00:00",
+      "status": "not_review"
+    },
+    "i play rocky||https://screenrant.com/i-play-rocky-ending-explained-the-incredible-true-story-behind-the-making-of-rocky/": {
+      "at": "2026-11-13T00:29:10+00:00",
       "status": "not_review"
     },
     "i play rocky||https://screenrant.com/i-play-rocky-movie-rotten-tomatoes-audience-score-sylvester-stallone-franchise-knockout/": {
