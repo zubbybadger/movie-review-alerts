@@ -3913,6 +3913,10 @@
       "status": "review",
       "verdict": "rotten"
     },
+    "ebenezer|2026|https://www.independent.co.uk/arts-entertainment/films/reviews/johnny-depp-ebenezer-review-b3084292.html": {
+      "at": "2026-11-13T07:28:58+00:00",
+      "status": "duplicate"
+    },
     "ebenezer|2026|https://www.independent.co.uk/bulletin/culture/johnny-depp-ebenezer-film-reviews-b3082282.html": {
       "at": "2026-11-10T12:15:35+00:00",
       "status": "not_review"
