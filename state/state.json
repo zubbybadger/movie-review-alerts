@@ -480,6 +480,26 @@
         "summary": "A handsome, faithful Hammer-style adaptation shot on 35mm with practical atmospherics, though Depp's lead performance disappoints.",
         "url": "https://splicedpersonality.com/2026/11/13/ebenezer/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-13T11:28:37+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Cinerama Film",
+        "rating": "",
+        "summary": "Despite Ti West's gorgeous gothic atmosphere, Depp's grating overacting and a rote retelling leave the critic frustrated; watch the Muppets version instead.",
+        "url": "https://cineramafilm.com/2026/11/13/ebenezer-review/",
+        "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-13T11:28:42+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Los Angeles Times",
+        "rating": "",
+        "summary": "A grim, tonally confused adaptation too dark for kids, not scary enough for adults, with Depp's too-cute Scrooge hijacking the movie.",
+        "url": "https://www.latimes.com/entertainment-arts/movies/story/2026-11-13/ebenezer-review-johnny-depp-rupert-grint-daisy-ridley-ian-mckellen-ti-west",
+        "verdict": "rotten"
       }
     ],
     "godzilla minus zero|": [
@@ -3630,12 +3650,21 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "ebenezer|2026|https://cineramafilm.com/2026/11/13/ebenezer-review/": {
+      "at": "2026-11-13T11:28:37+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
     "ebenezer|2026|https://collider.com/johnny-depp-jack-sparrow-ebenezer-scrooge-ti-west-interview/": {
       "at": "2026-11-12T09:29:02+00:00",
       "status": "not_review"
     },
     "ebenezer|2026|https://collider.com/johnny-depp-return-ebenezer-first-reactions/": {
       "at": "2026-11-10T11:28:57+00:00",
+      "status": "not_review"
+    },
+    "ebenezer|2026|https://collider.com/sam-claflin-johnny-depp-reunion-ebenezer-pirates-of-the-caribbean/": {
+      "at": "2026-11-13T11:28:45+00:00",
       "status": "not_review"
     },
     "ebenezer|2026|https://consequence.net/2026/11/ebenezer-review-johnny-depp-ti-west/": {
@@ -3992,6 +4021,11 @@
       "at": "2026-11-12T18:59:21+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "ebenezer|2026|https://www.latimes.com/entertainment-arts/movies/story/2026-11-13/ebenezer-review-johnny-depp-rupert-grint-daisy-ridley-ian-mckellen-ti-west": {
+      "at": "2026-11-13T11:28:42+00:00",
+      "status": "review",
+      "verdict": "rotten"
     },
     "ebenezer|2026|https://www.nytimes.com/2026/11/12/movies/ebenezer-review-holiday-humbug.html": {
       "at": "2026-11-12T17:05:20+00:00",
@@ -5402,6 +5436,10 @@
     },
     "i play rocky||https://www.latimes.com/entertainment-arts/awards/story/2026-11-12/i-play-rocky-afi-fest-envelope-podcast": {
       "at": "2026-11-12T11:28:47+00:00",
+      "status": "not_review"
+    },
+    "i play rocky||https://www.latimes.com/entertainment-arts/awards/story/2026-11-13/oscars-best-picture-nominations-i-play-rocky-club-kid-being-heumann-mr-irrelevant": {
+      "at": "2026-11-13T11:28:40+00:00",
       "status": "not_review"
     },
     "i play rocky||https://www.latimes.com/entertainment-arts/movies/story/2026-11-04/anthony-ippolito-i-play-rocky-peter-farrelly-sylvester-stallone": {
