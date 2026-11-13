@@ -1746,6 +1746,16 @@
         "summary": "Praises Ippolito's spot-on Stallone, a strong ensemble, vivid 1970s craft, and genuinely exhilarating crowd-pleasing moments, despite loose truthfulness.",
         "url": "https://thefilmverdict.com/i-play-rocky-film-review/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-13T02:35:45+00:00",
+        "confidence": "medium",
+        "critic": "Nandini Ramnath",
+        "outlet": "Scroll.in",
+        "rating": "",
+        "summary": "A skilfully crafted, crisp, feel-good crowd pleaser with an uncanny Stallone performance, though lightweight and lacking darkness.",
+        "url": "https://scroll.in/reel/1097047/i-play-rocky-review-a-salute-to-sylvester-stallone-and-a-love-letter-to-hollywood",
+        "verdict": "fresh"
       }
     ],
     "the cat in the hat|2026": [
@@ -5039,6 +5049,11 @@
     "i play rocky||https://screenrant.com/video/i-play-rocky-anthony-ippolito-annasophia-robb-kiki-seto-stephan-james-interview/": {
       "at": "2026-11-06T03:31:52+00:00",
       "status": "not_review"
+    },
+    "i play rocky||https://scroll.in/reel/1097047/i-play-rocky-review-a-salute-to-sylvester-stallone-and-a-love-letter-to-hollywood": {
+      "at": "2026-11-13T02:35:45+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "i play rocky||https://silverscreenriot.com/best-movies-about-making-movies/": {
       "at": "2026-11-08T18:50:27+00:00",
