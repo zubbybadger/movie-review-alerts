@@ -1634,6 +1634,16 @@
         "summary": "Leitch's breathless, expert action style and the film's sincere anti-system righteousness make it a moral, entertaining blast despite a simple script.",
         "url": "https://www.vulture.com/article/review-how-to-rob-a-bank-will-make-you-want-to-rob-a-bank.html",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-13T18:30:16+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Los Angeles Times",
+        "rating": "",
+        "summary": "Thinly drawn characters, generic investigative plotting and shallow messaging make this flashy heist movie a dull waste of time.",
+        "url": "https://www.latimes.com/entertainment-arts/movies/story/2026-11-13/how-to-rob-a-bank-david-leitch-nicholas-hoult-zoe-kravitz-john-c-reilly",
+        "verdict": "rotten"
       }
     ],
     "i play rocky|": [
@@ -2085,6 +2095,16 @@
         "rating": "7/10",
         "summary": "Anthony Ippolito's uncanny, soulful Stallone performance and the film's warmth and uplift overcome a familiar, redundant story.",
         "url": "https://screencrush.com/i-play-rocky-review/",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-13T18:30:13+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Washington City Paper",
+        "rating": "",
+        "summary": "Predictable but breezy and disarming, with astonishing casting, especially Ippolito as Stallone, Stephan James as Weathers, and a tart Tracy Letts.",
+        "url": "https://washingtoncitypaper.com/article/794837/i-play-rocky-old-underdog-new-tricks/",
         "verdict": "fresh"
       }
     ],
@@ -4168,6 +4188,10 @@
       "at": "2026-11-13T13:52:14+00:00",
       "status": "not_review"
     },
+    "ebenezer|2026|https://www.comingsoon.net/movies/news/2222990-johnny-depp-ebenezer-controversial-change-a-christmas-carol": {
+      "at": "2026-11-13T18:30:18+00:00",
+      "status": "not_review"
+    },
     "ebenezer|2026|https://www.denofgeek.com/movies/ebenezer-review-a-christmas-carol-for-capitalists/": {
       "at": "2026-11-12T17:05:47+00:00",
       "status": "review",
@@ -5428,6 +5452,11 @@
       "at": "2026-11-12T15:37:31+00:00",
       "status": "not_review"
     },
+    "how to rob a bank|2026|https://www.latimes.com/entertainment-arts/movies/story/2026-11-13/how-to-rob-a-bank-david-leitch-nicholas-hoult-zoe-kravitz-john-c-reilly": {
+      "at": "2026-11-13T18:30:16+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
     "how to rob a bank|2026|https://www.nytimes.com/2026/11/12/movies/how-to-rob-a-bank-review.html": {
       "at": "2026-11-12T16:41:37+00:00",
       "status": "review",
@@ -5677,6 +5706,11 @@
     "i play rocky||https://variety.com/2026/film/global/cairo-film-festival-2026-lineup-hussein-fahmy-1236945920/": {
       "at": "2026-11-12T08:29:30+00:00",
       "status": "not_review"
+    },
+    "i play rocky||https://washingtoncitypaper.com/article/794837/i-play-rocky-old-underdog-new-tricks/": {
+      "at": "2026-11-13T18:30:13+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "i play rocky||https://www.avclub.com/i-play-rocky-review-sylvester-stallone-biopic-peter-farrelly": {
       "at": "2026-11-04T19:06:49+00:00",
