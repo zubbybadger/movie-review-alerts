@@ -1604,6 +1604,26 @@
         "summary": "Leitch's maximalist style gives muscularity but never finds another gear, leaving the anti-corporate heist film hollow, insincere, and trend-hopping.",
         "url": "https://thereveal.film/in-review-bitter-christmas-how-to-rob-a-bank-victorian-psycho/",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-13T17:28:58+00:00",
+        "confidence": "low",
+        "critic": "",
+        "outlet": "Third Coast Review",
+        "rating": "",
+        "summary": "Not a good film, but strong car chases, stunts and Reilly-Kravitz chemistry make it fun and watchable despite a preachy, dull final stretch.",
+        "url": "https://thirdcoastreview.com/film-tv/2026/11/13/review-how-to-rob-a-bank",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-13T17:29:01+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Vulture",
+        "rating": "",
+        "summary": "Leitch's breathless, expert action style and the film's sincere anti-system righteousness make it a moral, entertaining blast despite a simple script.",
+        "url": "https://www.vulture.com/article/review-how-to-rob-a-bank-will-make-you-want-to-rob-a-bank.html",
+        "verdict": "fresh"
       }
     ],
     "i play rocky|": [
@@ -5273,6 +5293,11 @@
       "status": "review",
       "verdict": "rotten"
     },
+    "how to rob a bank|2026|https://thirdcoastreview.com/film-tv/2026/11/13/review-how-to-rob-a-bank": {
+      "at": "2026-11-13T17:28:58+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "how to rob a bank|2026|https://variety.com/2026/film/reviews/how-to-rob-a-bank-review-1236945761/": {
       "at": "2026-11-12T01:23:35+00:00",
       "status": "review",
@@ -5441,6 +5466,11 @@
     "how to rob a bank|2026|https://www.usatoday.com/videos/entertainment/movies/2026/11/11/zoe-kravitz-pete-davidson-nicholas-hoult-how-to-rob-a-bank-premiere/92729765007/": {
       "at": "2026-11-11T21:33:20+00:00",
       "status": "not_review"
+    },
+    "how to rob a bank|2026|https://www.vulture.com/article/review-how-to-rob-a-bank-will-make-you-want-to-rob-a-bank.html": {
+      "at": "2026-11-13T17:29:01+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "i play rocky||http://www.markreviewsmovies.com/reviews/I/iplayrocky.htm": {
       "at": "2026-11-05T15:41:18+00:00",
