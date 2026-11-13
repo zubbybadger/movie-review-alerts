@@ -1786,6 +1786,16 @@
         "summary": "A skilfully crafted, crisp, feel-good crowd pleaser with an uncanny Stallone performance, though lightweight and lacking darkness.",
         "url": "https://scroll.in/reel/1097047/i-play-rocky-review-a-salute-to-sylvester-stallone-and-a-love-letter-to-hollywood",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-13T04:38:26+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "The Times of India",
+        "rating": "",
+        "summary": "Familiar and shallow at times, but charming, entertaining, with a strong Ippolito performance and a good balance of emotion and humour.",
+        "url": "https://timesofindia.indiatimes.com/entertainment/english/movie-reviews/i-play-rocky/movie-review/135768328.cms",
+        "verdict": "fresh"
       }
     ],
     "the cat in the hat|2026": [
@@ -5155,6 +5165,11 @@
     },
     "i play rocky||https://time.com/article/2026/11/06/i-play-rocky-movie-review/": {
       "at": "2026-11-06T20:10:38+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "i play rocky||https://timesofindia.indiatimes.com/entertainment/english/movie-reviews/i-play-rocky/movie-review/135768328.cms": {
+      "at": "2026-11-13T04:38:26+00:00",
       "status": "review",
       "verdict": "fresh"
     },
