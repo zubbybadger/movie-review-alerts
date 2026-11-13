@@ -570,6 +570,16 @@
         "summary": "West's reverential, neutered direction and Depp's tiresome shtick make this grim retelling indistinguishable from countless other versions, despite strong ghost performances.",
         "url": "https://cinegods.com/film-review-ebenezer/",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-13T16:16:37+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "Mulling Movies",
+        "rating": "",
+        "summary": "A faithful, atmospheric gothic adaptation with a less annoying Depp and creepy ghosts, though never truly scary; worth a visit.",
+        "url": "https://www.mullingmovies.com/2026/11/weekend-mullings-ebenezer.html",
+        "verdict": "fresh"
       }
     ],
     "godzilla minus zero|": [
@@ -4181,6 +4191,11 @@
       "status": "review",
       "verdict": "rotten"
     },
+    "ebenezer|2026|https://www.mullingmovies.com/2026/11/weekend-mullings-ebenezer.html": {
+      "at": "2026-11-13T16:16:37+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "ebenezer|2026|https://www.nightviz.ca/single-post/ebenezer-is-no-mere-humbug-as-depp-dallys-with-dickens": {
       "at": "2026-11-13T15:16:33+00:00",
       "status": "review",
@@ -5730,6 +5745,10 @@
       "at": "2026-11-06T20:10:30+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "i play rocky||https://www.thetraverstake.com/i-play-rocky/": {
+      "at": "2026-11-13T16:16:40+00:00",
+      "status": "duplicate"
     },
     "i play rocky||https://www.vulture.com/article/i-play-rocky-movie-review-endearing-despite-itself.html": {
       "at": "2026-11-06T14:35:52+00:00",
