@@ -630,6 +630,16 @@
         "summary": "A parents guide with a mildly positive take: not groundbreaking, but entertaining, with a unique dark spin, Depp's humor and charming supporting actors.",
         "url": "https://lolalambchops.com/ebenezer-kid-friendly-parents-guide/?utm_source=rss&utm_medium=rss&utm_campaign=ebenezer-kid-friendly-parents-guide",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-13T23:28:49+00:00",
+        "confidence": "high",
+        "critic": "Alison Gillmor",
+        "outlet": "Winnipeg Free Press",
+        "rating": "",
+        "summary": "Atmospheric but heartless, dutifully dull adaptation sunk by Johnny Depp's hollow, mannered, mugging performance and uneven horror tone.",
+        "url": "https://www.winnipegfreepress.com/arts-and-life/2026/11/13/movie-review-ebenezer-scrooge-johnny-depp",
+        "verdict": "rotten"
       }
     ],
     "godzilla minus zero|": [
@@ -4524,6 +4534,11 @@
       "at": "2026-11-12T17:59:11+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "ebenezer|2026|https://www.winnipegfreepress.com/arts-and-life/2026/11/13/movie-review-ebenezer-scrooge-johnny-depp": {
+      "at": "2026-11-13T23:28:49+00:00",
+      "status": "review",
+      "verdict": "rotten"
     },
     "godzilla minus zero||http://moviefreak.com/godzilla-minus-zero-2026-movie-review/": {
       "at": "2026-11-06T08:37:20+00:00",
