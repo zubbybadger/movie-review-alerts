@@ -4081,6 +4081,10 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "ebenezer|2026|https://thefutureoftheforce.com/2026/11/13/whats-opening-in-cinemas-this-week-ebenezer-learns-how-to-rob-a-bank/": {
+      "at": "2026-11-13T20:29:04+00:00",
+      "status": "not_review"
+    },
     "ebenezer|2026|https://theholofiles.com/2026/11/12/ebenezer-johnny-depp-a-christmas-carol-differences/": {
       "at": "2026-11-12T22:26:15+00:00",
       "status": "not_review"
@@ -5353,6 +5357,10 @@
       "at": "2026-11-12T17:29:40+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "how to rob a bank|2026|https://thefutureoftheforce.com/2026/11/13/whats-opening-in-cinemas-this-week-ebenezer-learns-how-to-rob-a-bank/": {
+      "at": "2026-11-13T20:29:07+00:00",
+      "status": "not_review"
     },
     "how to rob a bank|2026|https://theholofiles.com/2026/11/11/how-to-rob-a-bank-ending-explained-the-big-heist-plot-twists-revealed/": {
       "at": "2026-11-12T17:29:54+00:00",
