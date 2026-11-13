@@ -440,6 +440,16 @@
         "summary": "Despite a surprisingly understated Depp and competent craft, Ti West's faithful adaptation is a lifeless, unoriginal retread of countless better versions.",
         "url": "https://film-forward.com/book-adaptation/ebenezer",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-13T05:38:25+00:00",
+        "confidence": "high",
+        "critic": "Mark Dujsik",
+        "outlet": "Mark Reviews Movies",
+        "rating": "",
+        "summary": "Beyond some macabre ghost designs, this faithful adaptation adds nothing new, suffers from Depp's mugging, and overstays its welcome.",
+        "url": "http://www.markreviewsmovies.com/reviews/E/ebenezer.htm",
+        "verdict": "rotten"
       }
     ],
     "godzilla minus zero|": [
@@ -1403,6 +1413,16 @@
         "rating": "",
         "summary": "An absurd, over-the-top action flick posing as social commentary, with frenetic MTV-style editing that wastes a talented cast.",
         "url": "https://kkfi.org/program-episodes/freeze-frame-ebenezer-pg-13-how-to-rob-a-bank-r-once-upon-a-time-in-harlem-pg-13-being-heumann-r/",
+        "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-13T05:38:23+00:00",
+        "confidence": "high",
+        "critic": "Mark Dujsik",
+        "outlet": "Mark Reviews Movies",
+        "rating": "",
+        "summary": "Promises meaningful commentary on rigged systems but contradicts itself, manipulates sympathy, and settles for generic action and lazy cops-and-robbers plotting.",
+        "url": "http://www.markreviewsmovies.com/reviews/H/howtorobabank.htm",
         "verdict": "rotten"
       }
     ],
@@ -3540,6 +3560,11 @@
     ]
   },
   "seen": {
+    "ebenezer|2026|http://www.markreviewsmovies.com/reviews/E/ebenezer.htm": {
+      "at": "2026-11-13T05:38:25+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
     "ebenezer|2026|https://attractionsmagazine.com/ebenezer-review-johnny-depp-spoilers/": {
       "at": "2026-11-12T14:31:24+00:00",
       "status": "review",
@@ -4722,6 +4747,11 @@
     "godzilla minus zero||https://www.winnipegfreepress.com/arts-and-life/entertainment/2026/11/08/godzilla-minus-zero-stomps-to-a-record-setting-31-6-debut-clobbering-the-cat-in-the-hat": {
       "at": "2026-11-08T18:50:32+00:00",
       "status": "not_review"
+    },
+    "how to rob a bank|2026|http://www.markreviewsmovies.com/reviews/H/howtorobabank.htm": {
+      "at": "2026-11-13T05:38:23+00:00",
+      "status": "review",
+      "verdict": "rotten"
     },
     "how to rob a bank|2026|http://www.shadowsonthewall.co.uk/26/howtorob.htm": {
       "at": "2026-11-11T14:06:18+00:00",
