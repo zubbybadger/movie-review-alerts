@@ -520,6 +520,16 @@
         "summary": "A handsome, surprisingly scary gothic adaptation with magnificent ghosts and Depp's best, least self-serving performance in years, despite trimmed Dickens dialogue.",
         "url": "https://www.telegraph.co.uk/films/2026/11/12/ebenezer-review-johnny-depp/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-13T14:42:37+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "The Film Verdict",
+        "rating": "",
+        "summary": "A solid, atmospheric adaptation with a strong ensemble and adequate Depp turn, though it doesn't reinvent A Christmas Carol.",
+        "url": "https://thefilmverdict.com/ebenezer-film-review/",
+        "verdict": "fresh"
       }
     ],
     "godzilla minus zero|": [
@@ -3820,6 +3830,11 @@
     },
     "ebenezer|2026|https://splicedpersonality.com/2026/11/13/ebenezer/": {
       "at": "2026-11-13T09:29:11+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "ebenezer|2026|https://thefilmverdict.com/ebenezer-film-review/": {
+      "at": "2026-11-13T14:42:37+00:00",
       "status": "review",
       "verdict": "fresh"
     },
