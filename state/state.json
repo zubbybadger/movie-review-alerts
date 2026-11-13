@@ -560,6 +560,16 @@
         "summary": "Not a future classic, but Depp's charming Scrooge and Ti West's merry-macabre horror touches make it an enjoyable, spirited Dickens adaptation.",
         "url": "https://www.nightviz.ca/single-post/ebenezer-is-no-mere-humbug-as-depp-dallys-with-dickens",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-13T15:36:41+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Cinegods",
+        "rating": "",
+        "summary": "West's reverential, neutered direction and Depp's tiresome shtick make this grim retelling indistinguishable from countless other versions, despite strong ghost performances.",
+        "url": "https://cinegods.com/film-review-ebenezer/",
+        "verdict": "rotten"
       }
     ],
     "godzilla minus zero|": [
@@ -3755,6 +3765,11 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "ebenezer|2026|https://cinegods.com/film-review-ebenezer/": {
+      "at": "2026-11-13T15:36:41+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
     "ebenezer|2026|https://cineramafilm.com/2026/11/13/ebenezer-review/": {
       "at": "2026-11-13T11:28:37+00:00",
       "status": "review",
@@ -3955,6 +3970,10 @@
     },
     "ebenezer|2026|https://timesofindia.indiatimes.com/videos/entertainment/english/ebenezer-official-trailer/videoshow/134637439.cms": {
       "at": "2026-11-09T13:41:42+00:00",
+      "status": "not_review"
+    },
+    "ebenezer|2026|https://variety.com/2026/film/box-office/box-office-ebenezer-previews-johnny-depp-1236946391/": {
+      "at": "2026-11-13T15:36:36+00:00",
       "status": "not_review"
     },
     "ebenezer|2026|https://variety.com/2026/film/box-office/ebenezer-johnny-depp-salary-comeback-plans-1236943173/": {
@@ -4251,6 +4270,10 @@
     },
     "ebenezer|2026|https://www.usatoday.com/story/entertainment/movies/2026/11/13/best-ebenezer-scrooge-actors-ranked/92642485007/": {
       "at": "2026-11-13T13:52:08+00:00",
+      "status": "not_review"
+    },
+    "ebenezer|2026|https://www.usatoday.com/story/entertainment/movies/2026/11/13/what-to-watch-right-now/92642691007/": {
+      "at": "2026-11-13T15:36:39+00:00",
       "status": "not_review"
     },
     "ebenezer|2026|https://www.usatoday.com/videos/entertainment/movies/2026/11/13/ebenezer-johnny-depp-movie-trailer/92737423007/": {
