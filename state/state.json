@@ -450,6 +450,16 @@
         "summary": "Beyond some macabre ghost designs, this faithful adaptation adds nothing new, suffers from Depp's mugging, and overstays its welcome.",
         "url": "http://www.markreviewsmovies.com/reviews/E/ebenezer.htm",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-13T06:29:10+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Spectrum Culture",
+        "rating": "11%",
+        "summary": "Depp's miscalculated mugging, aimless direction, and a charmless, reactionary script make this Christmas Carol a spiritless disaster.",
+        "url": "https://spectrumculture.com/2026/11/12/ebenezer-review/",
+        "verdict": "rotten"
       }
     ],
     "godzilla minus zero|": [
@@ -1423,6 +1433,16 @@
         "rating": "",
         "summary": "Promises meaningful commentary on rigged systems but contradicts itself, manipulates sympathy, and settles for generic action and lazy cops-and-robbers plotting.",
         "url": "http://www.markreviewsmovies.com/reviews/H/howtorobabank.htm",
+        "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-13T06:29:13+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Spectrum Culture",
+        "rating": "43%",
+        "summary": "Sincere and substantive but predictable and barely average; tiresome internet-video segments and thin characters make it forgettable.",
+        "url": "https://spectrumculture.com/2026/11/12/how-to-rob-a-bank-review/",
         "verdict": "rotten"
       }
     ],
@@ -3700,6 +3720,11 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "ebenezer|2026|https://spectrumculture.com/2026/11/12/ebenezer-review/": {
+      "at": "2026-11-13T06:29:10+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
     "ebenezer|2026|https://thefutureoftheforce.com/2026/11/11/ebenezer-sprinkles-christmas-magic-over-londons-leadenhall-market/": {
       "at": "2026-11-12T17:29:43+00:00",
       "status": "not_review"
@@ -4861,6 +4886,11 @@
     "how to rob a bank|2026|https://screenrant.com/video/how-to-rob-a-bank-david-leitch-interview/": {
       "at": "2026-11-12T22:26:09+00:00",
       "status": "not_review"
+    },
+    "how to rob a bank|2026|https://spectrumculture.com/2026/11/12/how-to-rob-a-bank-review/": {
+      "at": "2026-11-13T06:29:13+00:00",
+      "status": "review",
+      "verdict": "rotten"
     },
     "how to rob a bank|2026|https://thefutureoftheforce.com/2026/11/11/review-how-to-rob-a-bank-2026/": {
       "at": "2026-11-12T17:29:40+00:00",
