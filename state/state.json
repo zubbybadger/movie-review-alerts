@@ -2126,6 +2126,16 @@
         "summary": "Predictable but breezy and disarming, with astonishing casting, especially Ippolito as Stallone, Stephan James as Weathers, and a tart Tracy Letts.",
         "url": "https://washingtoncitypaper.com/article/794837/i-play-rocky-old-underdog-new-tricks/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-13T19:44:30+00:00",
+        "confidence": "high",
+        "critic": "Charlie von Peterffy",
+        "outlet": "Boston Hassle",
+        "rating": "",
+        "summary": "Anthony Ippolito's electrifying Stallone and a funny, heartfelt balance of comedy and drama outweigh vague, somewhat out-of-touch biographical details.",
+        "url": "https://bostonhassle.com/review-i-play-rocky-2026-dir-peter-farrelly/",
+        "verdict": "fresh"
       }
     ],
     "the cat in the hat|2026": [
@@ -5579,6 +5589,11 @@
     },
     "i play rocky||http://www.shadowsonthewall.co.uk/26/iplayroc.htm": {
       "at": "2026-11-02T19:26:07+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "i play rocky||https://bostonhassle.com/review-i-play-rocky-2026-dir-peter-farrelly/": {
+      "at": "2026-11-13T19:44:30+00:00",
       "status": "review",
       "verdict": "fresh"
     },
