@@ -2206,6 +2206,16 @@
         "summary": "Page content unavailable; verdict cannot be determined from the text, so this is a low-confidence guess.",
         "url": "https://mvmoorhead.blogspot.com/search/label/I%20PLAY%20ROCKY%20REVIEW",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-14T07:04:17+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "The Hindu",
+        "rating": "",
+        "summary": "Ippolito's uncanny Stallone, strong supporting cast, lived-in period detail and funny, excellent writing make this feel-good underdog story irresistible despite some mushiness.",
+        "url": "https://www.thehindu.com/entertainment/movies/i-play-rocky-movie-review-anthony-ippolito-makes-this-underdog-story-sing/article71699253.ece",
+        "verdict": "fresh"
       }
     ],
     "the cat in the hat|2026": [
@@ -6126,6 +6136,11 @@
     },
     "i play rocky||https://www.theguardian.com/film/2026/nov/05/i-play-rocky-review-anthony-ippolito-adds-knockout-sweetness-to-the-story-of-stallones-hollywood-triumph": {
       "at": "2026-11-05T11:36:12+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "i play rocky||https://www.thehindu.com/entertainment/movies/i-play-rocky-movie-review-anthony-ippolito-makes-this-underdog-story-sing/article71699253.ece": {
+      "at": "2026-11-14T07:04:17+00:00",
       "status": "review",
       "verdict": "fresh"
     },
