@@ -1704,6 +1704,16 @@
         "summary": "Flashy fun cast and decent action, but tonal shifts sap momentum, sidelined leads, and dated social-media satire feels like a doom-scroll.",
         "url": "https://www.theepochtimes.com/bright/how-to-rob-a-bank-was-robin-hood-a-socialist-6123952",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-14T02:29:21+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Beyond the Cinerama Dome",
+        "rating": "",
+        "summary": "A toothless anti-capitalist heist film with weak banter, little crew chemistry, and neither a satisfying caper nor a compelling crew.",
+        "url": "https://beyondthecineramadome.com/movie-reviews/how-to-rob-a-bank-film-review",
+        "verdict": "rotten"
       }
     ],
     "i play rocky|": [
@@ -5308,6 +5318,11 @@
     },
     "how to rob a bank|2026|http://www.shadowsonthewall.co.uk/26/howtorob.htm": {
       "at": "2026-11-11T14:06:18+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
+    "how to rob a bank|2026|https://beyondthecineramadome.com/movie-reviews/how-to-rob-a-bank-film-review": {
+      "at": "2026-11-14T02:29:21+00:00",
       "status": "review",
       "verdict": "rotten"
     },
