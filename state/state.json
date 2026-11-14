@@ -1694,6 +1694,16 @@
         "summary": "Despite Hoult's charisma and fun Reilly-Kravitz byplay, heavy-handed writing and hypocritical anti-capitalist posturing undercut the film's revolutionary spirit.",
         "url": "https://www.thetraverstake.com/featured/how-to-rob-a-bank/",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-14T00:49:02+00:00",
+        "confidence": "low",
+        "critic": "",
+        "outlet": "The Epoch Times",
+        "rating": "",
+        "summary": "Flashy fun cast and decent action, but tonal shifts sap momentum, sidelined leads, and dated social-media satire feels like a doom-scroll.",
+        "url": "https://www.theepochtimes.com/bright/how-to-rob-a-bank-was-robin-hood-a-socialist-6123952",
+        "verdict": "rotten"
       }
     ],
     "i play rocky|": [
@@ -4050,6 +4060,10 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "ebenezer|2026|https://movieweb.com/ebenezer-box-office-november-2026/": {
+      "at": "2026-11-14T00:49:07+00:00",
+      "status": "not_review"
+    },
     "ebenezer|2026|https://movieweb.com/ebenezer-review/": {
       "at": "2026-11-12T17:30:05+00:00",
       "status": "review",
@@ -4097,6 +4111,10 @@
       "at": "2026-11-12T17:29:30+00:00",
       "status": "review",
       "verdict": "rotten"
+    },
+    "ebenezer|2026|https://screenrant.com/ebenezer-no-post-credits-scene-reason-to-stay/": {
+      "at": "2026-11-14T00:49:04+00:00",
+      "status": "not_review"
     },
     "ebenezer|2026|https://screenrant.com/ebenzer-first-reactions-johnny-depp/": {
       "at": "2026-11-09T23:21:16+00:00",
@@ -5613,6 +5631,11 @@
     },
     "how to rob a bank|2026|https://www.slantmagazine.com/film/how-to-rob-a-bank-review-nicholas-hoult-zoe-kravitz/": {
       "at": "2026-11-11T14:06:28+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
+    "how to rob a bank|2026|https://www.theepochtimes.com/bright/how-to-rob-a-bank-was-robin-hood-a-socialist-6123952": {
+      "at": "2026-11-14T00:49:02+00:00",
       "status": "review",
       "verdict": "rotten"
     },
