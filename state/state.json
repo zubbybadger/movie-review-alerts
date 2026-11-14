@@ -680,6 +680,16 @@
         "summary": "Despite strong gothic visuals and good supporting cast, Depp's over-the-top performance and superficial darkness crush the film.",
         "url": "https://battleroyalewithcheese.com/2026/11/ebenezer-the-brwc-review/",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-14T20:25:23+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Fort Worth Report",
+        "rating": "3.5/4",
+        "summary": "Depp is a terrific, possibly definitive Scrooge, and Ti West's gothic creepiness heightens a moving story despite some uneven flashback pacing.",
+        "url": "https://fortworthreport.org/2026/11/14/ebenezer-review-johnny-depp-is-terrific-as-scrooge-while-horror-director-ti-west-brings-the-right-amount-of-creep-factor-to-the-holiday-classic/",
+        "verdict": "fresh"
       }
     ],
     "godzilla minus zero|": [
@@ -4122,6 +4132,11 @@
     },
     "ebenezer|2026|https://filmthreat.com/reviews/ebenezer/": {
       "at": "2026-11-13T09:29:08+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "ebenezer|2026|https://fortworthreport.org/2026/11/14/ebenezer-review-johnny-depp-is-terrific-as-scrooge-while-horror-director-ti-west-brings-the-right-amount-of-creep-factor-to-the-holiday-classic/": {
+      "at": "2026-11-14T20:25:23+00:00",
       "status": "review",
       "verdict": "fresh"
     },
