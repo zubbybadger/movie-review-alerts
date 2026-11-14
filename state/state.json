@@ -670,6 +670,16 @@
         "summary": "A mediocre, overly faithful Christmas Carol adaptation; West's gothic touches can't overcome familiar beats and Depp's showy lead turn.",
         "url": "https://filmfeeder.co.uk/film-reviews/ebenezer-dir-ti-west?utm_source=rss&utm_medium=rss&utm_campaign=ebenezer-dir-ti-west",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-14T19:29:41+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "Battle Royale With Cheese (BRWC)",
+        "rating": "",
+        "summary": "Despite strong gothic visuals and good supporting cast, Depp's over-the-top performance and superficial darkness crush the film.",
+        "url": "https://battleroyalewithcheese.com/2026/11/ebenezer-the-brwc-review/",
+        "verdict": "rotten"
       }
     ],
     "godzilla minus zero|": [
@@ -4018,6 +4028,11 @@
       "at": "2026-11-12T14:31:24+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "ebenezer|2026|https://battleroyalewithcheese.com/2026/11/ebenezer-the-brwc-review/": {
+      "at": "2026-11-14T19:29:41+00:00",
+      "status": "review",
+      "verdict": "rotten"
     },
     "ebenezer|2026|https://bloody-disgusting.com/reviews/3975556/ebenezer-review-ti-west-brings-gothic-atmosphere-to-a-christmas-carol-but-little-else/": {
       "at": "2026-11-12T17:29:35+00:00",
