@@ -660,6 +660,16 @@
         "summary": "Despite creepy, standout ghosts, the film is the same old Christmas Carol with a mismatched, mugging Depp, earning a 'Bah, humbug.'",
         "url": "https://www.usatoday.com/story/entertainment/movies/2026/11/14/johnny-depp-ebenezer-scrooge-christmas-carol/92642510007/",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-14T18:28:01+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Film Feeder",
+        "rating": "",
+        "summary": "A mediocre, overly faithful Christmas Carol adaptation; West's gothic touches can't overcome familiar beats and Depp's showy lead turn.",
+        "url": "https://filmfeeder.co.uk/film-reviews/ebenezer-dir-ti-west?utm_source=rss&utm_medium=rss&utm_campaign=ebenezer-dir-ti-west",
+        "verdict": "rotten"
       }
     ],
     "godzilla minus zero|": [
@@ -2235,6 +2245,16 @@
         "rating": "",
         "summary": "Ippolito's uncanny Stallone, strong supporting cast, lived-in period detail and funny, excellent writing make this feel-good underdog story irresistible despite some mushiness.",
         "url": "https://www.thehindu.com/entertainment/movies/i-play-rocky-movie-review-anthony-ippolito-makes-this-underdog-story-sing/article71699253.ece",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-14T18:28:11+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Battle Royale With Cheese (BRWC)",
+        "rating": "",
+        "summary": "Though not groundbreaking and somewhat Wikipedia-like, it strikes the right tone, has solid performances, and proves genuinely uplifting.",
+        "url": "https://battleroyalewithcheese.com/2026/11/i-play-rocky-the-brwc-review/",
         "verdict": "fresh"
       }
     ],
@@ -3990,6 +4010,10 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "ebenezer|2026|https://attractionsmagazine.com/amc-salted-caramel-pretzels-ebenezer/": {
+      "at": "2026-11-14T18:28:17+00:00",
+      "status": "not_review"
+    },
     "ebenezer|2026|https://attractionsmagazine.com/ebenezer-review-johnny-depp-spoilers/": {
       "at": "2026-11-12T14:31:24+00:00",
       "status": "review",
@@ -4069,6 +4093,15 @@
     },
     "ebenezer|2026|https://film-forward.com/book-adaptation/ebenezer": {
       "at": "2026-11-13T04:28:37+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
+    "ebenezer|2026|https://filmfeeder.co.uk/film-reviews/ebenezer-dir-ti-west": {
+      "at": "2026-11-14T18:28:06+00:00",
+      "status": "duplicate"
+    },
+    "ebenezer|2026|https://filmfeeder.co.uk/film-reviews/ebenezer-dir-ti-west?utm_source=rss&utm_medium=rss&utm_campaign=ebenezer-dir-ti-west": {
+      "at": "2026-11-14T18:28:01+00:00",
       "status": "review",
       "verdict": "rotten"
     },
@@ -5509,6 +5542,10 @@
       "status": "review",
       "verdict": "rotten"
     },
+    "how to rob a bank|2026|https://screenrant.com/david-leitch-how-to-rob-a-bank-rotten-tomatoes-audience-score/": {
+      "at": "2026-11-14T18:28:14+00:00",
+      "status": "not_review"
+    },
     "how to rob a bank|2026|https://screenrant.com/david-leitch-how-to-rob-a-bank-rotten-tomatoes-score-debut-record/": {
       "at": "2026-11-12T00:14:47+00:00",
       "status": "not_review"
@@ -5800,6 +5837,11 @@
     },
     "i play rocky||http://www.shadowsonthewall.co.uk/26/iplayroc.htm": {
       "at": "2026-11-02T19:26:07+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "i play rocky||https://battleroyalewithcheese.com/2026/11/i-play-rocky-the-brwc-review/": {
+      "at": "2026-11-14T18:28:11+00:00",
       "status": "review",
       "verdict": "fresh"
     },
