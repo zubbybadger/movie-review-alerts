@@ -640,6 +640,16 @@
         "summary": "Atmospheric but heartless, dutifully dull adaptation sunk by Johnny Depp's hollow, mannered, mugging performance and uneven horror tone.",
         "url": "https://www.winnipegfreepress.com/arts-and-life/2026/11/13/movie-review-ebenezer-scrooge-johnny-depp",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-14T16:03:04+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Bounding Into Comics (via That Park Place)",
+        "rating": "8/10",
+        "summary": "Depp's distinctive cold-charm Scrooge and West's Gothic horror atmosphere outweigh unnecessary additions and cynical changes; 'very, very good.'",
+        "url": "https://boundingintocomics.com/movies/movie-news/ebenezer-review-johnny-depps-cold-charm-scrooge-anchors-a-ti-west-horror-christmas-carol",
+        "verdict": "fresh"
       }
     ],
     "godzilla minus zero|": [
@@ -3982,6 +3992,11 @@
     },
     "ebenezer|2026|https://bloody-flicks.co.uk/2026/11/11/ebenezer-review/": {
       "at": "2026-11-12T18:59:29+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "ebenezer|2026|https://boundingintocomics.com/movies/movie-news/ebenezer-review-johnny-depps-cold-charm-scrooge-anchors-a-ti-west-horror-christmas-carol": {
+      "at": "2026-11-14T16:03:04+00:00",
       "status": "review",
       "verdict": "fresh"
     },
