@@ -650,6 +650,16 @@
         "summary": "Depp's distinctive cold-charm Scrooge and West's Gothic horror atmosphere outweigh unnecessary additions and cynical changes; 'very, very good.'",
         "url": "https://boundingintocomics.com/movies/movie-news/ebenezer-review-johnny-depps-cold-charm-scrooge-anchors-a-ti-west-horror-christmas-carol",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-14T17:57:39+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "USA Today",
+        "rating": "",
+        "summary": "Despite creepy, standout ghosts, the film is the same old Christmas Carol with a mismatched, mugging Depp, earning a 'Bah, humbug.'",
+        "url": "https://www.usatoday.com/story/entertainment/movies/2026/11/14/johnny-depp-ebenezer-scrooge-christmas-carol/92642510007/",
+        "verdict": "rotten"
       }
     ],
     "godzilla minus zero|": [
@@ -4600,6 +4610,11 @@
     "ebenezer|2026|https://www.usatoday.com/story/entertainment/movies/2026/11/13/what-to-watch-right-now/92642691007/": {
       "at": "2026-11-13T15:36:39+00:00",
       "status": "not_review"
+    },
+    "ebenezer|2026|https://www.usatoday.com/story/entertainment/movies/2026/11/14/johnny-depp-ebenezer-scrooge-christmas-carol/92642510007/": {
+      "at": "2026-11-14T17:57:39+00:00",
+      "status": "review",
+      "verdict": "rotten"
     },
     "ebenezer|2026|https://www.usatoday.com/videos/entertainment/movies/2026/11/13/ebenezer-johnny-depp-movie-trailer/92737423007/": {
       "at": "2026-11-13T13:52:10+00:00",
