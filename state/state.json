@@ -690,6 +690,16 @@
         "summary": "Depp is a terrific, possibly definitive Scrooge, and Ti West's gothic creepiness heightens a moving story despite some uneven flashback pacing.",
         "url": "https://fortworthreport.org/2026/11/14/ebenezer-review-johnny-depp-is-terrific-as-scrooge-while-horror-director-ti-west-brings-the-right-amount-of-creep-factor-to-the-holiday-classic/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-15T07:29:12+00:00",
+        "confidence": "low",
+        "critic": "Anthony Morris",
+        "outlet": "It's Better in the Dark",
+        "rating": "",
+        "summary": "Unnecessary but surprisingly decent; solid story, effective horror tone and good supporting cast, though Depp's hammy performance gets in the way.",
+        "url": "https://itsbetterinthedark.blogspot.com/2026/11/review-ebenezer.html",
+        "verdict": "fresh"
       }
     ],
     "godzilla minus zero|": [
@@ -4154,6 +4164,11 @@
       "at": "2026-11-13T15:16:17+00:00",
       "status": "review",
       "verdict": "rotten"
+    },
+    "ebenezer|2026|https://itsbetterinthedark.blogspot.com/2026/11/review-ebenezer.html": {
+      "at": "2026-11-15T07:29:12+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "ebenezer|2026|https://jmuvies.blogspot.com/2026/11/ebenezer-re-learns-christmas-lessons.html": {
       "at": "2026-11-13T21:29:10+00:00",
