@@ -4113,6 +4113,10 @@
       "status": "review",
       "verdict": "rotten"
     },
+    "ebenezer|2026|https://collider.com/johnny-depp-ebenezer-box-office-opening-weekend-43-million/": {
+      "at": "2026-11-15T17:27:09+00:00",
+      "status": "not_review"
+    },
     "ebenezer|2026|https://collider.com/johnny-depp-jack-sparrow-ebenezer-scrooge-ti-west-interview/": {
       "at": "2026-11-12T09:29:02+00:00",
       "status": "not_review"
@@ -4309,6 +4313,10 @@
     },
     "ebenezer|2026|https://screenrant.com/ebenzer-first-reactions-johnny-depp/": {
       "at": "2026-11-09T23:21:16+00:00",
+      "status": "not_review"
+    },
+    "ebenezer|2026|https://screenrant.com/johnny-depp-ebenezer-movie-rotten-tomatoes-audience-score/": {
+      "at": "2026-11-15T17:27:12+00:00",
       "status": "not_review"
     },
     "ebenezer|2026|https://screenrant.com/johnny-depp-ebenezer-nightmare-on-elm-street-death-callback/": {
