@@ -1764,6 +1764,16 @@
         "summary": "A toothless anti-capitalist heist film with weak banter, little crew chemistry, and neither a satisfying caper nor a compelling crew.",
         "url": "https://beyondthecineramadome.com/movie-reviews/how-to-rob-a-bank-film-review",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-15T01:28:55+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "Fort Worth Report",
+        "rating": "3 stars",
+        "summary": "Good performances, especially Pete Davidson, and thrilling action outweigh an annoying TikTok-style frantic aesthetic and derivative Point Break parallels.",
+        "url": "https://fortworthreport.org/2026/11/14/how-to-rob-a-bank-review-the-frantically-paced-heist-film-is-point-break-in-the-digital-age/",
+        "verdict": "fresh"
       }
     ],
     "i play rocky|": [
@@ -5511,6 +5521,11 @@
       "at": "2026-11-11T14:06:25+00:00",
       "status": "duplicate"
     },
+    "how to rob a bank|2026|https://fortworthreport.org/2026/11/14/how-to-rob-a-bank-review-the-frantically-paced-heist-film-is-point-break-in-the-digital-age/": {
+      "at": "2026-11-15T01:28:55+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "how to rob a bank|2026|https://inreviewonline.com/2026/11/13/how-to-rob-a-bank-review/": {
       "at": "2026-11-13T15:16:20+00:00",
       "status": "review",
@@ -6065,6 +6080,10 @@
     },
     "i play rocky||https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/i-play-rocky-box-office-collection-day-1-amid-massive-ramayana-turnout-sylvester-stallones-biographical-drama-starts-with-a-weak-debut-in-india/articleshow/135820068.cms": {
       "at": "2026-11-14T01:51:13+00:00",
+      "status": "not_review"
+    },
+    "i play rocky||https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/i-play-rocky-box-office-collection-day-2-anthony-ippolitos-film-collects-rs-62-lakh-in-india-saturday-earnings-rise-58-3-occupancy-improves-to-33/articleshow/135845098.cms": {
+      "at": "2026-11-15T01:28:57+00:00",
       "status": "not_review"
     },
     "i play rocky||https://timesofindia.indiatimes.com/entertainment/english/movie-reviews/i-play-rocky/movie-review/135768328.cms": {
