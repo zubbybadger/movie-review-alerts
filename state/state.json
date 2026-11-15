@@ -4467,6 +4467,10 @@
       "status": "review",
       "verdict": "rotten"
     },
+    "ebenezer|2026|https://www.cbr.com/ebenezer-number-one-box-office-johnny-depp/": {
+      "at": "2026-11-15T21:20:51+00:00",
+      "status": "not_review"
+    },
     "ebenezer|2026|https://www.cbr.com/ebenezer-review/": {
       "at": "2026-11-12T17:30:10+00:00",
       "status": "review",
