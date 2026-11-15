@@ -1784,6 +1784,16 @@
         "summary": "Good performances, especially Pete Davidson, and thrilling action outweigh an annoying TikTok-style frantic aesthetic and derivative Point Break parallels.",
         "url": "https://fortworthreport.org/2026/11/14/how-to-rob-a-bank-review-the-frantically-paced-heist-film-is-point-break-in-the-digital-age/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-15T15:27:47+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Film Feeder",
+        "rating": "",
+        "summary": "Smug, obnoxious crime thriller with an undercooked, chaotic script, unlikeable characters and migraine-inducing flashy direction.",
+        "url": "https://filmfeeder.co.uk/film-reviews/how-to-rob-a-bank-dir-david-leitch?utm_source=rss&utm_medium=rss&utm_campaign=how-to-rob-a-bank-dir-david-leitch",
+        "verdict": "rotten"
       }
     ],
     "i play rocky|": [
@@ -5549,6 +5559,15 @@
     "how to rob a bank|2026|https://deadline.com/print-article/1237220151?KeepThis=1&TB_iframe=1&height=500&width=750": {
       "at": "2026-11-11T14:06:25+00:00",
       "status": "duplicate"
+    },
+    "how to rob a bank|2026|https://filmfeeder.co.uk/film-reviews/how-to-rob-a-bank-dir-david-leitch": {
+      "at": "2026-11-15T15:27:51+00:00",
+      "status": "duplicate"
+    },
+    "how to rob a bank|2026|https://filmfeeder.co.uk/film-reviews/how-to-rob-a-bank-dir-david-leitch?utm_source=rss&utm_medium=rss&utm_campaign=how-to-rob-a-bank-dir-david-leitch": {
+      "at": "2026-11-15T15:27:47+00:00",
+      "status": "review",
+      "verdict": "rotten"
     },
     "how to rob a bank|2026|https://fortworthreport.org/2026/11/14/how-to-rob-a-bank-review-the-frantically-paced-heist-film-is-point-break-in-the-digital-age/": {
       "at": "2026-11-15T01:28:55+00:00",
