@@ -4768,6 +4768,10 @@
       "status": "review",
       "verdict": "rotten"
     },
+    "ebenezer|2026|https://www.usatoday.com/story/entertainment/movies/2026/11/15/ebenezer-box-office-johnny-depp-opening-weekend/92796186007/": {
+      "at": "2026-11-15T19:18:03+00:00",
+      "status": "not_review"
+    },
     "ebenezer|2026|https://www.usatoday.com/videos/entertainment/movies/2026/11/13/ebenezer-johnny-depp-movie-trailer/92737423007/": {
       "at": "2026-11-13T13:52:10+00:00",
       "status": "not_review"
@@ -5708,6 +5712,10 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "how to rob a bank|2026|https://screenrant.com/how-to-rob-a-bank-two-endings-filmed-nicholas-hoult-explained/": {
+      "at": "2026-11-15T19:18:07+00:00",
+      "status": "not_review"
+    },
     "how to rob a bank|2026|https://screenrant.com/nicholas-hoult-how-to-rob-a-bank-box-office-opening-weekend-domestic-result/": {
       "at": "2026-11-14T16:29:00+00:00",
       "status": "not_review"
@@ -6015,6 +6023,10 @@
       "at": "2026-11-08T23:42:07+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "i play rocky||https://collider.com/video/i-play-rocky-s-final-fight-had-to-match-every-punch-set-stories/": {
+      "at": "2026-11-15T19:18:05+00:00",
+      "status": "not_review"
     },
     "i play rocky||https://deadline.com/2026/11/i-play-rocky-anthony-ippolito-interview-1237223964/": {
       "at": "2026-11-14T21:00:48+00:00",
