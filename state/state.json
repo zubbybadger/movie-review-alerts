@@ -2316,6 +2316,16 @@
         "summary": "A formidable, funny ode to New Hollywood persistence, anchored by Anthony Ippolito's charismatic, uncanny Stallone performance and a well-structured script.",
         "url": "https://www.eluniversal.com.mx/opinion/alejandro-aleman/i-play-rocky-una-oda-a-la-necedad/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-15T23:19:40+00:00",
+        "confidence": "high",
+        "critic": "Susan Granger",
+        "outlet": "SusanGranger.com",
+        "rating": "8/10",
+        "summary": "A crowd-pleasing, emotionally engaging biopic with a star-making lead performance and heartfelt themes of perseverance.",
+        "url": "https://www.susangranger.com/?p=19534",
+        "verdict": "fresh"
       }
     ],
     "the cat in the hat|2026": [
@@ -6423,6 +6433,11 @@
     },
     "i play rocky||https://www.slashfilm.com/2261212/i-play-rocky-movie-review/": {
       "at": "2026-11-02T19:26:20+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "i play rocky||https://www.susangranger.com/?p=19534": {
+      "at": "2026-11-15T23:19:40+00:00",
       "status": "review",
       "verdict": "fresh"
     },
