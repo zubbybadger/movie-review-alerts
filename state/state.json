@@ -2296,6 +2296,16 @@
         "summary": "Though not groundbreaking and somewhat Wikipedia-like, it strikes the right tone, has solid performances, and proves genuinely uplifting.",
         "url": "https://battleroyalewithcheese.com/2026/11/i-play-rocky-the-brwc-review/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-15T13:28:20+00:00",
+        "confidence": "high",
+        "critic": "Alejandro Alem\u00e1n",
+        "outlet": "El Universal",
+        "rating": "",
+        "summary": "A formidable, funny ode to New Hollywood persistence, anchored by Anthony Ippolito's charismatic, uncanny Stallone performance and a well-structured script.",
+        "url": "https://www.eluniversal.com.mx/opinion/alejandro-aleman/i-play-rocky-una-oda-a-la-necedad/",
+        "verdict": "fresh"
       }
     ],
     "the cat in the hat|2026": [
@@ -6174,6 +6184,11 @@
     },
     "i play rocky||https://www.denofgeek.com/movies/i-play-rocky-review-sylvester-stallone/": {
       "at": "2026-11-03T17:32:18+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "i play rocky||https://www.eluniversal.com.mx/opinion/alejandro-aleman/i-play-rocky-una-oda-a-la-necedad/": {
+      "at": "2026-11-15T13:28:20+00:00",
       "status": "review",
       "verdict": "fresh"
     },
