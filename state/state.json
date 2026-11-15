@@ -4396,6 +4396,10 @@
       "at": "2026-11-14T16:28:55+00:00",
       "status": "not_review"
     },
+    "ebenezer|2026|https://variety.com/2026/film/box-office/ebenezer-box-office-johnny-depp-opening-weekend-how-to-rob-a-bank-1236948055/": {
+      "at": "2026-11-15T16:28:46+00:00",
+      "status": "not_review"
+    },
     "ebenezer|2026|https://variety.com/2026/film/box-office/ebenezer-johnny-depp-salary-comeback-plans-1236943173/": {
       "at": "2026-11-10T17:29:03+00:00",
       "status": "not_review"
@@ -4596,6 +4600,10 @@
       "at": "2026-11-12T17:05:08+00:00",
       "status": "review",
       "verdict": "rotten"
+    },
+    "ebenezer|2026|https://www.indiewire.com/news/box-office/box-office-ebenezer-opens-20-million-johnny-depp-comeback-1235228068/": {
+      "at": "2026-11-15T16:28:51+00:00",
+      "status": "not_review"
     },
     "ebenezer|2026|https://www.kaplanvskaplan.com/new-releases/ebenezer/": {
       "at": "2026-11-12T16:58:45+00:00",
@@ -5728,6 +5736,10 @@
     },
     "how to rob a bank|2026|https://variety.com/2026/film/box-office/ebenezer-box-office-johnny-depp-opening-day-1236947684/": {
       "at": "2026-11-14T16:28:58+00:00",
+      "status": "not_review"
+    },
+    "how to rob a bank|2026|https://variety.com/2026/film/box-office/ebenezer-box-office-johnny-depp-opening-weekend-how-to-rob-a-bank-1236948055/": {
+      "at": "2026-11-15T16:28:49+00:00",
       "status": "not_review"
     },
     "how to rob a bank|2026|https://variety.com/2026/film/reviews/how-to-rob-a-bank-review-1236945761/": {
