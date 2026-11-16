@@ -2336,6 +2336,16 @@
         "summary": "A crowd-pleasing, emotionally engaging biopic with a star-making lead performance and heartfelt themes of perseverance.",
         "url": "https://www.susangranger.com/?p=19534",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-16T06:18:17+00:00",
+        "confidence": "low",
+        "critic": "Mayur Sanap",
+        "outlet": "Rediff",
+        "rating": "",
+        "summary": "Breezy, likable biopic carried by Anthony Ippolito's uncanny Stallone, though it plays too safe and lacks personal depth.",
+        "url": "https://www.rediff.com/movies/review/i-play-rocky-review-not-quite-a-knockout/20261116.htm",
+        "verdict": "fresh"
       }
     ],
     "the cat in the hat|2026": [
@@ -6449,6 +6459,11 @@
     },
     "i play rocky||https://www.otroscines.com/post/critica-de-yo-soy-rocky-i-play-rocky-pelicula-de-peter-farrelly-con-anthony-ippolito-annasophia-robb-toby-kebbell-pj-byrne-jay-duplass-matt-dillon-y-tracy-letts": {
       "at": "2026-11-11T23:28:50+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "i play rocky||https://www.rediff.com/movies/review/i-play-rocky-review-not-quite-a-knockout/20261116.htm": {
+      "at": "2026-11-16T06:18:17+00:00",
       "status": "review",
       "verdict": "fresh"
     },
