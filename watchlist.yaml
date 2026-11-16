@@ -6,10 +6,9 @@
 movies:
   # also_known_as lists other titles a movie goes by (e.g. on Spanish-language sites).
   - title: "I Play Rocky"
-  - title: "Ebenezer"
+  - title: "The Hunger Games: Sunrise on the Reaping"
     year: 2026
-  - title: "How to Rob a Bank"
-    year: 2026
+    also_known_as: ["Sunrise on the Reaping", "Los juegos del hambre: Amanecer en la cosecha"]
 
 # Review sites to watch. A homepage, a film/reviews section, or an RSS feed
 # all work. The bot finds the site's feed automatically when there is one,
