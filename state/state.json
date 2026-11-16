@@ -2356,6 +2356,16 @@
         "summary": "Despite sanitized storytelling, bad wigs and an abrupt ending, it's an entertaining crowd-pleaser with fascinating behind-the-scenes details and a strong Ippolito performance.",
         "url": "https://www.deepfocusreview.com/reviews/i-play-rocky/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-16T18:30:45+00:00",
+        "confidence": "low",
+        "critic": "Mark",
+        "outlet": "Movies With Mark",
+        "rating": "",
+        "summary": "Uneven, patchwork biopic with limp drama, but its comedic behind-the-scenes Rocky production stories give it enough charm to crowd-please.",
+        "url": "https://movieswithmark.com/i-play-rocky-review/?utm_source=rss&utm_medium=rss&utm_campaign=i-play-rocky-review",
+        "verdict": "fresh"
       }
     ],
     "the cat in the hat|2026": [
@@ -6159,6 +6169,15 @@
     },
     "i play rocky||https://mashable.com/entertainment/i-play-rocky-review": {
       "at": "2026-11-06T10:41:12+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "i play rocky||https://movieswithmark.com/i-play-rocky-review/": {
+      "at": "2026-11-16T18:30:49+00:00",
+      "status": "duplicate"
+    },
+    "i play rocky||https://movieswithmark.com/i-play-rocky-review/?utm_source=rss&utm_medium=rss&utm_campaign=i-play-rocky-review": {
+      "at": "2026-11-16T18:30:45+00:00",
       "status": "review",
       "verdict": "fresh"
     },
