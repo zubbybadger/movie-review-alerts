@@ -1794,6 +1794,16 @@
         "summary": "Smug, obnoxious crime thriller with an undercooked, chaotic script, unlikeable characters and migraine-inducing flashy direction.",
         "url": "https://filmfeeder.co.uk/film-reviews/how-to-rob-a-bank-dir-david-leitch?utm_source=rss&utm_medium=rss&utm_campaign=how-to-rob-a-bank-dir-david-leitch",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-16T05:05:42+00:00",
+        "confidence": "medium",
+        "critic": "Jeanne Kaplan",
+        "outlet": "Kaplan vs. Kaplan",
+        "rating": "Wait for Streaming",
+        "summary": "A fun, fast first half and game cast give way to a bogged-down, preposterous second half; not bad, but loses its way.",
+        "url": "https://www.kaplanvskaplan.com/new-releases/how-to-rob-a-bank/",
+        "verdict": "rotten"
       }
     ],
     "i play rocky|": [
@@ -5936,6 +5946,11 @@
     "how to rob a bank|2026|https://www.indiewire.com/features/general/how-to-rob-a-bank-imagine-entertainment-box-office-whalefall-flop-1235222918/": {
       "at": "2026-11-12T15:37:31+00:00",
       "status": "not_review"
+    },
+    "how to rob a bank|2026|https://www.kaplanvskaplan.com/new-releases/how-to-rob-a-bank/": {
+      "at": "2026-11-16T05:05:42+00:00",
+      "status": "review",
+      "verdict": "rotten"
     },
     "how to rob a bank|2026|https://www.latimes.com/entertainment-arts/movies/story/2026-11-13/how-to-rob-a-bank-david-leitch-nicholas-hoult-zoe-kravitz-john-c-reilly": {
       "at": "2026-11-13T18:30:16+00:00",
