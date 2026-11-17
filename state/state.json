@@ -2376,6 +2376,16 @@
         "summary": "Entertaining and uplifting with an uncanny Ippolito performance, but feels like cinematic cosplay that might have worked better as a documentary.",
         "url": "https://amovieguy.com/2026/11/i-play-rocky/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-17T19:29:24+00:00",
+        "confidence": "low",
+        "critic": "",
+        "outlet": "Rolling Stone en Espa\u00f1ol",
+        "rating": "",
+        "summary": "Praised as a biopic reviving 1970s cinematic audacity through a story of artistic faith and stubborn struggle to make Rocky.",
+        "url": "https://es.rollingstone.com/critica-yo-soy-rocky-i-play-rocky/",
+        "verdict": "fresh"
       }
     ],
     "the cat in the hat|2026": [
@@ -3029,6 +3039,16 @@
         "rating": "2.5/4",
         "summary": "Too familiar and perfunctory in the arena, but strong supporting turns and the tragic emotional weight of Haymitch's story give it heft.",
         "url": "https://www.bostonglobe.com/2026/11/17/arts/hunger-games-sunrise-on-the-reaping/",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-17T19:29:31+00:00",
+        "confidence": "high",
+        "critic": "Tara Bennett",
+        "outlet": "IGN",
+        "rating": "8/10",
+        "summary": "Joseph Zada's star-making Haymitch, a superb ensemble, and bold remixing of franchise tropes deliver emotional and political impact with satisfying closure.",
+        "url": "https://www.ign.com/articles/the-hunger-games-sunrise-on-the-reaping-review",
         "verdict": "fresh"
       }
     ],
@@ -6570,6 +6590,11 @@
       "at": "2026-11-11T22:22:44+00:00",
       "status": "not_review"
     },
+    "i play rocky||https://es.rollingstone.com/critica-yo-soy-rocky-i-play-rocky/": {
+      "at": "2026-11-17T19:29:24+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "i play rocky||https://film-forward.com/star-reviews/i-play-rocky": {
       "at": "2026-11-05T08:47:15+00:00",
       "status": "review",
@@ -7358,6 +7383,10 @@
       "at": "2026-11-17T03:15:09+00:00",
       "status": "not_review"
     },
+    "the hunger games sunrise on the reaping|2026|https://screenrant.com/hunger-games-new-movie-after-sunrise-on-the-reaping-lionsgate-comments/": {
+      "at": "2026-11-17T19:29:29+00:00",
+      "status": "not_review"
+    },
     "the hunger games sunrise on the reaping|2026|https://screenrant.com/hunger-games-reading-order-sunrise-on-the-reaping/": {
       "at": "2026-11-16T22:28:55+00:00",
       "status": "not_review"
@@ -7516,6 +7545,19 @@
       "at": "2026-11-17T14:05:04+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "the hunger games sunrise on the reaping|2026|https://www.ign.com/articles/the-hunger-games-sunrise-on-the-reaping-review": {
+      "at": "2026-11-17T19:29:31+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "the hunger games sunrise on the reaping|2026|https://www.ign.com/movies/the-hunger-games-sunrise-on-the-reaping": {
+      "at": "2026-11-17T19:29:34+00:00",
+      "status": "duplicate"
+    },
+    "the hunger games sunrise on the reaping|2026|https://www.independent.co.uk/arts-entertainment/films/news/hunger-games-sunrise-reaping-reviews-b3086612.html": {
+      "at": "2026-11-17T19:29:27+00:00",
+      "status": "not_review"
     },
     "the hunger games sunrise on the reaping|2026|https://www.independent.co.uk/bulletin/culture/hunger-games-sunrise-on-reaping-reviews-b3086596.html": {
       "at": "2026-11-17T16:40:51+00:00",
