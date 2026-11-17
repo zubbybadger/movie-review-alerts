@@ -216,6 +216,11 @@ sites:
   - https://imageryatthemovies.com/
   # The site itself returns 403 to the bot, so also watch it through Google News.
   - https://news.google.com/rss/search?q=site:imageryatthemovies.com&hl=en-US&gl=US&ceid=US:en
+  # Added 2026-11-17 after they had Sunrise on the Reaping reviews the bot never saw (watched through Google News).
+  - https://news.google.com/rss/search?q=site:looper.com&hl=en-US&gl=US&ceid=US:en
+  - https://news.google.com/rss/search?q=site:clutchpoints.com&hl=en-US&gl=US&ceid=US:en
+  - https://news.google.com/rss/search?q=site:flickeringmyth.com&hl=en-US&gl=US&ceid=US:en
+  - https://news.google.com/rss/search?q=site:insessionfilm.com&hl=en-US&gl=US&ceid=US:en
   - https://www.nightviz.ca/
   - https://cinegods.com/reviews/
   - https://www.kget.com/author/rick-bentley/
