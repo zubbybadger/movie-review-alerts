@@ -2950,6 +2950,36 @@
         "summary": "A strong, visually assured origin story with a terrific cast that deepens the lore, despite an overlong, less interesting second half.",
         "url": "https://www.timeout.com/movies/the-hunger-games-sunrise-on-the-reaping-review-2026",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-17T14:59:54+00:00",
+        "confidence": "low",
+        "critic": "",
+        "outlet": "Algo M\u00e1s Que Cine",
+        "rating": "3/5",
+        "summary": "Entertaining, visually striking prequel with strong performances, but too reliant on nostalgia and lacking Haymitch's emotional depth.",
+        "url": "https://algomasquecine.com/los-juegos-del-hambre-amanecer-en-la-cosecha-una-tragedia-atrapada-en-su-propio-pasado/",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-17T14:59:57+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "The Telegraph",
+        "rating": "",
+        "summary": "Always watchable and vividly staged, with gripping premise and eerie arena, though the recast actors lack their predecessors' charisma and it feels familiar.",
+        "url": "https://www.telegraph.co.uk/films/0/the-hunger-games-sunrise-on-the-reaping-review/",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-17T15:00:00+00:00",
+        "confidence": "high",
+        "critic": "Mark",
+        "outlet": "Movies with Mark",
+        "rating": "",
+        "summary": "A repetitive, tension-free prequel with cartoonish characters, off-screen spectacle, and deaths lacking emotional weight; a tedious bridge to a known ending.",
+        "url": "https://movieswithmark.com/the-hunger-games-sunrise-on-the-reaping-review/?utm_source=rss&utm_medium=rss&utm_campaign=the-hunger-games-sunrise-on-the-reaping-review",
+        "verdict": "rotten"
       }
     ],
     "the mongoose|": [
@@ -7179,6 +7209,11 @@
       "at": "2026-11-08T18:50:34+00:00",
       "status": "not_review"
     },
+    "the hunger games sunrise on the reaping|2026|https://algomasquecine.com/los-juegos-del-hambre-amanecer-en-la-cosecha-una-tragedia-atrapada-en-su-propio-pasado/": {
+      "at": "2026-11-17T14:59:54+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "the hunger games sunrise on the reaping|2026|https://chicago.suntimes.com/movies-and-tv/2026/08/27/fall-2026-movies-richard-roeper-most-anticipated": {
       "at": "2026-11-16T14:29:07+00:00",
       "status": "not_review"
@@ -7220,6 +7255,15 @@
     },
     "the hunger games sunrise on the reaping|2026|https://moviecricket.net/blog/2026/11/16/review-the-hunger-games-sunrise-on-the-reaping-must-battle-too-much-fan-service-on-its-way-to-a-pre-ordained-prequel-ending": {
       "at": "2026-11-17T14:04:59+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
+    "the hunger games sunrise on the reaping|2026|https://movieswithmark.com/the-hunger-games-sunrise-on-the-reaping-review/": {
+      "at": "2026-11-17T15:00:03+00:00",
+      "status": "duplicate"
+    },
+    "the hunger games sunrise on the reaping|2026|https://movieswithmark.com/the-hunger-games-sunrise-on-the-reaping-review/?utm_source=rss&utm_medium=rss&utm_campaign=the-hunger-games-sunrise-on-the-reaping-review": {
+      "at": "2026-11-17T15:00:00+00:00",
       "status": "review",
       "verdict": "rotten"
     },
@@ -7429,6 +7473,11 @@
     },
     "the hunger games sunrise on the reaping|2026|https://www.slashfilm.com/2300977/the-hunger-games-sunrise-on-the-reaping-review/": {
       "at": "2026-11-17T14:05:32+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "the hunger games sunrise on the reaping|2026|https://www.telegraph.co.uk/films/0/the-hunger-games-sunrise-on-the-reaping-review/": {
+      "at": "2026-11-17T14:59:57+00:00",
       "status": "review",
       "verdict": "fresh"
     },
