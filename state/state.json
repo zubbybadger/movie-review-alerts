@@ -2620,6 +2620,18 @@
         "verdict": "fresh"
       }
     ],
+    "the hunger games sunrise on the reaping|2026": [
+      {
+        "at": "2026-11-17T11:27:42+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Collider",
+        "rating": "",
+        "summary": "A dark, visually striking prequel with a strong ensemble and Zada's compelling Haymitch, improving on the previous prequel despite its long runtime.",
+        "url": "https://collider.com/hunger-games-sunrise-on-the-reaping-review/",
+        "verdict": "fresh"
+      }
+    ],
     "the mongoose|": [
       {
         "at": "2026-10-28T22:45:45+00:00",
@@ -6134,6 +6146,10 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "i play rocky||https://collider.com/i-play-rocky-box-office-boost-4x-more-theaters/": {
+      "at": "2026-11-17T11:27:39+00:00",
+      "status": "not_review"
+    },
     "i play rocky||https://collider.com/video/i-play-rocky-s-final-fight-had-to-match-every-punch-set-stories/": {
       "at": "2026-11-15T19:18:05+00:00",
       "status": "not_review"
@@ -6839,6 +6855,11 @@
       "at": "2026-11-16T14:29:07+00:00",
       "status": "not_review"
     },
+    "the hunger games sunrise on the reaping|2026|https://collider.com/hunger-games-sunrise-on-the-reaping-review/": {
+      "at": "2026-11-17T11:27:42+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "the hunger games sunrise on the reaping|2026|https://collider.com/the-hunger-games-sunrise-on-the-reaping-screening-francis-lawrence/": {
       "at": "2026-11-16T21:29:19+00:00",
       "status": "not_review"
@@ -6905,6 +6926,10 @@
     },
     "the hunger games sunrise on the reaping|2026|https://www.nytimes.com/2026/11/14/movies/whitney-peak-hunger-games-sunrise-reaping.html": {
       "at": "2026-11-16T14:29:02+00:00",
+      "status": "not_review"
+    },
+    "the hunger games sunrise on the reaping|2026|https://www.polygon.com/the-hunger-games-lionsgate-suzanne-collins-new-book/": {
+      "at": "2026-11-17T11:27:37+00:00",
       "status": "not_review"
     },
     "the hunger games sunrise on the reaping|2026|https://www.sensacine.com/noticias/cine/noticia-1000232501/": {
