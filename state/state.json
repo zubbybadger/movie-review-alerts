@@ -2940,6 +2940,16 @@
         "summary": "A thrilling, emotionally devastating, angry and hopeful entry with a stunning arena, despite some overstuffed prequel cameos.",
         "url": "https://mashable.com/entertainment/the-hunger-games-sunrise-on-the-reaping-review",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-17T14:31:36+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Time Out",
+        "rating": "",
+        "summary": "A strong, visually assured origin story with a terrific cast that deepens the lore, despite an overlong, less interesting second half.",
+        "url": "https://www.timeout.com/movies/the-hunger-games-sunrise-on-the-reaping-review-2026",
+        "verdict": "fresh"
       }
     ],
     "the mongoose|": [
@@ -7431,6 +7441,11 @@
       "at": "2026-11-17T14:04:42+00:00",
       "status": "review",
       "verdict": "rotten"
+    },
+    "the hunger games sunrise on the reaping|2026|https://www.timeout.com/movies/the-hunger-games-sunrise-on-the-reaping-review-2026": {
+      "at": "2026-11-17T14:31:36+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "the hunger games sunrise on the reaping|2026|https://www.usatoday.com/videos/entertainment/movies/2026/11/13/mckenna-grace-hunger-games-fan-edits/92749869007/": {
       "at": "2026-11-16T14:29:04+00:00",
