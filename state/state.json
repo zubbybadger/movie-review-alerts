@@ -2880,6 +2880,66 @@
         "summary": "Joseph Zada's heartfelt Haymitch, a strong cast led by Jesse Plemons, and potent anti-propaganda themes outweigh some overexplaining and drag.",
         "url": "https://www.cbr.com/hunger-games-sunrise-on-the-reaping-review/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-17T14:29:02+00:00",
+        "confidence": "low",
+        "critic": "",
+        "outlet": "RogerEbert.com",
+        "rating": "",
+        "summary": "Only a snippet is available; it frames the film as made for longtime fans, suggesting modest, fan-oriented approval.",
+        "url": "https://www.rogerebert.com/reviews/the-hunger-games-sunrise-on-the-reaping-prequel-movie-review-2026",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-17T14:29:05+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "SciFiNow",
+        "rating": "",
+        "summary": "Calls it one of the series' crowning achievements, with excellent performances, striking 70s-inspired visuals and an Andor-like enriching story.",
+        "url": "https://www.scifinow.co.uk/reviews/the-hunger-games-sunrise-on-the-reaping-review-a-eye-catching-return-to-panem/",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-17T14:29:08+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Winnipeg Free Press",
+        "rating": "3/4",
+        "summary": "A surprisingly strong sixth outing with an awesome Joseph Zada and expert pacing, despite reduced jeopardy and underused legacy characters.",
+        "url": "https://www.winnipegfreepress.com/arts-and-life/entertainment/2026/11/17/movie-review-the-hunger-games-sunrise-on-the-reaping-is-haymitch-abernathy-before-the-bottle",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-17T14:29:10+00:00",
+        "confidence": "low",
+        "critic": "Jesse Hassenger",
+        "outlet": "The A.V. Club",
+        "rating": "",
+        "summary": "An honorable, well-guided prequel with clever casting, though it feels like a fill-in entry that adds limited new ground.",
+        "url": "https://www.avclub.com/the-hunger-games-sunrise-on-the-reaping-prequel-review",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-17T14:29:13+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Little White Lies",
+        "rating": "",
+        "summary": "A gripping, emotionally bruising prequel with a standout Joseph Zada, inspired casting and striking visuals marking a return to form.",
+        "url": "https://www.lwlies.com/reviews/the-hunger-games-sunrise-on-the-reaping",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-17T14:29:16+00:00",
+        "confidence": "high",
+        "critic": "Belen Edwards",
+        "outlet": "Mashable",
+        "rating": "",
+        "summary": "A thrilling, emotionally devastating, angry and hopeful entry with a stunning arena, despite some overstuffed prequel cameos.",
+        "url": "https://mashable.com/entertainment/the-hunger-games-sunrise-on-the-reaping-review",
+        "verdict": "fresh"
       }
     ],
     "the mongoose|": [
@@ -7143,6 +7203,11 @@
       "at": "2026-11-16T14:29:19+00:00",
       "status": "not_review"
     },
+    "the hunger games sunrise on the reaping|2026|https://mashable.com/entertainment/the-hunger-games-sunrise-on-the-reaping-review": {
+      "at": "2026-11-17T14:29:16+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "the hunger games sunrise on the reaping|2026|https://moviecricket.net/blog/2026/11/16/review-the-hunger-games-sunrise-on-the-reaping-must-battle-too-much-fan-service-on-its-way-to-a-pre-ordained-prequel-ending": {
       "at": "2026-11-17T14:04:59+00:00",
       "status": "review",
@@ -7228,6 +7293,11 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "the hunger games sunrise on the reaping|2026|https://www.avclub.com/the-hunger-games-sunrise-on-the-reaping-prequel-review": {
+      "at": "2026-11-17T14:29:10+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "the hunger games sunrise on the reaping|2026|https://www.bollywoodhungama.com/news/bollywood/exclusive-godzilla-minus-zero-to-finally-release-in-india-on-november-20-pvr-inox-pictures-nayana-bijli-confirms-imax-release/": {
       "at": "2026-11-16T14:29:24+00:00",
       "status": "not_review"
@@ -7292,6 +7362,11 @@
       "status": "review",
       "verdict": "rotten"
     },
+    "the hunger games sunrise on the reaping|2026|https://www.lwlies.com/reviews/the-hunger-games-sunrise-on-the-reaping": {
+      "at": "2026-11-17T14:29:13+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "the hunger games sunrise on the reaping|2026|https://www.nytimes.com/2026/11/14/movies/whitney-peak-hunger-games-sunrise-reaping.html": {
       "at": "2026-11-16T14:29:02+00:00",
       "status": "not_review"
@@ -7310,9 +7385,19 @@
       "at": "2026-11-17T11:27:37+00:00",
       "status": "not_review"
     },
+    "the hunger games sunrise on the reaping|2026|https://www.rogerebert.com/reviews/the-hunger-games-sunrise-on-the-reaping-prequel-movie-review-2026": {
+      "at": "2026-11-17T14:29:02+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "the hunger games sunrise on the reaping|2026|https://www.scifinow.co.uk/interviews/the-hunger-games-sunrise-on-the-reaping-francis-lawrence-and-nina-jacobson/": {
       "at": "2026-11-17T13:29:04+00:00",
       "status": "not_review"
+    },
+    "the hunger games sunrise on the reaping|2026|https://www.scifinow.co.uk/reviews/the-hunger-games-sunrise-on-the-reaping-review-a-eye-catching-return-to-panem/": {
+      "at": "2026-11-17T14:29:05+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "the hunger games sunrise on the reaping|2026|https://www.screendaily.com/reviews/the-hunger-games-sunrise-on-the-reaping-review-underwhelming-prequel-to-hit-ya-franchise-suffers-from-a-lack-of-compelling-characters/5222281.article": {
       "at": "2026-11-17T14:05:25+00:00",
@@ -7354,6 +7439,11 @@
     "the hunger games sunrise on the reaping|2026|https://www.usatoday.com/videos/entertainment/movies/2026/11/16/jennifer-lawrence-shuts-down-sunrise-on-the-reaping-carpet/92819293007/": {
       "at": "2026-11-17T01:14:55+00:00",
       "status": "not_review"
+    },
+    "the hunger games sunrise on the reaping|2026|https://www.winnipegfreepress.com/arts-and-life/entertainment/2026/11/17/movie-review-the-hunger-games-sunrise-on-the-reaping-is-haymitch-abernathy-before-the-bottle": {
+      "at": "2026-11-17T14:29:08+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "the mongoose||http://www.markreviewsmovies.com/reviews/M/mongoose.htm": {
       "at": "2026-10-29T14:31:52+00:00",
