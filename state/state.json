@@ -3010,6 +3010,26 @@
         "summary": "Headline suggests the film follows familiar beats but delivers genuine emotional impact, implying a positive take.",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPS2RiNmRKeFdXQ1BiN3htSEJDckRtVnViZldlTFlBSTBsU0dHbmp0aDZ5ZW1wZy16cThfZUFOZzVfdkV5N19DQlZlaXlvM3FrUVZ5dU1tLVM3U1dwTHdfbzJZbnFnQzExTWE3MmdCNDJ6TV9USnJ2OF9aMTJscXhrUHBDV01TZw?oc=5",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-17T18:28:57+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "The Pitch",
+        "rating": "",
+        "summary": "Joseph Zada's gripping performance, faithful adaptation, and sharp media-propaganda themes make it a soulful, needed addition to the franchise.",
+        "url": "https://www.thepitchkc.com/sunrise-on-the-reaping-offers-up-something-new-to-the-hunger-games-without-sacrificing-soul/",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-17T18:29:00+00:00",
+        "confidence": "low",
+        "critic": "Lisa Weidenfeld",
+        "outlet": "Boston Globe",
+        "rating": "2.5/4",
+        "summary": "Too familiar and perfunctory in the arena, but strong supporting turns and the tragic emotional weight of Haymitch's story give it heft.",
+        "url": "https://www.bostonglobe.com/2026/11/17/arts/hunger-games-sunrise-on-the-reaping/",
+        "verdict": "fresh"
       }
     ],
     "the mongoose|": [
@@ -7359,6 +7379,10 @@
       "at": "2026-11-17T15:58:59+00:00",
       "status": "not_review"
     },
+    "the hunger games sunrise on the reaping|2026|https://screenrant.com/video/hunger-games-review-sunrise-on-the-reaping-has-lost-its-bite/": {
+      "at": "2026-11-17T18:29:07+00:00",
+      "status": "duplicate"
+    },
     "the hunger games sunrise on the reaping|2026|https://silverscreenriot.com/sunrise-on-the-reaping-review/": {
       "at": "2026-11-17T14:04:47+00:00",
       "status": "review",
@@ -7409,6 +7433,10 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "the hunger games sunrise on the reaping|2026|https://www.bbc.co.uk/news/articles/c9vg2xgn0xe5o?at_medium=RSS&at_campaign=rss": {
+      "at": "2026-11-17T18:29:04+00:00",
+      "status": "not_review"
+    },
     "the hunger games sunrise on the reaping|2026|https://www.bollywoodhungama.com/news/bollywood/exclusive-godzilla-minus-zero-to-finally-release-in-india-on-november-20-pvr-inox-pictures-nayana-bijli-confirms-imax-release/": {
       "at": "2026-11-16T14:29:24+00:00",
       "status": "not_review"
@@ -7416,6 +7444,11 @@
     "the hunger games sunrise on the reaping|2026|https://www.bollywoodhungama.com/news/features/exclusive-pvr-inoxs-nayana-bijli-opens-up-on-distributing-shraddha-kapoors-eetha-and-its-clash-with-salman-khans-maatrubhumi-sometimes-these-things-happen-it-is-inevitable/": {
       "at": "2026-11-17T06:28:32+00:00",
       "status": "not_review"
+    },
+    "the hunger games sunrise on the reaping|2026|https://www.bostonglobe.com/2026/11/17/arts/hunger-games-sunrise-on-the-reaping/": {
+      "at": "2026-11-17T18:29:00+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "the hunger games sunrise on the reaping|2026|https://www.cbr.com/hunger-games-sunrise-on-the-reaping-review/": {
       "at": "2026-11-17T14:05:57+00:00",
@@ -7432,6 +7465,10 @@
     },
     "the hunger games sunrise on the reaping|2026|https://www.comingsoon.net/movies/news/2225085-sunrise-on-the-reaping-rt-score-2-other-hunger-games-movies": {
       "at": "2026-11-17T17:28:55+00:00",
+      "status": "not_review"
+    },
+    "the hunger games sunrise on the reaping|2026|https://www.comingsoon.net/movies/news/2225261-ben-wang-iceman-hint-mcu-x-men": {
+      "at": "2026-11-17T18:29:09+00:00",
       "status": "not_review"
     },
     "the hunger games sunrise on the reaping|2026|https://www.comingsoon.net/movies/reviews/2224727-the-hunger-games-sunrise-on-the-reaping-review-a-tragic-powerful-dystopian-thriller": {
@@ -7563,6 +7600,11 @@
       "at": "2026-11-17T14:04:42+00:00",
       "status": "review",
       "verdict": "rotten"
+    },
+    "the hunger games sunrise on the reaping|2026|https://www.thepitchkc.com/sunrise-on-the-reaping-offers-up-something-new-to-the-hunger-games-without-sacrificing-soul/": {
+      "at": "2026-11-17T18:28:57+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "the hunger games sunrise on the reaping|2026|https://www.timeout.com/movies/the-hunger-games-sunrise-on-the-reaping-review-2026": {
       "at": "2026-11-17T14:31:36+00:00",
