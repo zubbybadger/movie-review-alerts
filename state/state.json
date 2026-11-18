@@ -3120,6 +3120,16 @@
         "summary": "Critic finds the prequel a grim slog of suffering for a character whose revenge and happy ending happen in an older film.",
         "url": "https://splicedpersonality.com/2026/11/18/the-hunger-games-sunrise-on-the-reaping/",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-18T12:50:35+00:00",
+        "confidence": "high",
+        "critic": "Anthony Morris",
+        "outlet": "It's Better in the Dark",
+        "rating": "",
+        "summary": "The deathsport action works, and the film gains bite from its dark, timely portrait of a ruthless system crushing rebellion.",
+        "url": "https://itsbetterinthedark.blogspot.com/2026/11/review-hunger-games-sunrise-on-reaping.html",
+        "verdict": "fresh"
       }
     ],
     "the mongoose|": [
@@ -7422,6 +7432,11 @@
     },
     "the hunger games sunrise on the reaping|2026|https://hipertextual.com/cine-television/los-juegos-del-hambre-amanecer-en-la-cosecha-critica/": {
       "at": "2026-11-17T16:01:09+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "the hunger games sunrise on the reaping|2026|https://itsbetterinthedark.blogspot.com/2026/11/review-hunger-games-sunrise-on-reaping.html": {
+      "at": "2026-11-18T12:50:35+00:00",
       "status": "review",
       "verdict": "fresh"
     },
