@@ -3110,6 +3110,16 @@
         "summary": "Not the best-acted entry, but a fairly strong franchise addition with compelling story, emotions, memorable characters, and gorgeous visuals.",
         "url": "https://culturemixonline.com/review-the-hunger-games-sunrise-on-the-reaping-starring-joseph-zada-jesse-plemons-ralph-fiennes-glenn-close-kieran-culkin-elle-fanning-mckenna-grace-maya-hawke-whitney-peak-and-kelvin-harrison-jr/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-18T08:29:05+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "Spliced Personality",
+        "rating": "",
+        "summary": "Critic finds the prequel a grim slog of suffering for a character whose revenge and happy ending happen in an older film.",
+        "url": "https://splicedpersonality.com/2026/11/18/the-hunger-games-sunrise-on-the-reaping/",
+        "verdict": "rotten"
       }
     ],
     "the mongoose|": [
@@ -7512,6 +7522,11 @@
       "at": "2026-11-17T14:04:47+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "the hunger games sunrise on the reaping|2026|https://splicedpersonality.com/2026/11/18/the-hunger-games-sunrise-on-the-reaping/": {
+      "at": "2026-11-18T08:29:05+00:00",
+      "status": "review",
+      "verdict": "rotten"
     },
     "the hunger games sunrise on the reaping|2026|https://thefutureoftheforce.com/2026/11/17/review-the-hunger-games-sunrise-on-the-reaping-2026/": {
       "at": "2026-11-17T14:05:45+00:00",
