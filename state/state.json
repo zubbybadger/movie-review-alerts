@@ -3160,6 +3160,16 @@
         "summary": "Despite foregone-conclusion prequel issues, the film delivers rousing Hunger Games action and Francis Lawrence sustains a resonant, maturing gloom.",
         "url": "https://www.vulture.com/article/hunger-games-sunrise-on-the-reaping-tries-a-vibe-shift.html",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-18T18:39:36+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Lamplight Review",
+        "rating": "",
+        "summary": "Zada's standout Haymitch, Plemons' chilling Plutarch and timely themes make it the prequel Ballad should have been, despite excess length and toothless violence.",
+        "url": "https://lamplightreview.com/movie-review-the-hunger-games-sunrise-on-the-reaping/",
+        "verdict": "fresh"
       }
     ],
     "the mongoose|": [
@@ -7482,6 +7492,11 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "the hunger games sunrise on the reaping|2026|https://lamplightreview.com/movie-review-the-hunger-games-sunrise-on-the-reaping/": {
+      "at": "2026-11-18T18:39:36+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "the hunger games sunrise on the reaping|2026|https://mashable.com/entertainment/the-hunger-games-sunrise-on-the-reaping-choose-your-squad-mckenna-grace": {
       "at": "2026-11-16T14:29:19+00:00",
       "status": "not_review"
@@ -7708,6 +7723,10 @@
     },
     "the hunger games sunrise on the reaping|2026|https://www.comingsoon.net/movies/news/2225261-ben-wang-iceman-hint-mcu-x-men": {
       "at": "2026-11-17T18:29:09+00:00",
+      "status": "not_review"
+    },
+    "the hunger games sunrise on the reaping|2026|https://www.comingsoon.net/movies/news/2226545-sunrise-on-the-reaping-box-office-projections-way-ahead-hunger-games-movie": {
+      "at": "2026-11-18T18:39:39+00:00",
       "status": "not_review"
     },
     "the hunger games sunrise on the reaping|2026|https://www.comingsoon.net/movies/reviews/2224727-the-hunger-games-sunrise-on-the-reaping-review-a-tragic-powerful-dystopian-thriller": {
