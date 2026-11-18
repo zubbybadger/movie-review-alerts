@@ -3100,6 +3100,16 @@
         "summary": "An enjoyable, visually spectacular prequel with a powerful finale, though underdeveloped characters and shaky performances make it the franchise's weakest entry.",
         "url": "https://filmfestivaltoday.com/film-reviews/sunrise-on-the-reaping-is-entertaining-yet-unrefined",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-18T03:17:25+00:00",
+        "confidence": "high",
+        "critic": "Carla Hay",
+        "outlet": "Culture Mix",
+        "rating": "",
+        "summary": "Not the best-acted entry, but a fairly strong franchise addition with compelling story, emotions, memorable characters, and gorgeous visuals.",
+        "url": "https://culturemixonline.com/review-the-hunger-games-sunrise-on-the-reaping-starring-joseph-zada-jesse-plemons-ralph-fiennes-glenn-close-kieran-culkin-elle-fanning-mckenna-grace-maya-hawke-whitney-peak-and-kelvin-harrison-jr/",
+        "verdict": "fresh"
       }
     ],
     "the mongoose|": [
@@ -7365,6 +7375,11 @@
       "at": "2026-11-16T21:29:19+00:00",
       "status": "not_review"
     },
+    "the hunger games sunrise on the reaping|2026|https://culturemixonline.com/review-the-hunger-games-sunrise-on-the-reaping-starring-joseph-zada-jesse-plemons-ralph-fiennes-glenn-close-kieran-culkin-elle-fanning-mckenna-grace-maya-hawke-whitney-peak-and-kelvin-harrison-jr/": {
+      "at": "2026-11-18T03:17:25+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "the hunger games sunrise on the reaping|2026|https://deadline.com/2026/11/francis-lawrence-hunger-games-sunrise-on-the-reaping-premiere-1237226905/": {
       "at": "2026-11-17T22:19:31+00:00",
       "status": "not_review"
@@ -7786,6 +7801,10 @@
     },
     "the hunger games sunrise on the reaping|2026|https://www.usatoday.com/videos/entertainment/movies/2026/11/16/rachel-zegler-hunger-games-nyc-premiere/92818482007/": {
       "at": "2026-11-17T21:19:36+00:00",
+      "status": "not_review"
+    },
+    "the hunger games sunrise on the reaping|2026|https://www.usatoday.com/videos/entertainment/movies/2026/11/17/mckenna-grace-hunger-games-mockingjay-pin/92761652007/": {
+      "at": "2026-11-18T03:17:29+00:00",
       "status": "not_review"
     },
     "the hunger games sunrise on the reaping|2026|https://www.winnipegfreepress.com/arts-and-life/entertainment/2026/11/17/movie-review-the-hunger-games-sunrise-on-the-reaping-is-haymitch-abernathy-before-the-bottle": {
