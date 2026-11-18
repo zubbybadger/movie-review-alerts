@@ -7080,6 +7080,10 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "i play rocky||https://www.npr.org/2026/11/18/nx-s1-6045726/elsinore-i-play-rocky-review": {
+      "at": "2026-11-18T18:28:59+00:00",
+      "status": "duplicate"
+    },
     "i play rocky||https://www.nytimes.com/2026/11/05/movies/i-play-rocky-review-hes-a-champion.html": {
       "at": "2026-11-05T17:39:24+00:00",
       "status": "review",
@@ -7436,6 +7440,10 @@
     },
     "the hunger games sunrise on the reaping|2026|https://deadline.com/2026/11/francis-lawrence-hunger-games-sunrise-on-the-reaping-premiere-1237226905/": {
       "at": "2026-11-17T22:19:31+00:00",
+      "status": "not_review"
+    },
+    "the hunger games sunrise on the reaping|2026|https://deadline.com/2026/11/hunger-games-sunrise-on-the-reaping-box-office-opening-forecast-1237228101/": {
+      "at": "2026-11-18T18:28:57+00:00",
       "status": "not_review"
     },
     "the hunger games sunrise on the reaping|2026|https://deadline.com/2026/11/percy-jackson-and-the-olympians-season-3-release-schedule-1237226036/": {
