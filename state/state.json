@@ -2386,6 +2386,16 @@
         "summary": "Praised as a biopic reviving 1970s cinematic audacity through a story of artistic faith and stubborn struggle to make Rocky.",
         "url": "https://es.rollingstone.com/critica-yo-soy-rocky-i-play-rocky/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-18T20:28:54+00:00",
+        "confidence": "low",
+        "critic": "Rick Kushman",
+        "outlet": "KGET",
+        "rating": "",
+        "summary": "Only a snippet is available; the headline's 'fairytale story' framing suggests a mildly positive take on Ippolito playing Stallone.",
+        "url": "https://www.kget.com/community/ricks-reviews/i-play-rocky-charts-fairytale-story-of-making-rocky/",
+        "verdict": "fresh"
       }
     ],
     "the cat in the hat|2026": [
@@ -3180,6 +3190,16 @@
         "summary": "A thrilling, ruthless prequel with gripping Games, strong performances from Close, Fiennes and Zada, and well-balanced fan service.",
         "url": "https://amovieguy.com/2026/11/the-hunger-games-sunrise-on-the-reaping/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-18T20:28:51+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Los Angeles Times",
+        "rating": "",
+        "summary": "A suspense-free, predictable prequel rehashing earlier films, with restrained violence and muddled plotting; only Mckenna Grace and Capitol characters liven it.",
+        "url": "https://www.latimes.com/entertainment-arts/movies/story/2026-11-18/hunger-games-sunrise-on-the-reaping-review-joseph-zada-mckenna-grace-ralph-fiennes-jesse-plemons-francis-lawrence",
+        "verdict": "rotten"
       }
     ],
     "the mongoose|": [
@@ -7059,6 +7079,11 @@
       "at": "2026-11-05T20:14:44+00:00",
       "status": "not_review"
     },
+    "i play rocky||https://www.kget.com/community/ricks-reviews/i-play-rocky-charts-fairytale-story-of-making-rocky/": {
+      "at": "2026-11-18T20:28:54+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "i play rocky||https://www.latimes.com/entertainment-arts/awards/story/2026-11-12/i-play-rocky-afi-fest-envelope-podcast": {
       "at": "2026-11-12T11:28:47+00:00",
       "status": "not_review"
@@ -7830,6 +7855,11 @@
     },
     "the hunger games sunrise on the reaping|2026|https://www.indiewire.com/criticism/shows/the-hunger-games-sunrise-on-the-reaping-review-1235228481/": {
       "at": "2026-11-17T14:04:45+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
+    "the hunger games sunrise on the reaping|2026|https://www.latimes.com/entertainment-arts/movies/story/2026-11-18/hunger-games-sunrise-on-the-reaping-review-joseph-zada-mckenna-grace-ralph-fiennes-jesse-plemons-francis-lawrence": {
+      "at": "2026-11-18T20:28:51+00:00",
       "status": "review",
       "verdict": "rotten"
     },
