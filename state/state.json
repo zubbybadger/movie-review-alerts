@@ -3140,6 +3140,26 @@
         "summary": "Joseph Zada is a revelation in a devastating, moving tale of loss and rebellion, despite trimming the novel's political intricacies.",
         "url": "https://theplaylist.net/hunger-games-sunrise-on-the-reaping-review-joseph-zada-francis-lawrence-20261118/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-18T16:28:53+00:00",
+        "confidence": "medium",
+        "critic": "Laura Clifford",
+        "outlet": "Reeling Reviews",
+        "rating": "B-",
+        "summary": "A moving origin story with a starry cast and dazzling spectacle makes it worthwhile, though the franchise feels tapped dry.",
+        "url": "https://www.reelingreviews.com/reviews/the-hunger-games-sunrise-on-the-reaping/",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-18T16:28:56+00:00",
+        "confidence": "medium",
+        "critic": "Bilge Ebiri",
+        "outlet": "Vulture",
+        "rating": "",
+        "summary": "Despite foregone-conclusion prequel issues, the film delivers rousing Hunger Games action and Francis Lawrence sustains a resonant, maturing gloom.",
+        "url": "https://www.vulture.com/article/hunger-games-sunrise-on-the-reaping-tries-a-vibe-shift.html",
+        "verdict": "fresh"
       }
     ],
     "the mongoose|": [
@@ -7774,6 +7794,11 @@
       "at": "2026-11-17T11:27:37+00:00",
       "status": "not_review"
     },
+    "the hunger games sunrise on the reaping|2026|https://www.reelingreviews.com/reviews/the-hunger-games-sunrise-on-the-reaping/": {
+      "at": "2026-11-18T16:28:53+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "the hunger games sunrise on the reaping|2026|https://www.rogerebert.com/reviews/the-hunger-games-sunrise-on-the-reaping-prequel-movie-review-2026": {
       "at": "2026-11-17T14:29:02+00:00",
       "status": "review",
@@ -7883,6 +7908,11 @@
     "the hunger games sunrise on the reaping|2026|https://www.usatoday.com/videos/entertainment/movies/2026/11/17/mckenna-grace-hunger-games-mockingjay-pin/92761652007/": {
       "at": "2026-11-18T03:17:29+00:00",
       "status": "not_review"
+    },
+    "the hunger games sunrise on the reaping|2026|https://www.vulture.com/article/hunger-games-sunrise-on-the-reaping-tries-a-vibe-shift.html": {
+      "at": "2026-11-18T16:28:56+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "the hunger games sunrise on the reaping|2026|https://www.winnipegfreepress.com/arts-and-life/entertainment/2026/11/17/movie-review-the-hunger-games-sunrise-on-the-reaping-is-haymitch-abernathy-before-the-bottle": {
       "at": "2026-11-17T14:29:08+00:00",
