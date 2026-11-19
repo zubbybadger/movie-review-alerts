@@ -3692,6 +3692,26 @@
         "summary": "An ambitious, cruel, surprisingly thrilling and moving prequel that proves the saga's continued relevance.",
         "url": "https://es.rollingstone.com/critica-los-juegos-del-hambre-amanecer-en-la-cosecha-the-hunger-games-sunrise-on-the-reaping/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-19T21:29:04+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Washington City Paper",
+        "rating": "",
+        "summary": "A moving, timely prequel with stunning Games, deft direction from Francis Lawrence, and an excellent, star-making performance from Joseph Zada.",
+        "url": "https://washingtoncitypaper.com/article/795097/sunrise-on-the-reaping-is-the-hunger-games-prequel-we-never-knew-we-needed/",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-19T21:29:07+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "Beyond the Cinerama Dome",
+        "rating": "",
+        "summary": "Juggles too many characters and faceless tributes, and waters down the book's severity, lacking the anger of earlier installments.",
+        "url": "https://beyondthecineramadome.com/movie-reviews/the-hunger-games-sunrise-on-the-reaping-film-review",
+        "verdict": "rotten"
       }
     ],
     "the mongoose|": [
@@ -8065,6 +8085,10 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "the further mis adventures of cliff booth|2026|https://screenrant.com/video/cliff-booth-review-a-violent-sequel-with-real-soul/": {
+      "at": "2026-11-19T21:29:09+00:00",
+      "status": "duplicate"
+    },
     "the further mis adventures of cliff booth|2026|https://silverscreenriot.com/further-mis-adventures-of-cliff-booth-review/": {
       "at": "2026-11-19T18:04:49+00:00",
       "status": "review",
@@ -8106,6 +8130,10 @@
       "at": "2026-11-19T18:29:16+00:00",
       "status": "review",
       "verdict": "rotten"
+    },
+    "the further mis adventures of cliff booth|2026|https://www.cbr.com/the-further-mis-adventures-of-cliff-booth-rotten-tomatoes-score/": {
+      "at": "2026-11-19T21:29:14+00:00",
+      "status": "not_review"
     },
     "the further mis adventures of cliff booth|2026|https://www.cbr.com/the-further-misadventures-of-cliff-booth-review/": {
       "at": "2026-11-19T18:06:10+00:00",
@@ -8249,6 +8277,11 @@
       "at": "2026-11-18T19:29:04+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "the hunger games sunrise on the reaping|2026|https://beyondthecineramadome.com/movie-reviews/the-hunger-games-sunrise-on-the-reaping-film-review": {
+      "at": "2026-11-19T21:29:07+00:00",
+      "status": "review",
+      "verdict": "rotten"
     },
     "the hunger games sunrise on the reaping|2026|https://bostonhassle.com/review-the-hunger-games-sunrise-on-the-reaping-2026-dir-francis-lawrence/": {
       "at": "2026-11-19T15:28:41+00:00",
@@ -8408,6 +8441,10 @@
       "at": "2026-11-17T03:15:09+00:00",
       "status": "not_review"
     },
+    "the hunger games sunrise on the reaping|2026|https://screenrant.com/db/movie/the-hunger-games-sunrise-on-the-reaping/": {
+      "at": "2026-11-19T21:29:11+00:00",
+      "status": "not_review"
+    },
     "the hunger games sunrise on the reaping|2026|https://screenrant.com/hunger-games-new-movie-after-sunrise-on-the-reaping-lionsgate-comments/": {
       "at": "2026-11-17T19:29:29+00:00",
       "status": "not_review"
@@ -8540,6 +8577,11 @@
     "the hunger games sunrise on the reaping|2026|https://variety.com/2026/shopping/news/jennifer-lawrence-hunger-games-premiere-dior-fur-coat-shop-1236950905/": {
       "at": "2026-11-17T23:17:00+00:00",
       "status": "not_review"
+    },
+    "the hunger games sunrise on the reaping|2026|https://washingtoncitypaper.com/article/795097/sunrise-on-the-reaping-is-the-hunger-games-prequel-we-never-knew-we-needed/": {
+      "at": "2026-11-19T21:29:04+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "the hunger games sunrise on the reaping|2026|https://www.20minutos.es/cinemania/criticas/critica-juegos-hambre-amanecer-cosecha-mejor-pelicula-llamas-joseph-zada-mckenna-grace-estreno-20-noviembre_7056700_0.html": {
       "at": "2026-11-19T08:50:48+00:00",
