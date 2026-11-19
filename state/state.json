@@ -3682,6 +3682,16 @@
         "summary": "Despite Joseph Zada's charisma, the film sprawls into excess: caricatured side characters, clumsy narration, wasted cameos and hollow digital effects.",
         "url": "https://www.elmundo.es/cultura/cine/2026/11/19/6afde19ee4d4d839248b4588.html",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-19T19:29:28+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "Rolling Stone en Espa\u00f1ol",
+        "rating": "",
+        "summary": "An ambitious, cruel, surprisingly thrilling and moving prequel that proves the saga's continued relevance.",
+        "url": "https://es.rollingstone.com/critica-los-juegos-del-hambre-amanecer-en-la-cosecha-the-hunger-games-sunrise-on-the-reaping/",
+        "verdict": "fresh"
       }
     ],
     "the mongoose|": [
@@ -8288,6 +8298,11 @@
       "at": "2026-11-17T14:04:50+00:00",
       "status": "not_review"
     },
+    "the hunger games sunrise on the reaping|2026|https://es.rollingstone.com/critica-los-juegos-del-hambre-amanecer-en-la-cosecha-the-hunger-games-sunrise-on-the-reaping/": {
+      "at": "2026-11-19T19:29:28+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "the hunger games sunrise on the reaping|2026|https://filmfestivaltoday.com/film-reviews/sunrise-on-the-reaping-is-entertaining-yet-unrefined": {
       "at": "2026-11-18T02:27:21+00:00",
       "status": "review",
@@ -8344,6 +8359,10 @@
       "at": "2026-11-17T16:28:55+00:00",
       "status": "not_review"
     },
+    "the hunger games sunrise on the reaping|2026|https://movieweb.com/sunrise-reaping-katniss-everdeen-replace/": {
+      "at": "2026-11-19T19:29:32+00:00",
+      "status": "not_review"
+    },
     "the hunger games sunrise on the reaping|2026|https://movieweb.com/tag/movie/the-hunger-games-sunrise-on-the-reaping/": {
       "at": "2026-11-17T14:05:55+00:00",
       "status": "not_review"
@@ -8362,6 +8381,10 @@
       "at": "2026-11-17T22:29:26+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "the hunger games sunrise on the reaping|2026|https://news.google.com/rss/articles/CBMilAFBVV95cUxQS1hsNXdBS1hCT3Q5U0c0eUlfWjlaWHFkWnpRaTBmR1ktOFFOR1VtbTNaSG5yY3RpQ2xaV3JKWmZVTlNwdVhTYm1hdm9vc0c5R3pvVHBJOFJnNnhWaHpseVJkTW1ZOERDcGk4cmhBVk1xMVBCZ2x4bEd5WGYwc3NnUEpNbmhWM3pOa1ZVSG1jSHpObnF0?oc=5": {
+      "at": "2026-11-19T19:29:31+00:00",
+      "status": "not_review"
     },
     "the hunger games sunrise on the reaping|2026|https://nextbestpicture.com/the-hunger-games-sunrise-on-the-reaping/": {
       "at": "2026-11-17T14:05:37+00:00",
