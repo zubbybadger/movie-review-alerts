@@ -2416,6 +2416,16 @@
         "summary": "Charming and rousing underdog tale with an uncanny Ippolito performance as Stallone, despite leaning on every making-of-a-movie cliche.",
         "url": "https://moviecricket.net/blog/2026/11/18/review-i-play-rocky-is-a-charming-cliche-filled-look-at-the-making-of-a-classic-underdog-movie-with-newcomer-anthony-ippolito-impressive-as-a-note-perfect-sylvester-stallone",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-19T09:29:18+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Film Threat",
+        "rating": "",
+        "summary": "Praises Anthony Ippolito's uncanny Stallone and AnnaSophia Robb, calling it the feel-good movie of the season and deserving of awards attention.",
+        "url": "https://filmthreat.com/reviews/i-play-rocky/",
+        "verdict": "fresh"
       }
     ],
     "the cat in the hat|2026": [
@@ -3240,6 +3250,16 @@
         "summary": "The prequel adds nothing to Panem's mythology, and known outcomes leave it emotionally flat despite committed performances from Grace and Zada.",
         "url": "https://1morefilmblog.com/2026/11/18/the-hunger-games-sunrise-on-the-reaping-lawrence-2026/",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-19T09:29:21+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "Clar\u00edn",
+        "rating": "Buena",
+        "summary": "Entertaining and effective thanks to Haymitch and Maysilee, with a strong cast; overlong with unremarkable fights, but won't disappoint fans.",
+        "url": "https://www.clarin.com/espectaculos/juegos-hambre-amanecer-cosecha-da-vuelta-tuerca-reality-distopico-juvenil_0_TFfB1prcrc.html",
+        "verdict": "fresh"
       }
     ],
     "the mongoose|": [
@@ -6803,6 +6823,11 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "i play rocky||https://filmthreat.com/reviews/i-play-rocky/": {
+      "at": "2026-11-19T09:29:18+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "i play rocky||https://indianexpress.com/article/entertainment/movie-review/i-play-rocky-review-anthony-ippolito-shines-in-a-delightful-tribute-to-sylvester-stallone-10962094/": {
       "at": "2026-11-13T17:20:08+00:00",
       "status": "review",
@@ -7817,6 +7842,11 @@
     },
     "the hunger games sunrise on the reaping|2026|https://www.cgmagonline.com/review/the-hunger-games-sunrise-on-the-reaping/": {
       "at": "2026-11-17T20:29:10+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "the hunger games sunrise on the reaping|2026|https://www.clarin.com/espectaculos/juegos-hambre-amanecer-cosecha-da-vuelta-tuerca-reality-distopico-juvenil_0_TFfB1prcrc.html": {
+      "at": "2026-11-19T09:29:21+00:00",
       "status": "review",
       "verdict": "fresh"
     },
