@@ -2406,6 +2406,16 @@
         "summary": "An awesome crowd-pleaser anchored by Anthony Ippolito's uncanny Stallone, though supporting characters like Sasha and Talia Shire feel underdeveloped.",
         "url": "https://thesunbreak.com/2026/11/18/i-play-rocky-2026-review/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-19T06:26:32+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "Movie Cricket",
+        "rating": "3/4",
+        "summary": "Charming and rousing underdog tale with an uncanny Ippolito performance as Stallone, despite leaning on every making-of-a-movie cliche.",
+        "url": "https://moviecricket.net/blog/2026/11/18/review-i-play-rocky-is-a-charming-cliche-filled-look-at-the-making-of-a-classic-underdog-movie-with-newcomer-anthony-ippolito-impressive-as-a-note-perfect-sylvester-stallone",
+        "verdict": "fresh"
       }
     ],
     "the cat in the hat|2026": [
@@ -6809,6 +6819,11 @@
     },
     "i play rocky||https://mashable.com/entertainment/i-play-rocky-review": {
       "at": "2026-11-06T10:41:12+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "i play rocky||https://moviecricket.net/blog/2026/11/18/review-i-play-rocky-is-a-charming-cliche-filled-look-at-the-making-of-a-classic-underdog-movie-with-newcomer-anthony-ippolito-impressive-as-a-note-perfect-sylvester-stallone": {
+      "at": "2026-11-19T06:26:32+00:00",
       "status": "review",
       "verdict": "fresh"
     },
