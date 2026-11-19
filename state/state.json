@@ -2980,6 +2980,56 @@
         "summary": "Despite almost no story, Pitt is a delight, the production design is exquisite, and Fincher adds clever commentary on modern viewing.",
         "url": "https://www.cbr.com/the-further-misadventures-of-cliff-booth-review/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-19T18:29:14+00:00",
+        "confidence": "low",
+        "critic": "",
+        "outlet": "Winnipeg Free Press",
+        "rating": "2.5/4",
+        "summary": "Aimless and lacking purpose, but Pitt's cool performance and Fincher's craft make it wonderfully fun moment to moment.",
+        "url": "https://www.winnipegfreepress.com/arts-and-life/entertainment/2026/11/19/movie-review-the-further-mis-adventures-of-cliff-booth-burnishes-the-legend-of-a-stuntman-hero",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-19T18:29:16+00:00",
+        "confidence": "medium",
+        "critic": "Monica Castillo",
+        "outlet": "The A.V. Club",
+        "rating": "",
+        "summary": "Fincher's gritty, tonally uneven sequel loses the warmth and Hollywood lyricism of Tarantino's original, treating Hollywood as an afterthought.",
+        "url": "https://www.avclub.com/the-further-mis-adventures-of-cliff-booth-review-quentin-tarantino-sequel-david-fincher-brad-pitt-netflix",
+        "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-19T18:29:20+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "/Film",
+        "rating": "7/10",
+        "summary": "Fincher's best in years with standout set pieces, though its cold, mean-spirited tone and tonal clashes keep it below Hollywood.",
+        "url": "https://www.slashfilm.com/2320655/the-further-mis-adventures-of-cliff-booth-review-brad-pitt-netflix-sequel/",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-19T18:29:22+00:00",
+        "confidence": "high",
+        "critic": "Brian Eggert",
+        "outlet": "Deep Focus Review",
+        "rating": "",
+        "summary": "An effortlessly enjoyable hangout sequel with superb Tarantino dialogue and Pitt's cool charisma; its main flaw is ending too soon.",
+        "url": "https://www.deepfocusreview.com/reviews/the-further-mis-adventures-of-cliff-booth/",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-19T18:29:25+00:00",
+        "confidence": "low",
+        "critic": "",
+        "outlet": "Looper",
+        "rating": "",
+        "summary": "Only the headline was available, so the critic's opinion cannot be determined from the page content.",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZXhHZlIwUUNBNUw2dGpGYzFWQUxzejZqMGVjaHJMZjlfOE14SkVweHg2a3dtaHdJWkpGamtXR1JYaFJWWWRick8wY2NIU0FqSzIzQmNXOHFkX3Z5eUdzTXBqMXowbVJxNkJsb1dTZlIyaUxfNkJMeGFaTEphV196RUY2Yk9HZw?oc=5",
+        "verdict": "fresh"
       }
     ],
     "the hunger games sunrise on the reaping|2026": [
@@ -3621,6 +3671,16 @@
         "rating": "",
         "summary": "Crisply staged with a great cast, but the thin, redundant backstory mirrors Katniss' arc, lowering stakes and failing to justify itself.",
         "url": "https://thereveal.film/in-review-the-hunger-games-sunrise-on-the-reaping-elsinore-minotaur/",
+        "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-19T18:29:11+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "El Mundo",
+        "rating": "2/5",
+        "summary": "Despite Joseph Zada's charisma, the film sprawls into excess: caricatured side characters, clumsy narration, wasted cameos and hollow digital effects.",
+        "url": "https://www.elmundo.es/cultura/cine/2026/11/19/6afde19ee4d4d839248b4588.html",
         "verdict": "rotten"
       }
     ],
@@ -7905,6 +7965,10 @@
       "status": "review",
       "verdict": "rotten"
     },
+    "the further mis adventures of cliff booth|2026|https://collider.com/quentin-tarantino-the-further-mis-adventures-of-cliff-booth-rotten-tomatoes-score/": {
+      "at": "2026-11-19T18:29:17+00:00",
+      "status": "not_review"
+    },
     "the further mis adventures of cliff booth|2026|https://collider.com/tag/movie/the-adventures-of-cliff-booth/": {
       "at": "2026-11-19T18:05:36+00:00",
       "status": "not_review"
@@ -7947,6 +8011,11 @@
     },
     "the further mis adventures of cliff booth|2026|https://movieweb.com/the-further-mis-adventures-of-cliff-booth-review/": {
       "at": "2026-11-19T18:06:05+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "the further mis adventures of cliff booth|2026|https://news.google.com/rss/articles/CBMihgFBVV95cUxOZXhHZlIwUUNBNUw2dGpGYzFWQUxzejZqMGVjaHJMZjlfOE14SkVweHg2a3dtaHdJWkpGamtXR1JYaFJWWWRick8wY2NIU0FqSzIzQmNXOHFkX3Z5eUdzTXBqMXowbVJxNkJsb1dTZlIyaUxfNkJMeGFaTEphV196RUY2Yk9HZw?oc=5": {
+      "at": "2026-11-19T18:29:25+00:00",
       "status": "review",
       "verdict": "fresh"
     },
@@ -8011,6 +8080,11 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "the further mis adventures of cliff booth|2026|https://www.avclub.com/the-further-mis-adventures-of-cliff-booth-review-quentin-tarantino-sequel-david-fincher-brad-pitt-netflix": {
+      "at": "2026-11-19T18:29:16+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
     "the further mis adventures of cliff booth|2026|https://www.cbr.com/the-further-misadventures-of-cliff-booth-review/": {
       "at": "2026-11-19T18:06:10+00:00",
       "status": "review",
@@ -8018,6 +8092,11 @@
     },
     "the further mis adventures of cliff booth|2026|https://www.comingsoon.net/movies/reviews/2227004-the-further-mis-adventures-of-cliff-booth-review-brad-pitts-violent-movie-entertains": {
       "at": "2026-11-19T18:05:59+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "the further mis adventures of cliff booth|2026|https://www.deepfocusreview.com/reviews/the-further-mis-adventures-of-cliff-booth/": {
+      "at": "2026-11-19T18:29:22+00:00",
       "status": "review",
       "verdict": "fresh"
     },
@@ -8105,6 +8184,11 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "the further mis adventures of cliff booth|2026|https://www.slashfilm.com/2320655/the-further-mis-adventures-of-cliff-booth-review-brad-pitt-netflix-sequel/": {
+      "at": "2026-11-19T18:29:20+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "the further mis adventures of cliff booth|2026|https://www.telegraph.co.uk/films/0/the-further-mis-adventures-of-cliff-booth-review-brad-pitt/": {
       "at": "2026-11-19T18:05:27+00:00",
       "status": "review",
@@ -8112,6 +8196,11 @@
     },
     "the further mis adventures of cliff booth|2026|https://www.theguardian.com/film/2026/nov/19/the-further-mis-adventures-of-cliff-booth-review-quentin-tarantino-david-fincher-brad-pitt": {
       "at": "2026-11-19T18:04:44+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "the further mis adventures of cliff booth|2026|https://www.winnipegfreepress.com/arts-and-life/entertainment/2026/11/19/movie-review-the-further-mis-adventures-of-cliff-booth-burnishes-the-legend-of-a-stuntman-hero": {
+      "at": "2026-11-19T18:29:14+00:00",
       "status": "review",
       "verdict": "fresh"
     },
@@ -8509,6 +8598,11 @@
     "the hunger games sunrise on the reaping|2026|https://www.denofgeek.com/movies/why-the-hunger-games-outlasted-ya-counterparts/": {
       "at": "2026-11-18T17:28:48+00:00",
       "status": "not_review"
+    },
+    "the hunger games sunrise on the reaping|2026|https://www.elmundo.es/cultura/cine/2026/11/19/6afde19ee4d4d839248b4588.html": {
+      "at": "2026-11-19T18:29:11+00:00",
+      "status": "review",
+      "verdict": "rotten"
     },
     "the hunger games sunrise on the reaping|2026|https://www.empireonline.com/movies/news/hunger-games-sunrise-on-the-reaping-choice-to-keep-fighting-exclusive/": {
       "at": "2026-11-16T14:29:10+00:00",
