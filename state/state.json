@@ -3030,6 +3030,16 @@
         "summary": "Only the headline was available, so the critic's opinion cannot be determined from the page content.",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZXhHZlIwUUNBNUw2dGpGYzFWQUxzejZqMGVjaHJMZjlfOE14SkVweHg2a3dtaHdJWkpGamtXR1JYaFJWWWRick8wY2NIU0FqSzIzQmNXOHFkX3Z5eUdzTXBqMXowbVJxNkJsb1dTZlIyaUxfNkJMeGFaTEphV196RUY2Yk9HZw?oc=5",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-19T23:10:45+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "CineGods",
+        "rating": "",
+        "summary": "Despite a messy Fincher-Tarantino mismatch and uneven pacing, Pitt, Caan, Debicki and Tarantino's infectious dialogue make it a generally entertaining side quest.",
+        "url": "https://cinegods.com/film-review-the-further-mis-adventures-of-cliff-booth/",
+        "verdict": "fresh"
       }
     ],
     "the hunger games sunrise on the reaping|2026": [
@@ -8003,6 +8013,11 @@
     "the cat in the hat|2026|https://www.winnipegfreepress.com/arts-and-life/entertainment/2026/11/08/godzilla-minus-zero-stomps-to-a-record-setting-31-6-debut-clobbering-the-cat-in-the-hat": {
       "at": "2026-11-08T18:50:34+00:00",
       "status": "not_review"
+    },
+    "the further mis adventures of cliff booth|2026|https://cinegods.com/film-review-the-further-mis-adventures-of-cliff-booth/": {
+      "at": "2026-11-19T23:10:45+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "the further mis adventures of cliff booth|2026|https://collider.com/futher-misadventures-of-cliff-booth-review-brad-pitt-david-fincher-quentin-tarantino/": {
       "at": "2026-11-19T18:05:33+00:00",
