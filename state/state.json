@@ -3220,6 +3220,16 @@
         "summary": "Good cast and careful world-building, but corny dialogue and uncaptivating games action; overall rated 'Buena' (good).",
         "url": "https://www.lanacion.com.ar/espectaculos/los-juegos-del-hambre-amanecer-en-la-cosecha-una-precuela-con-buenos-actores-y-una-cuidada-nid19112026/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-19T04:26:50+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "1 More Film Blog",
+        "rating": "",
+        "summary": "The prequel adds nothing to Panem's mythology, and known outcomes leave it emotionally flat despite committed performances from Grace and Zada.",
+        "url": "https://1morefilmblog.com/2026/11/18/the-hunger-games-sunrise-on-the-reaping-lawrence-2026/",
+        "verdict": "rotten"
       }
     ],
     "the mongoose|": [
@@ -7492,6 +7502,11 @@
       "at": "2026-11-17T20:29:03+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "the hunger games sunrise on the reaping|2026|https://1morefilmblog.com/2026/11/18/the-hunger-games-sunrise-on-the-reaping-lawrence-2026/": {
+      "at": "2026-11-19T04:26:50+00:00",
+      "status": "review",
+      "verdict": "rotten"
     },
     "the hunger games sunrise on the reaping|2026|https://algomasquecine.com/los-juegos-del-hambre-amanecer-en-la-cosecha-una-tragedia-atrapada-en-su-propio-pasado/": {
       "at": "2026-11-17T14:59:54+00:00",
