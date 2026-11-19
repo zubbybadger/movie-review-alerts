@@ -3260,6 +3260,16 @@
         "summary": "Entertaining and effective thanks to Haymitch and Maysilee, with a strong cast; overlong with unremarkable fights, but won't disappoint fans.",
         "url": "https://www.clarin.com/espectaculos/juegos-hambre-amanecer-cosecha-da-vuelta-tuerca-reality-distopico-juvenil_0_TFfB1prcrc.html",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-19T12:44:58+00:00",
+        "confidence": "low",
+        "critic": "",
+        "outlet": "The Film Verdict",
+        "rating": "",
+        "summary": "The games still deliver thrills and tension, but the plotting suffers from prequel predictability.",
+        "url": "https://thefilmverdict.com/the-hunger-games-sunrise-on-the-reaping-film-review/",
+        "verdict": "rotten"
       }
     ],
     "the mongoose|": [
@@ -7744,6 +7754,11 @@
       "status": "review",
       "verdict": "rotten"
     },
+    "the hunger games sunrise on the reaping|2026|https://thefilmverdict.com/the-hunger-games-sunrise-on-the-reaping-film-review/": {
+      "at": "2026-11-19T12:44:58+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
     "the hunger games sunrise on the reaping|2026|https://thefutureoftheforce.com/2026/11/17/review-the-hunger-games-sunrise-on-the-reaping-2026/": {
       "at": "2026-11-17T14:05:45+00:00",
       "status": "review",
@@ -7985,6 +8000,10 @@
       "at": "2026-11-17T14:29:13+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "the hunger games sunrise on the reaping|2026|https://www.news18.com/movies/hollywood/the-hunger-games-sunrise-on-the-reaping-india-release-date-plot-cast-and-where-to-watch-ws-kl-10432704.html": {
+      "at": "2026-11-19T12:45:00+00:00",
+      "status": "not_review"
     },
     "the hunger games sunrise on the reaping|2026|https://www.nytimes.com/2026/11/14/movies/whitney-peak-hunger-games-sunrise-reaping.html": {
       "at": "2026-11-16T14:29:02+00:00",
