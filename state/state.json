@@ -3712,6 +3712,16 @@
         "summary": "Juggles too many characters and faceless tributes, and waters down the book's severity, lacking the anger of earlier installments.",
         "url": "https://beyondthecineramadome.com/movie-reviews/the-hunger-games-sunrise-on-the-reaping-film-review",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-19T22:18:48+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "SensaCine",
+        "rating": "3.5/5",
+        "summary": "Entertaining prequel that keeps the franchise's fun, though it leans too heavily on nostalgia and repeats familiar beats.",
+        "url": "https://www.sensacine.com/noticias/cine/noticia-1000233189/",
+        "verdict": "fresh"
       }
     ],
     "the mongoose|": [
@@ -8200,6 +8210,10 @@
       "status": "review",
       "verdict": "rotten"
     },
+    "the further mis adventures of cliff booth|2026|https://www.indiewire.com/features/podcast/aaron-pierre-lanterns-dc-shakeup-starfighter-1235229615/": {
+      "at": "2026-11-19T22:18:45+00:00",
+      "status": "not_review"
+    },
     "the further mis adventures of cliff booth|2026|https://www.latimes.com/entertainment-arts/movies/story/2026-11-19/david-fincher-further-mis-adventures-cliff-booth-holiday-preview-2026": {
       "at": "2026-11-19T15:28:47+00:00",
       "status": "not_review"
@@ -8840,6 +8854,11 @@
     "the hunger games sunrise on the reaping|2026|https://www.sensacine.com/noticias/cine/noticia-1000232501/": {
       "at": "2026-11-16T20:17:45+00:00",
       "status": "not_review"
+    },
+    "the hunger games sunrise on the reaping|2026|https://www.sensacine.com/noticias/cine/noticia-1000233189/": {
+      "at": "2026-11-19T22:18:48+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "the hunger games sunrise on the reaping|2026|https://www.sensacine.com/peliculas/pelicula-1000004528/": {
       "at": "2026-11-16T14:28:59+00:00",
