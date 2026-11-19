@@ -3732,6 +3732,16 @@
         "summary": "Entertaining prequel that keeps the franchise's fun, though it leans too heavily on nostalgia and repeats familiar beats.",
         "url": "https://www.sensacine.com/noticias/cine/noticia-1000233189/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-19T23:29:11+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "That Park Place (via Bounding Into Comics)",
+        "rating": "7.5/10",
+        "summary": "A faithful, better-paced adaptation with stellar performances, especially McKenna Grace, and a visually striking, brutal arena.",
+        "url": "https://boundingintocomics.com/movies/movie-news/the-hunger-games-sunrise-on-the-reaping-review-a-faithful-prequel-with-a-striking-arena",
+        "verdict": "fresh"
       }
     ],
     "the mongoose|": [
@@ -8318,6 +8328,11 @@
     },
     "the hunger games sunrise on the reaping|2026|https://bostonhassle.com/review-the-hunger-games-sunrise-on-the-reaping-2026-dir-francis-lawrence/": {
       "at": "2026-11-19T15:28:41+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "the hunger games sunrise on the reaping|2026|https://boundingintocomics.com/movies/movie-news/the-hunger-games-sunrise-on-the-reaping-review-a-faithful-prequel-with-a-striking-arena": {
+      "at": "2026-11-19T23:29:11+00:00",
       "status": "review",
       "verdict": "fresh"
     },
