@@ -9,6 +9,9 @@ movies:
   - title: "The Hunger Games: Sunrise on the Reaping"
     year: 2026
     also_known_as: ["Sunrise on the Reaping", "Los juegos del hambre: Amanecer en la cosecha"]
+  - title: "The Further Mis-Adventures of Cliff Booth"
+    year: 2026
+    also_known_as: ["The Adventures of Cliff Booth", "Cliff Booth", "Once Upon a Time in Hollywood 2"]
 
 # Review sites to watch. A homepage, a film/reviews section, or an RSS feed
 # all work. The bot finds the site's feed automatically when there is one,
