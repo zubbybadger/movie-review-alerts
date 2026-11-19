@@ -3742,6 +3742,16 @@
         "summary": "A faithful, better-paced adaptation with stellar performances, especially McKenna Grace, and a visually striking, brutal arena.",
         "url": "https://boundingintocomics.com/movies/movie-news/the-hunger-games-sunrise-on-the-reaping-review-a-faithful-prequel-with-a-striking-arena",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-19T23:50:43+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Sunshine State Cineplex",
+        "rating": "",
+        "summary": "Stale, exploitative retread that revels in cruelty without purpose; only the cast, especially Jesse Plemons, offers any saving grace.",
+        "url": "https://sunshinestatecineplex.com/2026/11/19/sunrise-on-the-reaping/",
+        "verdict": "rotten"
       }
     ],
     "the mongoose|": [
@@ -7369,6 +7379,10 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "i play rocky||https://news.google.com/rss/articles/CBMiggFBVV95cUxPTVBYOUVEekFoMldJclVEbFBYdE1wekMxVnk1c3cyYnAwdEh5dE1ZR3BYQlh2WHRQcU5rVTNXVXZoQkZmTG5GMDlrOGFfdEpvVk85V2JBcG5nT1k5cEIxODh1TWREdWNWalYzbHprZ2k4MERVQXRDY1lJZWd6cjFHSy13?oc=5": {
+      "at": "2026-11-19T23:50:45+00:00",
+      "status": "not_review"
+    },
     "i play rocky||https://nextbestpicture.com/can-elsinore-and-i-play-rocky-turn-their-audience-enthusiasm-into-best-picture-nominations/": {
       "at": "2026-11-17T15:59:02+00:00",
       "status": "not_review"
@@ -8564,6 +8578,11 @@
       "status": "review",
       "verdict": "rotten"
     },
+    "the hunger games sunrise on the reaping|2026|https://sunshinestatecineplex.com/2026/11/19/sunrise-on-the-reaping/": {
+      "at": "2026-11-19T23:50:43+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
     "the hunger games sunrise on the reaping|2026|https://thefilmverdict.com/the-hunger-games-sunrise-on-the-reaping-film-review/": {
       "at": "2026-11-19T12:44:58+00:00",
       "status": "review",
@@ -8624,6 +8643,10 @@
     },
     "the hunger games sunrise on the reaping|2026|https://variety.com/2026/shopping/news/jennifer-lawrence-hunger-games-premiere-dior-fur-coat-shop-1236950905/": {
       "at": "2026-11-17T23:17:00+00:00",
+      "status": "not_review"
+    },
+    "the hunger games sunrise on the reaping|2026|https://variety.com/lists/hunger-games-sunrise-on-the-reaping-cast-tributes-mentors/": {
+      "at": "2026-11-19T23:50:41+00:00",
       "status": "not_review"
     },
     "the hunger games sunrise on the reaping|2026|https://washingtoncitypaper.com/article/795097/sunrise-on-the-reaping-is-the-hunger-games-prequel-we-never-knew-we-needed/": {
