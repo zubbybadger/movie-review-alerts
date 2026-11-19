@@ -3312,6 +3312,16 @@
         "summary": "Fails to justify its existence, hitting overly familiar beats, minimizing emotional losses, and ending on an unearned, hollow upbeat note.",
         "url": "https://screenanarchy.com/2026/11/the-hunger-games-sunrise-on-the-reaping-review-second-prequel-rounds-out-an-overextended-series.html",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-19T16:43:12+00:00",
+        "confidence": "medium",
+        "critic": "Scott Tobias",
+        "outlet": "The Reveal",
+        "rating": "",
+        "summary": "Crisply staged with a great cast, but the thin, redundant backstory mirrors Katniss' arc, lowering stakes and failing to justify itself.",
+        "url": "https://thereveal.film/in-review-the-hunger-games-sunrise-on-the-reaping-elsinore-minotaur/",
+        "verdict": "rotten"
       }
     ],
     "the mongoose|": [
@@ -7886,6 +7896,11 @@
     "the hunger games sunrise on the reaping|2026|https://theplaylist.net/mommys-home-dave-franco-willa-fitzgerald-david-f-sandberg-20261116/": {
       "at": "2026-11-16T18:29:08+00:00",
       "status": "not_review"
+    },
+    "the hunger games sunrise on the reaping|2026|https://thereveal.film/in-review-the-hunger-games-sunrise-on-the-reaping-elsinore-minotaur/": {
+      "at": "2026-11-19T16:43:12+00:00",
+      "status": "review",
+      "verdict": "rotten"
     },
     "the hunger games sunrise on the reaping|2026|https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jennifer-lawrence-and-josh-hutcherson-attend-and-reunite-after-9-years-at-the-hunger-games-sunrise-on-the-reaping-premiere/articleshow/135914194.cms": {
       "at": "2026-11-17T07:23:39+00:00",
