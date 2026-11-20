@@ -3862,6 +3862,16 @@
         "summary": "An emotionally weighty prequel with strong performances from Zada and Grace, though overlong and less suspenseful given the known outcome.",
         "url": "https://www.indiatoday.in/movies/reviews/story/the-hunger-games-sunrise-on-the-reaping-review-a-moving-prequel-wrapped-in-bloodsport-3042926-2026-11-20",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-20T08:29:43+00:00",
+        "confidence": "high",
+        "critic": "Abhimanyu Mathur",
+        "outlet": "Hindustan Times",
+        "rating": "3.5/5",
+        "summary": "A thrilling, visually splendid, emotionally resonant prequel elevated by a superb supporting cast and Joseph Zada's human performance.",
+        "url": "https://www.hindustantimes.com/entertainment/hollywood/the-hunger-games-sunrise-on-the-reaping-review-hollywood-finest-prop-up-joseph-zada-prequel-reminds-you-of-franchise-best-mckenna-grace-maya-hawke-101795159608282.html",
+        "verdict": "fresh"
       }
     ],
     "the mongoose|": [
@@ -9018,6 +9028,11 @@
       "at": "2026-11-17T14:05:42+00:00",
       "status": "review",
       "verdict": "rotten"
+    },
+    "the hunger games sunrise on the reaping|2026|https://www.hindustantimes.com/entertainment/hollywood/the-hunger-games-sunrise-on-the-reaping-review-hollywood-finest-prop-up-joseph-zada-prequel-reminds-you-of-franchise-best-mckenna-grace-maya-hawke-101795159608282.html": {
+      "at": "2026-11-20T08:29:43+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "the hunger games sunrise on the reaping|2026|https://www.hollywoodreporter.com/movies/movie-news/hunger-games-sunrise-on-the-reaping-box-office-opening-win-1236759813/": {
       "at": "2026-11-20T04:29:06+00:00",
