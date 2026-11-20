@@ -3040,6 +3040,16 @@
         "summary": "Despite a messy Fincher-Tarantino mismatch and uneven pacing, Pitt, Caan, Debicki and Tarantino's infectious dialogue make it a generally entertaining side quest.",
         "url": "https://cinegods.com/film-review-the-further-mis-adventures-of-cliff-booth/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-20T03:29:11+00:00",
+        "confidence": "low",
+        "critic": "",
+        "outlet": "Flickering Myth",
+        "rating": "",
+        "summary": "Only the headline is available, so the critic's opinion can't be determined; the fresh verdict is a guess.",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOXdVTWhSclhlOGxLMlVQS3A4a3YyVzMwUzRkTUpsWEZSY3ZjOGQ3YWZfRmphWWx6VkpnVWlBRnhBS016SW9kMmdKNGdtNUdtN19CcGh1VHVxdERQcEE2Q3U4NHNjek8yYU5ndE4ybkhmWnNyRUVmejMwWkFldmVBMkdzNF9SUTJ4NXJJN2gtVGdOcVlWWEE?oc=5",
+        "verdict": "fresh"
       }
     ],
     "the hunger games sunrise on the reaping|2026": [
@@ -3761,6 +3771,26 @@
         "rating": "",
         "summary": "Enjoyable supporting performances and spectacle, but the critic finds it repetitive, hollow corporate fan service that will mainly please devoted fans.",
         "url": "https://filmthreat.com/reviews/the-hunger-games-sunrise-on-the-reaping/",
+        "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-20T03:28:58+00:00",
+        "confidence": "low",
+        "critic": "Nell Minow",
+        "outlet": "Movie Mom",
+        "rating": "B-",
+        "summary": "Strong design and Kieran Culkin's showmanship can't offset gratuitous graphic violence and a story that fails to deepen characters beyond fan appeal.",
+        "url": "https://moviemom.com/the-hunger-games-sunrise-on-the-reaping/?utm_source=rss&utm_medium=rss&utm_campaign=the-hunger-games-sunrise-on-the-reaping",
+        "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-20T03:29:05+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Otros Cines",
+        "rating": "",
+        "summary": "A formulaic, overlong prequel of 'astonishing mediocrity' with an inexpressive lead, wasted stars and a script lacking nuance or surprise.",
+        "url": "https://www.otroscines.com/post/critica-de-los-juegos-del-hambre-amanecer-en-la-cosecha-the-hunger-games-sunrise-on-the-reaping-pelicula-de-francis-lawrence-con-joseph-zada",
         "verdict": "rotten"
       }
     ],
@@ -8121,6 +8151,11 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "the further mis adventures of cliff booth|2026|https://news.google.com/rss/articles/CBMilgFBVV95cUxQOXdVTWhSclhlOGxLMlVQS3A4a3YyVzMwUzRkTUpsWEZSY3ZjOGQ3YWZfRmphWWx6VkpnVWlBRnhBS016SW9kMmdKNGdtNUdtN19CcGh1VHVxdERQcEE2Q3U4NHNjek8yYU5ndE4ybkhmWnNyRUVmejMwWkFldmVBMkdzNF9SUTJ4NXJJN2gtVGdOcVlWWEE?oc=5": {
+      "at": "2026-11-20T03:29:11+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "the further mis adventures of cliff booth|2026|https://news.google.com/rss/articles/CBMirgFBVV95cUxNRzdENGh4TFdmSFRrRFFqdDVtNkFlSHBhb2lwYUR5MHNnTEZMa0N0V0hwR3RzTXRhaDN2d0ZLLUVrQXpSdUljdzhEcmJ5dW8yS2FqaEVtS2g4NjVSSmlVMmdCRlRxc1NocHRVV1c2enhxMFFaRS1YZlZ0aG9ZVGlTeUpoUGRRSWdQWmV1dXZSb0pJNzNrUTJTZURtTzVScGhjajJVVTJRZ0ZwQ25iZkE?oc=5": {
       "at": "2026-11-19T15:29:08+00:00",
       "status": "not_review"
@@ -8471,6 +8506,15 @@
       "status": "review",
       "verdict": "rotten"
     },
+    "the hunger games sunrise on the reaping|2026|https://moviemom.com/the-hunger-games-sunrise-on-the-reaping/": {
+      "at": "2026-11-20T03:29:02+00:00",
+      "status": "duplicate"
+    },
+    "the hunger games sunrise on the reaping|2026|https://moviemom.com/the-hunger-games-sunrise-on-the-reaping/?utm_source=rss&utm_medium=rss&utm_campaign=the-hunger-games-sunrise-on-the-reaping": {
+      "at": "2026-11-20T03:28:58+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
     "the hunger games sunrise on the reaping|2026|https://movieswithmark.com/the-hunger-games-sunrise-on-the-reaping-review/": {
       "at": "2026-11-17T15:00:03+00:00",
       "status": "duplicate"
@@ -8577,6 +8621,10 @@
     },
     "the hunger games sunrise on the reaping|2026|https://screenrant.com/the-hunger-games-movies-recap-before-sunrise-on-the-reaping/": {
       "at": "2026-11-17T00:03:53+00:00",
+      "status": "not_review"
+    },
+    "the hunger games sunrise on the reaping|2026|https://screenrant.com/the-hunger-games-sunrise-on-the-reaping-movie-ending-explained/": {
+      "at": "2026-11-20T03:29:09+00:00",
       "status": "not_review"
     },
     "the hunger games sunrise on the reaping|2026|https://screenrant.com/the-hunger-games-sunrise-on-the-reaping-movie-post-credits-scene/": {
@@ -8903,6 +8951,11 @@
     },
     "the hunger games sunrise on the reaping|2026|https://www.nytimes.com/2026/11/17/movies/the-hunger-games-sunrise-on-the-reaping-review.html": {
       "at": "2026-11-17T14:05:01+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
+    "the hunger games sunrise on the reaping|2026|https://www.otroscines.com/post/critica-de-los-juegos-del-hambre-amanecer-en-la-cosecha-the-hunger-games-sunrise-on-the-reaping-pelicula-de-francis-lawrence-con-joseph-zada": {
+      "at": "2026-11-20T03:29:05+00:00",
       "status": "review",
       "verdict": "rotten"
     },
