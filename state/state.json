@@ -2476,6 +2476,16 @@
         "summary": "Praises Ippolito's uncanny Stallone performance, a strong supporting cast led by scene-stealer Tracy Letts, and a crowd-pleasing knockout of a film.",
         "url": "https://jmuvies.blogspot.com/2026/11/i-play-rocky-smartly-repeats-movie.html",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-20T22:29:04+00:00",
+        "confidence": "high",
+        "critic": "Nell Minow",
+        "outlet": "Movie Mom",
+        "rating": "B+",
+        "summary": "Anthony Ippolito's uncanny Stallone performance and charming behind-the-scenes details make this underdog origin story captivating.",
+        "url": "https://moviemom.com/i-play-rocky/?utm_source=rss&utm_medium=rss&utm_campaign=i-play-rocky",
+        "verdict": "fresh"
       }
     ],
     "the cat in the hat|2026": [
@@ -7674,6 +7684,15 @@
     },
     "i play rocky||https://moviecricket.net/blog/2026/11/18/review-i-play-rocky-is-a-charming-cliche-filled-look-at-the-making-of-a-classic-underdog-movie-with-newcomer-anthony-ippolito-impressive-as-a-note-perfect-sylvester-stallone": {
       "at": "2026-11-19T06:26:32+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "i play rocky||https://moviemom.com/i-play-rocky/": {
+      "at": "2026-11-20T22:29:08+00:00",
+      "status": "duplicate"
+    },
+    "i play rocky||https://moviemom.com/i-play-rocky/?utm_source=rss&utm_medium=rss&utm_campaign=i-play-rocky": {
+      "at": "2026-11-20T22:29:04+00:00",
       "status": "review",
       "verdict": "fresh"
     },
