@@ -4022,6 +4022,16 @@
         "summary": "Despite some grand visuals and a pleasing lead, the overlong prequel blurs into drudgery, with noble ideals landing with a thud.",
         "url": "https://time.com/article/2026/11/20/the-hunger-games-sunrise-on-the-reaping-review/",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-20T19:41:02+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "The Reader",
+        "rating": "C",
+        "summary": "Faithful plot and strong young cast, but the softened PG-13 tone undermines the story's anti-exploitation purpose, leaving it mediocre.",
+        "url": "https://thereader.com/2026/11/20/the-hunger-games-sunrise-on-the-reaping-review/",
+        "verdict": "rotten"
       }
     ],
     "the mongoose|": [
@@ -9074,6 +9084,11 @@
     "the hunger games sunrise on the reaping|2026|https://theplaylist.net/mommys-home-dave-franco-willa-fitzgerald-david-f-sandberg-20261116/": {
       "at": "2026-11-16T18:29:08+00:00",
       "status": "not_review"
+    },
+    "the hunger games sunrise on the reaping|2026|https://thereader.com/2026/11/20/the-hunger-games-sunrise-on-the-reaping-review/": {
+      "at": "2026-11-20T19:41:02+00:00",
+      "status": "review",
+      "verdict": "rotten"
     },
     "the hunger games sunrise on the reaping|2026|https://thereveal.film/in-review-the-hunger-games-sunrise-on-the-reaping-elsinore-minotaur/": {
       "at": "2026-11-19T16:43:12+00:00",
