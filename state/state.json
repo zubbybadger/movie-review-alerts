@@ -3982,6 +3982,16 @@
         "summary": "Apart from Joseph Zada's heartfelt Haymitch, the meandering script wastes its A-list cast and fails to capture the imagination.",
         "url": "https://indianexpress.com/article/entertainment/movie-review/the-hunger-games-sunrise-on-the-reaping-review-joseph-zada-film-is-a-snoozefest-10971667/",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-20T17:28:43+00:00",
+        "confidence": "low",
+        "critic": "",
+        "outlet": "Third Coast Review",
+        "rating": "",
+        "summary": "Praises Zada and Mckenna Grace and the film's emotional trauma, but slams the Glenn Close makeup and the pointless nostalgia-driven epilogue cameo.",
+        "url": "https://thirdcoastreview.com/film-tv/2026/11/20/review-sunrise-on-the-reaping",
+        "verdict": "fresh"
       }
     ],
     "the mongoose|": [
@@ -8836,6 +8846,10 @@
       "status": "review",
       "verdict": "rotten"
     },
+    "the hunger games sunrise on the reaping|2026|https://news.google.com/rss/articles/CBMijgFBVV95cUxQeTAtWlhDV05hYmZ6TUsxa1Z1T2ZTNmliLTJKRGVQcEota0laeWU3YXlHWjBIRFMxQUlBTEFveGxUcmRPY3E0Y2hjeHhmME1qekZWbG5iQ3VWbmszdUkzYWdVVlY2T0FtZzBaMUQzS0I5bS1hUVltWVU5X1V4a2RuX3ZQMDVWd2NIRnNXVmJR?oc=5": {
+      "at": "2026-11-20T17:28:49+00:00",
+      "status": "not_review"
+    },
     "the hunger games sunrise on the reaping|2026|https://news.google.com/rss/articles/CBMikgFBVV95cUxPaE9FZXJtV1UwRUZsWXFaLU8zN2diNktkbzFCaHhZZ0tiU2VsMFVzQkNxa2piNWhpOFdLeDljS1VTcjRfaGd1Tlo2SkpjVWdfQVZwT3pjT2pyT3Y2bUFPazE2emN5QjNVU1U4bk1nR3pCcVpRMS12bkVtRk94c2pMZW9fenVYdWZEZ1BHVHhyU0RmZw?oc=5": {
       "at": "2026-11-20T16:29:07+00:00",
       "status": "not_review"
@@ -8911,6 +8925,10 @@
     },
     "the hunger games sunrise on the reaping|2026|https://screenrant.com/mckenna-grace-hunger-games-sunrise-on-the-reaping-box-office-domestic-preview-total/": {
       "at": "2026-11-20T15:29:05+00:00",
+      "status": "not_review"
+    },
+    "the hunger games sunrise on the reaping|2026|https://screenrant.com/sunrise-on-the-reaping-movie-katniss-jennifer-lawrence-peeta-josh-hutcherson-cameos-disappointing/": {
+      "at": "2026-11-20T17:28:47+00:00",
       "status": "not_review"
     },
     "the hunger games sunrise on the reaping|2026|https://screenrant.com/sunrise-reaping-book-lucy-gray-headstone-reference-meaning-explainer/": {
@@ -9009,6 +9027,11 @@
     },
     "the hunger games sunrise on the reaping|2026|https://thesunbreak.com/2026/11/19/what-would-make-hunger-games-sunrise-on-the-reaping-a-satisfying-final-chapter/": {
       "at": "2026-11-20T08:50:57+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "the hunger games sunrise on the reaping|2026|https://thirdcoastreview.com/film-tv/2026/11/20/review-sunrise-on-the-reaping": {
+      "at": "2026-11-20T17:28:43+00:00",
       "status": "review",
       "verdict": "fresh"
     },
@@ -9257,6 +9280,10 @@
       "at": "2026-11-20T04:29:06+00:00",
       "status": "not_review"
     },
+    "the hunger games sunrise on the reaping|2026|https://www.hollywoodreporter.com/movies/movie-news/hunger-games-sunrise-on-the-reaping-box-office-previews-1236760000/": {
+      "at": "2026-11-20T17:28:45+00:00",
+      "status": "not_review"
+    },
     "the hunger games sunrise on the reaping|2026|https://www.hollywoodreporter.com/movies/movie-reviews/the-hunger-games-sunrise-on-the-reaping-review-joseph-zada-1236755773/": {
       "at": "2026-11-17T14:05:04+00:00",
       "status": "review",
@@ -9296,6 +9323,10 @@
       "at": "2026-11-17T14:04:45+00:00",
       "status": "review",
       "verdict": "rotten"
+    },
+    "the hunger games sunrise on the reaping|2026|https://www.indiewire.com/news/box-office/box-office-hunger-games-sunrise-on-the-reaping-previews-1235229692/": {
+      "at": "2026-11-20T17:28:40+00:00",
+      "status": "not_review"
     },
     "the hunger games sunrise on the reaping|2026|https://www.lanacion.com.ar/espectaculos/los-juegos-del-hambre-amanecer-en-la-cosecha-una-precuela-con-buenos-actores-y-una-cuidada-nid19112026/": {
       "at": "2026-11-19T03:17:08+00:00",
