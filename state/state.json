@@ -3892,6 +3892,16 @@
         "summary": "A familiar, routine spin-off with a weak love story and shallow politics, only partly rescued by Zada's performance and a thrilling third act.",
         "url": "https://www.thehindu.com/entertainment/movies/the-hunger-games-sunrise-on-the-reaping-movie-review-familiar-spin-off-settles-safely-into-dystopian-comforts/article71723837.ece",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-20T11:29:59+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "MovieFreak",
+        "rating": "3.5/4",
+        "summary": "A monumental, moving adaptation with stunning performances from Zada and Plemons and a vital anti-fascist message.",
+        "url": "http://moviefreak.com/hunger-games-sunrise-on-the-reaping-2026-movie-review/",
+        "verdict": "fresh"
       }
     ],
     "the mongoose|": [
@@ -8479,6 +8489,11 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "the hunger games sunrise on the reaping|2026|http://moviefreak.com/hunger-games-sunrise-on-the-reaping-2026-movie-review/": {
+      "at": "2026-11-20T11:29:59+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "the hunger games sunrise on the reaping|2026|http://www.markreviewsmovies.com/reviews/H/hungergames-sunriseonthereaping.htm": {
       "at": "2026-11-20T05:29:09+00:00",
       "status": "review",
@@ -9077,6 +9092,10 @@
       "at": "2026-11-17T19:29:34+00:00",
       "status": "duplicate"
     },
+    "the hunger games sunrise on the reaping|2026|https://www.independent.co.uk/arts-entertainment/films/news/hunger-games-sunrise-on-reaping-critic-reviews-b3088473.html": {
+      "at": "2026-11-20T11:30:04+00:00",
+      "status": "not_review"
+    },
     "the hunger games sunrise on the reaping|2026|https://www.independent.co.uk/arts-entertainment/films/news/hunger-games-sunrise-on-reaping-reviews-critics-b3086887.html": {
       "at": "2026-11-18T06:27:44+00:00",
       "status": "not_review"
@@ -9143,6 +9162,10 @@
     },
     "the hunger games sunrise on the reaping|2026|https://www.polygon.com/the-hunger-games-lionsgate-suzanne-collins-new-book/": {
       "at": "2026-11-17T11:27:37+00:00",
+      "status": "not_review"
+    },
+    "the hunger games sunrise on the reaping|2026|https://www.polygon.com/video/he-was-a-fan-of-the-hunger-games-now-he-s-in-them/": {
+      "at": "2026-11-20T11:30:02+00:00",
       "status": "not_review"
     },
     "the hunger games sunrise on the reaping|2026|https://www.reelingreviews.com/reviews/the-hunger-games-sunrise-on-the-reaping/": {
