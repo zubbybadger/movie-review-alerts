@@ -4032,6 +4032,16 @@
         "summary": "Faithful plot and strong young cast, but the softened PG-13 tone undermines the story's anti-exploitation purpose, leaving it mediocre.",
         "url": "https://thereader.com/2026/11/20/the-hunger-games-sunrise-on-the-reaping-review/",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-20T20:27:45+00:00",
+        "confidence": "low",
+        "critic": "Peter Travers",
+        "outlet": "The Travers Take",
+        "rating": "2.5/4",
+        "summary": "Formulaic and lurching, but Joseph Zada's standout performance, strong cast, camerawork and score make it come together where it counts.",
+        "url": "https://www.thetraverstake.com/featured/the-hunger-games-sunrise-on-the-reaping/",
+        "verdict": "fresh"
       }
     ],
     "the mongoose|": [
@@ -7885,6 +7895,10 @@
       "at": "2026-11-11T12:58:53+00:00",
       "status": "review"
     },
+    "i play rocky||https://www.deepfocusreview.com/new-releases-with-kqrss-gorman-in-the-morning/": {
+      "at": "2026-11-20T20:27:52+00:00",
+      "status": "not_review"
+    },
     "i play rocky||https://www.deepfocusreview.com/reviews/i-play-rocky/": {
       "at": "2026-11-16T17:29:21+00:00",
       "status": "review",
@@ -8438,6 +8452,10 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "the further mis adventures of cliff booth|2026|https://screenrant.com/everything-coming-to-netflix-december-2026/": {
+      "at": "2026-11-20T20:27:50+00:00",
+      "status": "not_review"
+    },
     "the further mis adventures of cliff booth|2026|https://screenrant.com/leonardo-dicaprio-absence-cliff-booth-sequel-good-thing/": {
       "at": "2026-11-20T01:28:48+00:00",
       "status": "not_review"
@@ -8535,6 +8553,10 @@
       "at": "2026-11-19T18:05:59+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "the further mis adventures of cliff booth|2026|https://www.deepfocusreview.com/new-releases-with-kqrss-gorman-in-the-morning/": {
+      "at": "2026-11-20T20:27:54+00:00",
+      "status": "not_review"
     },
     "the further mis adventures of cliff booth|2026|https://www.deepfocusreview.com/reviews/the-further-mis-adventures-of-cliff-booth/": {
       "at": "2026-11-19T18:29:22+00:00",
@@ -8889,6 +8911,10 @@
       "at": "2026-11-20T03:30:31+00:00",
       "status": "not_review"
     },
+    "the hunger games sunrise on the reaping|2026|https://movieweb.com/lenore-dove-lucy-gray-katniss-connection/": {
+      "at": "2026-11-20T20:27:57+00:00",
+      "status": "not_review"
+    },
     "the hunger games sunrise on the reaping|2026|https://movieweb.com/sunrise-reaping-katniss-everdeen-replace/": {
       "at": "2026-11-19T19:29:32+00:00",
       "status": "not_review"
@@ -9104,6 +9130,10 @@
       "at": "2026-11-20T17:28:43+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "the hunger games sunrise on the reaping|2026|https://time.com/article/2026/11/20/sunrise-on-the-reaping-hunger-games-connection/": {
+      "at": "2026-11-20T20:27:48+00:00",
+      "status": "not_review"
     },
     "the hunger games sunrise on the reaping|2026|https://time.com/article/2026/11/20/the-hunger-games-sunrise-on-the-reaping-review/": {
       "at": "2026-11-20T19:28:40+00:00",
@@ -9572,6 +9602,11 @@
     },
     "the hunger games sunrise on the reaping|2026|https://www.thepitchkc.com/sunrise-on-the-reaping-offers-up-something-new-to-the-hunger-games-without-sacrificing-soul/": {
       "at": "2026-11-17T18:28:57+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "the hunger games sunrise on the reaping|2026|https://www.thetraverstake.com/featured/the-hunger-games-sunrise-on-the-reaping/": {
+      "at": "2026-11-20T20:27:45+00:00",
       "status": "review",
       "verdict": "fresh"
     },
