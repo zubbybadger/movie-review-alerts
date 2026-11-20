@@ -3882,6 +3882,16 @@
         "summary": "Despite shallow characterization and lacking diversity, the critic still enjoyed the story and experience, praising cast and production, and wouldn't discourage viewers.",
         "url": "https://thesunbreak.com/2026/11/19/what-would-make-hunger-games-sunrise-on-the-reaping-a-satisfying-final-chapter/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-20T10:29:46+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "The Hindu",
+        "rating": "",
+        "summary": "A familiar, routine spin-off with a weak love story and shallow politics, only partly rescued by Zada's performance and a thrilling third act.",
+        "url": "https://www.thehindu.com/entertainment/movies/the-hunger-games-sunrise-on-the-reaping-movie-review-familiar-spin-off-settles-safely-into-dystopian-comforts/article71723837.ece",
+        "verdict": "rotten"
       }
     ],
     "the mongoose|": [
@@ -9117,6 +9127,10 @@
       "status": "review",
       "verdict": "rotten"
     },
+    "the hunger games sunrise on the reaping|2026|https://www.nytimes.com/2026/11/20/movies/the-hunger-games-sunrise-on-the-reaping-explainer.html": {
+      "at": "2026-11-20T10:29:38+00:00",
+      "status": "not_review"
+    },
     "the hunger games sunrise on the reaping|2026|https://www.otroscines.com/post/critica-de-los-juegos-del-hambre-amanecer-en-la-cosecha-the-hunger-games-sunrise-on-the-reaping-pelicula-de-francis-lawrence-con-joseph-zada": {
       "at": "2026-11-20T03:29:05+00:00",
       "status": "review",
@@ -9182,10 +9196,18 @@
       "at": "2026-11-20T04:29:04+00:00",
       "status": "not_review"
     },
+    "the hunger games sunrise on the reaping|2026|https://www.telegraph.co.uk/films/0/the-hunger-games-sunrise-on-the-reaping-review-prequel/": {
+      "at": "2026-11-20T10:29:43+00:00",
+      "status": "duplicate"
+    },
     "the hunger games sunrise on the reaping|2026|https://www.telegraph.co.uk/films/0/the-hunger-games-sunrise-on-the-reaping-review/": {
       "at": "2026-11-17T14:59:57+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "the hunger games sunrise on the reaping|2026|https://www.the-independent.com/arts-entertainment/films/news/hunger-games-sunrise-on-reaping-critic-reviews-b3088473.html": {
+      "at": "2026-11-20T10:29:40+00:00",
+      "status": "not_review"
     },
     "the hunger games sunrise on the reaping|2026|https://www.the-independent.com/arts-entertainment/films/news/hunger-games-sunrise-on-reaping-reviews-critics-b3086887.html": {
       "at": "2026-11-18T07:29:12+00:00",
@@ -9202,6 +9224,11 @@
     },
     "the hunger games sunrise on the reaping|2026|https://www.theguardian.com/film/2026/nov/17/the-hunger-games-sunrise-on-the-reaping-review-surreally-awful-prequel-to-the-katniss-everdeen-era": {
       "at": "2026-11-17T14:04:42+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
+    "the hunger games sunrise on the reaping|2026|https://www.thehindu.com/entertainment/movies/the-hunger-games-sunrise-on-the-reaping-movie-review-familiar-spin-off-settles-safely-into-dystopian-comforts/article71723837.ece": {
+      "at": "2026-11-20T10:29:46+00:00",
       "status": "review",
       "verdict": "rotten"
     },
