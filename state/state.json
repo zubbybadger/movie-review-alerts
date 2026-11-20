@@ -2436,6 +2436,16 @@
         "summary": "An underdog crowd-pleaser with Anthony Ippolito's uncanny Stallone imitation; Peter Farrelly scores a knockout.",
         "url": "https://kkfi.org/program-episodes/i-play-rocky-pg-13-the-hunger-games-sunrise-on-the-reaping-pg-13-madden-r-steps-pg/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-20T15:39:28+00:00",
+        "confidence": "high",
+        "critic": "Tom Meek",
+        "outlet": "Cambridge Day",
+        "rating": "",
+        "summary": "Farrelly's punchy, playful fable, anchored by Anthony Ippolito's affable, charming Stallone, wisely celebrates the original's underdog spirit without trying to top it.",
+        "url": "https://www.cambridgeday.com/2026/11/20/i-play-rocky-hollywoods-franchises/",
+        "verdict": "fresh"
       }
     ],
     "the cat in the hat|2026": [
@@ -7762,6 +7772,11 @@
     "i play rocky||https://www.bostonglobe.com/2026/11/11/arts/i-play-rocky-peter-farrelly/": {
       "at": "2026-11-11T11:33:36+00:00",
       "status": "not_review"
+    },
+    "i play rocky||https://www.cambridgeday.com/2026/11/20/i-play-rocky-hollywoods-franchises/": {
+      "at": "2026-11-20T15:39:28+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "i play rocky||https://www.cbr.com/i-play-rocky-review/": {
       "at": "2026-11-11T12:58:53+00:00",
