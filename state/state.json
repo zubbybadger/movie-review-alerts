@@ -3752,6 +3752,16 @@
         "summary": "Stale, exploitative retread that revels in cruelty without purpose; only the cast, especially Jesse Plemons, offers any saving grace.",
         "url": "https://sunshinestatecineplex.com/2026/11/19/sunrise-on-the-reaping/",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-20T02:41:36+00:00",
+        "confidence": "low",
+        "critic": "",
+        "outlet": "Film Threat",
+        "rating": "",
+        "summary": "Enjoyable supporting performances and spectacle, but the critic finds it repetitive, hollow corporate fan service that will mainly please devoted fans.",
+        "url": "https://filmthreat.com/reviews/the-hunger-games-sunrise-on-the-reaping/",
+        "verdict": "rotten"
       }
     ],
     "the mongoose|": [
@@ -8422,6 +8432,11 @@
       "at": "2026-11-18T02:27:21+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "the hunger games sunrise on the reaping|2026|https://filmthreat.com/reviews/the-hunger-games-sunrise-on-the-reaping/": {
+      "at": "2026-11-20T02:41:36+00:00",
+      "status": "review",
+      "verdict": "rotten"
     },
     "the hunger games sunrise on the reaping|2026|https://hipertextual.com/cine-television/los-juegos-del-hambre-amanecer-en-la-cosecha-critica/": {
       "at": "2026-11-17T16:01:09+00:00",
