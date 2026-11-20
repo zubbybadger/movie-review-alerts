@@ -3872,6 +3872,16 @@
         "summary": "A thrilling, visually splendid, emotionally resonant prequel elevated by a superb supporting cast and Joseph Zada's human performance.",
         "url": "https://www.hindustantimes.com/entertainment/hollywood/the-hunger-games-sunrise-on-the-reaping-review-hollywood-finest-prop-up-joseph-zada-prequel-reminds-you-of-franchise-best-mckenna-grace-maya-hawke-101795159608282.html",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-20T08:50:57+00:00",
+        "confidence": "low",
+        "critic": "",
+        "outlet": "The SunBreak",
+        "rating": "",
+        "summary": "Despite shallow characterization and lacking diversity, the critic still enjoyed the story and experience, praising cast and production, and wouldn't discourage viewers.",
+        "url": "https://thesunbreak.com/2026/11/19/what-would-make-hunger-games-sunrise-on-the-reaping-a-satisfying-final-chapter/",
+        "verdict": "fresh"
       }
     ],
     "the mongoose|": [
@@ -8812,6 +8822,11 @@
       "at": "2026-11-19T16:43:12+00:00",
       "status": "review",
       "verdict": "rotten"
+    },
+    "the hunger games sunrise on the reaping|2026|https://thesunbreak.com/2026/11/19/what-would-make-hunger-games-sunrise-on-the-reaping-a-satisfying-final-chapter/": {
+      "at": "2026-11-20T08:50:57+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "the hunger games sunrise on the reaping|2026|https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jennifer-lawrence-and-josh-hutcherson-attend-and-reunite-after-9-years-at-the-hunger-games-sunrise-on-the-reaping-premiere/articleshow/135914194.cms": {
       "at": "2026-11-17T07:23:39+00:00",
