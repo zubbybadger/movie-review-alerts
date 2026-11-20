@@ -2426,6 +2426,16 @@
         "summary": "Praises Anthony Ippolito's uncanny Stallone and AnnaSophia Robb, calling it the feel-good movie of the season and deserving of awards attention.",
         "url": "https://filmthreat.com/reviews/i-play-rocky/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-20T04:29:00+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "KKFI",
+        "rating": "",
+        "summary": "An underdog crowd-pleaser with Anthony Ippolito's uncanny Stallone imitation; Peter Farrelly scores a knockout.",
+        "url": "https://kkfi.org/program-episodes/i-play-rocky-pg-13-the-hunger-games-sunrise-on-the-reaping-pg-13-madden-r-steps-pg/",
+        "verdict": "fresh"
       }
     ],
     "the cat in the hat|2026": [
@@ -3791,6 +3801,16 @@
         "rating": "",
         "summary": "A formulaic, overlong prequel of 'astonishing mediocrity' with an inexpressive lead, wasted stars and a script lacking nuance or surprise.",
         "url": "https://www.otroscines.com/post/critica-de-los-juegos-del-hambre-amanecer-en-la-cosecha-the-hunger-games-sunrise-on-the-reaping-pelicula-de-francis-lawrence-con-joseph-zada",
+        "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-20T04:29:02+00:00",
+        "confidence": "low",
+        "critic": "",
+        "outlet": "KKFI",
+        "rating": "",
+        "summary": "Diverting and well produced, but formulaic: if you've seen one Hunger Games movie, you've seen them all.",
+        "url": "https://kkfi.org/program-episodes/i-play-rocky-pg-13-the-hunger-games-sunrise-on-the-reaping-pg-13-madden-r-steps-pg/",
         "verdict": "rotten"
       }
     ],
@@ -7374,6 +7394,11 @@
       "at": "2026-11-13T21:29:07+00:00",
       "status": "not_review"
     },
+    "i play rocky||https://kkfi.org/program-episodes/i-play-rocky-pg-13-the-hunger-games-sunrise-on-the-reaping-pg-13-madden-r-steps-pg/": {
+      "at": "2026-11-20T04:29:00+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "i play rocky||https://mashable.com/entertainment/i-play-rocky-review": {
       "at": "2026-11-06T10:41:12+00:00",
       "status": "review",
@@ -8483,6 +8508,11 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "the hunger games sunrise on the reaping|2026|https://kkfi.org/program-episodes/i-play-rocky-pg-13-the-hunger-games-sunrise-on-the-reaping-pg-13-madden-r-steps-pg/": {
+      "at": "2026-11-20T04:29:02+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
     "the hunger games sunrise on the reaping|2026|https://lamplightreview.com/movie-review-the-hunger-games-sunrise-on-the-reaping/": {
       "at": "2026-11-18T18:39:36+00:00",
       "status": "review",
@@ -8737,6 +8767,10 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "the hunger games sunrise on the reaping|2026|https://www.20minutos.es/cinemania/criticas/critica-juegos-hambre-amanecer-cosecha-mejor-pelicula-llamas-joseph-zada-mckenna-grace-20-noviembre_7056700_0.html": {
+      "at": "2026-11-20T04:28:58+00:00",
+      "status": "duplicate"
+    },
     "the hunger games sunrise on the reaping|2026|https://www.20minutos.es/cinemania/criticas/critica-juegos-hambre-amanecer-cosecha-mejor-pelicula-llamas-joseph-zada-mckenna-grace-estreno-20-noviembre_7056700_0.html": {
       "at": "2026-11-19T08:50:48+00:00",
       "status": "duplicate"
@@ -8899,6 +8933,10 @@
       "status": "review",
       "verdict": "rotten"
     },
+    "the hunger games sunrise on the reaping|2026|https://www.hollywoodreporter.com/movies/movie-news/hunger-games-sunrise-on-the-reaping-box-office-opening-win-1236759813/": {
+      "at": "2026-11-20T04:29:06+00:00",
+      "status": "not_review"
+    },
     "the hunger games sunrise on the reaping|2026|https://www.hollywoodreporter.com/movies/movie-reviews/the-hunger-games-sunrise-on-the-reaping-review-joseph-zada-1236755773/": {
       "at": "2026-11-17T14:05:04+00:00",
       "status": "review",
@@ -9018,6 +9056,10 @@
       "at": "2026-11-17T14:05:32+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "the hunger games sunrise on the reaping|2026|https://www.smh.com.au/culture/movies/sunrise-on-the-reaping-just-landed-so-we-ve-ranked-all-the-hunger-games-movies-20261120-p61f4d.html": {
+      "at": "2026-11-20T04:29:04+00:00",
+      "status": "not_review"
     },
     "the hunger games sunrise on the reaping|2026|https://www.telegraph.co.uk/films/0/the-hunger-games-sunrise-on-the-reaping-review/": {
       "at": "2026-11-17T14:59:57+00:00",
