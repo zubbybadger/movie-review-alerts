@@ -2446,6 +2446,16 @@
         "summary": "Farrelly's punchy, playful fable, anchored by Anthony Ippolito's affable, charming Stallone, wisely celebrates the original's underdog spirit without trying to top it.",
         "url": "https://www.cambridgeday.com/2026/11/20/i-play-rocky-hollywoods-franchises/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-20T17:37:35+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Bowling Green Daily News",
+        "rating": "B+",
+        "summary": "A formulaic but charming crowd-pleaser with a strong Ippolito lead and great supporting cast, lovingly capturing filmmaking's underdog spirit.",
+        "url": "https://bgdailynews.com/2026/11/20/i-play-rocky-embodies-an-underdog-spirit/",
+        "verdict": "fresh"
       }
     ],
     "the cat in the hat|2026": [
@@ -7494,6 +7504,11 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "i play rocky||https://bgdailynews.com/2026/11/20/i-play-rocky-embodies-an-underdog-spirit/": {
+      "at": "2026-11-20T17:37:35+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "i play rocky||https://bostonhassle.com/review-i-play-rocky-2026-dir-peter-farrelly/": {
       "at": "2026-11-13T19:44:30+00:00",
       "status": "review",
@@ -8515,6 +8530,10 @@
       "at": "2026-11-20T05:29:16+00:00",
       "status": "review",
       "verdict": "rotten"
+    },
+    "the further mis adventures of cliff booth|2026|https://www.hollywoodreporter.com/gallery/hunger-games-cliff-booth-red-carpet-events-1236755440/": {
+      "at": "2026-11-20T17:37:38+00:00",
+      "status": "not_review"
     },
     "the further mis adventures of cliff booth|2026|https://www.hollywoodreporter.com/movies/movie-reviews/the-further-mis-adventures-of-cliff-booth-review-brad-pitt-1236759005/": {
       "at": "2026-11-19T18:05:03+00:00",
