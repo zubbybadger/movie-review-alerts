@@ -3060,6 +3060,26 @@
         "summary": "Only the headline is available, so the critic's opinion can't be determined; the fresh verdict is a guess.",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOXdVTWhSclhlOGxLMlVQS3A4a3YyVzMwUzRkTUpsWEZSY3ZjOGQ3YWZfRmphWWx6VkpnVWlBRnhBS016SW9kMmdKNGdtNUdtN19CcGh1VHVxdERQcEE2Q3U4NHNjek8yYU5ndE4ybkhmWnNyRUVmejMwWkFldmVBMkdzNF9SUTJ4NXJJN2gtVGdOcVlWWEE?oc=5",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-20T05:29:11+00:00",
+        "confidence": "low",
+        "critic": "",
+        "outlet": "Cinapse",
+        "rating": "",
+        "summary": "Entertaining, breezy and cool with great Pitt-Debicki chemistry, but slight, low-aspiration and ultimately disposable for its pedigree.",
+        "url": "https://cinapse.net/2026/11/tarantino-and-pitt-bring-fincher-along-for-the-ride-in-the-further-mis-adventures-of-cliff-booth/",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-20T05:29:16+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "High On Films",
+        "rating": "",
+        "summary": "A mismatched Fincher-Tarantino collaboration yields an aimless hangout movie that insists on swagger without earning it, with a thinly developed Cliff Booth.",
+        "url": "https://www.highonfilms.com/the-further-mis-adventures-of-cliff-booth-2026-movie-review/",
+        "verdict": "rotten"
       }
     ],
     "the hunger games sunrise on the reaping|2026": [
@@ -3812,6 +3832,16 @@
         "summary": "Diverting and well produced, but formulaic: if you've seen one Hunger Games movie, you've seen them all.",
         "url": "https://kkfi.org/program-episodes/i-play-rocky-pg-13-the-hunger-games-sunrise-on-the-reaping-pg-13-madden-r-steps-pg/",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-20T05:29:09+00:00",
+        "confidence": "high",
+        "critic": "Mark Dujsik",
+        "outlet": "Mark Reviews Movies",
+        "rating": "",
+        "summary": "Despite a familiar formula, it adds character-specific depth, with Zada convincingly showing Haymitch's transformation into a defeated cynic; a fine conclusion.",
+        "url": "http://www.markreviewsmovies.com/reviews/H/hungergames-sunriseonthereaping.htm",
+        "verdict": "fresh"
       }
     ],
     "the mongoose|": [
@@ -8103,6 +8133,11 @@
       "at": "2026-11-08T18:50:34+00:00",
       "status": "not_review"
     },
+    "the further mis adventures of cliff booth|2026|https://cinapse.net/2026/11/tarantino-and-pitt-bring-fincher-along-for-the-ride-in-the-further-mis-adventures-of-cliff-booth/": {
+      "at": "2026-11-20T05:29:11+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "the further mis adventures of cliff booth|2026|https://cinegods.com/film-review-the-further-mis-adventures-of-cliff-booth/": {
       "at": "2026-11-19T23:10:45+00:00",
       "status": "review",
@@ -8308,6 +8343,11 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "the further mis adventures of cliff booth|2026|https://www.highonfilms.com/the-further-mis-adventures-of-cliff-booth-2026-movie-review/": {
+      "at": "2026-11-20T05:29:16+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
     "the further mis adventures of cliff booth|2026|https://www.hollywoodreporter.com/movies/movie-reviews/the-further-mis-adventures-of-cliff-booth-review-brad-pitt-1236759005/": {
       "at": "2026-11-19T18:05:03+00:00",
       "status": "review",
@@ -8389,6 +8429,11 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "the hunger games sunrise on the reaping|2026|http://www.markreviewsmovies.com/reviews/H/hungergames-sunriseonthereaping.htm": {
+      "at": "2026-11-20T05:29:09+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "the hunger games sunrise on the reaping|2026|http://www.shadowsonthewall.co.uk/26/hungsunr.htm": {
       "at": "2026-11-17T20:29:03+00:00",
       "status": "review",
@@ -8460,6 +8505,10 @@
     },
     "the hunger games sunrise on the reaping|2026|https://deadline.com/2026/11/percy-jackson-and-the-olympians-season-3-release-schedule-1237226036/": {
       "at": "2026-11-17T01:14:52+00:00",
+      "status": "not_review"
+    },
+    "the hunger games sunrise on the reaping|2026|https://deadline.com/2026/11/sunrise-on-the-reaping-epilogue-scene-explained-cameos-1237229907/": {
+      "at": "2026-11-20T05:29:14+00:00",
       "status": "not_review"
     },
     "the hunger games sunrise on the reaping|2026|https://deadline.com/2026/11/the-hunger-games-sunrise-on-the-reaping-review-1237224967/": {
@@ -8739,6 +8788,10 @@
     },
     "the hunger games sunrise on the reaping|2026|https://variety.com/2026/film/news/hunger-games-jennifer-lawrence-sunrise-on-reaping-1236950893/": {
       "at": "2026-11-20T01:28:43+00:00",
+      "status": "not_review"
+    },
+    "the hunger games sunrise on the reaping|2026|https://variety.com/2026/film/news/jennifer-lawrence-breast-implants-celebrity-kissers-1236953902/": {
+      "at": "2026-11-20T05:29:05+00:00",
       "status": "not_review"
     },
     "the hunger games sunrise on the reaping|2026|https://variety.com/2026/film/news/jennifer-lawrence-hunger-games-sunrise-on-the-reaping-premiere-1236949116/": {
