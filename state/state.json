@@ -2466,6 +2466,16 @@
         "summary": "Praises Anthony Ippolito's almost flawless performance as Stallone, though notes some may see it as mere mimicry.",
         "url": "https://www.kget.com/community/ricks-reviews/i-play-rocky-features-strong-one-two-punch/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-20T22:13:45+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "jmuvies (Blogspot)",
+        "rating": "4.5/5",
+        "summary": "Praises Ippolito's uncanny Stallone performance, a strong supporting cast led by scene-stealer Tracy Letts, and a crowd-pleasing knockout of a film.",
+        "url": "https://jmuvies.blogspot.com/2026/11/i-play-rocky-smartly-repeats-movie.html",
+        "verdict": "fresh"
       }
     ],
     "the cat in the hat|2026": [
@@ -7597,6 +7607,10 @@
       "at": "2026-11-06T22:05:32+00:00",
       "status": "not_review"
     },
+    "i play rocky||https://deadline.com/2026/11/indie-films-opening-minotaur-elisnore-josephine-cameron-winter-1237230528/": {
+      "at": "2026-11-20T22:13:51+00:00",
+      "status": "not_review"
+    },
     "i play rocky||https://deadline.com/2026/11/peter-farrelly-interview-i-play-rocky-1237224102/": {
       "at": "2026-11-15T00:29:14+00:00",
       "status": "not_review"
@@ -7642,6 +7656,11 @@
     "i play rocky||https://jmuvies.blogspot.com/2026/11/ebenezer-re-learns-christmas-lessons.html": {
       "at": "2026-11-13T21:29:07+00:00",
       "status": "not_review"
+    },
+    "i play rocky||https://jmuvies.blogspot.com/2026/11/i-play-rocky-smartly-repeats-movie.html": {
+      "at": "2026-11-20T22:13:45+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "i play rocky||https://kkfi.org/program-episodes/i-play-rocky-pg-13-the-hunger-games-sunrise-on-the-reaping-pg-13-madden-r-steps-pg/": {
       "at": "2026-11-20T04:29:00+00:00",
@@ -8879,6 +8898,10 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "the hunger games sunrise on the reaping|2026|https://jmuvies.blogspot.com/2026/11/i-play-rocky-smartly-repeats-movie.html": {
+      "at": "2026-11-20T22:13:48+00:00",
+      "status": "not_review"
+    },
     "the hunger games sunrise on the reaping|2026|https://kkfi.org/program-episodes/i-play-rocky-pg-13-the-hunger-games-sunrise-on-the-reaping-pg-13-madden-r-steps-pg/": {
       "at": "2026-11-20T04:29:02+00:00",
       "status": "review",
@@ -8940,6 +8963,10 @@
     },
     "the hunger games sunrise on the reaping|2026|https://movieweb.com/lenore-dove-lucy-gray-katniss-connection/": {
       "at": "2026-11-20T20:27:57+00:00",
+      "status": "not_review"
+    },
+    "the hunger games sunrise on the reaping|2026|https://movieweb.com/sunrise-on-the-reaping-hunger-games-references/": {
+      "at": "2026-11-20T22:13:54+00:00",
       "status": "not_review"
     },
     "the hunger games sunrise on the reaping|2026|https://movieweb.com/sunrise-reaping-katniss-everdeen-replace/": {
