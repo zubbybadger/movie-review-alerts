@@ -2456,6 +2456,16 @@
         "summary": "A formulaic but charming crowd-pleaser with a strong Ippolito lead and great supporting cast, lovingly capturing filmmaking's underdog spirit.",
         "url": "https://bgdailynews.com/2026/11/20/i-play-rocky-embodies-an-underdog-spirit/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-20T21:16:35+00:00",
+        "confidence": "medium",
+        "critic": "Rick Bentley",
+        "outlet": "KGET",
+        "rating": "",
+        "summary": "Praises Anthony Ippolito's almost flawless performance as Stallone, though notes some may see it as mere mimicry.",
+        "url": "https://www.kget.com/community/ricks-reviews/i-play-rocky-features-strong-one-two-punch/",
+        "verdict": "fresh"
       }
     ],
     "the cat in the hat|2026": [
@@ -7571,6 +7581,10 @@
       "at": "2026-11-17T11:27:39+00:00",
       "status": "not_review"
     },
+    "i play rocky||https://collider.com/video/i-play-rocky-a-50-year-old-tape-inspired-rocky-s-stairs-collider-bts/": {
+      "at": "2026-11-20T21:16:33+00:00",
+      "status": "not_review"
+    },
     "i play rocky||https://collider.com/video/i-play-rocky-s-final-fight-had-to-match-every-punch-set-stories/": {
       "at": "2026-11-15T19:18:05+00:00",
       "status": "not_review"
@@ -7840,6 +7854,10 @@
       "at": "2026-11-14T11:06:30+00:00",
       "status": "not_review"
     },
+    "i play rocky||https://variety.com/2026/film/news/i-play-rocky-fact-vs-fiction-butkus-dog-stallone-fee-1236952451/": {
+      "at": "2026-11-20T21:16:26+00:00",
+      "status": "not_review"
+    },
     "i play rocky||https://washingtoncitypaper.com/article/794837/i-play-rocky-old-underdog-new-tricks/": {
       "at": "2026-11-13T18:30:13+00:00",
       "status": "review",
@@ -7981,6 +7999,11 @@
     },
     "i play rocky||https://www.kget.com/community/ricks-reviews/i-play-rocky-charts-fairytale-story-of-making-rocky/": {
       "at": "2026-11-18T20:28:54+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "i play rocky||https://www.kget.com/community/ricks-reviews/i-play-rocky-features-strong-one-two-punch/": {
+      "at": "2026-11-20T21:16:35+00:00",
       "status": "review",
       "verdict": "fresh"
     },
@@ -8522,6 +8545,10 @@
       "at": "2026-11-20T15:29:03+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "the further mis adventures of cliff booth|2026|https://www.avclub.com/david-fincher-netflix-cliff-booth-ai-accusations-allegations": {
+      "at": "2026-11-20T21:16:31+00:00",
+      "status": "not_review"
     },
     "the further mis adventures of cliff booth|2026|https://www.avclub.com/the-further-mis-adventures-of-cliff-booth-review-quentin-tarantino-sequel-david-fincher-brad-pitt-netflix": {
       "at": "2026-11-19T18:29:16+00:00",
@@ -9233,6 +9260,10 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "the hunger games sunrise on the reaping|2026|https://www.cbr.com/hunger-games-sunrise-on-the-reaping-2026-box-office-previews-success/": {
+      "at": "2026-11-20T21:16:37+00:00",
+      "status": "not_review"
+    },
     "the hunger games sunrise on the reaping|2026|https://www.cbr.com/hunger-games-sunrise-on-the-reaping-review/": {
       "at": "2026-11-17T14:05:57+00:00",
       "status": "review",
@@ -9401,6 +9432,10 @@
       "at": "2026-11-20T08:29:43+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "the hunger games sunrise on the reaping|2026|https://www.hollywoodreporter.com/movies/movie-features/sunrise-on-the-reaping-making-hunger-games-prequel-1236746299/": {
+      "at": "2026-11-20T21:16:29+00:00",
+      "status": "not_review"
     },
     "the hunger games sunrise on the reaping|2026|https://www.hollywoodreporter.com/movies/movie-news/hunger-games-sunrise-on-the-reaping-box-office-opening-win-1236759813/": {
       "at": "2026-11-20T04:29:06+00:00",
