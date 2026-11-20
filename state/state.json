@@ -4002,6 +4002,16 @@
         "summary": "Praises Zada and Mckenna Grace and the film's emotional trauma, but slams the Glenn Close makeup and the pointless nostalgia-driven epilogue cameo.",
         "url": "https://thirdcoastreview.com/film-tv/2026/11/20/review-sunrise-on-the-reaping",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-20T18:29:31+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "Cinemascomics",
+        "rating": "",
+        "summary": "Haymitch's tragic backstory, strong cast and Lawrence's cruel Panem make it worthwhile, despite overcrowded characters and pacing issues.",
+        "url": "https://www.cinemascomics.com/critica-amanecer-en-la-cosecha/",
+        "verdict": "fresh"
       }
     ],
     "the mongoose|": [
@@ -8431,6 +8441,10 @@
       "at": "2026-11-19T15:29:02+00:00",
       "status": "not_review"
     },
+    "the further mis adventures of cliff booth|2026|https://theplaylist.net/cliff-booth-david-fincher-three-different-cuts-20261120/": {
+      "at": "2026-11-20T18:29:33+00:00",
+      "status": "not_review"
+    },
     "the further mis adventures of cliff booth|2026|https://theplaylist.net/cliff-booth-further-misadventures-review-david-fincher-brad-pitt-quentin-tarantino-20261119/": {
       "at": "2026-11-19T18:05:30+00:00",
       "status": "review",
@@ -8882,6 +8896,10 @@
       "at": "2026-11-19T19:29:31+00:00",
       "status": "not_review"
     },
+    "the hunger games sunrise on the reaping|2026|https://news.google.com/rss/articles/CBMiogFBVV95cUxNeF9lWHhDbXRCSWlLUTNuSUd3YVpOdlpkaUk4d3o2QW1mUENPSDdMeVZyXzFWcUswdTNHdVRkTzB6YnhWVHVKcWlEQkw0TzNEVzZWZE9PU3Bzc2VkS0VuMmFKT190aVdwVnRLU00ySlJta2RlR0xEZGtZQnY0WHVuYW55Mm41VTIzTjVjTnkzNTlKdUZ0VHoyZUZ6dm1yWEdHSHc?oc=5": {
+      "at": "2026-11-20T18:29:42+00:00",
+      "status": "not_review"
+    },
     "the hunger games sunrise on the reaping|2026|https://nextbestpicture.com/the-hunger-games-sunrise-on-the-reaping/": {
       "at": "2026-11-17T14:05:37+00:00",
       "status": "review",
@@ -9161,10 +9179,19 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "the hunger games sunrise on the reaping|2026|https://www.cinemascomics.com/critica-amanecer-en-la-cosecha/": {
+      "at": "2026-11-20T18:29:31+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "the hunger games sunrise on the reaping|2026|https://www.clarin.com/espectaculos/juegos-hambre-amanecer-cosecha-da-vuelta-tuerca-reality-distopico-juvenil_0_TFfB1prcrc.html": {
       "at": "2026-11-19T09:29:21+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "the hunger games sunrise on the reaping|2026|https://www.comingsoon.net/movies/features/2228232-the-hunger-games-movies-ranked-after-sunrise-on-the-reaping": {
+      "at": "2026-11-20T18:29:36+00:00",
+      "status": "not_review"
     },
     "the hunger games sunrise on the reaping|2026|https://www.comingsoon.net/movies/features/2228329-new-hunger-games-movie-fixes-franchise-formula-hollywood-gets-wrong": {
       "at": "2026-11-20T16:29:06+00:00",
@@ -9204,6 +9231,14 @@
     },
     "the hunger games sunrise on the reaping|2026|https://www.comingsoon.net/movies/news/2228046-jennifer-lawrence-best-on-screen-kisses-ranked-actors": {
       "at": "2026-11-20T06:29:15+00:00",
+      "status": "not_review"
+    },
+    "the hunger games sunrise on the reaping|2026|https://www.comingsoon.net/movies/news/2228494-mckenna-grace-sunrise-on-the-reaping-role-hunger-games-fan-mad": {
+      "at": "2026-11-20T18:29:39+00:00",
+      "status": "not_review"
+    },
+    "the hunger games sunrise on the reaping|2026|https://www.comingsoon.net/movies/news/2228575-self-indulgent-hunger-games-biggest-fans-hate-sunrise-on-the-reaping-cameos": {
+      "at": "2026-11-20T18:29:38+00:00",
       "status": "not_review"
     },
     "the hunger games sunrise on the reaping|2026|https://www.comingsoon.net/movies/reviews/2224727-the-hunger-games-sunrise-on-the-reaping-review-a-tragic-powerful-dystopian-thriller": {
