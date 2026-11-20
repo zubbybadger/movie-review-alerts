@@ -3080,6 +3080,16 @@
         "summary": "A mismatched Fincher-Tarantino collaboration yields an aimless hangout movie that insists on swagger without earning it, with a thinly developed Cliff Booth.",
         "url": "https://www.highonfilms.com/the-further-mis-adventures-of-cliff-booth-2026-movie-review/",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-20T15:29:03+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Washington City Paper",
+        "rating": "",
+        "summary": "Fincher and Tarantino complement each other in a brutal yet humane '70s crime sequel, anchored by Pitt's charisma and great suspense.",
+        "url": "https://washingtoncitypaper.com/article/795066/the-further-mis-adventures-of-cliff-booth-is-the-darker-sinister-sequel-to-once-upon-a-time-in-hollywood/",
+        "verdict": "fresh"
       }
     ],
     "the hunger games sunrise on the reaping|2026": [
@@ -8368,6 +8378,11 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "the further mis adventures of cliff booth|2026|https://washingtoncitypaper.com/article/795066/the-further-mis-adventures-of-cliff-booth-is-the-darker-sinister-sequel-to-once-upon-a-time-in-hollywood/": {
+      "at": "2026-11-20T15:29:03+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "the further mis adventures of cliff booth|2026|https://www.avclub.com/the-further-mis-adventures-of-cliff-booth-review-quentin-tarantino-sequel-david-fincher-brad-pitt-netflix": {
       "at": "2026-11-19T18:29:16+00:00",
       "status": "review",
@@ -8561,6 +8576,10 @@
       "at": "2026-11-19T23:29:11+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "the hunger games sunrise on the reaping|2026|https://boundingintocomics.com/movies/movie-news/the-hunger-games-sunrise-on-the-reaping-tracking-for-100m-125m-opening-weekend": {
+      "at": "2026-11-20T15:28:58+00:00",
+      "status": "not_review"
     },
     "the hunger games sunrise on the reaping|2026|https://chicago.suntimes.com/movies-and-tv/2026/08/27/fall-2026-movies-richard-roeper-most-anticipated": {
       "at": "2026-11-16T14:29:07+00:00",
@@ -8810,6 +8829,10 @@
     },
     "the hunger games sunrise on the reaping|2026|https://screenrant.com/mckenna-grace-hunger-games-sunrise-on-the-reaping-box-office-domestic-debut-projections/": {
       "at": "2026-11-18T17:46:44+00:00",
+      "status": "not_review"
+    },
+    "the hunger games sunrise on the reaping|2026|https://screenrant.com/mckenna-grace-hunger-games-sunrise-on-the-reaping-box-office-domestic-preview-total/": {
+      "at": "2026-11-20T15:29:05+00:00",
       "status": "not_review"
     },
     "the hunger games sunrise on the reaping|2026|https://screenrant.com/sunrise-reaping-book-lucy-gray-headstone-reference-meaning-explainer/": {
@@ -9217,6 +9240,10 @@
       "at": "2026-11-17T14:04:56+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "the hunger games sunrise on the reaping|2026|https://www.polygon.com/sunrise-on-the-reaping-francis-lawrence-interview/": {
+      "at": "2026-11-20T15:29:01+00:00",
+      "status": "not_review"
     },
     "the hunger games sunrise on the reaping|2026|https://www.polygon.com/the-hunger-games-lionsgate-suzanne-collins-new-book/": {
       "at": "2026-11-17T11:27:37+00:00",
