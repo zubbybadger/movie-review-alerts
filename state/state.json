@@ -2486,6 +2486,16 @@
         "summary": "Anthony Ippolito's uncanny Stallone performance and charming behind-the-scenes details make this underdog origin story captivating.",
         "url": "https://moviemom.com/i-play-rocky/?utm_source=rss&utm_medium=rss&utm_campaign=i-play-rocky",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-20T23:29:13+00:00",
+        "confidence": "medium",
+        "critic": "Justin Chang",
+        "outlet": "The New Yorker",
+        "rating": "",
+        "summary": "Ippolito is magnetic as Stallone, but the film leans complacently on fan-service reenactments, sanitizes its story, and takes the underdog's triumph for granted.",
+        "url": "https://www.newyorker.com/culture/the-current-cinema/the-look-at-me-spectacle-of-actors-playing-actors-in-elsinore-and-i-play-rocky",
+        "verdict": "rotten"
       }
     ],
     "the cat in the hat|2026": [
@@ -8076,6 +8086,11 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "i play rocky||https://www.newyorker.com/culture/the-current-cinema/the-look-at-me-spectacle-of-actors-playing-actors-in-elsinore-and-i-play-rocky": {
+      "at": "2026-11-20T23:29:13+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
     "i play rocky||https://www.nightviz.ca/single-post/i-play-rocky-turns-an-underdog-triumph-into-a-safe-bet": {
       "at": "2026-11-13T15:16:31+00:00",
       "status": "review",
@@ -8825,6 +8840,10 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "the hunger games sunrise on the reaping|2026|https://deadline.com/2026/11/box-office-global-hunger-games-sunrise-on-the-reaping-1237230714/": {
+      "at": "2026-11-20T23:29:11+00:00",
+      "status": "not_review"
+    },
     "the hunger games sunrise on the reaping|2026|https://deadline.com/2026/11/box-office-hunger-games-sunrise-on-the-reaping-1237229925/": {
       "at": "2026-11-20T07:29:04+00:00",
       "status": "not_review"
@@ -9312,6 +9331,10 @@
     },
     "the hunger games sunrise on the reaping|2026|https://www.cbr.com/hunger-games-sunrise-on-the-reaping-2026-box-office-previews-success/": {
       "at": "2026-11-20T21:16:37+00:00",
+      "status": "not_review"
+    },
+    "the hunger games sunrise on the reaping|2026|https://www.cbr.com/hunger-games-sunrise-on-the-reaping-katniss-cameo-franchise-fumble/": {
+      "at": "2026-11-20T23:29:15+00:00",
       "status": "not_review"
     },
     "the hunger games sunrise on the reaping|2026|https://www.cbr.com/hunger-games-sunrise-on-the-reaping-review/": {
