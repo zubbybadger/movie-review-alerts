@@ -3842,6 +3842,26 @@
         "summary": "Despite a familiar formula, it adds character-specific depth, with Zada convincingly showing Haymitch's transformation into a defeated cynic; a fine conclusion.",
         "url": "http://www.markreviewsmovies.com/reviews/H/hungergames-sunriseonthereaping.htm",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-20T07:29:01+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "Spectrum Culture",
+        "rating": "55%",
+        "summary": "Feels like a beat-by-beat remake of the first film, with little suspense, much speechifying, and nihilistic cruelty, despite good looks and cast.",
+        "url": "https://spectrumculture.com/2026/11/19/the-hunger-games-sunrise-on-the-reaping-review/",
+        "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-20T07:29:06+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "India Today",
+        "rating": "",
+        "summary": "An emotionally weighty prequel with strong performances from Zada and Grace, though overlong and less suspenseful given the known outcome.",
+        "url": "https://www.indiatoday.in/movies/reviews/story/the-hunger-games-sunrise-on-the-reaping-review-a-moving-prequel-wrapped-in-bloodsport-3042926-2026-11-20",
+        "verdict": "fresh"
       }
     ],
     "the mongoose|": [
@@ -8495,6 +8515,10 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "the hunger games sunrise on the reaping|2026|https://deadline.com/2026/11/box-office-hunger-games-sunrise-on-the-reaping-1237229925/": {
+      "at": "2026-11-20T07:29:04+00:00",
+      "status": "not_review"
+    },
     "the hunger games sunrise on the reaping|2026|https://deadline.com/2026/11/francis-lawrence-hunger-games-sunrise-on-the-reaping-premiere-1237226905/": {
       "at": "2026-11-17T22:19:31+00:00",
       "status": "not_review"
@@ -8730,6 +8754,11 @@
       "at": "2026-11-17T14:04:47+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "the hunger games sunrise on the reaping|2026|https://spectrumculture.com/2026/11/19/the-hunger-games-sunrise-on-the-reaping-review/": {
+      "at": "2026-11-20T07:29:01+00:00",
+      "status": "review",
+      "verdict": "rotten"
     },
     "the hunger games sunrise on the reaping|2026|https://splicedpersonality.com/2026/11/18/the-hunger-games-sunrise-on-the-reaping/": {
       "at": "2026-11-18T08:29:05+00:00",
@@ -9019,6 +9048,11 @@
     "the hunger games sunrise on the reaping|2026|https://www.independent.co.uk/bulletin/culture/hunger-games-sunrise-on-reaping-reviews-b3086596.html": {
       "at": "2026-11-17T16:40:51+00:00",
       "status": "not_review"
+    },
+    "the hunger games sunrise on the reaping|2026|https://www.indiatoday.in/movies/reviews/story/the-hunger-games-sunrise-on-the-reaping-review-a-moving-prequel-wrapped-in-bloodsport-3042926-2026-11-20": {
+      "at": "2026-11-20T07:29:06+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "the hunger games sunrise on the reaping|2026|https://www.indiewire.com/criticism/shows/the-hunger-games-sunrise-on-the-reaping-review-1235228481/": {
       "at": "2026-11-17T14:04:45+00:00",
