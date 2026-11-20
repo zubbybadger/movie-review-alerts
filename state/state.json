@@ -3902,6 +3902,26 @@
         "summary": "A monumental, moving adaptation with stunning performances from Zada and Plemons and a vital anti-fascist message.",
         "url": "http://moviefreak.com/hunger-games-sunrise-on-the-reaping-2026-movie-review/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-20T13:29:14+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Riot-US",
+        "rating": "B",
+        "summary": "Strong visuals, brisk pacing, and Zada's affecting Haymitch make it a top-three franchise entry despite a generic score and underused characters.",
+        "url": "https://riot-us.com/2026/11/20/the-hunger-games-sunrise-on-the-reaping-review-the-punishment-of-being-a-hero/",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-20T13:29:26+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "The Federal",
+        "rating": "",
+        "summary": "Despite striking world-building and a strong supporting cast, bland lead characters and superficial ideas make it an empty spectacle from a dead franchise.",
+        "url": "https://thefederal.com/film-reviews/hunger-games-sunrise-on-the-reaping-prequel-haymith-abernathy-woody-harrelson-francis-lawrence-hollywood-film-release-review-survival-thriller-263582",
+        "verdict": "rotten"
       }
     ],
     "the mongoose|": [
@@ -8349,6 +8369,10 @@
       "status": "review",
       "verdict": "rotten"
     },
+    "the further mis adventures of cliff booth|2026|https://www.avclub.com/the-further-mis-adventures-of-cliff-booth-review-quentin-tarantino-sequel-david-fincher-brad-pitt-netflix?utm_source=rss&utm_medium=rss&utm_campaign=the-further-mis-adventures-of-cliff-booth-review-quentin-tarantino-sequel-david-fincher-brad-pitt-netflix": {
+      "at": "2026-11-20T13:29:20+00:00",
+      "status": "duplicate"
+    },
     "the further mis adventures of cliff booth|2026|https://www.cbr.com/the-further-mis-adventures-of-cliff-booth-rotten-tomatoes-score/": {
       "at": "2026-11-19T21:29:14+00:00",
       "status": "not_review"
@@ -8572,6 +8596,10 @@
       "at": "2026-11-18T18:28:57+00:00",
       "status": "not_review"
     },
+    "the hunger games sunrise on the reaping|2026|https://deadline.com/2026/11/kieran-culkin-reunite-succession-jesse-armstrong-movie-1237230018/": {
+      "at": "2026-11-20T13:29:18+00:00",
+      "status": "not_review"
+    },
     "the hunger games sunrise on the reaping|2026|https://deadline.com/2026/11/percy-jackson-and-the-olympians-season-3-release-schedule-1237226036/": {
       "at": "2026-11-17T01:14:52+00:00",
       "status": "not_review"
@@ -8721,6 +8749,11 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "the hunger games sunrise on the reaping|2026|https://riot-us.com/2026/11/20/the-hunger-games-sunrise-on-the-reaping-review-the-punishment-of-being-a-hero/": {
+      "at": "2026-11-20T13:29:14+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "the hunger games sunrise on the reaping|2026|https://screenanarchy.com/2026/11/the-hunger-games-sunrise-on-the-reaping-review-second-prequel-rounds-out-an-overextended-series.html": {
       "at": "2026-11-19T15:28:43+00:00",
       "status": "review",
@@ -8775,6 +8808,10 @@
       "at": "2026-11-19T20:29:03+00:00",
       "status": "not_review"
     },
+    "the hunger games sunrise on the reaping|2026|https://screenrant.com/the-hunger-games-movie-books-future-after-sunrise-on-the-reaping/": {
+      "at": "2026-11-20T13:29:23+00:00",
+      "status": "not_review"
+    },
     "the hunger games sunrise on the reaping|2026|https://screenrant.com/the-hunger-games-movies-recap-before-sunrise-on-the-reaping/": {
       "at": "2026-11-17T00:03:53+00:00",
       "status": "not_review"
@@ -8816,6 +8853,11 @@
     },
     "the hunger games sunrise on the reaping|2026|https://sunshinestatecineplex.com/2026/11/19/sunrise-on-the-reaping/": {
       "at": "2026-11-19T23:50:43+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
+    "the hunger games sunrise on the reaping|2026|https://thefederal.com/film-reviews/hunger-games-sunrise-on-the-reaping-prequel-haymith-abernathy-woody-harrelson-francis-lawrence-hollywood-film-release-review-survival-thriller-263582": {
+      "at": "2026-11-20T13:29:26+00:00",
       "status": "review",
       "verdict": "rotten"
     },
