@@ -4144,6 +4144,16 @@
         "summary": "Granger finds the prequel underwhelming, tedious and formulaic, with ridiculous distractions, wishing there'd never be another Hunger Games.",
         "url": "https://www.susangranger.com/?p=19538",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-21T23:29:00+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Fort Worth Report",
+        "rating": "3/4",
+        "summary": "Strong performances, especially Joseph Zada, thrilling visual effects, and timely themes make it come close to matching the original's excitement.",
+        "url": "https://fortworthreport.org/2026/11/21/the-hunger-games-sunrise-on-the-reaping-review-the-second-prequel-is-nostalgic-yet-hits-differently-in-the-age-of-deepfakes-and-ai/",
+        "verdict": "fresh"
       }
     ],
     "the mongoose|": [
@@ -8339,6 +8349,10 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "i play rocky||https://www.winnipegfreepress.com/sports/basketball/2026/11/21/we-watch-rocky-lebron-james-organizes-76ers-movie-night-with-screening-of-i-play-rocky": {
+      "at": "2026-11-21T23:29:02+00:00",
+      "status": "not_review"
+    },
     "the cat in the hat|2026|http://moviefreak.com/cat-in-the-hat-2026-movie-review/": {
       "at": "2026-11-06T08:37:17+00:00",
       "status": "review",
@@ -8582,6 +8596,10 @@
       "at": "2026-11-19T18:05:33+00:00",
       "status": "review",
       "verdict": "rotten"
+    },
+    "the further mis adventures of cliff booth|2026|https://collider.com/quentin-tarantino-once-upon-a-time-in-hollywood-streaming-success-prime-video-november-2026/": {
+      "at": "2026-11-21T23:29:04+00:00",
+      "status": "not_review"
     },
     "the further mis adventures of cliff booth|2026|https://collider.com/quentin-tarantino-the-further-mis-adventures-of-cliff-booth-rotten-tomatoes-score/": {
       "at": "2026-11-19T18:29:17+00:00",
@@ -9094,6 +9112,11 @@
       "at": "2026-11-20T02:41:36+00:00",
       "status": "review",
       "verdict": "rotten"
+    },
+    "the hunger games sunrise on the reaping|2026|https://fortworthreport.org/2026/11/21/the-hunger-games-sunrise-on-the-reaping-review-the-second-prequel-is-nostalgic-yet-hits-differently-in-the-age-of-deepfakes-and-ai/": {
+      "at": "2026-11-21T23:29:00+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "the hunger games sunrise on the reaping|2026|https://hipertextual.com/cine-television/3-cosas-que-tienes-que-saber-antes-de-ver-los-juegos-del-hambre-amanecer-en-la-cosecha/": {
       "at": "2026-11-21T12:07:19+00:00",
