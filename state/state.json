@@ -4092,6 +4092,16 @@
         "summary": "Formulaic and lurching, but Joseph Zada's standout performance, strong cast, camerawork and score make it come together where it counts.",
         "url": "https://www.thetraverstake.com/featured/the-hunger-games-sunrise-on-the-reaping/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-21T15:26:08+00:00",
+        "confidence": "low",
+        "critic": "",
+        "outlet": "Espinof",
+        "rating": "",
+        "summary": "Entertaining and well cast in support, but Joseph Zada's flat lead and autopilot games make it the saga's weakest entry.",
+        "url": "https://www.espinof.com/estrenos/creo-que-juegos-hambre-amanecer-cosecha-no-esta-a-altura-saga-entretiene-joseph-zada-me-ha-decepcionado-como-sucesor-woody-harrelson",
+        "verdict": "rotten"
       }
     ],
     "the mongoose|": [
@@ -9181,6 +9191,10 @@
       "at": "2026-11-17T00:03:53+00:00",
       "status": "not_review"
     },
+    "the hunger games sunrise on the reaping|2026|https://screenrant.com/the-hunger-games-sunrise-on-the-reaping-lucy-gray-baird-explained/": {
+      "at": "2026-11-21T15:26:11+00:00",
+      "status": "not_review"
+    },
     "the hunger games sunrise on the reaping|2026|https://screenrant.com/the-hunger-games-sunrise-on-the-reaping-movie-ending-explained/": {
       "at": "2026-11-20T03:29:09+00:00",
       "status": "not_review"
@@ -9520,6 +9534,11 @@
     "the hunger games sunrise on the reaping|2026|https://www.espinof.com/directores-y-guionistas/francis-lawrence-director-juegos-hambre-final-amanecer-cosecha-cameos-queria-que-tragedia-tuviera-proposito": {
       "at": "2026-11-20T16:28:47+00:00",
       "status": "not_review"
+    },
+    "the hunger games sunrise on the reaping|2026|https://www.espinof.com/estrenos/creo-que-juegos-hambre-amanecer-cosecha-no-esta-a-altura-saga-entretiene-joseph-zada-me-ha-decepcionado-como-sucesor-woody-harrelson": {
+      "at": "2026-11-21T15:26:08+00:00",
+      "status": "review",
+      "verdict": "rotten"
     },
     "the hunger games sunrise on the reaping|2026|https://www.fotogramas.es/noticias-cine/a74462650/mckenna-grace-actriz-los-juegos-del-hambre-amanecer-en-la-cosecha-pelicula-entrevista/": {
       "at": "2026-11-18T15:00:46+00:00",
