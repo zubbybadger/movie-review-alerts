@@ -12,6 +12,12 @@ movies:
   - title: "The Further Mis-Adventures of Cliff Booth"
     year: 2026
     also_known_as: ["The Adventures of Cliff Booth", "Cliff Booth", "Once Upon a Time in Hollywood 2"]
+  - title: "Focker-In-Law"
+    year: 2026
+    also_known_as: ["Focker In-Law", "Focker In Law", "Meet the Parents 4"]
+  - title: "Hexed"
+    year: 2026
+    also_known_as: ["Disney's Hexed"]
 
 # Review sites to watch. A homepage, a film/reviews section, or an RSS feed
 # all work. The bot finds the site's feed automatically when there is one,
