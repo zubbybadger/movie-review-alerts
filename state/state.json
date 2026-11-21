@@ -4134,6 +4134,16 @@
         "summary": "Entertaining and well cast in support, but Joseph Zada's flat lead and autopilot games make it the saga's weakest entry.",
         "url": "https://www.espinof.com/estrenos/creo-que-juegos-hambre-amanecer-cosecha-no-esta-a-altura-saga-entretiene-joseph-zada-me-ha-decepcionado-como-sucesor-woody-harrelson",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-21T21:28:51+00:00",
+        "confidence": "medium",
+        "critic": "Susan Granger",
+        "outlet": "SusanGranger.com",
+        "rating": "5/10",
+        "summary": "Granger finds the prequel underwhelming, tedious and formulaic, with ridiculous distractions, wishing there'd never be another Hunger Games.",
+        "url": "https://www.susangranger.com/?p=19538",
+        "verdict": "rotten"
       }
     ],
     "the mongoose|": [
@@ -7174,6 +7184,10 @@
       "at": "2026-11-21T16:05:23+00:00",
       "status": "not_review"
     },
+    "hexed|2026|https://www.independent.co.uk/arts-entertainment/films/news/jodie-foster-favorite-film-the-lion-king-b3089246.html": {
+      "at": "2026-11-21T21:28:57+00:00",
+      "status": "not_review"
+    },
     "hexed|2026|https://www.slashfilm.com/2283918/hexed-footage-reaction-disney-casts-a-promising-spell-in-the-new-witchcraft-adventure/": {
       "at": "2026-11-21T16:05:21+00:00",
       "status": "not_review"
@@ -9142,6 +9156,10 @@
       "status": "review",
       "verdict": "rotten"
     },
+    "the hunger games sunrise on the reaping|2026|https://movieweb.com/hunger-games-actor-returns/": {
+      "at": "2026-11-21T21:28:59+00:00",
+      "status": "not_review"
+    },
     "the hunger games sunrise on the reaping|2026|https://movieweb.com/hunger-games-final-reaping-haymitch/": {
       "at": "2026-11-21T18:09:21+00:00",
       "status": "not_review"
@@ -9900,6 +9918,11 @@
     "the hunger games sunrise on the reaping|2026|https://www.smh.com.au/culture/movies/sunrise-on-the-reaping-just-landed-so-we-ve-ranked-all-the-hunger-games-movies-20261120-p61f4d.html": {
       "at": "2026-11-20T04:29:04+00:00",
       "status": "not_review"
+    },
+    "the hunger games sunrise on the reaping|2026|https://www.susangranger.com/?p=19538": {
+      "at": "2026-11-21T21:28:51+00:00",
+      "status": "review",
+      "verdict": "rotten"
     },
     "the hunger games sunrise on the reaping|2026|https://www.telegraph.co.uk/films/0/the-hunger-games-sunrise-on-the-reaping-review-prequel/": {
       "at": "2026-11-20T10:29:43+00:00",
