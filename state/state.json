@@ -3192,6 +3192,16 @@
         "summary": "A first-rate, flowing entertainment blending Tarantino's dialogue with Fincher's precise direction, led by a charismatic Brad Pitt.",
         "url": "https://www.espinof.com/criticas/nuevas-desventuras-cliff-booth-genialmente-entretenida-mezclando-sello-quentin-tarantino-toque-david-fincher",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-21T21:06:37+00:00",
+        "confidence": "low",
+        "critic": "",
+        "outlet": "Cines Sin Fronteras",
+        "rating": "2.5/4",
+        "summary": "Enjoyable, with strong performances by Pitt and a few tense Fincher set pieces, but mismatched styles and lack of depth leave it aimless.",
+        "url": "https://cinesinfronteras.com/2026/11/21/resena-the-further-mis-adventures-of-cliff-booth-las-nuevas-desventuras-de-cliff-booth/",
+        "verdict": "rotten"
       }
     ],
     "the hunger games sunrise on the reaping|2026": [
@@ -8536,6 +8546,11 @@
       "at": "2026-11-19T23:10:45+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "the further mis adventures of cliff booth|2026|https://cinesinfronteras.com/2026/11/21/resena-the-further-mis-adventures-of-cliff-booth-las-nuevas-desventuras-de-cliff-booth/": {
+      "at": "2026-11-21T21:06:37+00:00",
+      "status": "review",
+      "verdict": "rotten"
     },
     "the further mis adventures of cliff booth|2026|https://collider.com/futher-misadventures-of-cliff-booth-review-brad-pitt-david-fincher-quentin-tarantino/": {
       "at": "2026-11-19T18:05:33+00:00",
