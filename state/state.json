@@ -8006,6 +8006,10 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "i play rocky||https://www.hollywoodreporter.com/movies/movie-features/i-play-rocky-star-p-j-byrne-1236760259/": {
+      "at": "2026-11-21T00:28:44+00:00",
+      "status": "not_review"
+    },
     "i play rocky||https://www.hollywoodreporter.com/movies/movie-news/golden-globes-i-play-rocky-submitted-comedy-exclusive-1236746064/": {
       "at": "2026-11-02T19:26:11+00:00",
       "status": "not_review"
@@ -8459,6 +8463,10 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "the further mis adventures of cliff booth|2026|https://deadline.com/2026/11/david-fincher-defends-ai-cliff-booth-criticism-1237230711/": {
+      "at": "2026-11-21T00:28:46+00:00",
+      "status": "not_review"
+    },
     "the further mis adventures of cliff booth|2026|https://deadline.com/2026/11/the-further-mis-adventures-of-cliff-booth-review-brad-pitt-1237229009/": {
       "at": "2026-11-19T18:05:05+00:00",
       "status": "review",
@@ -8485,6 +8493,10 @@
       "at": "2026-11-19T18:05:00+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "the further mis adventures of cliff booth|2026|https://movieweb.com/brad-pitt-cliff-booth-alleged-ai-use/": {
+      "at": "2026-11-21T00:28:48+00:00",
+      "status": "not_review"
     },
     "the further mis adventures of cliff booth|2026|https://movieweb.com/tag/movie/the-adventures-of-cliff-booth/": {
       "at": "2026-11-19T18:06:08+00:00",
