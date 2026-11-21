@@ -702,6 +702,18 @@
         "verdict": "fresh"
       }
     ],
+    "focker in law|2026": [
+      {
+        "at": "2026-11-21T16:05:11+00:00",
+        "confidence": "high",
+        "critic": "Stephanie Monohan",
+        "outlet": "Little White Lies",
+        "rating": "",
+        "summary": "A woefully thin, lifeless legacy sequel relying on nostalgia-baiting; Ariana Grande's chemistry yields only fleeting laughs.",
+        "url": "https://www.lwlies.com/reviews/focker-in-law",
+        "verdict": "rotten"
+      }
+    ],
     "godzilla minus zero|": [
       {
         "at": "2026-10-29T16:23:30+00:00",
@@ -6374,6 +6386,19 @@
       "at": "2026-11-15T17:58:52+00:00",
       "status": "not_review"
     },
+    "focker in law|2026|https://www.bollywoodhungama.com/movie/focker-law-english/": {
+      "at": "2026-11-21T16:05:25+00:00",
+      "status": "not_review"
+    },
+    "focker in law|2026|https://www.lwlies.com/reviews/focker-in-law": {
+      "at": "2026-11-21T16:05:11+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
+    "focker in law|2026|https://www.vulture.com/article/ariana-grande-focker-in-law-press-tour-public-appearance.html": {
+      "at": "2026-11-21T16:05:09+00:00",
+      "status": "not_review"
+    },
     "godzilla minus zero||http://moviefreak.com/godzilla-minus-zero-2026-movie-review/": {
       "at": "2026-11-06T08:37:20+00:00",
       "status": "review",
@@ -7115,6 +7140,18 @@
     },
     "godzilla minus zero||https://www.winnipegfreepress.com/arts-and-life/entertainment/2026/11/08/godzilla-minus-zero-stomps-to-a-record-setting-31-6-debut-clobbering-the-cat-in-the-hat": {
       "at": "2026-11-08T18:50:32+00:00",
+      "status": "not_review"
+    },
+    "hexed|2026|https://thirdcoastreview.com/film-tv/2026/11/20/interview-yvette-nicole-brown": {
+      "at": "2026-11-21T16:05:07+00:00",
+      "status": "not_review"
+    },
+    "hexed|2026|https://www.bollywoodhungama.com/movie/hexed-english/": {
+      "at": "2026-11-21T16:05:23+00:00",
+      "status": "not_review"
+    },
+    "hexed|2026|https://www.slashfilm.com/2283918/hexed-footage-reaction-disney-casts-a-promising-spell-in-the-new-witchcraft-adventure/": {
+      "at": "2026-11-21T16:05:21+00:00",
       "status": "not_review"
     },
     "how to rob a bank|2026|http://www.markreviewsmovies.com/reviews/H/howtorobabank.htm": {
@@ -9150,6 +9187,10 @@
       "at": "2026-11-19T15:29:06+00:00",
       "status": "not_review"
     },
+    "the hunger games sunrise on the reaping|2026|https://screenrant.com/hunger-games-sunrise-on-the-reaping-mckenne-grace-maysilee-gamesmaker-scene-cut-francis-lawrence/": {
+      "at": "2026-11-21T16:05:16+00:00",
+      "status": "not_review"
+    },
     "the hunger games sunrise on the reaping|2026|https://screenrant.com/hunger-games-sunrise-on-the-reaping-movie-book-changes-differences/": {
       "at": "2026-11-21T02:33:31+00:00",
       "status": "not_review"
@@ -9175,6 +9216,10 @@
       "at": "2026-11-20T15:29:05+00:00",
       "status": "not_review"
     },
+    "the hunger games sunrise on the reaping|2026|https://screenrant.com/mckenna-grace-hunger-games-sunrise-on-the-reaping-box-office-opening-weekend-domestic-result/": {
+      "at": "2026-11-21T16:05:14+00:00",
+      "status": "not_review"
+    },
     "the hunger games sunrise on the reaping|2026|https://screenrant.com/sunrise-on-the-reaping-movie-katniss-jennifer-lawrence-peeta-josh-hutcherson-cameos-disappointing/": {
       "at": "2026-11-20T17:28:47+00:00",
       "status": "not_review"
@@ -9193,6 +9238,10 @@
     },
     "the hunger games sunrise on the reaping|2026|https://screenrant.com/the-hunger-games-sunrise-on-the-reaping-lucy-gray-baird-explained/": {
       "at": "2026-11-21T15:26:11+00:00",
+      "status": "not_review"
+    },
+    "the hunger games sunrise on the reaping|2026|https://screenrant.com/the-hunger-games-sunrise-on-the-reaping-movie-easter-eggs-explained/": {
+      "at": "2026-11-21T16:05:18+00:00",
       "status": "not_review"
     },
     "the hunger games sunrise on the reaping|2026|https://screenrant.com/the-hunger-games-sunrise-on-the-reaping-movie-ending-explained/": {
