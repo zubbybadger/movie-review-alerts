@@ -4154,6 +4154,16 @@
         "summary": "Strong performances, especially Joseph Zada, thrilling visual effects, and timely themes make it come close to matching the original's excitement.",
         "url": "https://fortworthreport.org/2026/11/21/the-hunger-games-sunrise-on-the-reaping-review-the-second-prequel-is-nostalgic-yet-hits-differently-in-the-age-of-deepfakes-and-ai/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-21T23:45:43+00:00",
+        "confidence": "medium",
+        "critic": "Sebasti\u00e1n Zavala Kahn",
+        "outlet": "Me Gusta El Cine",
+        "rating": "",
+        "summary": "Messy, overlong and uneven in performances despite strong leads; one of the saga's weakest entries, leaving casual viewers indifferent.",
+        "url": "https://megustaelcine.com/critica-los-juegos-del-hambre-amanecer-en-la-cosecha-me-dejo-hambriento-de-mas/?utm_source=rss&utm_medium=rss&utm_campaign=critica-los-juegos-del-hambre-amanecer-en-la-cosecha-me-dejo-hambriento-de-mas",
+        "verdict": "rotten"
       }
     ],
     "the mongoose|": [
@@ -9179,6 +9189,15 @@
     "the hunger games sunrise on the reaping|2026|https://mashable.com/life/teleflora-hunger-games-sunrise-on-the-reaping-bouquets": {
       "at": "2026-11-19T14:29:15+00:00",
       "status": "not_review"
+    },
+    "the hunger games sunrise on the reaping|2026|https://megustaelcine.com/critica-los-juegos-del-hambre-amanecer-en-la-cosecha-me-dejo-hambriento-de-mas/": {
+      "at": "2026-11-21T23:45:46+00:00",
+      "status": "duplicate"
+    },
+    "the hunger games sunrise on the reaping|2026|https://megustaelcine.com/critica-los-juegos-del-hambre-amanecer-en-la-cosecha-me-dejo-hambriento-de-mas/?utm_source=rss&utm_medium=rss&utm_campaign=critica-los-juegos-del-hambre-amanecer-en-la-cosecha-me-dejo-hambriento-de-mas": {
+      "at": "2026-11-21T23:45:43+00:00",
+      "status": "review",
+      "verdict": "rotten"
     },
     "the hunger games sunrise on the reaping|2026|https://moviecricket.net/blog/2026/11/16/review-the-hunger-games-sunrise-on-the-reaping-must-battle-too-much-fan-service-on-its-way-to-a-pre-ordained-prequel-ending": {
       "at": "2026-11-17T14:04:59+00:00",
