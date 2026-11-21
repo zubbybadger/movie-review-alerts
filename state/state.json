@@ -3160,6 +3160,16 @@
         "summary": "Amiable and occasionally charming, but aimless, self-indulgent and stakes-free; a 140-minute 'nothingburger' with nothing new to say about Cliff.",
         "url": "https://www.thepitchkc.com/for-a-stuntman-sequel-the-further-mis-adventures-of-cliff-booth-is-in-no-rush-to-accomplish-much/",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-21T13:28:41+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Espinof",
+        "rating": "",
+        "summary": "A first-rate, flowing entertainment blending Tarantino's dialogue with Fincher's precise direction, led by a charismatic Brad Pitt.",
+        "url": "https://www.espinof.com/criticas/nuevas-desventuras-cliff-booth-genialmente-entretenida-mezclando-sello-quentin-tarantino-toque-david-fincher",
+        "verdict": "fresh"
       }
     ],
     "the hunger games sunrise on the reaping|2026": [
@@ -8674,6 +8684,11 @@
     },
     "the further mis adventures of cliff booth|2026|https://www.empireonline.com/movies/reviews/the-further-mis-adventures-of-cliff-booth/": {
       "at": "2026-11-19T18:05:15+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "the further mis adventures of cliff booth|2026|https://www.espinof.com/criticas/nuevas-desventuras-cliff-booth-genialmente-entretenida-mezclando-sello-quentin-tarantino-toque-david-fincher": {
+      "at": "2026-11-21T13:28:41+00:00",
       "status": "review",
       "verdict": "fresh"
     },
