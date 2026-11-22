@@ -2518,6 +2518,16 @@
         "summary": "A delightful, crowd-pleasing underdog tale with a terrific Anthony Ippolito, though overly sentimental and predictable.",
         "url": "https://screenzealots.com/2026/11/21/i-play-rocky/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-22T19:28:54+00:00",
+        "confidence": "low",
+        "critic": "",
+        "outlet": "InSession Film",
+        "rating": "",
+        "summary": "Only the listing text was available, so the critic's opinion cannot be determined from the content.",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUGI3a19hcTFKMElsUlFnNkRDcFg0ZmV6Y2Y1YjhPQTNLeXhmLWFjVkx6Rk1nYWRrNFhZLUpzQlkzTDAzcy1hTHBicnRwT1R5OXFzZ2VqU2NLQVBOQnVLdGFBUEdUT2ZXT0wzMDg1OGxLYjhjZ0hiT1dfUmx5N1diNDhPS283UURkcEpZbjJ5Y3NuT0k?oc=5",
+        "verdict": "fresh"
       }
     ],
     "the cat in the hat|2026": [
@@ -4174,6 +4184,16 @@
         "summary": "Messy, overlong and uneven in performances despite strong leads; one of the saga's weakest entries, leaving casual viewers indifferent.",
         "url": "https://megustaelcine.com/critica-los-juegos-del-hambre-amanecer-en-la-cosecha-me-dejo-hambriento-de-mas/?utm_source=rss&utm_medium=rss&utm_campaign=critica-los-juegos-del-hambre-amanecer-en-la-cosecha-me-dejo-hambriento-de-mas",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-22T19:28:49+00:00",
+        "confidence": "low",
+        "critic": "",
+        "outlet": "BRWC (Battle Royale With Cheese)",
+        "rating": "",
+        "summary": "Largely descriptive review noting familiar territory but praising production values and expanded Haymitch backstory for invested fans.",
+        "url": "https://battleroyalewithcheese.com/2026/11/the-hunger-games-sunrise-on-the-reaping-the-brwc-review/",
+        "verdict": "fresh"
       }
     ],
     "the mongoose|": [
@@ -7886,6 +7906,11 @@
       "at": "2026-11-19T23:50:45+00:00",
       "status": "not_review"
     },
+    "i play rocky||https://news.google.com/rss/articles/CBMikwFBVV95cUxOUGI3a19hcTFKMElsUlFnNkRDcFg0ZmV6Y2Y1YjhPQTNLeXhmLWFjVkx6Rk1nYWRrNFhZLUpzQlkzTDAzcy1hTHBicnRwT1R5OXFzZ2VqU2NLQVBOQnVLdGFBUEdUT2ZXT0wzMDg1OGxLYjhjZ0hiT1dfUmx5N1diNDhPS283UURkcEpZbjJ5Y3NuT0k?oc=5": {
+      "at": "2026-11-22T19:28:54+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "i play rocky||https://news.google.com/rss/articles/CBMisgFBVV95cUxPMUFHajNmUWFhUjVrN29OWFptZS1tdEsyTE1DUHdRaFo4Uy1EQms5ZmdVWFlsdTI1cHdKaFo4UnE0MF9rNE93MDVqekNWczNCSkkxdFBYeUkxRFlZZXlKYmJKOFJ0TDZTejhEVVJmZkF1ZXV2X285cVF3WU1NQ1E2ZWwyUVpWN1JlSUhpZnZ2WHhJSFJ5QzVSc2dNSlZVUDgwd19Sc2ZCbDNrQmNfcXctMlpR?oc=5": {
       "at": "2026-11-20T18:37:26+00:00",
       "status": "not_review"
@@ -9032,6 +9057,11 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "the hunger games sunrise on the reaping|2026|https://battleroyalewithcheese.com/2026/11/the-hunger-games-sunrise-on-the-reaping-the-brwc-review/": {
+      "at": "2026-11-22T19:28:49+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "the hunger games sunrise on the reaping|2026|https://beyondthecineramadome.com/movie-reviews/the-hunger-games-sunrise-on-the-reaping-film-review": {
       "at": "2026-11-19T21:29:07+00:00",
       "status": "review",
@@ -10055,6 +10085,10 @@
       "at": "2026-11-17T14:29:05+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "the hunger games sunrise on the reaping|2026|https://www.screendaily.com/news/sunrise-on-the-reaping-fires-up-hunger-games-franchise-on-120m-at-us-box-office/5222667.article": {
+      "at": "2026-11-22T19:28:52+00:00",
+      "status": "not_review"
     },
     "the hunger games sunrise on the reaping|2026|https://www.screendaily.com/reviews/the-hunger-games-sunrise-on-the-reaping-review-underwhelming-prequel-to-hit-ya-franchise-suffers-from-a-lack-of-compelling-characters/5222281.article": {
       "at": "2026-11-17T14:05:25+00:00",
