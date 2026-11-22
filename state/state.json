@@ -3202,6 +3202,16 @@
         "summary": "Enjoyable, with strong performances by Pitt and a few tense Fincher set pieces, but mismatched styles and lack of depth leave it aimless.",
         "url": "https://cinesinfronteras.com/2026/11/21/resena-the-further-mis-adventures-of-cliff-booth-las-nuevas-desventuras-de-cliff-booth/",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-22T11:29:21+00:00",
+        "confidence": "medium",
+        "critic": "Richard Brody",
+        "outlet": "The New Yorker",
+        "rating": "",
+        "summary": "Despite Pitt's verve and clever riffs, the digressive script feels hollow, missing transformation beyond storytelling, and wastes its promising romance.",
+        "url": "https://www.newyorker.com/culture/the-front-row/the-further-mis-adventures-of-cliff-booth-is-tarantino-minus-tarantino",
+        "verdict": "rotten"
       }
     ],
     "the hunger games sunrise on the reaping|2026": [
@@ -8912,6 +8922,11 @@
       "at": "2026-11-19T18:05:20+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "the further mis adventures of cliff booth|2026|https://www.newyorker.com/culture/the-front-row/the-further-mis-adventures-of-cliff-booth-is-tarantino-minus-tarantino": {
+      "at": "2026-11-22T11:29:21+00:00",
+      "status": "review",
+      "verdict": "rotten"
     },
     "the further mis adventures of cliff booth|2026|https://www.nme.com/reviews/film-reviews/the-further-mis-adventures-of-cliff-booth-review-brad-pitt-fincher-tarantino-3976430": {
       "at": "2026-11-19T18:05:52+00:00",
