@@ -5,10 +5,6 @@
 # movies that share a title.
 movies:
   # also_known_as lists other titles a movie goes by (e.g. on Spanish-language sites).
-  - title: "I Play Rocky"
-  - title: "The Hunger Games: Sunrise on the Reaping"
-    year: 2026
-    also_known_as: ["Sunrise on the Reaping", "Los juegos del hambre: Amanecer en la cosecha"]
   - title: "The Further Mis-Adventures of Cliff Booth"
     year: 2026
     also_known_as: ["The Adventures of Cliff Booth", "Cliff Booth", "Once Upon a Time in Hollywood 2"]
