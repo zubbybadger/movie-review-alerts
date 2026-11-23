@@ -3222,6 +3222,26 @@
         "summary": "Despite Pitt's verve and clever riffs, the digressive script feels hollow, missing transformation beyond storytelling, and wastes its promising romance.",
         "url": "https://www.newyorker.com/culture/the-front-row/the-further-mis-adventures-of-cliff-booth-is-tarantino-minus-tarantino",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-23T11:29:16+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "SensaCine",
+        "rating": "",
+        "summary": "Fincher's neo-noir direction of a savage, romantic, fun Tarantino script with a magnetic Brad Pitt makes a true cinephile party.",
+        "url": "https://www.sensacine.com/noticias/cine/noticia-1000233572/",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-23T11:29:19+00:00",
+        "confidence": "medium",
+        "critic": "Mark Feeney",
+        "outlet": "The Boston Globe",
+        "rating": "3/4",
+        "summary": "Brilliant, sly Tarantino dialogue, a magnetic Pitt and slick Fincher craft outweigh tedious stretches and gratuitous, morally repugnant violence.",
+        "url": "https://www.bostonglobe.com/2026/11/23/arts/mis-adventures-of-cliff-booth-fincher-tarantino/",
+        "verdict": "fresh"
       }
     ],
     "the hunger games sunrise on the reaping|2026": [
@@ -8910,6 +8930,11 @@
       "at": "2026-11-20T13:29:20+00:00",
       "status": "duplicate"
     },
+    "the further mis adventures of cliff booth|2026|https://www.bostonglobe.com/2026/11/23/arts/mis-adventures-of-cliff-booth-fincher-tarantino/": {
+      "at": "2026-11-23T11:29:19+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "the further mis adventures of cliff booth|2026|https://www.cbr.com/the-further-mis-adventures-of-cliff-booth-rotten-tomatoes-score/": {
       "at": "2026-11-19T21:29:14+00:00",
       "status": "not_review"
@@ -9040,6 +9065,11 @@
     },
     "the further mis adventures of cliff booth|2026|https://www.screendaily.com/reviews/the-further-mis-adventures-of-cliff-booth-review-brad-pitt-brings-the-muscle-to-david-finchers-appealing-shaggy-dog-drama/5222580.article": {
       "at": "2026-11-19T18:05:24+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "the further mis adventures of cliff booth|2026|https://www.sensacine.com/noticias/cine/noticia-1000233572/": {
+      "at": "2026-11-23T11:29:16+00:00",
       "status": "review",
       "verdict": "fresh"
     },
@@ -9390,6 +9420,10 @@
     },
     "the hunger games sunrise on the reaping|2026|https://movieweb.com/hunger-games-franchise-viewing-order/": {
       "at": "2026-11-21T23:07:31+00:00",
+      "status": "not_review"
+    },
+    "the hunger games sunrise on the reaping|2026|https://movieweb.com/hunger-games-haymitch-quote/": {
+      "at": "2026-11-23T11:29:22+00:00",
       "status": "not_review"
     },
     "the hunger games sunrise on the reaping|2026|https://movieweb.com/hunger-games-movies-want-next/": {
