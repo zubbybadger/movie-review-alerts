@@ -3612,6 +3612,16 @@
         "summary": "An enjoyable, stylish ramble with Pitt and Debicki clicking, despite a messy climax and abrupt, disappointing ending.",
         "url": "https://www.reelingreviews.com/reviews/the-further-mis-adventures-of-cliff-booth/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-23T23:29:25+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Spliced Personality",
+        "rating": "",
+        "summary": "The critic calls it an unpleasant, embarrassing wallow through the silly power fantasies of three aging, overindulged artists.",
+        "url": "https://splicedpersonality.com/2026/11/23/the-further-mis-adventures-of-cliff-booth/",
+        "verdict": "rotten"
       }
     ],
     "the hunger games sunrise on the reaping|2026": [
@@ -9480,6 +9490,11 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "the further mis adventures of cliff booth|2026|https://splicedpersonality.com/2026/11/23/the-further-mis-adventures-of-cliff-booth/": {
+      "at": "2026-11-23T23:29:25+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
     "the further mis adventures of cliff booth|2026|https://theholofiles.com/2026/11/19/the-further-mis-adventures-of-cliff-booth-review/": {
       "at": "2026-11-19T18:06:01+00:00",
       "status": "review",
@@ -9539,6 +9554,10 @@
       "at": "2026-11-19T18:05:13+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "the further mis adventures of cliff booth|2026|https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/brad-pitt-cancels-appearance-at-london-premiere-the-further-mis-adventures-of-cliff-booth-after-falling-ill/articleshow/136116102.cms": {
+      "at": "2026-11-23T23:29:27+00:00",
+      "status": "not_review"
     },
     "the further mis adventures of cliff booth|2026|https://variety.com/2026/film/reviews/the-further-mis-adventures-of-cliff-booth-review-brad-pitt-1236952037/": {
       "at": "2026-11-19T18:04:42+00:00",
