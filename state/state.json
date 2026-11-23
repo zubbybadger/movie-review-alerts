@@ -1002,6 +1002,26 @@
         "summary": "The headline calls it a surprisingly enjoyable return to the Focker family; the full review text was unavailable.",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1EVkZuUlc2aE51TV8zazRramRxaUtBVzJwSmowaHZHdENLZjR3STFvZEgzeDVTczQ4S0ttYzM0UGlyZHFaWUV6VkIwV2VJVjVrRE9KSDN0bUpBOVJwLVYzY3FUNTkwYkVR?oc=5",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-23T22:28:41+00:00",
+        "confidence": "high",
+        "critic": "Carla Hay",
+        "outlet": "Culture Mix",
+        "rating": "",
+        "summary": "A stale, unfunny new low for the franchise, with a recycled plot, an unlikable Greg, and uninspired performances.",
+        "url": "https://culturemixonline.com/review-focker-in-law-starring-robert-de-niro-ben-stiller-owen-wilson-teri-polo-blythe-danner-skyler-gisondo-beanie-feldstein-eduardo-franco-and-ariana-grande/",
+        "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-23T22:28:45+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Collider",
+        "rating": "",
+        "summary": "A muddled script can't decide if Greg is hero or villain; Owen Wilson's bits help, but without De Niro chemistry it falls flat.",
+        "url": "https://collider.com/focker-in-law-ariana-grande-ben-stiller-robert-deniro-review/",
+        "verdict": "rotten"
       }
     ],
     "godzilla minus zero|": [
@@ -6871,6 +6891,20 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "focker in law|2026|https://collider.com/focker-in-law-ariana-grande-ben-stiller-robert-deniro-review/": {
+      "at": "2026-11-23T22:28:45+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
+    "focker in law|2026|https://collider.com/tag/movie/focker-in-law/": {
+      "at": "2026-11-23T22:28:47+00:00",
+      "status": "not_review"
+    },
+    "focker in law|2026|https://culturemixonline.com/review-focker-in-law-starring-robert-de-niro-ben-stiller-owen-wilson-teri-polo-blythe-danner-skyler-gisondo-beanie-feldstein-eduardo-franco-and-ariana-grande/": {
+      "at": "2026-11-23T22:28:41+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
     "focker in law|2026|https://deadline.com/2026/11/focker-in-law-review-robert-de-niro-ben-stiller-ariana-grande-1237231271/": {
       "at": "2026-11-23T17:22:36+00:00",
       "status": "review",
@@ -6933,6 +6967,10 @@
       "at": "2026-11-23T18:29:27+00:00",
       "status": "not_review"
     },
+    "focker in law|2026|https://screenrant.com/robert-de-niro-snl-season-52-host-december-2026-confirmed/": {
+      "at": "2026-11-23T22:28:48+00:00",
+      "status": "not_review"
+    },
     "focker in law|2026|https://thefutureoftheforce.com/2026/11/23/review-focker-in-law-2026/": {
       "at": "2026-11-23T17:23:15+00:00",
       "status": "review",
@@ -6969,6 +7007,10 @@
     },
     "focker in law|2026|https://www.comingsoon.net/movies/news/2229658-ariana-grande-ben-stiller-robert-de-niro-kissing-kids": {
       "at": "2026-11-23T21:29:41+00:00",
+      "status": "not_review"
+    },
+    "focker in law|2026|https://www.comingsoon.net/movies/news/2229696-focker-in-law-reviews-disappointing-low-ariana-grande-rt-scores": {
+      "at": "2026-11-23T22:28:50+00:00",
       "status": "not_review"
     },
     "focker in law|2026|https://www.comingsoon.net/movies/reviews/2229269-focker-in-law-review-ariana-grande-shines-in-familiar-movie-sequel": {
