@@ -3582,6 +3582,16 @@
         "summary": "Only the headline was available, so the critic's opinion of the film cannot be determined from the page.",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOXRRZXpqbTRkOHF2ZEVzS3ZsdjlmcEMtNC1CWG5MT0R1OU1qMHN6SDE4UkpSQlo0anNCMFVtdEZWM283ZFJqOWt3N2k4dmxlYk45TUZ2NXlRODRMeGt1U2R6TENkV3FJTjE2M0U1MTVZRmY0TkJUUmhITHM1V05NSy1TQQ?oc=5",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-23T20:28:48+00:00",
+        "confidence": "high",
+        "critic": "Laura Clifford",
+        "outlet": "Reeling Reviews",
+        "rating": "B+",
+        "summary": "An enjoyable, stylish ramble with Pitt and Debicki clicking, despite a messy climax and abrupt, disappointing ending.",
+        "url": "https://www.reelingreviews.com/reviews/the-further-mis-adventures-of-cliff-booth/",
+        "verdict": "fresh"
       }
     ],
     "the hunger games sunrise on the reaping|2026": [
@@ -9644,6 +9654,11 @@
     },
     "the further mis adventures of cliff booth|2026|https://www.polygon.com/further-misadventures-cliff-booth-review/": {
       "at": "2026-11-19T18:04:57+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "the further mis adventures of cliff booth|2026|https://www.reelingreviews.com/reviews/the-further-mis-adventures-of-cliff-booth/": {
+      "at": "2026-11-23T20:28:48+00:00",
       "status": "review",
       "verdict": "fresh"
     },
