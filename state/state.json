@@ -9093,9 +9093,9 @@
       "verdict": "fresh"
     },
     "the further mis adventures of cliff booth|2026|https://www.the-independent.com/arts-entertainment/films/news/brad-pitt-cliff-booth-premiere-flu-b3089894.html": {
-      "at": "2026-11-23T14:28:45+00:00",
-      "attempts": 2,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011ChL2145JWTGpLsvVwSq93'}",
+      "at": "2026-11-23T15:11:15+00:00",
+      "attempts": 3,
+      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011ChL5F4FDFTvrRhvhUzssj'}",
       "status": "error"
     },
     "the further mis adventures of cliff booth|2026|https://www.theguardian.com/film/2026/nov/19/the-further-mis-adventures-of-cliff-booth-review-quentin-tarantino-david-fincher-brad-pitt": {
