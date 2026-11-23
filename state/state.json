@@ -8830,9 +8830,9 @@
       "verdict": "fresh"
     },
     "the further mis adventures of cliff booth|2026|https://screenanarchy.com/2026/11/opening-this-week-the-further-mis-adventures-of-cliff-booth-fusing-quentin-tarantino-and-david-finch.html": {
-      "at": "2026-11-23T16:13:52+00:00",
-      "attempts": 1,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011ChLA1xaraLiQ5SSrnS9kr'}",
+      "at": "2026-11-23T16:29:00+00:00",
+      "attempts": 2,
+      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011ChLBAtbMgYm9dUUNNbfig'}",
       "status": "error"
     },
     "the further mis adventures of cliff booth|2026|https://screencrush.com/cliff-booth-review/": {
@@ -8879,6 +8879,12 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "the further mis adventures of cliff booth|2026|https://themovieminute.com/the-further-mis-adventures-of-cliff-booth/": {
+      "at": "2026-11-23T16:28:59+00:00",
+      "attempts": 1,
+      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011ChLBAsrxpp3dVYt8a238z'}",
+      "status": "error"
+    },
     "the further mis adventures of cliff booth|2026|https://theplaylist.net/a24-is-going-for-best-picture-history-as-cliff-booth-unfurls-contender-countdown-20261118/": {
       "at": "2026-11-19T15:29:02+00:00",
       "status": "not_review"
@@ -8905,9 +8911,9 @@
       "status": "not_review"
     },
     "the further mis adventures of cliff booth|2026|https://theplaylist.net/the-black-dahlia-david-fincher-tom-cruise-20261123/": {
-      "at": "2026-11-23T16:13:52+00:00",
-      "attempts": 2,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011ChLA1yeraUMcpdfaVXpge'}",
+      "at": "2026-11-23T16:29:00+00:00",
+      "attempts": 3,
+      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011ChLBAuUSp1xcJakcj2MUq'}",
       "status": "error"
     },
     "the further mis adventures of cliff booth|2026|https://theplaylist.net/the-comeback-king-trailer-glen-powell-judd-apatow-20261118/": {
