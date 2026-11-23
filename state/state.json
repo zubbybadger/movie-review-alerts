@@ -4204,6 +4204,16 @@
         "summary": "Emotionally resonant origin story with a captivating Joseph Zada and strong ensemble, despite excessive runtime and pacing issues.",
         "url": "https://cinemovie.tv/index.php/new-series-and-movie-reviews/review-the-hunger-games-sunrise-on-the-reaping",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-23T04:29:08+00:00",
+        "confidence": "low",
+        "critic": "Samantha Schuster",
+        "outlet": "Cin\u00e9filo Serial",
+        "rating": "",
+        "summary": "Strong visuals, well-chosen cast, dynamic pace and political angle make it entertaining, though its familiar structure brings little new to the saga.",
+        "url": "https://cinefiloserial.com.ar/critica-de-los-juegos-del-hambre-amanecer-en-la-cosecha-de-francis-lawrence-2026/",
+        "verdict": "fresh"
       }
     ],
     "the mongoose|": [
@@ -7240,6 +7250,10 @@
       "at": "2026-11-21T18:53:21+00:00",
       "status": "not_review"
     },
+    "hexed|2026|https://theplaylist.net/avengers-doomsday-hailee-steinfeld-kate-bishop-return-20261122/": {
+      "at": "2026-11-23T04:29:11+00:00",
+      "status": "not_review"
+    },
     "hexed|2026|https://thirdcoastreview.com/film-tv/2026/11/20/interview-yvette-nicole-brown": {
       "at": "2026-11-21T16:05:07+00:00",
       "status": "not_review"
@@ -9111,6 +9125,11 @@
       "at": "2026-11-16T14:29:07+00:00",
       "status": "not_review"
     },
+    "the hunger games sunrise on the reaping|2026|https://cinefiloserial.com.ar/critica-de-los-juegos-del-hambre-amanecer-en-la-cosecha-de-francis-lawrence-2026/": {
+      "at": "2026-11-23T04:29:08+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "the hunger games sunrise on the reaping|2026|https://cinemovie.tv/index.php/new-series-and-movie-reviews/review-the-hunger-games-sunrise-on-the-reaping": {
       "at": "2026-11-23T03:27:01+00:00",
       "status": "review",
@@ -9933,6 +9952,10 @@
       "at": "2026-11-20T19:28:45+00:00",
       "status": "not_review"
     },
+    "the hunger games sunrise on the reaping|2026|https://www.comingsoon.net/movies/news/2228993-the-hunger-games-sunrise-on-the-reaping-box-office-opening": {
+      "at": "2026-11-23T04:29:13+00:00",
+      "status": "not_review"
+    },
     "the hunger games sunrise on the reaping|2026|https://www.comingsoon.net/movies/reviews/2224727-the-hunger-games-sunrise-on-the-reaping-review-a-tragic-powerful-dystopian-thriller": {
       "at": "2026-11-17T14:05:40+00:00",
       "status": "review",
@@ -10021,6 +10044,10 @@
       "at": "2026-11-17T14:05:42+00:00",
       "status": "review",
       "verdict": "rotten"
+    },
+    "the hunger games sunrise on the reaping|2026|https://www.hindustantimes.com/entertainment/hollywood/the-hunger-games-sunrise-on-the-reaping-box-office-collection-fights-off-gta-vi-competition-to-mint-225-million-in-its-opening-weekend-101795399849835.html": {
+      "at": "2026-11-23T04:29:15+00:00",
+      "status": "not_review"
     },
     "the hunger games sunrise on the reaping|2026|https://www.hindustantimes.com/entertainment/hollywood/the-hunger-games-sunrise-on-the-reaping-review-hollywood-finest-prop-up-joseph-zada-prequel-reminds-you-of-franchise-best-mckenna-grace-maya-hawke-101795159608282.html": {
       "at": "2026-11-20T08:29:43+00:00",
