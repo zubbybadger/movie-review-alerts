@@ -942,6 +942,16 @@
         "summary": "The headline says this legacy sequel fails to live up to the franchise's highs; only the listing text was available, so the verdict rests on that.",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1LNmZfdXhXTVpnVmZHTGJrUWZlTy1GcmIwVnJNV2hVNHNLOHYxR3RCQ2FQbnk5UnU1QTd4VDJzYTVtRkl5STZxLWNUd1B5cFR0djE4T0JreDNvUFZRQ0xpbkdSTTl0bTFCQWc?oc=5",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-23T18:59:14+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "ScreenAnarchy",
+        "rating": "",
+        "summary": "Stale, safe, exhausting retread with weak satire and dire set pieces; Gisondo and Grande shine, but it's merely harmless and inoffensive.",
+        "url": "https://screenanarchy.com/2026/11/focker-in-law-review-turns-out-you-can-milk-a-lot-of-things.html",
+        "verdict": "rotten"
       }
     ],
     "godzilla minus zero|": [
@@ -6794,6 +6804,11 @@
       "status": "review",
       "verdict": "rotten"
     },
+    "focker in law|2026|https://screenanarchy.com/2026/11/focker-in-law-review-turns-out-you-can-milk-a-lot-of-things.html": {
+      "at": "2026-11-23T18:59:14+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
     "focker in law|2026|https://screencrush.com/focker-in-law-review/": {
       "at": "2026-11-23T17:29:13+00:00",
       "status": "review",
@@ -9458,6 +9473,10 @@
     },
     "the further mis adventures of cliff booth|2026|https://www.indiewire.com/features/craft/generative-ai-tools-david-fincher-cliff-booth-1235229866/": {
       "at": "2026-11-22T00:20:32+00:00",
+      "status": "not_review"
+    },
+    "the further mis adventures of cliff booth|2026|https://www.indiewire.com/features/interviews/cliff-booth-elizabeth-debicki-slapping-brad-pitt-rom-coms-1235229895/": {
+      "at": "2026-11-23T18:59:11+00:00",
       "status": "not_review"
     },
     "the further mis adventures of cliff booth|2026|https://www.indiewire.com/features/podcast/aaron-pierre-lanterns-dc-shakeup-starfighter-1235229615/": {
