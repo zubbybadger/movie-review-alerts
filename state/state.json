@@ -6516,14 +6516,128 @@
       "at": "2026-11-15T17:58:52+00:00",
       "status": "not_review"
     },
+    "focker in law|2026|https://deadline.com/2026/11/focker-in-law-review-robert-de-niro-ben-stiller-ariana-grande-1237231271/": {
+      "at": "2026-11-23T17:04:30+00:00",
+      "attempts": 1,
+      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011ChLDsyLkBJ76SPoeTq5Nq'}",
+      "status": "error"
+    },
+    "focker in law|2026|https://deadline.com/print-article/1237231271?KeepThis=1&TB_iframe=1&height=500&width=750": {
+      "at": "2026-11-23T17:04:31+00:00",
+      "attempts": 1,
+      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011ChLDsyi5AcSAxKsp2Kiqe'}",
+      "status": "error"
+    },
+    "focker in law|2026|https://movieweb.com/focker-in-law-review/": {
+      "at": "2026-11-23T17:04:49+00:00",
+      "attempts": 1,
+      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011ChLDuMKMTbM8rCR7KMErU'}",
+      "status": "error"
+    },
+    "focker in law|2026|https://movieweb.com/tag/movie/focker-in-law/": {
+      "at": "2026-11-23T17:04:50+00:00",
+      "attempts": 1,
+      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011ChLDuN7z165ZfFRKdQcxu'}",
+      "status": "error"
+    },
+    "focker in law|2026|https://nextbestpicture.com/focker-in-law/": {
+      "at": "2026-11-23T17:04:32+00:00",
+      "attempts": 1,
+      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011ChLDuJ97KAmF4orH1gQm8'}",
+      "status": "error"
+    },
+    "focker in law|2026|https://thefutureoftheforce.com/2026/11/23/review-focker-in-law-2026/": {
+      "at": "2026-11-23T17:04:49+00:00",
+      "attempts": 1,
+      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011ChLDuKdA8ji5D22Yq6FU4'}",
+      "status": "error"
+    },
+    "focker in law|2026|https://variety.com/2026/film/reviews/focker-in-law-review-1236955690/": {
+      "at": "2026-11-23T17:04:28+00:00",
+      "attempts": 1,
+      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011ChLDsopkitYE7d8Gte2g8'}",
+      "status": "error"
+    },
+    "focker in law|2026|https://www.avclub.com/focker-in-law-review-ben-stiller-ariana-grande-robert-de-niro": {
+      "at": "2026-11-23T17:04:31+00:00",
+      "attempts": 1,
+      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011ChLDt24D5sfkWZCYsUUmG'}",
+      "status": "error"
+    },
     "focker in law|2026|https://www.bollywoodhungama.com/movie/focker-law-english/": {
       "at": "2026-11-21T16:05:25+00:00",
       "status": "not_review"
+    },
+    "focker in law|2026|https://www.cbr.com/focker-in-law-review/": {
+      "at": "2026-11-23T17:04:50+00:00",
+      "attempts": 1,
+      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011ChLDuP1Ju8bkupQyqAazw'}",
+      "status": "error"
+    },
+    "focker in law|2026|https://www.comingsoon.net/movies/reviews/2229269-focker-in-law-review-ariana-grande-shines-in-familiar-movie-sequel": {
+      "at": "2026-11-23T17:04:49+00:00",
+      "attempts": 1,
+      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011ChLDuK99PGif3518TY7ep'}",
+      "status": "error"
+    },
+    "focker in law|2026|https://www.empireonline.com/movies/reviews/focker-in-law/": {
+      "at": "2026-11-23T17:04:32+00:00",
+      "attempts": 1,
+      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011ChLDt2dvk3SPK82HXmjfA'}",
+      "status": "error"
+    },
+    "focker in law|2026|https://www.hollywoodreporter.com/movies/movie-reviews/focker-in-law-review-ariana-grande-robert-de-niro-1236760021/": {
+      "at": "2026-11-23T17:04:30+00:00",
+      "attempts": 1,
+      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011ChLDsvpgtvcb6PVhqdRpo'}",
+      "status": "error"
+    },
+    "focker in law|2026|https://www.ign.com/articles/focker-in-law-review": {
+      "at": "2026-11-23T17:04:32+00:00",
+      "attempts": 1,
+      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011ChLDt34UNnBqDApM7dq8V'}",
+      "status": "error"
+    },
+    "focker in law|2026|https://www.ign.com/movies/focker-in-law": {
+      "at": "2026-11-23T17:04:32+00:00",
+      "attempts": 1,
+      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011ChLDt3ggEQ8UkYP33JH6a'}",
+      "status": "error"
+    },
+    "focker in law|2026|https://www.indiewire.com/criticism/movies/focker-in-law-movie-review-ariana-grande-ben-stiller-1235230046/": {
+      "at": "2026-11-23T17:04:29+00:00",
+      "attempts": 1,
+      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011ChLDspWvF3fYCCP2ALyA1'}",
+      "status": "error"
     },
     "focker in law|2026|https://www.lwlies.com/reviews/focker-in-law": {
       "at": "2026-11-21T16:05:11+00:00",
       "status": "review",
       "verdict": "rotten"
+    },
+    "focker in law|2026|https://www.nme.com/reviews/film-reviews/focker-in-law-review-ariana-grande-ben-stiller-rober-de-niro-3976765": {
+      "at": "2026-11-23T17:04:32+00:00",
+      "attempts": 1,
+      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011ChLDt4z4g5vTSeQx7K3W8'}",
+      "status": "error"
+    },
+    "focker in law|2026|https://www.rogerebert.com/reviews/focker-in-law-ben-stiller-robert-de-niro-ariana-grande-movie-review-2026": {
+      "at": "2026-11-23T17:04:28+00:00",
+      "attempts": 2,
+      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011ChLDsnuC9jBowjWyKuA85'}",
+      "status": "error"
+    },
+    "focker in law|2026|https://www.slantmagazine.com/film/focker-in-law-review-ben-stiller-robert-de-niro/": {
+      "at": "2026-11-23T17:04:31+00:00",
+      "attempts": 1,
+      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011ChLDt1YhFToL7SA4cFoU7'}",
+      "status": "error"
+    },
+    "focker in law|2026|https://www.slashfilm.com/2324759/focker-in-law-review/": {
+      "at": "2026-11-23T17:04:32+00:00",
+      "attempts": 1,
+      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011ChLDt4Nc5Fat3H5wukdPi'}",
+      "status": "error"
     },
     "focker in law|2026|https://www.vulture.com/article/ariana-grande-focker-in-law-press-tour-public-appearance.html": {
       "at": "2026-11-21T16:05:09+00:00",
@@ -8830,9 +8944,9 @@
       "verdict": "fresh"
     },
     "the further mis adventures of cliff booth|2026|https://screenanarchy.com/2026/11/opening-this-week-the-further-mis-adventures-of-cliff-booth-fusing-quentin-tarantino-and-david-finch.html": {
-      "at": "2026-11-23T16:29:00+00:00",
-      "attempts": 2,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011ChLBAtbMgYm9dUUNNbfig'}",
+      "at": "2026-11-23T17:04:30+00:00",
+      "attempts": 3,
+      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011ChLDsvJgmzvWh1X1benJo'}",
       "status": "error"
     },
     "the further mis adventures of cliff booth|2026|https://screencrush.com/cliff-booth-review/": {
@@ -8879,10 +8993,22 @@
       "status": "review",
       "verdict": "fresh"
     },
-    "the further mis adventures of cliff booth|2026|https://themovieminute.com/the-further-mis-adventures-of-cliff-booth/": {
-      "at": "2026-11-23T16:28:59+00:00",
+    "the further mis adventures of cliff booth|2026|https://themovieminute.com/2026/11/23/the-further-mis-adventures-of-cliff-booth/": {
+      "at": "2026-11-23T17:04:29+00:00",
       "attempts": 1,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011ChLBAsrxpp3dVYt8a238z'}",
+      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011ChLDsrawdKnwUxsg9pmHV'}",
+      "status": "error"
+    },
+    "the further mis adventures of cliff booth|2026|https://themovieminute.com/tag/the-further-mis-adventures-of-cliff-booth/": {
+      "at": "2026-11-23T17:04:30+00:00",
+      "attempts": 1,
+      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011ChLDsuczueUfyJur2w2Gi'}",
+      "status": "error"
+    },
+    "the further mis adventures of cliff booth|2026|https://themovieminute.com/the-further-mis-adventures-of-cliff-booth/": {
+      "at": "2026-11-23T17:04:29+00:00",
+      "attempts": 2,
+      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011ChLDsshv5WhAXSzpd8x6i'}",
       "status": "error"
     },
     "the further mis adventures of cliff booth|2026|https://theplaylist.net/a24-is-going-for-best-picture-history-as-cliff-booth-unfurls-contender-countdown-20261118/": {
@@ -9010,6 +9136,12 @@
       "at": "2026-11-21T13:28:41+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "the further mis adventures of cliff booth|2026|https://www.espinof.com/directores-y-guionistas/david-fincher-uso-ia-generativa-nuevas-desventuras-cliff-booth-existe-no-deberiamos-usarla": {
+      "at": "2026-11-23T17:04:29+00:00",
+      "attempts": 1,
+      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011ChLDsrA9hddYwKVKJvQQH'}",
+      "status": "error"
     },
     "the further mis adventures of cliff booth|2026|https://www.gamesradar.com/entertainment/thriller-movies/the-further-mis-adventures-of-cliff-booth-review/": {
       "at": "2026-11-19T18:05:18+00:00",
