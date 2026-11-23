@@ -4194,6 +4194,16 @@
         "summary": "Largely descriptive review noting familiar territory but praising production values and expanded Haymitch backstory for invested fans.",
         "url": "https://battleroyalewithcheese.com/2026/11/the-hunger-games-sunrise-on-the-reaping-the-brwc-review/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-23T03:27:01+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "CineMovie",
+        "rating": "",
+        "summary": "Emotionally resonant origin story with a captivating Joseph Zada and strong ensemble, despite excessive runtime and pacing issues.",
+        "url": "https://cinemovie.tv/index.php/new-series-and-movie-reviews/review-the-hunger-games-sunrise-on-the-reaping",
+        "verdict": "fresh"
       }
     ],
     "the mongoose|": [
@@ -9097,6 +9107,11 @@
       "at": "2026-11-16T14:29:07+00:00",
       "status": "not_review"
     },
+    "the hunger games sunrise on the reaping|2026|https://cinemovie.tv/index.php/new-series-and-movie-reviews/review-the-hunger-games-sunrise-on-the-reaping": {
+      "at": "2026-11-23T03:27:01+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "the hunger games sunrise on the reaping|2026|https://collider.com/hunger-games-book-series-ranked/": {
       "at": "2026-11-21T02:29:10+00:00",
       "status": "not_review"
@@ -9337,6 +9352,10 @@
     },
     "the hunger games sunrise on the reaping|2026|https://movieweb.com/hunger-games-franchise-viewing-order/": {
       "at": "2026-11-21T23:07:31+00:00",
+      "status": "not_review"
+    },
+    "the hunger games sunrise on the reaping|2026|https://movieweb.com/hunger-games-movies-want-next/": {
+      "at": "2026-11-23T03:27:04+00:00",
       "status": "not_review"
     },
     "the hunger games sunrise on the reaping|2026|https://movieweb.com/hunger-games-sunrise-on-the-reaping-review/": {
@@ -9699,6 +9718,10 @@
     },
     "the hunger games sunrise on the reaping|2026|https://variety.com/2026/film/box-office/box-office-hunger-games-sunrise-on-reaping-previews-1236953592/": {
       "at": "2026-11-20T16:28:45+00:00",
+      "status": "not_review"
+    },
+    "the hunger games sunrise on the reaping|2026|https://variety.com/2026/film/box-office/china-box-office-the-hunger-games-sunrise-on-the-reaping-1236955624/": {
+      "at": "2026-11-23T03:26:59+00:00",
       "status": "not_review"
     },
     "the hunger games sunrise on the reaping|2026|https://variety.com/2026/film/box-office/sunrise-on-reaping-box-office-hunger-games-opening-weekend-1236950225/": {
