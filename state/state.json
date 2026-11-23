@@ -902,6 +902,26 @@
         "summary": "Grande and the younger cast brighten things, but the sequel feels tired, Stiller and De Niro flat, and the old magic can't be recreated.",
         "url": "https://www.cbr.com/focker-in-law-review/",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-23T17:29:08+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "The Telegraph",
+        "rating": "",
+        "summary": "A laughless rinse-and-repeat sequel that squanders De Niro and Grande, with only one funny scene amid tumbleweed.",
+        "url": "https://www.telegraph.co.uk/films/0/focker-in-law-review-robert-de-niro-ariana-grande/",
+        "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-23T17:29:13+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "ScreenCrush",
+        "rating": "5/10",
+        "summary": "Best of the sequels thanks to De Niro, but overreaches with absurd setpieces and a weak Stiller-Grande dynamic; 'not exactly a compliment.'",
+        "url": "https://screencrush.com/focker-in-law-review/",
+        "verdict": "rotten"
       }
     ],
     "godzilla minus zero|": [
@@ -6739,6 +6759,11 @@
       "status": "review",
       "verdict": "rotten"
     },
+    "focker in law|2026|https://screencrush.com/focker-in-law-review/": {
+      "at": "2026-11-23T17:29:13+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
     "focker in law|2026|https://thefutureoftheforce.com/2026/11/23/review-focker-in-law-2026/": {
       "at": "2026-11-23T17:23:15+00:00",
       "status": "review",
@@ -6830,6 +6855,11 @@
       "at": "2026-11-23T17:23:06+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "focker in law|2026|https://www.telegraph.co.uk/films/0/focker-in-law-review-robert-de-niro-ariana-grande/": {
+      "at": "2026-11-23T17:29:08+00:00",
+      "status": "review",
+      "verdict": "rotten"
     },
     "focker in law|2026|https://www.vulture.com/article/ariana-grande-focker-in-law-press-tour-public-appearance.html": {
       "at": "2026-11-21T16:05:09+00:00",
@@ -9232,6 +9262,10 @@
     },
     "the further mis adventures of cliff booth|2026|https://theplaylist.net/david-fincher-ai-cliff-booth-controversy-20261120/": {
       "at": "2026-11-20T14:45:29+00:00",
+      "status": "not_review"
+    },
+    "the further mis adventures of cliff booth|2026|https://theplaylist.net/david-leitch-confirms-oceans-14-update-20261123/": {
+      "at": "2026-11-23T17:29:11+00:00",
       "status": "not_review"
     },
     "the further mis adventures of cliff booth|2026|https://theplaylist.net/the-black-dahlia-david-fincher-tom-cruise-20261123/": {
