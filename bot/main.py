@@ -169,6 +169,12 @@ def run() -> int:
                 now = datetime.now(timezone.utc).isoformat(timespec="seconds")
                 try:
                     v = analyze(llm, http, cand)
+                except anthropic.AuthenticationError as exc:
+                    # A bad API key is not the page's fault: leave the link unseen so it is
+                    # retried once the key is fixed, and stop analysing for this run.
+                    errors += 1
+                    log.error("Anthropic API key rejected; skipping analysis this run: %s", exc)
+                    break
                 except (AnalysisError, anthropic.APIError, httpx.HTTPError) as exc:
                     errors += 1
                     attempts = (entry or {}).get("attempts", 0) + 1

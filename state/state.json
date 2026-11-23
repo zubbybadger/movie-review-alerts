@@ -107,7 +107,7 @@
         "critic": "",
         "outlet": "The New York Times",
         "rating": "",
-        "summary": "Headline 'Holiday Humbug' and snippet suggest Depp's Scrooge is a comeback attempt relying on costume and d\u00e9j\u00e0 vu rather than performance.",
+        "summary": "Headline 'Holiday Humbug' and snippet suggest Depp's Scrooge is a comeback attempt relying on costume and déjà vu rather than performance.",
         "url": "https://www.nytimes.com/2026/11/12/movies/ebenezer-review-holiday-humbug.html",
         "verdict": "rotten"
       },
@@ -176,7 +176,7 @@
         "confidence": "high",
         "critic": "",
         "outlet": "The Playlist",
-        "rating": "D\u2212",
+        "rating": "D−",
         "summary": "A handsomely mounted but punishingly dull, unimaginative retelling with a secondhand Depp performance and lifeless, interminable pacing.",
         "url": "https://theplaylist.net/ebenezer-review-johnny-depp-ti-west-scrooge-20261112/",
         "verdict": "rotten"
@@ -355,7 +355,7 @@
         "at": "2026-11-12T18:59:21+00:00",
         "confidence": "medium",
         "critic": "",
-        "outlet": "La Naci\u00f3n",
+        "outlet": "La Nación",
         "rating": "Buena",
         "summary": "Ti West's gothic horror staging and ghost sequences impress, though the comedy and Depp's exaggerated comic scenes fall flat.",
         "url": "https://www.lanacion.com.ar/espectaculos/cine/ebenezer-los-fantasmas-de-navidad-marca-el-regreso-de-johnny-depp-con-destacadas-escenas-de-terror-y-nid12112026/",
@@ -721,7 +721,7 @@
         "critic": "",
         "outlet": "Empire",
         "rating": "",
-        "summary": "Staggering effects and thrilling set-pieces outweigh overcooked, clich\u00e9d drama and hammy dialogue; still the most confident vision of Godzilla.",
+        "summary": "Staggering effects and thrilling set-pieces outweigh overcooked, clichéd drama and hammy dialogue; still the most confident vision of Godzilla.",
         "url": "https://www.empireonline.com/movies/reviews/godzilla-minus-zero/",
         "verdict": "fresh"
       },
@@ -841,7 +841,7 @@
         "critic": "",
         "outlet": "Espinof",
         "rating": "",
-        "summary": "Spectacular, best-ever kaiju action can't make up for an insipid, repetitive, over-explained script and clich\u00e9d characters that drag the film down.",
+        "summary": "Spectacular, best-ever kaiju action can't make up for an insipid, repetitive, over-explained script and clichéd characters that drag the film down.",
         "url": "https://www.espinof.com/criticas/godzilla-minus-zero-tiene-escenas-kaijus-espectaculares-historia-cine-ojala-no-estuvieran-rodeadas-unos-personajes-insipidos-guion-repetitivo",
         "verdict": "rotten"
       },
@@ -858,7 +858,7 @@
       {
         "at": "2026-11-04T04:34:45+00:00",
         "confidence": "high",
-        "critic": "Sebasti\u00e1n Zavala Kahn",
+        "critic": "Sebastián Zavala Kahn",
         "outlet": "Me Gusta El Cine",
         "rating": "",
         "summary": "An epic, emotionally moving anti-war sequel with stunning IMAX visuals, only slightly more scattered than Minus One.",
@@ -869,7 +869,7 @@
         "at": "2026-11-04T11:38:51+00:00",
         "confidence": "high",
         "critic": "",
-        "outlet": "Cineman\u00eda (20minutos)",
+        "outlet": "Cinemanía (20minutos)",
         "rating": "",
         "summary": "Despite noted nationalist concerns, Yamazaki's technical mastery and balance of monsters and humans make it among the year's best-shot blockbusters.",
         "url": "https://www.20minutos.es/cinemania/criticas/critica-godzilla-minus-zero-blockbuster-mejor-rodado-ano_7056270_3.html",
@@ -939,7 +939,7 @@
         "at": "2026-11-04T23:47:10+00:00",
         "confidence": "medium",
         "critic": "Leandro Porcelli",
-        "outlet": "Cin\u00e9filo Serial",
+        "outlet": "Cinéfilo Serial",
         "rating": "",
         "summary": "Less emotionally gripping than Minus One, but spectacular kaiju sequences and powerful moments make it a valuable, moving sequel.",
         "url": "https://cinefiloserial.com.ar/critica-de-godzilla-minus-zero-de-takashi-yamazaki-2026/",
@@ -959,7 +959,7 @@
         "at": "2026-11-05T03:33:16+00:00",
         "confidence": "high",
         "critic": "",
-        "outlet": "La Naci\u00f3n",
+        "outlet": "La Nación",
         "rating": "Muy buena",
         "summary": "An imposing, more ambitious sequel that keeps the original's human dimension and tragic intensity, despite occasionally visible digital seams.",
         "url": "https://www.lanacion.com.ar/espectaculos/cine/godzilla-minus-zero-es-una-imponente-secuela-que-mantiene-intacta-la-dimension-humana-del-original-nid05112026/",
@@ -1031,7 +1031,7 @@
         "critic": "Mark Dujsik",
         "outlet": "Mark Reviews Movies",
         "rating": "",
-        "summary": "A disappointing, less humanist sequel with clich\u00e9d human roles, but its monster battle spectacle is genuinely entertaining and matches the original.",
+        "summary": "A disappointing, less humanist sequel with clichéd human roles, but its monster battle spectacle is genuinely entertaining and matches the original.",
         "url": "http://www.markreviewsmovies.com/reviews/G/godzillaminuszero.htm",
         "verdict": "fresh"
       },
@@ -1099,7 +1099,7 @@
         "at": "2026-11-06T06:24:36+00:00",
         "confidence": "high",
         "critic": "",
-        "outlet": "El Pa\u00eds",
+        "outlet": "El País",
         "rating": "",
         "summary": "Repetitive, nostalgia-embalmed sequel whose brief monster duel is overwhelmed by tedious, emotionless human drama despite some good visual moments.",
         "url": "https://elpais.com/cultura/cine/2026-11-06/godzilla-minus-zero-nostalgia-kaiju-embalsamada.html",
@@ -1423,7 +1423,7 @@
         "critic": "Kristy Puchko",
         "outlet": "Mashable",
         "rating": "",
-        "summary": "Shallow, clich\u00e9 characters, half-hearted class politics, and underwhelming action make this a toothless, gutless bank robbery knockoff.",
+        "summary": "Shallow, cliché characters, half-hearted class politics, and underwhelming action make this a toothless, gutless bank robbery knockoff.",
         "url": "https://mashable.com/entertainment/how-to-rob-a-bank-review",
         "verdict": "rotten"
       },
@@ -1563,7 +1563,7 @@
         "critic": "",
         "outlet": "High On Films",
         "rating": "",
-        "summary": "Surprisingly sincere anti-capitalist spirit and Leitch's welcome restraint outweigh thin characterization and sanitized, toothless commentary\u2014a 'moderate feat.'",
+        "summary": "Surprisingly sincere anti-capitalist spirit and Leitch's welcome restraint outweigh thin characterization and sanitized, toothless commentary—a 'moderate feat.'",
         "url": "https://www.highonfilms.com/how-to-rob-a-bank-2026-movie-review/",
         "verdict": "fresh"
       },
@@ -2332,7 +2332,7 @@
       {
         "at": "2026-11-15T13:28:20+00:00",
         "confidence": "high",
-        "critic": "Alejandro Alem\u00e1n",
+        "critic": "Alejandro Alemán",
         "outlet": "El Universal",
         "rating": "",
         "summary": "A formidable, funny ode to New Hollywood persistence, anchored by Anthony Ippolito's charismatic, uncanny Stallone performance and a well-structured script.",
@@ -2393,7 +2393,7 @@
         "at": "2026-11-17T19:29:24+00:00",
         "confidence": "low",
         "critic": "",
-        "outlet": "Rolling Stone en Espa\u00f1ol",
+        "outlet": "Rolling Stone en Español",
         "rating": "",
         "summary": "Praised as a biopic reviving 1970s cinematic audacity through a story of artistic faith and stubborn struggle to make Rocky.",
         "url": "https://es.rollingstone.com/critica-yo-soy-rocky-i-play-rocky/",
@@ -2537,7 +2537,7 @@
         "critic": "Owen Gleiberman",
         "outlet": "Variety",
         "rating": "",
-        "summary": "An overstuffed, corporate mash-up of blockbuster clich\u00e9s that abandons Seuss's spirit; hectic, overcrowded and underfelt, with a too-safe Hader Cat.",
+        "summary": "An overstuffed, corporate mash-up of blockbuster clichés that abandons Seuss's spirit; hectic, overcrowded and underfelt, with a too-safe Hader Cat.",
         "url": "https://variety.com/2026/film/reviews/the-cat-in-the-hat-review-bill-hader-1236937564/",
         "verdict": "rotten"
       },
@@ -2645,7 +2645,7 @@
         "at": "2026-11-04T22:27:36+00:00",
         "confidence": "high",
         "critic": "",
-        "outlet": "El Nuevo D\u00eda",
+        "outlet": "El Nuevo Día",
         "rating": "",
         "summary": "Despite gorgeous animation and fine voice cast, the convoluted, overstuffed MCU-style plot loses the book's charm and has a muddled message.",
         "url": "https://www.elnuevodia.com/entretenimiento/peliculas-series/notas/the-cat-in-the-hat-eleva-el-nivel-de-tension-al-punto-que-el-universo-podria-desaparecer/",
@@ -3299,7 +3299,7 @@
         "at": "2026-11-17T14:04:53+00:00",
         "confidence": "high",
         "critic": "",
-        "outlet": "20minutos (Cineman\u00eda)",
+        "outlet": "20minutos (Cinemanía)",
         "rating": "",
         "summary": "Best of the saga since Catching Fire, with a devastating Joseph Zada performance, striking visuals and a story that stands on its own.",
         "url": "https://www.20minutos.es/cinemania/criticas/critica-juegos-hambre-amanecer-cosecha-mejor-pelicula-llamas-joseph-zada-mckenna-grace_7056700_0.html",
@@ -3579,7 +3579,7 @@
         "at": "2026-11-17T14:59:54+00:00",
         "confidence": "low",
         "critic": "",
-        "outlet": "Algo M\u00e1s Que Cine",
+        "outlet": "Algo Más Que Cine",
         "rating": "3/5",
         "summary": "Entertaining, visually striking prequel with strong performances, but too reliant on nostalgia and lacking Haymitch's emotional depth.",
         "url": "https://algomasquecine.com/los-juegos-del-hambre-amanecer-en-la-cosecha-una-tragedia-atrapada-en-su-propio-pasado/",
@@ -3809,7 +3809,7 @@
         "at": "2026-11-19T03:17:08+00:00",
         "confidence": "low",
         "critic": "",
-        "outlet": "La Naci\u00f3n",
+        "outlet": "La Nación",
         "rating": "Buena",
         "summary": "Good cast and careful world-building, but corny dialogue and uncaptivating games action; overall rated 'Buena' (good).",
         "url": "https://www.lanacion.com.ar/espectaculos/los-juegos-del-hambre-amanecer-en-la-cosecha-una-precuela-con-buenos-actores-y-una-cuidada-nid19112026/",
@@ -3829,7 +3829,7 @@
         "at": "2026-11-19T09:29:21+00:00",
         "confidence": "medium",
         "critic": "",
-        "outlet": "Clar\u00edn",
+        "outlet": "Clarín",
         "rating": "Buena",
         "summary": "Entertaining and effective thanks to Haymitch and Maysilee, with a strong cast; overlong with unremarkable fights, but won't disappoint fans.",
         "url": "https://www.clarin.com/espectaculos/juegos-hambre-amanecer-cosecha-da-vuelta-tuerca-reality-distopico-juvenil_0_TFfB1prcrc.html",
@@ -3899,7 +3899,7 @@
         "at": "2026-11-19T19:29:28+00:00",
         "confidence": "medium",
         "critic": "",
-        "outlet": "Rolling Stone en Espa\u00f1ol",
+        "outlet": "Rolling Stone en Español",
         "rating": "",
         "summary": "An ambitious, cruel, surprisingly thrilling and moving prequel that proves the saga's continued relevance.",
         "url": "https://es.rollingstone.com/critica-los-juegos-del-hambre-amanecer-en-la-cosecha-the-hunger-games-sunrise-on-the-reaping/",
@@ -4198,7 +4198,7 @@
       {
         "at": "2026-11-21T23:45:43+00:00",
         "confidence": "medium",
-        "critic": "Sebasti\u00e1n Zavala Kahn",
+        "critic": "Sebastián Zavala Kahn",
         "outlet": "Me Gusta El Cine",
         "rating": "",
         "summary": "Messy, overlong and uneven in performances despite strong leads; one of the saga's weakest entries, leaving casual viewers indifferent.",
@@ -4229,7 +4229,7 @@
         "at": "2026-11-23T04:29:08+00:00",
         "confidence": "low",
         "critic": "Samantha Schuster",
-        "outlet": "Cin\u00e9filo Serial",
+        "outlet": "Cinéfilo Serial",
         "rating": "",
         "summary": "Strong visuals, well-chosen cast, dynamic pace and political angle make it entertaining, though its familiar structure brings little new to the saga.",
         "url": "https://cinefiloserial.com.ar/critica-de-los-juegos-del-hambre-amanecer-en-la-cosecha-de-francis-lawrence-2026/",
@@ -4617,7 +4617,7 @@
         "critic": "",
         "outlet": "IndieWire",
         "rating": "",
-        "summary": "Though the premise feels stretched and the ensemble underserved, Colman and Skarsg\u00e5rd are irresistibly weird and wonderful, backed by crisp visuals.",
+        "summary": "Though the premise feels stretched and the ensemble underserved, Colman and Skarsgård are irresistibly weird and wonderful, backed by crisp visuals.",
         "url": "https://www.indiewire.com/criticism/movies/wicker-review-olivia-colman-alexander-skarsgard-1235175039/",
         "verdict": "fresh"
       },
@@ -4677,7 +4677,7 @@
         "critic": "",
         "outlet": "Riot US",
         "rating": "B++",
-        "summary": "A smart, witty, feminist fairytale with a tender love story and excellent performances, especially from Colman and Skarsg\u00e5rd.",
+        "summary": "A smart, witty, feminist fairytale with a tender love story and excellent performances, especially from Colman and Skarsgård.",
         "url": "https://riot-us.com/2026/10/20/wicker-review-a-fable-about-dangerous-love/",
         "verdict": "fresh"
       },
@@ -4697,7 +4697,7 @@
         "critic": "",
         "outlet": "Sunshine State Cineplex",
         "rating": "",
-        "summary": "Praises Colman and Skarsg\u00e5rd's performances, deft tonal balance, and extraordinary craftwork; calls it the critic's favorite film of Sundance 2026.",
+        "summary": "Praises Colman and Skarsgård's performances, deft tonal balance, and extraordinary craftwork; calls it the critic's favorite film of Sundance 2026.",
         "url": "https://sunshinestatecineplex.com/2026/02/11/sundance-wicker-2026/",
         "verdict": "fresh"
       },
@@ -4717,7 +4717,7 @@
         "critic": "",
         "outlet": "The Times-Herald",
         "rating": "",
-        "summary": "A sexy, affecting adult fairy tale with excellent Colman and Skarsg\u00e5rd performances and remarkable practical effects; unusual and rewarding.",
+        "summary": "A sexy, affecting adult fairy tale with excellent Colman and Skarsgård performances and remarkable practical effects; unusual and rewarding.",
         "url": "https://www.times-herald.com/arts_and_community/reviews/wicker/article_b34dfd06-ebde-4095-af96-108b39bc2a87.html",
         "verdict": "fresh"
       },
@@ -4727,7 +4727,7 @@
         "critic": "Neil Pond",
         "outlet": "Neil's Entertainment Picks",
         "rating": "",
-        "summary": "A delightful, bawdy, poetic fairytale fable with Colman's masterful performance and Skarsg\u00e5rd sensational as the wicker man.",
+        "summary": "A delightful, bawdy, poetic fairytale fable with Colman's masterful performance and Skarsgård sensational as the wicker man.",
         "url": "https://neilsentertainmentpicks.com/2026/10/20/movie-review-wicker/",
         "verdict": "fresh"
       },
@@ -4737,7 +4737,7 @@
         "critic": "",
         "outlet": "Spectrum Culture",
         "rating": "82%",
-        "summary": "Wildly original, hilarious fairy-tale fable with superb performances from Colman and Skarsg\u00e5rd, stunning practical effects, and sharp social satire.",
+        "summary": "Wildly original, hilarious fairy-tale fable with superb performances from Colman and Skarsgård, stunning practical effects, and sharp social satire.",
         "url": "https://spectrumculture.com/2026/10/22/wicker/",
         "verdict": "fresh"
       },
@@ -4797,7 +4797,7 @@
         "critic": "Peter Travers",
         "outlet": "The Travers Take",
         "rating": "3/4",
-        "summary": "Colman and Skarsg\u00e5rd bring genuine humor and heart to a wonderfully weird, beautifully shot fable with extravagant empathy and magic.",
+        "summary": "Colman and Skarsgård bring genuine humor and heart to a wonderfully weird, beautifully shot fable with extravagant empathy and magic.",
         "url": "https://www.thetraverstake.com/featured/wicker/",
         "verdict": "fresh"
       },
@@ -4817,7 +4817,7 @@
         "critic": "",
         "outlet": "ScreenAnarchy",
         "rating": "",
-        "summary": "A masterfully handled, witty satirical fairy tale with magical performances from Colman and Skarsg\u00e5rd and an excellent supporting cast.",
+        "summary": "A masterfully handled, witty satirical fairy tale with magical performances from Colman and Skarsgård and an excellent supporting cast.",
         "url": "https://screenanarchy.com/2026/10/wicker-review-witty-modern-fairy-tale-hits-the-spot.html",
         "verdict": "fresh"
       },
@@ -4867,7 +4867,7 @@
         "critic": "",
         "outlet": "Vulture",
         "rating": "",
-        "summary": "Colman and Skarsg\u00e5rd charm and the romance is wonderful, but the rushed, moralistic back half squanders the film's potential.",
+        "summary": "Colman and Skarsgård charm and the romance is wonderful, but the rushed, moralistic back half squanders the film's potential.",
         "url": "https://www.vulture.com/article/wicker-movie-review-olivia-colman-wood.html",
         "verdict": "rotten"
       },
@@ -4877,7 +4877,7 @@
         "critic": "",
         "outlet": "Slant Magazine",
         "rating": "",
-        "summary": "The critic appreciates how the bawdy adult fable brings childlike sincerity to its mature themes, with Skarsg\u00e5rd a sturdy presence.",
+        "summary": "The critic appreciates how the bawdy adult fable brings childlike sincerity to its mature themes, with Skarsgård a sturdy presence.",
         "url": "https://www.slantmagazine.com/film/wicker-review-olivia-colman-alexander-skarsgard/",
         "verdict": "fresh"
       },
@@ -4887,7 +4887,7 @@
         "critic": "",
         "outlet": "The A.V. Club",
         "rating": "",
-        "summary": "A darkly funny, surprisingly moving adult fairy tale with an effervescent Colman, devoted Skarsg\u00e5rd, and disarming handling of insecurity.",
+        "summary": "A darkly funny, surprisingly moving adult fairy tale with an effervescent Colman, devoted Skarsgård, and disarming handling of insecurity.",
         "url": "https://www.avclub.com/wicker-review-olivia-colman-alexander-skarsgard-romance",
         "verdict": "fresh"
       },
@@ -4957,7 +4957,7 @@
         "critic": "",
         "outlet": "Should I See It?",
         "rating": "",
-        "summary": "Colman and a wicker Skarsg\u00e5rd share wonderful chemistry in a beautifully crafted, hilarious, thoughtful fable, despite a forced late conflict.",
+        "summary": "Colman and a wicker Skarsgård share wonderful chemistry in a beautifully crafted, hilarious, thoughtful fable, despite a forced late conflict.",
         "url": "https://www.shouldiseeit.net/reviews/2026/wicker-2026",
         "verdict": "fresh"
       },
@@ -4967,7 +4967,7 @@
         "critic": "",
         "outlet": "Beyond the Cinerama Dome",
         "rating": "",
-        "summary": "A beautifully constructed fable with committed, delightfully strange performances from Colman and Skarsg\u00e5rd, gorgeous design, and a heartfelt message about mutual love.",
+        "summary": "A beautifully constructed fable with committed, delightfully strange performances from Colman and Skarsgård, gorgeous design, and a heartfelt message about mutual love.",
         "url": "https://beyondthecineramadome.com/movie-reviews/wicker-film-review",
         "verdict": "fresh"
       },
@@ -4987,7 +4987,7 @@
         "critic": "",
         "outlet": "Little White Lies",
         "rating": "",
-        "summary": "Entertaining, saucy fable elevated by Colman and Skarsg\u00e5rd's committed performances and impressive W\u0113t\u0101 practical effects, despite one-note humour.",
+        "summary": "Entertaining, saucy fable elevated by Colman and Skarsgård's committed performances and impressive Wētā practical effects, despite one-note humour.",
         "url": "https://www.lwlies.com/reviews/wicker",
         "verdict": "fresh"
       },
@@ -5065,7 +5065,7 @@
         "at": "2026-10-30T04:52:59+00:00",
         "confidence": "medium",
         "critic": "",
-        "outlet": "El Pa\u00eds",
+        "outlet": "El País",
         "rating": "",
         "summary": "Headline calls the film a muddled mess of necessary feminism, sociology, and cheap sexuality, signaling a negative take.",
         "url": "https://elpais.com/cultura/cine/2026-10-30/wicker-una-empanada-de-necesario-feminismo-sociologia-y-sexualidad-de-tres-al-cuarto.html",
@@ -5097,7 +5097,7 @@
         "critic": "",
         "outlet": "The Independent",
         "rating": "",
-        "summary": "A sweet, bawdy comedy with astounding practical effects bringing Alexander Skarsg\u00e5rd's kindly wicker hunk to life.",
+        "summary": "A sweet, bawdy comedy with astounding practical effects bringing Alexander Skarsgård's kindly wicker hunk to life.",
         "url": "https://www.the-independent.com/arts-entertainment/films/reviews/wicker-review-olivia-colman-b3074828.html",
         "verdict": "fresh"
       },
@@ -5107,7 +5107,7 @@
         "critic": "",
         "outlet": "Film Feeder",
         "rating": "",
-        "summary": "A delightful, funny fairy-tale romcom with superb makeup effects, a witty farcical script, and a heartwarming central romance between Colman and Skarsg\u00e5rd.",
+        "summary": "A delightful, funny fairy-tale romcom with superb makeup effects, a witty farcical script, and a heartwarming central romance between Colman and Skarsgård.",
         "url": "https://filmfeeder.co.uk/film-reviews/wicker-dirs-alex-huston-fischer-and-eleanor-wilson?utm_source=rss&utm_medium=rss&utm_campaign=wicker-dirs-alex-huston-fischer-and-eleanor-wilson",
         "verdict": "fresh"
       },
@@ -5127,7 +5127,7 @@
         "critic": "",
         "outlet": "Empire",
         "rating": "",
-        "summary": "A smart, beautifully woven fairy-tale love story with a perfectly cast Skarsg\u00e5rd and delicate Colman, despite uneven pacing and tone.",
+        "summary": "A smart, beautifully woven fairy-tale love story with a perfectly cast Skarsgård and delicate Colman, despite uneven pacing and tone.",
         "url": "https://www.empireonline.com/movies/reviews/wicker/",
         "verdict": "fresh"
       },
@@ -5167,7 +5167,7 @@
         "critic": "",
         "outlet": "The Federal",
         "rating": "",
-        "summary": "A charming, witty fable elevated by Colman and Skarsg\u00e5rd's chemistry, though its feather-light touch slightly blunts emotional highs.",
+        "summary": "A charming, witty fable elevated by Colman and Skarsgård's chemistry, though its feather-light touch slightly blunts emotional highs.",
         "url": "https://thefederal.com/film-reviews/wicker-movie-review-olivia-colman-alexander-akarsgrd-261315",
         "verdict": "fresh"
       },
@@ -5177,7 +5177,7 @@
         "critic": "",
         "outlet": "Polygon",
         "rating": "",
-        "summary": "A sly, ribald feminist fable elevated by Skarsg\u00e5rd's tender performance, amazing creature effects, and a skilled comic cast, despite simplistic satire.",
+        "summary": "A sly, ribald feminist fable elevated by Skarsgård's tender performance, amazing creature effects, and a skilled comic cast, despite simplistic satire.",
         "url": "https://www.polygon.com/wicker-review/",
         "verdict": "fresh"
       },
@@ -5197,7 +5197,7 @@
         "critic": "",
         "outlet": "Deccan Herald",
         "rating": "",
-        "summary": "Praises excellent performances by Colman, Skarsg\u00e5rd and Dinklage, sharp thematic commentary, ominous score and impeccable art direction in a refreshing fairy tale.",
+        "summary": "Praises excellent performances by Colman, Skarsgård and Dinklage, sharp thematic commentary, ominous score and impeccable art direction in a refreshing fairy tale.",
         "url": "https://www.deccanherald.com/entertainment/wicker-movie-review-quaint-sincere-unconventional-4201556",
         "verdict": "fresh"
       },
@@ -5207,7 +5207,7 @@
         "critic": "",
         "outlet": "Hipertextual",
         "rating": "",
-        "summary": "Praises Wicker as an original, moving erotic fable with superb Colman\u2013Skarsg\u00e5rd chemistry and stunning practical visuals.",
+        "summary": "Praises Wicker as an original, moving erotic fable with superb Colman–Skarsgård chemistry and stunning practical visuals.",
         "url": "https://hipertextual.com/cine-television/3-razones-para-ver-wicker-la-comedia-erotica-mas-loca-del-ano-que-causa-furor/",
         "verdict": "fresh"
       }
@@ -5629,7 +5629,7 @@
         "critic": "",
         "outlet": "Third Coast Review",
         "rating": "",
-        "summary": "A witty, twisty spy comedy with top-form Malkovich-Rockwell banter, a scene-stealing Buscemi, and unexpected heart\u2014a total treat.",
+        "summary": "A witty, twisty spy comedy with top-form Malkovich-Rockwell banter, a scene-stealing Buscemi, and unexpected heart—a total treat.",
         "url": "https://thirdcoastreview.com/film-tv/2026/11/06/review-wild-horse-nine",
         "verdict": "fresh"
       },
@@ -5736,7 +5736,7 @@
       {
         "at": "2026-11-07T13:33:27+00:00",
         "confidence": "medium",
-        "critic": "Alejandro Alem\u00e1n",
+        "critic": "Alejandro Alemán",
         "outlet": "El Universal",
         "rating": "",
         "summary": "Witty dialogue and brilliant Malkovich-Rockwell chemistry win out despite feeling like an In Bruges remake and troubling moral ambiguity.",
@@ -6516,128 +6516,14 @@
       "at": "2026-11-15T17:58:52+00:00",
       "status": "not_review"
     },
-    "focker in law|2026|https://deadline.com/2026/11/focker-in-law-review-robert-de-niro-ben-stiller-ariana-grande-1237231271/": {
-      "at": "2026-11-23T17:04:30+00:00",
-      "attempts": 1,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011ChLDsyLkBJ76SPoeTq5Nq'}",
-      "status": "error"
-    },
-    "focker in law|2026|https://deadline.com/print-article/1237231271?KeepThis=1&TB_iframe=1&height=500&width=750": {
-      "at": "2026-11-23T17:04:31+00:00",
-      "attempts": 1,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011ChLDsyi5AcSAxKsp2Kiqe'}",
-      "status": "error"
-    },
-    "focker in law|2026|https://movieweb.com/focker-in-law-review/": {
-      "at": "2026-11-23T17:04:49+00:00",
-      "attempts": 1,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011ChLDuMKMTbM8rCR7KMErU'}",
-      "status": "error"
-    },
-    "focker in law|2026|https://movieweb.com/tag/movie/focker-in-law/": {
-      "at": "2026-11-23T17:04:50+00:00",
-      "attempts": 1,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011ChLDuN7z165ZfFRKdQcxu'}",
-      "status": "error"
-    },
-    "focker in law|2026|https://nextbestpicture.com/focker-in-law/": {
-      "at": "2026-11-23T17:04:32+00:00",
-      "attempts": 1,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011ChLDuJ97KAmF4orH1gQm8'}",
-      "status": "error"
-    },
-    "focker in law|2026|https://thefutureoftheforce.com/2026/11/23/review-focker-in-law-2026/": {
-      "at": "2026-11-23T17:04:49+00:00",
-      "attempts": 1,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011ChLDuKdA8ji5D22Yq6FU4'}",
-      "status": "error"
-    },
-    "focker in law|2026|https://variety.com/2026/film/reviews/focker-in-law-review-1236955690/": {
-      "at": "2026-11-23T17:04:28+00:00",
-      "attempts": 1,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011ChLDsopkitYE7d8Gte2g8'}",
-      "status": "error"
-    },
-    "focker in law|2026|https://www.avclub.com/focker-in-law-review-ben-stiller-ariana-grande-robert-de-niro": {
-      "at": "2026-11-23T17:04:31+00:00",
-      "attempts": 1,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011ChLDt24D5sfkWZCYsUUmG'}",
-      "status": "error"
-    },
     "focker in law|2026|https://www.bollywoodhungama.com/movie/focker-law-english/": {
       "at": "2026-11-21T16:05:25+00:00",
       "status": "not_review"
-    },
-    "focker in law|2026|https://www.cbr.com/focker-in-law-review/": {
-      "at": "2026-11-23T17:04:50+00:00",
-      "attempts": 1,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011ChLDuP1Ju8bkupQyqAazw'}",
-      "status": "error"
-    },
-    "focker in law|2026|https://www.comingsoon.net/movies/reviews/2229269-focker-in-law-review-ariana-grande-shines-in-familiar-movie-sequel": {
-      "at": "2026-11-23T17:04:49+00:00",
-      "attempts": 1,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011ChLDuK99PGif3518TY7ep'}",
-      "status": "error"
-    },
-    "focker in law|2026|https://www.empireonline.com/movies/reviews/focker-in-law/": {
-      "at": "2026-11-23T17:04:32+00:00",
-      "attempts": 1,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011ChLDt2dvk3SPK82HXmjfA'}",
-      "status": "error"
-    },
-    "focker in law|2026|https://www.hollywoodreporter.com/movies/movie-reviews/focker-in-law-review-ariana-grande-robert-de-niro-1236760021/": {
-      "at": "2026-11-23T17:04:30+00:00",
-      "attempts": 1,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011ChLDsvpgtvcb6PVhqdRpo'}",
-      "status": "error"
-    },
-    "focker in law|2026|https://www.ign.com/articles/focker-in-law-review": {
-      "at": "2026-11-23T17:04:32+00:00",
-      "attempts": 1,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011ChLDt34UNnBqDApM7dq8V'}",
-      "status": "error"
-    },
-    "focker in law|2026|https://www.ign.com/movies/focker-in-law": {
-      "at": "2026-11-23T17:04:32+00:00",
-      "attempts": 1,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011ChLDt3ggEQ8UkYP33JH6a'}",
-      "status": "error"
-    },
-    "focker in law|2026|https://www.indiewire.com/criticism/movies/focker-in-law-movie-review-ariana-grande-ben-stiller-1235230046/": {
-      "at": "2026-11-23T17:04:29+00:00",
-      "attempts": 1,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011ChLDspWvF3fYCCP2ALyA1'}",
-      "status": "error"
     },
     "focker in law|2026|https://www.lwlies.com/reviews/focker-in-law": {
       "at": "2026-11-21T16:05:11+00:00",
       "status": "review",
       "verdict": "rotten"
-    },
-    "focker in law|2026|https://www.nme.com/reviews/film-reviews/focker-in-law-review-ariana-grande-ben-stiller-rober-de-niro-3976765": {
-      "at": "2026-11-23T17:04:32+00:00",
-      "attempts": 1,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011ChLDt4z4g5vTSeQx7K3W8'}",
-      "status": "error"
-    },
-    "focker in law|2026|https://www.rogerebert.com/reviews/focker-in-law-ben-stiller-robert-de-niro-ariana-grande-movie-review-2026": {
-      "at": "2026-11-23T17:04:28+00:00",
-      "attempts": 2,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011ChLDsnuC9jBowjWyKuA85'}",
-      "status": "error"
-    },
-    "focker in law|2026|https://www.slantmagazine.com/film/focker-in-law-review-ben-stiller-robert-de-niro/": {
-      "at": "2026-11-23T17:04:31+00:00",
-      "attempts": 1,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011ChLDt1YhFToL7SA4cFoU7'}",
-      "status": "error"
-    },
-    "focker in law|2026|https://www.slashfilm.com/2324759/focker-in-law-review/": {
-      "at": "2026-11-23T17:04:32+00:00",
-      "attempts": 1,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011ChLDt4Nc5Fat3H5wukdPi'}",
-      "status": "error"
     },
     "focker in law|2026|https://www.vulture.com/article/ariana-grande-focker-in-law-press-tour-public-appearance.html": {
       "at": "2026-11-21T16:05:09+00:00",
@@ -8943,12 +8829,6 @@
       "status": "review",
       "verdict": "fresh"
     },
-    "the further mis adventures of cliff booth|2026|https://screenanarchy.com/2026/11/opening-this-week-the-further-mis-adventures-of-cliff-booth-fusing-quentin-tarantino-and-david-finch.html": {
-      "at": "2026-11-23T17:04:30+00:00",
-      "attempts": 3,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011ChLDsvJgmzvWh1X1benJo'}",
-      "status": "error"
-    },
     "the further mis adventures of cliff booth|2026|https://screencrush.com/cliff-booth-review/": {
       "at": "2026-11-19T18:05:50+00:00",
       "status": "review",
@@ -8993,24 +8873,6 @@
       "status": "review",
       "verdict": "fresh"
     },
-    "the further mis adventures of cliff booth|2026|https://themovieminute.com/2026/11/23/the-further-mis-adventures-of-cliff-booth/": {
-      "at": "2026-11-23T17:04:29+00:00",
-      "attempts": 1,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011ChLDsrawdKnwUxsg9pmHV'}",
-      "status": "error"
-    },
-    "the further mis adventures of cliff booth|2026|https://themovieminute.com/tag/the-further-mis-adventures-of-cliff-booth/": {
-      "at": "2026-11-23T17:04:30+00:00",
-      "attempts": 1,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011ChLDsuczueUfyJur2w2Gi'}",
-      "status": "error"
-    },
-    "the further mis adventures of cliff booth|2026|https://themovieminute.com/the-further-mis-adventures-of-cliff-booth/": {
-      "at": "2026-11-23T17:04:29+00:00",
-      "attempts": 2,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011ChLDsshv5WhAXSzpd8x6i'}",
-      "status": "error"
-    },
     "the further mis adventures of cliff booth|2026|https://theplaylist.net/a24-is-going-for-best-picture-history-as-cliff-booth-unfurls-contender-countdown-20261118/": {
       "at": "2026-11-19T15:29:02+00:00",
       "status": "not_review"
@@ -9035,12 +8897,6 @@
     "the further mis adventures of cliff booth|2026|https://theplaylist.net/david-fincher-ai-cliff-booth-controversy-20261120/": {
       "at": "2026-11-20T14:45:29+00:00",
       "status": "not_review"
-    },
-    "the further mis adventures of cliff booth|2026|https://theplaylist.net/the-black-dahlia-david-fincher-tom-cruise-20261123/": {
-      "at": "2026-11-23T16:29:00+00:00",
-      "attempts": 3,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011ChLBAuUSp1xcJakcj2MUq'}",
-      "status": "error"
     },
     "the further mis adventures of cliff booth|2026|https://theplaylist.net/the-comeback-king-trailer-glen-powell-judd-apatow-20261118/": {
       "at": "2026-11-19T15:28:59+00:00",
@@ -9136,12 +8992,6 @@
       "at": "2026-11-21T13:28:41+00:00",
       "status": "review",
       "verdict": "fresh"
-    },
-    "the further mis adventures of cliff booth|2026|https://www.espinof.com/directores-y-guionistas/david-fincher-uso-ia-generativa-nuevas-desventuras-cliff-booth-existe-no-deberiamos-usarla": {
-      "at": "2026-11-23T17:04:29+00:00",
-      "attempts": 1,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011ChLDsrA9hddYwKVKJvQQH'}",
-      "status": "error"
     },
     "the further mis adventures of cliff booth|2026|https://www.gamesradar.com/entertainment/thriller-movies/the-further-mis-adventures-of-cliff-booth-review/": {
       "at": "2026-11-19T18:05:18+00:00",
@@ -9241,12 +9091,6 @@
       "at": "2026-11-19T18:05:27+00:00",
       "status": "review",
       "verdict": "fresh"
-    },
-    "the further mis adventures of cliff booth|2026|https://www.the-independent.com/arts-entertainment/films/news/brad-pitt-cliff-booth-premiere-flu-b3089894.html": {
-      "at": "2026-11-23T15:11:15+00:00",
-      "attempts": 3,
-      "error": "Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011ChL5F4FDFTvrRhvhUzssj'}",
-      "status": "error"
     },
     "the further mis adventures of cliff booth|2026|https://www.theguardian.com/film/2026/nov/19/the-further-mis-adventures-of-cliff-booth-review-quentin-tarantino-david-fincher-brad-pitt": {
       "at": "2026-11-19T18:04:44+00:00",
