@@ -4214,6 +4214,16 @@
         "summary": "Strong visuals, well-chosen cast, dynamic pace and political angle make it entertaining, though its familiar structure brings little new to the saga.",
         "url": "https://cinefiloserial.com.ar/critica-de-los-juegos-del-hambre-amanecer-en-la-cosecha-de-francis-lawrence-2026/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-23T10:29:29+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Cinerama Film",
+        "rating": "",
+        "summary": "Despite a terrific cast and design, the overstuffed, rushed adaptation dilutes the book's themes and characters, making it the franchise's first disappointment.",
+        "url": "https://cineramafilm.com/2026/11/23/the-hunger-games-sunrise-on-the-reaping-film-review/",
+        "verdict": "rotten"
       }
     ],
     "the mongoose|": [
@@ -9134,6 +9144,11 @@
       "at": "2026-11-23T03:27:01+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "the hunger games sunrise on the reaping|2026|https://cineramafilm.com/2026/11/23/the-hunger-games-sunrise-on-the-reaping-film-review/": {
+      "at": "2026-11-23T10:29:29+00:00",
+      "status": "review",
+      "verdict": "rotten"
     },
     "the hunger games sunrise on the reaping|2026|https://collider.com/hunger-games-book-series-ranked/": {
       "at": "2026-11-21T02:29:10+00:00",
