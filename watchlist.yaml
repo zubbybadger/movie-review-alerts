@@ -228,6 +228,13 @@ sites:
   - https://news.google.com/rss/search?q=site:insessionfilm.com&hl=en-US&gl=US&ceid=US:en
   # Added 2026-11-19 after it had a Cliff Booth review the bot never saw.
   - https://news.google.com/rss/search?q=site:gatecrashers.fan&hl=en-US&gl=US&ceid=US:en
+  # Added 2026-11-23 after they had Focker-In-Law reviews the bot never saw (watched through Google News).
+  - https://news.google.com/rss/search?q=site:thewrap.com&hl=en-US&gl=US&ceid=US:en
+  - https://news.google.com/rss/search?q=site:awardsradar.com&hl=en-US&gl=US&ceid=US:en
+  - https://news.google.com/rss/search?q=site:wegotthiscovered.com&hl=en-US&gl=US&ceid=US:en
+  - https://news.google.com/rss/search?q=site:theupcoming.co.uk&hl=en-US&gl=US&ceid=US:en
+  - https://news.google.com/rss/search?q=site:mamasgeeky.com&hl=en-US&gl=US&ceid=US:en
+  - https://news.google.com/rss/search?q=site:filmfocusonline.com&hl=en-US&gl=US&ceid=US:en
   - https://www.nightviz.ca/
   - https://cinegods.com/reviews/
   - https://www.kget.com/author/rick-bentley/
