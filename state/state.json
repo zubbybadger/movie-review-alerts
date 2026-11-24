@@ -1976,6 +1976,16 @@
         "summary": "Headline praises Hexed as a witchy, heartfelt mother-daughter adventure, suggesting a positive take.",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBiZnppcVVrZURCZmx4d01yUkpJalgzN0otdWhwTGdSdG9HNk01MnJwTUxxQjV0VEc3R2xYd21ZanBIQ2Y2bi01cUtRWUJPOWRjRjJaSFZibjNJTmlaSjgzbkdDa3E?oc=5",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-24T17:59:06+00:00",
+        "confidence": "medium",
+        "critic": "Anna Stafford",
+        "outlet": "Little White Lies",
+        "rating": "3/5",
+        "summary": "Vibrant animation and a heartfelt mother-daughter relationship make it a pleasant, entertaining watch despite a familiar, predictable formula.",
+        "url": "https://www.lwlies.com/reviews/hexed",
+        "verdict": "fresh"
       }
     ],
     "how to rob a bank|2026": [
@@ -7469,6 +7479,10 @@
       "at": "2026-11-23T22:28:50+00:00",
       "status": "not_review"
     },
+    "focker in law|2026|https://www.comingsoon.net/movies/news/2230011-ariana-grande-2-peacock-movies-wicked-focker-in-law-release-dates": {
+      "at": "2026-11-24T17:59:10+00:00",
+      "status": "not_review"
+    },
     "focker in law|2026|https://www.comingsoon.net/movies/reviews/2229269-focker-in-law-review-ariana-grande-shines-in-familiar-movie-sequel": {
       "at": "2026-11-23T17:23:12+00:00",
       "status": "review",
@@ -8501,6 +8515,11 @@
     "hexed|2026|https://www.independent.co.uk/arts-entertainment/films/news/jodie-foster-favorite-film-the-lion-king-b3089246.html": {
       "at": "2026-11-21T21:28:57+00:00",
       "status": "not_review"
+    },
+    "hexed|2026|https://www.lwlies.com/reviews/hexed": {
+      "at": "2026-11-24T17:59:06+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "hexed|2026|https://www.polygon.com/disney-hexed-review/": {
       "at": "2026-11-24T17:05:11+00:00",
@@ -10281,6 +10300,10 @@
       "at": "2026-11-19T18:06:10+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "the further mis adventures of cliff booth|2026|https://www.cbr.com/video/cliff-booth-elizabeth-debicki-on-slapping-brad-pitt/": {
+      "at": "2026-11-24T17:59:12+00:00",
+      "status": "not_review"
     },
     "the further mis adventures of cliff booth|2026|https://www.cbr.com/video/cliff-booth-why-fincher-and-tarantino-work-so-well/": {
       "at": "2026-11-24T16:29:24+00:00",
