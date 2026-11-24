@@ -1102,6 +1102,16 @@
         "summary": "Nostalgia-heavy legacy sequel with flat jokes, but Grande and De Niro shine and its emotional heart makes it a worthwhile return.",
         "url": "https://theholofiles.com/2026/11/24/review-focker-in-law/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-24T17:29:18+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "Movies with Mark",
+        "rating": "",
+        "summary": "More bearable than past entries with toned-down crude humor, but stale slapstick and an unchanged Greg yield few real laughs.",
+        "url": "https://movieswithmark.com/focker-in-law-review/?utm_source=rss&utm_medium=rss&utm_campaign=focker-in-law-review",
+        "verdict": "rotten"
       }
     ],
     "godzilla minus zero|": [
@@ -1895,6 +1905,76 @@
         "rating": "",
         "summary": "A heartfelt mother-daughter story, lovely animation, a strong score and Walton Goggins outweigh uneven humor, obvious needle drops and forgettable voice work.",
         "url": "https://movieweb.com/hexed-review/",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-24T17:29:04+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "RogerEbert.com",
+        "rating": "",
+        "summary": "The film repeatedly hints at becoming something intriguing but never quite achieves it.",
+        "url": "https://www.rogerebert.com/reviews/hexed-disney-animated-film-review-2026",
+        "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-24T17:29:06+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Screen Daily",
+        "rating": "",
+        "summary": "Leans on familiar fairytale tropes and juvenile humour, with flat characters and predictable handling that saps its emotional potential.",
+        "url": "https://www.screendaily.com/reviews/hexed-review-uninspiring-disney-animation-about-a-teen-witch-fails-to-generate-a-great-deal-of-magic/5222730.article",
+        "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-24T17:29:08+00:00",
+        "confidence": "low",
+        "critic": "Matt Singer",
+        "outlet": "ScreenCrush",
+        "rating": "",
+        "summary": "Critic and daughter enjoyed Beef the cat and the mother-daughter story, though the plot was confusing and stakes felt low.",
+        "url": "https://screencrush.com/hexed-kids-review/",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-24T17:29:10+00:00",
+        "confidence": "high",
+        "critic": "Kristy Puchko",
+        "outlet": "Mashable",
+        "rating": "",
+        "summary": "A fun, imaginative, moving mother-daughter magical adventure with strong voice work, vibrant visuals, and spirited humor\u2014'spell-binding.'",
+        "url": "https://mashable.com/entertainment/hexed-disney-review",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-24T17:29:12+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "CGMagazine",
+        "rating": "",
+        "summary": "Warm, imaginative Disney adventure with fresh ideas, excellent voice cast, and a standout mother-daughter relationship, despite some soundtrack-score clashes.",
+        "url": "https://www.cgmagonline.com/review/movie/hexed/",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-24T17:29:15+00:00",
+        "confidence": "medium",
+        "critic": "Mark",
+        "outlet": "Movies with Mark",
+        "rating": "",
+        "summary": "Despite a sweet mother-daughter core, heavy exposition, derivative animation and flat humor keep it from feeling magical.",
+        "url": "https://movieswithmark.com/hexed-2026-review/?utm_source=rss&utm_medium=rss&utm_campaign=hexed-2026-review",
+        "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-24T17:29:26+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "Mama's Geeky",
+        "rating": "",
+        "summary": "Headline praises Hexed as a witchy, heartfelt mother-daughter adventure, suggesting a positive take.",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBiZnppcVVrZURCZmx4d01yUkpJalgzN0otdWhwTGdSdG9HNk01MnJwTUxxQjV0VEc3R2xYd21ZanBIQ2Y2bi01cUtRWUJPOWRjRjJaSFZibjNJTmlaSjgzbkdDa3E?oc=5",
         "verdict": "fresh"
       }
     ],
@@ -7246,6 +7326,15 @@
       "status": "review",
       "verdict": "rotten"
     },
+    "focker in law|2026|https://movieswithmark.com/focker-in-law-review/": {
+      "at": "2026-11-24T17:29:24+00:00",
+      "status": "duplicate"
+    },
+    "focker in law|2026|https://movieswithmark.com/focker-in-law-review/?utm_source=rss&utm_medium=rss&utm_campaign=focker-in-law-review": {
+      "at": "2026-11-24T17:29:18+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
     "focker in law|2026|https://movieweb.com/focker-in-law-review/": {
       "at": "2026-11-23T17:23:16+00:00",
       "status": "review",
@@ -8261,10 +8350,24 @@
       "at": "2026-11-24T17:05:24+00:00",
       "status": "duplicate"
     },
+    "hexed|2026|https://mashable.com/entertainment/hexed-disney-review": {
+      "at": "2026-11-24T17:29:10+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "hexed|2026|https://moviecricket.net/blog/2026/11/24/review-hexed-sents-a-rebel-teen-and-her-anxious-mom-into-a-world-of-witches-and-nicely-recycles-its-share-of-disney-magic": {
       "at": "2026-11-24T17:05:16+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "hexed|2026|https://movieswithmark.com/hexed-2026-review/": {
+      "at": "2026-11-24T17:29:21+00:00",
+      "status": "duplicate"
+    },
+    "hexed|2026|https://movieswithmark.com/hexed-2026-review/?utm_source=rss&utm_medium=rss&utm_campaign=hexed-2026-review": {
+      "at": "2026-11-24T17:29:15+00:00",
+      "status": "review",
+      "verdict": "rotten"
     },
     "hexed|2026|https://movieweb.com/hexed-review/": {
       "at": "2026-11-24T17:06:05+00:00",
@@ -8280,6 +8383,11 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "hexed|2026|https://news.google.com/rss/articles/CBMiZEFVX3lxTFBiZnppcVVrZURCZmx4d01yUkpJalgzN0otdWhwTGdSdG9HNk01MnJwTUxxQjV0VEc3R2xYd21ZanBIQ2Y2bi01cUtRWUJPOWRjRjJaSFZibjNJTmlaSjgzbkdDa3E?oc=5": {
+      "at": "2026-11-24T17:29:26+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "hexed|2026|https://nextbestpicture.com/disneys-hexed/": {
       "at": "2026-11-24T17:05:54+00:00",
       "status": "review",
@@ -8287,6 +8395,11 @@
     },
     "hexed|2026|https://screenanarchy.com/2026/11/disneys-hexed-review-magical-somewhat-familiar-adventure-recaptures-classic-disney-charm.html": {
       "at": "2026-11-24T17:05:13+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "hexed|2026|https://screencrush.com/hexed-kids-review/": {
+      "at": "2026-11-24T17:29:08+00:00",
       "status": "review",
       "verdict": "fresh"
     },
@@ -8352,6 +8465,11 @@
       "at": "2026-11-22T19:41:10+00:00",
       "status": "not_review"
     },
+    "hexed|2026|https://www.cgmagonline.com/review/movie/hexed/": {
+      "at": "2026-11-24T17:29:12+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "hexed|2026|https://www.comingsoon.net/movies/reviews/2229937-hexed-review-hailee-steinfelds-bewitching-disney-movie": {
       "at": "2026-11-24T17:05:57+00:00",
       "status": "review",
@@ -8392,6 +8510,16 @@
     "hexed|2026|https://www.reelingreviews.com/reviews/hexed/": {
       "at": "2026-11-23T17:59:03+00:00",
       "status": "not_review"
+    },
+    "hexed|2026|https://www.rogerebert.com/reviews/hexed-disney-animated-film-review-2026": {
+      "at": "2026-11-24T17:29:04+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
+    "hexed|2026|https://www.screendaily.com/reviews/hexed-review-uninspiring-disney-animation-about-a-teen-witch-fails-to-generate-a-great-deal-of-magic/5222730.article": {
+      "at": "2026-11-24T17:29:06+00:00",
+      "status": "review",
+      "verdict": "rotten"
     },
     "hexed|2026|https://www.slantmagazine.com/film/hexed-review-disney/": {
       "at": "2026-11-24T17:05:27+00:00",
