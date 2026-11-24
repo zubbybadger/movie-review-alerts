@@ -264,3 +264,7 @@ sites:
   - https://www.theweek.in/review/movies.html
   - https://www.deccanherald.com/entertainment/movie-review
   - https://www.bollywoodhungama.com/movie-reviews/
+  # Added 2026-11-24 after they had Hexed reviews the bot never saw (watched through Google News).
+  - https://news.google.com/rss/search?q=site:bleedingcool.com&hl=en-US&gl=US&ceid=US:en
+  - https://news.google.com/rss/search?q=site:laughingplace.com&hl=en-US&gl=US&ceid=US:en
+  - https://news.google.com/rss/search?q=site:caseymoviemania.com&hl=en-US&gl=US&ceid=US:en
