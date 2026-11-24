@@ -1122,6 +1122,16 @@
         "summary": "Stiller and De Niro earn some laughs, but a weak script, a mean-spirited Greg and an underused Ariana Grande make it fall flat.",
         "url": "https://screenrant.com/focker-in-law-move-review/",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-24T18:58:57+00:00",
+        "confidence": "high",
+        "critic": "Don Shanahan",
+        "outlet": "Every Movie Has a Lesson",
+        "rating": "3/4",
+        "summary": "New cast members and well-timed nostalgia bring fresh vitality to a familiar but still effective cringe-comedy formula.",
+        "url": "https://everymoviehasalesson.com/blog/2026/11/movie-review-focker-in-law",
+        "verdict": "fresh"
       }
     ],
     "godzilla minus zero|": [
@@ -7336,6 +7346,15 @@
       "at": "2026-11-23T17:22:37+00:00",
       "status": "duplicate"
     },
+    "focker in law|2026|https://everymoviehasalesson.com/blog/2026/11/movie-review-focker-in-law": {
+      "at": "2026-11-24T18:58:57+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "focker in law|2026|https://everymoviehasalesson.com/blog/tag/Focker-in-Law": {
+      "at": "2026-11-24T18:58:59+00:00",
+      "status": "not_review"
+    },
     "focker in law|2026|https://inreviewonline.com/2026/11/24/focker-in-law-review/": {
       "at": "2026-11-24T16:29:04+00:00",
       "status": "review",
@@ -7457,6 +7476,10 @@
       "at": "2026-11-23T17:22:52+00:00",
       "status": "review",
       "verdict": "rotten"
+    },
+    "focker in law|2026|https://timesofindia.indiatimes.com/entertainment/english/movie-details/focker-in-law/movieshow/130325738.cms": {
+      "at": "2026-11-24T18:59:02+00:00",
+      "status": "not_review"
     },
     "focker in law|2026|https://variety.com/2026/film/box-office/thanksgiving-box-office-projections-sunrise-on-the-reaping-focker-in-law-disney-hexed-1236956070/": {
       "at": "2026-11-24T15:28:57+00:00",
