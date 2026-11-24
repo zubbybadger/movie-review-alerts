@@ -4184,6 +4184,16 @@
         "summary": "Headline praises Brad Pitt for effortlessly slipping back into his Oscar-winning role as Cliff Booth.",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNUpYWUZib3FQS1NNQ0RrTGI1Vy15bG40VEstMWVCSUM3UU1yTGZLc3p0X1h3SzROQUxTNkUxXzdzSERFVUZFZHlBWVFnT1hhWDhINnNNdkl2R1JISXVXMFpjdF9EX2RCdzFsLW4zWEtVdERNanZFMkllcmRRdzdvelljMVRLcUgyRzVId1NTMkhiWWdCb2huNGZ5dC1weVVYT3BLNU10N0xtbTVlQURSZWFvQTZxSmFDem5La1NJSUR3T2pNR3JoMlhYdEM?oc=5",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-24T22:30:29+00:00",
+        "confidence": "high",
+        "critic": "Lisa",
+        "outlet": "At Home in Hollywood",
+        "rating": "",
+        "summary": "Raves that the Pitt-Tarantino-Fincher sequel is near cinematic perfection, with stellar cast, period locations and Reznor/Ross score.",
+        "url": "https://athomeinhollywood.com/2026/11/24/mis-adventures-of-cliff-booth/",
+        "verdict": "fresh"
       }
     ],
     "the hunger games sunrise on the reaping|2026": [
@@ -7580,6 +7590,10 @@
       "status": "review",
       "verdict": "rotten"
     },
+    "focker in law|2026|https://nextbestpicture.com/the-next-best-picture-podcast-interview-with-focker-in-law-primetime-star-skyler-gisondo/": {
+      "at": "2026-11-24T22:30:34+00:00",
+      "status": "not_review"
+    },
     "focker in law|2026|https://screenanarchy.com/2026/11/focker-in-law-review-turns-out-you-can-milk-a-lot-of-things.html": {
       "at": "2026-11-23T18:59:14+00:00",
       "status": "review",
@@ -7601,6 +7615,10 @@
     },
     "focker in law|2026|https://screenrant.com/focker-in-law-rotten-tomatoes-score-debut/": {
       "at": "2026-11-23T18:29:27+00:00",
+      "status": "not_review"
+    },
+    "focker in law|2026|https://screenrant.com/new-movies-releasing-thanksgiving-weekend-2026/": {
+      "at": "2026-11-24T22:30:32+00:00",
       "status": "not_review"
     },
     "focker in law|2026|https://screenrant.com/robert-de-niro-snl-season-52-host-december-2026-confirmed/": {
@@ -8692,6 +8710,10 @@
     },
     "hexed|2026|https://variety.com/2026/film/box-office/thanksgiving-box-office-projections-sunrise-on-the-reaping-focker-in-law-disney-hexed-1236956070/": {
       "at": "2026-11-24T15:28:59+00:00",
+      "status": "not_review"
+    },
+    "hexed|2026|https://variety.com/2026/film/features/hexed-witchcraft-hailee-steinfeld-easter-eggs-1236957060/": {
+      "at": "2026-11-24T22:30:27+00:00",
       "status": "not_review"
     },
     "hexed|2026|https://variety.com/2026/film/news/hailee-steinfeld-avengers-doomsday-kate-bishop-1236955585/": {
@@ -10201,6 +10223,11 @@
     "the cat in the hat|2026|https://www.winnipegfreepress.com/arts-and-life/entertainment/2026/11/08/godzilla-minus-zero-stomps-to-a-record-setting-31-6-debut-clobbering-the-cat-in-the-hat": {
       "at": "2026-11-08T18:50:34+00:00",
       "status": "not_review"
+    },
+    "the further mis adventures of cliff booth|2026|https://athomeinhollywood.com/2026/11/24/mis-adventures-of-cliff-booth/": {
+      "at": "2026-11-24T22:30:29+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "the further mis adventures of cliff booth|2026|https://cinapse.net/2026/11/tarantino-and-pitt-bring-fincher-along-for-the-ride-in-the-further-mis-adventures-of-cliff-booth/": {
       "at": "2026-11-20T05:29:11+00:00",
