@@ -224,6 +224,7 @@ sites:
   # Added 2026-11-17 after they had Sunrise on the Reaping reviews the bot never saw (watched through Google News).
   - https://news.google.com/rss/search?q=site:looper.com&hl=en-US&gl=US&ceid=US:en
   - https://news.google.com/rss/search?q=site:clutchpoints.com&hl=en-US&gl=US&ceid=US:en
+  - https://news.google.com/rss/search?q=site:flickeringmyth.com&hl=en-US&gl=US&ceid=US:en
   - https://news.google.com/rss/search?q=site:insessionfilm.com&hl=en-US&gl=US&ceid=US:en
   # Added 2026-11-19 after it had a Cliff Booth review the bot never saw.
   - https://news.google.com/rss/search?q=site:gatecrashers.fan&hl=en-US&gl=US&ceid=US:en
