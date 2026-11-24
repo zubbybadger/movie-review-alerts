@@ -1032,6 +1032,16 @@
         "summary": "The headline calls the fourquel tired and mean-spirited, though it says Ariana Grande isn't to blame.",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZTlUcUsyUGhrVTlESFJXUEFhT2VBSzM4ZFhReEtndFg2Zkc3RVNNYXRWY1hrZ093RzNwUXRudFdFX2liYXFTeGtTXzk4UVJtcXBvVko1REcxcXN1ME9DZzlVUVI0R3o4VDZfaG44SFh2SzR2NTg2TTE4b0JMZjVFS1RzR3djaVhNMVpXMVpTdnBJdEs1Q3QxZ3pVbHh4bGtYUkJMTkFua00zZFMwMndj?oc=5",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-24T06:28:36+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Movie Cricket",
+        "rating": "1.5/4",
+        "summary": "Weak, formulaic sequel with unfunny callbacks and a sociopathic lead; only Ariana Grande-Butera brings comic energy.",
+        "url": "https://moviecricket.net/blog/2026/11/23/review-focker-in-law-is-a-weak-addition-to-a-played-out-comedy-franchise-with-ben-stillers-main-character-getting-more-sociopathic-by-the-minute",
+        "verdict": "rotten"
       }
     ],
     "godzilla minus zero|": [
@@ -6933,6 +6943,11 @@
     "focker in law|2026|https://deadline.com/print-article/1237231271?KeepThis=1&TB_iframe=1&height=500&width=750": {
       "at": "2026-11-23T17:22:37+00:00",
       "status": "duplicate"
+    },
+    "focker in law|2026|https://moviecricket.net/blog/2026/11/23/review-focker-in-law-is-a-weak-addition-to-a-played-out-comedy-franchise-with-ben-stillers-main-character-getting-more-sociopathic-by-the-minute": {
+      "at": "2026-11-24T06:28:36+00:00",
+      "status": "review",
+      "verdict": "rotten"
     },
     "focker in law|2026|https://movieweb.com/focker-in-law-review/": {
       "at": "2026-11-23T17:23:16+00:00",
