@@ -268,3 +268,9 @@ sites:
   - https://news.google.com/rss/search?q=site:bleedingcool.com&hl=en-US&gl=US&ceid=US:en
   - https://news.google.com/rss/search?q=site:laughingplace.com&hl=en-US&gl=US&ceid=US:en
   - https://news.google.com/rss/search?q=site:caseymoviemania.com&hl=en-US&gl=US&ceid=US:en
+  # Added 2026-11-24 by the daily sweep (reviews the bot never saw; watched through Google News). Pajiba blocks the bot directly.
+  - https://news.google.com/rss/search?q=site:joblo.com&hl=en-US&gl=US&ceid=US:en
+  - https://news.google.com/rss/search?q=site:sfchronicle.com&hl=en-US&gl=US&ceid=US:en
+  - https://news.google.com/rss/search?q=site:theonlycritic.com&hl=en-US&gl=US&ceid=US:en
+  - https://news.google.com/rss/search?q=site:azfamily.com&hl=en-US&gl=US&ceid=US:en
+  - https://news.google.com/rss/search?q=site:pajiba.com&hl=en-US&gl=US&ceid=US:en
