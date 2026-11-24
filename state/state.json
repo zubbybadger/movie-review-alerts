@@ -107,7 +107,7 @@
         "critic": "",
         "outlet": "The New York Times",
         "rating": "",
-        "summary": "Headline 'Holiday Humbug' and snippet suggest Depp's Scrooge is a comeback attempt relying on costume and déjà vu rather than performance.",
+        "summary": "Headline 'Holiday Humbug' and snippet suggest Depp's Scrooge is a comeback attempt relying on costume and d\u00e9j\u00e0 vu rather than performance.",
         "url": "https://www.nytimes.com/2026/11/12/movies/ebenezer-review-holiday-humbug.html",
         "verdict": "rotten"
       },
@@ -176,7 +176,7 @@
         "confidence": "high",
         "critic": "",
         "outlet": "The Playlist",
-        "rating": "D−",
+        "rating": "D\u2212",
         "summary": "A handsomely mounted but punishingly dull, unimaginative retelling with a secondhand Depp performance and lifeless, interminable pacing.",
         "url": "https://theplaylist.net/ebenezer-review-johnny-depp-ti-west-scrooge-20261112/",
         "verdict": "rotten"
@@ -355,7 +355,7 @@
         "at": "2026-11-12T18:59:21+00:00",
         "confidence": "medium",
         "critic": "",
-        "outlet": "La Nación",
+        "outlet": "La Naci\u00f3n",
         "rating": "Buena",
         "summary": "Ti West's gothic horror staging and ghost sequences impress, though the comedy and Depp's exaggerated comic scenes fall flat.",
         "url": "https://www.lanacion.com.ar/espectaculos/cine/ebenezer-los-fantasmas-de-navidad-marca-el-regreso-de-johnny-depp-con-destacadas-escenas-de-terror-y-nid12112026/",
@@ -1092,6 +1092,16 @@
         "summary": "All cringe and few laughs; a strong cast, especially Grande, is wasted on a stale, implausible script with no growth.",
         "url": "https://www.hollywoodintoto.com/focker-in-law-review-stiller-deniro-grande/?utm_source=rss&utm_medium=rss&utm_campaign=focker-in-law-review-stiller-deniro-grande",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-24T17:06:02+00:00",
+        "confidence": "medium",
+        "critic": "George & Josh Bate",
+        "outlet": "The Hollywood Files",
+        "rating": "6/10",
+        "summary": "Nostalgia-heavy legacy sequel with flat jokes, but Grande and De Niro shine and its emotional heart makes it a worthwhile return.",
+        "url": "https://theholofiles.com/2026/11/24/review-focker-in-law/",
+        "verdict": "fresh"
       }
     ],
     "godzilla minus zero|": [
@@ -1101,7 +1111,7 @@
         "critic": "",
         "outlet": "Empire",
         "rating": "",
-        "summary": "Staggering effects and thrilling set-pieces outweigh overcooked, clichéd drama and hammy dialogue; still the most confident vision of Godzilla.",
+        "summary": "Staggering effects and thrilling set-pieces outweigh overcooked, clich\u00e9d drama and hammy dialogue; still the most confident vision of Godzilla.",
         "url": "https://www.empireonline.com/movies/reviews/godzilla-minus-zero/",
         "verdict": "fresh"
       },
@@ -1221,7 +1231,7 @@
         "critic": "",
         "outlet": "Espinof",
         "rating": "",
-        "summary": "Spectacular, best-ever kaiju action can't make up for an insipid, repetitive, over-explained script and clichéd characters that drag the film down.",
+        "summary": "Spectacular, best-ever kaiju action can't make up for an insipid, repetitive, over-explained script and clich\u00e9d characters that drag the film down.",
         "url": "https://www.espinof.com/criticas/godzilla-minus-zero-tiene-escenas-kaijus-espectaculares-historia-cine-ojala-no-estuvieran-rodeadas-unos-personajes-insipidos-guion-repetitivo",
         "verdict": "rotten"
       },
@@ -1238,7 +1248,7 @@
       {
         "at": "2026-11-04T04:34:45+00:00",
         "confidence": "high",
-        "critic": "Sebastián Zavala Kahn",
+        "critic": "Sebasti\u00e1n Zavala Kahn",
         "outlet": "Me Gusta El Cine",
         "rating": "",
         "summary": "An epic, emotionally moving anti-war sequel with stunning IMAX visuals, only slightly more scattered than Minus One.",
@@ -1249,7 +1259,7 @@
         "at": "2026-11-04T11:38:51+00:00",
         "confidence": "high",
         "critic": "",
-        "outlet": "Cinemanía (20minutos)",
+        "outlet": "Cineman\u00eda (20minutos)",
         "rating": "",
         "summary": "Despite noted nationalist concerns, Yamazaki's technical mastery and balance of monsters and humans make it among the year's best-shot blockbusters.",
         "url": "https://www.20minutos.es/cinemania/criticas/critica-godzilla-minus-zero-blockbuster-mejor-rodado-ano_7056270_3.html",
@@ -1319,7 +1329,7 @@
         "at": "2026-11-04T23:47:10+00:00",
         "confidence": "medium",
         "critic": "Leandro Porcelli",
-        "outlet": "Cinéfilo Serial",
+        "outlet": "Cin\u00e9filo Serial",
         "rating": "",
         "summary": "Less emotionally gripping than Minus One, but spectacular kaiju sequences and powerful moments make it a valuable, moving sequel.",
         "url": "https://cinefiloserial.com.ar/critica-de-godzilla-minus-zero-de-takashi-yamazaki-2026/",
@@ -1339,7 +1349,7 @@
         "at": "2026-11-05T03:33:16+00:00",
         "confidence": "high",
         "critic": "",
-        "outlet": "La Nación",
+        "outlet": "La Naci\u00f3n",
         "rating": "Muy buena",
         "summary": "An imposing, more ambitious sequel that keeps the original's human dimension and tragic intensity, despite occasionally visible digital seams.",
         "url": "https://www.lanacion.com.ar/espectaculos/cine/godzilla-minus-zero-es-una-imponente-secuela-que-mantiene-intacta-la-dimension-humana-del-original-nid05112026/",
@@ -1411,7 +1421,7 @@
         "critic": "Mark Dujsik",
         "outlet": "Mark Reviews Movies",
         "rating": "",
-        "summary": "A disappointing, less humanist sequel with clichéd human roles, but its monster battle spectacle is genuinely entertaining and matches the original.",
+        "summary": "A disappointing, less humanist sequel with clich\u00e9d human roles, but its monster battle spectacle is genuinely entertaining and matches the original.",
         "url": "http://www.markreviewsmovies.com/reviews/G/godzillaminuszero.htm",
         "verdict": "fresh"
       },
@@ -1479,7 +1489,7 @@
         "at": "2026-11-06T06:24:36+00:00",
         "confidence": "high",
         "critic": "",
-        "outlet": "El País",
+        "outlet": "El Pa\u00eds",
         "rating": "",
         "summary": "Repetitive, nostalgia-embalmed sequel whose brief monster duel is overwhelmed by tedious, emotionless human drama despite some good visual moments.",
         "url": "https://elpais.com/cultura/cine/2026-11-06/godzilla-minus-zero-nostalgia-kaiju-embalsamada.html",
@@ -1696,6 +1706,196 @@
         "summary": "'Hexed' Casts an Irresistible Spell (fresh per Jonathan).",
         "url": "https://insessionfilm.com/movie-review-hexed/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-24T17:05:06+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "Variety",
+        "rating": "",
+        "summary": "Cheery and kid-friendly, but derivative, risk-averse and formulaic, with Walton Goggins' cat the only pleasingly unexpected element.",
+        "url": "https://variety.com/2026/film/reviews/hexed-review-1236956898/",
+        "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-24T17:05:08+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "Silver Screen Riot",
+        "rating": "C",
+        "summary": "A sharp mother-daughter idea is buried under frenetic trailer-like editing, obnoxious pop songs, and self-aware winking; it lacks Disney's heart.",
+        "url": "https://silverscreenriot.com/hexed-review/",
+        "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-24T17:05:11+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Polygon",
+        "rating": "",
+        "summary": "Pretty visuals can't save an incoherent, reference-heavy plot that squanders its dark emotional core about mothers and daughters.",
+        "url": "https://www.polygon.com/disney-hexed-review/",
+        "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-24T17:05:13+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "ScreenAnarchy",
+        "rating": "",
+        "summary": "Despite familiar elements and overused pop songs, strong characters, Goggins' scene-stealing Beef, and imaginative visuals make it charming and worthwhile.",
+        "url": "https://screenanarchy.com/2026/11/disneys-hexed-review-magical-somewhat-familiar-adventure-recaptures-classic-disney-charm.html",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-24T17:05:16+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Movie Cricket",
+        "rating": "3.5/4",
+        "summary": "Breezy pacing and plentiful jokes weave familiar Disney elements into something fresh, vibrant, and fun for families.",
+        "url": "https://moviecricket.net/blog/2026/11/24/review-hexed-sents-a-rebel-teen-and-her-anxious-mom-into-a-world-of-witches-and-nicely-recycles-its-share-of-disney-magic",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-24T17:05:20+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "The Hollywood Reporter",
+        "rating": "",
+        "summary": "Shopworn, predictable story, but the dazzling world-building and colorful supporting cast make it a pleasurably transportive family outing.",
+        "url": "https://www.hollywoodreporter.com/movies/movie-reviews/hexed-review-hailee-steinfeld-rashida-jones-disney-1236761588/",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-24T17:05:22+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "Deadline",
+        "rating": "",
+        "summary": "An engaging, edgy, mostly entertaining fantasy with a great voice cast, though overly derivative of Wicked and short on inspiration.",
+        "url": "https://deadline.com/2026/11/hexed-review-disney-fawn-veerasunthorn-jason-hand-1237232517/",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-24T17:05:27+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Slant Magazine",
+        "rating": "",
+        "summary": "Formulaic corporate product with hazy characterizations, limp world-building, and frantic pacing that undercuts its pleasing visuals.",
+        "url": "https://www.slantmagazine.com/film/hexed-review-disney/",
+        "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-24T17:05:30+00:00",
+        "confidence": "medium",
+        "critic": "Jacob Oller",
+        "outlet": "The A.V. Club",
+        "rating": "",
+        "summary": "Eye-catching animation and imaginative world-building can't rescue a forgettable, overstuffed trauma plot that's original in name only.",
+        "url": "https://www.avclub.com/hexed-review-disney-witches-trauma-rashida-jones-hailee-steinfeld",
+        "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-24T17:05:32+00:00",
+        "confidence": "medium",
+        "critic": "Odie Henderson",
+        "outlet": "The Boston Globe",
+        "rating": "3/4",
+        "summary": "Familiar, derivative story, but delightful character design and excellent voice work, especially Foster and Goggins, earn a marginal recommendation.",
+        "url": "https://www.bostonglobe.com/2026/11/24/arts/disney-hexed/",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-24T17:05:35+00:00",
+        "confidence": "low",
+        "critic": "",
+        "outlet": "Empire",
+        "rating": "",
+        "summary": "Colourful, good-natured and heartfelt in its mother-daughter story, though an overworked therapy metaphor muddles the story and weakens the final act.",
+        "url": "https://www.empireonline.com/movies/reviews/hexed/",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-24T17:05:37+00:00",
+        "confidence": "high",
+        "critic": "Taylor Gates",
+        "outlet": "Collider",
+        "rating": "",
+        "summary": "Strong voice performances, a sophisticated mother-daughter story and an immersive world outweigh frenetic camerawork and a convoluted climax.",
+        "url": "https://collider.com/hexed-review-disney-hailee-steinfeld-jodie-foster/",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-24T17:05:39+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Screen Rant",
+        "rating": "",
+        "summary": "Stunning animation, a standout Goggins, and a touching mother-daughter story outweigh a forgettable villain, rushed pacing, and awkward needle drops.",
+        "url": "https://screenrant.com/hexed-movie-review/",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-24T17:05:46+00:00",
+        "confidence": "medium",
+        "critic": "Tara Bennett",
+        "outlet": "IGN",
+        "rating": "6/10",
+        "summary": "Attractive production design and a fun Walton Goggins can't save a derivative, muddled, loud story that's underwhelming and unoriginal.",
+        "url": "https://www.ign.com/articles/hexed-review-disney-movie",
+        "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-24T17:05:51+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "/Film",
+        "rating": "6/10",
+        "summary": "A safe, predictable script, but dazzling visuals, killer world-building, and a strong mother-daughter core make it a solid family outing.",
+        "url": "https://www.slashfilm.com/2324904/hexed-disney-movie-review/",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-24T17:05:54+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Next Best Picture",
+        "rating": "",
+        "summary": "Familiar chosen-one story, but energetic world-building, strong voice cast, and an emotional mother-daughter tale make it a pleasant surprise.",
+        "url": "https://nextbestpicture.com/disneys-hexed/",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-24T17:05:57+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "ComingSoon.net",
+        "rating": "7/10",
+        "summary": "Charming, colorful fantasy with a likable cast and sweet mother-daughter core, despite a forgettable villain, convenient plotting, and uneven pacing.",
+        "url": "https://www.comingsoon.net/movies/reviews/2229937-hexed-review-hailee-steinfelds-bewitching-disney-movie",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-24T17:05:59+00:00",
+        "confidence": "high",
+        "critic": "Phil Roberts",
+        "outlet": "The Future of the Force",
+        "rating": "",
+        "summary": "A wickedly good time with stunning visuals, a glorious score, strong voice cast and heartfelt mother-daughter story, despite a formulaic finale.",
+        "url": "https://thefutureoftheforce.com/2026/11/24/review-disneys-hexed-2026/",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-24T17:06:05+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "MovieWeb",
+        "rating": "",
+        "summary": "A heartfelt mother-daughter story, lovely animation, a strong score and Walton Goggins outweigh uneven humor, obvious needle drops and forgettable voice work.",
+        "url": "https://movieweb.com/hexed-review/",
+        "verdict": "fresh"
       }
     ],
     "how to rob a bank|2026": [
@@ -1815,7 +2015,7 @@
         "critic": "Kristy Puchko",
         "outlet": "Mashable",
         "rating": "",
-        "summary": "Shallow, cliché characters, half-hearted class politics, and underwhelming action make this a toothless, gutless bank robbery knockoff.",
+        "summary": "Shallow, clich\u00e9 characters, half-hearted class politics, and underwhelming action make this a toothless, gutless bank robbery knockoff.",
         "url": "https://mashable.com/entertainment/how-to-rob-a-bank-review",
         "verdict": "rotten"
       },
@@ -1955,7 +2155,7 @@
         "critic": "",
         "outlet": "High On Films",
         "rating": "",
-        "summary": "Surprisingly sincere anti-capitalist spirit and Leitch's welcome restraint outweigh thin characterization and sanitized, toothless commentary—a 'moderate feat.'",
+        "summary": "Surprisingly sincere anti-capitalist spirit and Leitch's welcome restraint outweigh thin characterization and sanitized, toothless commentary\u2014a 'moderate feat.'",
         "url": "https://www.highonfilms.com/how-to-rob-a-bank-2026-movie-review/",
         "verdict": "fresh"
       },
@@ -2724,7 +2924,7 @@
       {
         "at": "2026-11-15T13:28:20+00:00",
         "confidence": "high",
-        "critic": "Alejandro Alemán",
+        "critic": "Alejandro Alem\u00e1n",
         "outlet": "El Universal",
         "rating": "",
         "summary": "A formidable, funny ode to New Hollywood persistence, anchored by Anthony Ippolito's charismatic, uncanny Stallone performance and a well-structured script.",
@@ -2785,7 +2985,7 @@
         "at": "2026-11-17T19:29:24+00:00",
         "confidence": "low",
         "critic": "",
-        "outlet": "Rolling Stone en Español",
+        "outlet": "Rolling Stone en Espa\u00f1ol",
         "rating": "",
         "summary": "Praised as a biopic reviving 1970s cinematic audacity through a story of artistic faith and stubborn struggle to make Rocky.",
         "url": "https://es.rollingstone.com/critica-yo-soy-rocky-i-play-rocky/",
@@ -2929,7 +3129,7 @@
         "critic": "Owen Gleiberman",
         "outlet": "Variety",
         "rating": "",
-        "summary": "An overstuffed, corporate mash-up of blockbuster clichés that abandons Seuss's spirit; hectic, overcrowded and underfelt, with a too-safe Hader Cat.",
+        "summary": "An overstuffed, corporate mash-up of blockbuster clich\u00e9s that abandons Seuss's spirit; hectic, overcrowded and underfelt, with a too-safe Hader Cat.",
         "url": "https://variety.com/2026/film/reviews/the-cat-in-the-hat-review-bill-hader-1236937564/",
         "verdict": "rotten"
       },
@@ -3037,7 +3237,7 @@
         "at": "2026-11-04T22:27:36+00:00",
         "confidence": "high",
         "critic": "",
-        "outlet": "El Nuevo Día",
+        "outlet": "El Nuevo D\u00eda",
         "rating": "",
         "summary": "Despite gorgeous animation and fine voice cast, the convoluted, overstuffed MCU-style plot loses the book's charm and has a muddled message.",
         "url": "https://www.elnuevodia.com/entretenimiento/peliculas-series/notas/the-cat-in-the-hat-eleva-el-nivel-de-tension-al-punto-que-el-universo-podria-desaparecer/",
@@ -3721,7 +3921,7 @@
         "critic": "Scott Tobias",
         "outlet": "The Reveal",
         "rating": "",
-        "summary": "A minor but vivid pulp noir thriller; Fincher gives Tarantino's script breathing room, with an agreeably nasty climax—'And that's fine.'",
+        "summary": "A minor but vivid pulp noir thriller; Fincher gives Tarantino's script breathing room, with an agreeably nasty climax\u2014'And that's fine.'",
         "url": "https://thereveal.film/in-review-the-further-mis-adventures-of-cliff-booth-paper-tiger/",
         "verdict": "fresh"
       },
@@ -3791,7 +3991,7 @@
         "at": "2026-11-17T14:04:53+00:00",
         "confidence": "high",
         "critic": "",
-        "outlet": "20minutos (Cinemanía)",
+        "outlet": "20minutos (Cineman\u00eda)",
         "rating": "",
         "summary": "Best of the saga since Catching Fire, with a devastating Joseph Zada performance, striking visuals and a story that stands on its own.",
         "url": "https://www.20minutos.es/cinemania/criticas/critica-juegos-hambre-amanecer-cosecha-mejor-pelicula-llamas-joseph-zada-mckenna-grace_7056700_0.html",
@@ -4071,7 +4271,7 @@
         "at": "2026-11-17T14:59:54+00:00",
         "confidence": "low",
         "critic": "",
-        "outlet": "Algo Más Que Cine",
+        "outlet": "Algo M\u00e1s Que Cine",
         "rating": "3/5",
         "summary": "Entertaining, visually striking prequel with strong performances, but too reliant on nostalgia and lacking Haymitch's emotional depth.",
         "url": "https://algomasquecine.com/los-juegos-del-hambre-amanecer-en-la-cosecha-una-tragedia-atrapada-en-su-propio-pasado/",
@@ -4301,7 +4501,7 @@
         "at": "2026-11-19T03:17:08+00:00",
         "confidence": "low",
         "critic": "",
-        "outlet": "La Nación",
+        "outlet": "La Naci\u00f3n",
         "rating": "Buena",
         "summary": "Good cast and careful world-building, but corny dialogue and uncaptivating games action; overall rated 'Buena' (good).",
         "url": "https://www.lanacion.com.ar/espectaculos/los-juegos-del-hambre-amanecer-en-la-cosecha-una-precuela-con-buenos-actores-y-una-cuidada-nid19112026/",
@@ -4321,7 +4521,7 @@
         "at": "2026-11-19T09:29:21+00:00",
         "confidence": "medium",
         "critic": "",
-        "outlet": "Clarín",
+        "outlet": "Clar\u00edn",
         "rating": "Buena",
         "summary": "Entertaining and effective thanks to Haymitch and Maysilee, with a strong cast; overlong with unremarkable fights, but won't disappoint fans.",
         "url": "https://www.clarin.com/espectaculos/juegos-hambre-amanecer-cosecha-da-vuelta-tuerca-reality-distopico-juvenil_0_TFfB1prcrc.html",
@@ -4391,7 +4591,7 @@
         "at": "2026-11-19T19:29:28+00:00",
         "confidence": "medium",
         "critic": "",
-        "outlet": "Rolling Stone en Español",
+        "outlet": "Rolling Stone en Espa\u00f1ol",
         "rating": "",
         "summary": "An ambitious, cruel, surprisingly thrilling and moving prequel that proves the saga's continued relevance.",
         "url": "https://es.rollingstone.com/critica-los-juegos-del-hambre-amanecer-en-la-cosecha-the-hunger-games-sunrise-on-the-reaping/",
@@ -4690,7 +4890,7 @@
       {
         "at": "2026-11-21T23:45:43+00:00",
         "confidence": "medium",
-        "critic": "Sebastián Zavala Kahn",
+        "critic": "Sebasti\u00e1n Zavala Kahn",
         "outlet": "Me Gusta El Cine",
         "rating": "",
         "summary": "Messy, overlong and uneven in performances despite strong leads; one of the saga's weakest entries, leaving casual viewers indifferent.",
@@ -4721,7 +4921,7 @@
         "at": "2026-11-23T04:29:08+00:00",
         "confidence": "low",
         "critic": "Samantha Schuster",
-        "outlet": "Cinéfilo Serial",
+        "outlet": "Cin\u00e9filo Serial",
         "rating": "",
         "summary": "Strong visuals, well-chosen cast, dynamic pace and political angle make it entertaining, though its familiar structure brings little new to the saga.",
         "url": "https://cinefiloserial.com.ar/critica-de-los-juegos-del-hambre-amanecer-en-la-cosecha-de-francis-lawrence-2026/",
@@ -5109,7 +5309,7 @@
         "critic": "",
         "outlet": "IndieWire",
         "rating": "",
-        "summary": "Though the premise feels stretched and the ensemble underserved, Colman and Skarsgård are irresistibly weird and wonderful, backed by crisp visuals.",
+        "summary": "Though the premise feels stretched and the ensemble underserved, Colman and Skarsg\u00e5rd are irresistibly weird and wonderful, backed by crisp visuals.",
         "url": "https://www.indiewire.com/criticism/movies/wicker-review-olivia-colman-alexander-skarsgard-1235175039/",
         "verdict": "fresh"
       },
@@ -5169,7 +5369,7 @@
         "critic": "",
         "outlet": "Riot US",
         "rating": "B++",
-        "summary": "A smart, witty, feminist fairytale with a tender love story and excellent performances, especially from Colman and Skarsgård.",
+        "summary": "A smart, witty, feminist fairytale with a tender love story and excellent performances, especially from Colman and Skarsg\u00e5rd.",
         "url": "https://riot-us.com/2026/10/20/wicker-review-a-fable-about-dangerous-love/",
         "verdict": "fresh"
       },
@@ -5189,7 +5389,7 @@
         "critic": "",
         "outlet": "Sunshine State Cineplex",
         "rating": "",
-        "summary": "Praises Colman and Skarsgård's performances, deft tonal balance, and extraordinary craftwork; calls it the critic's favorite film of Sundance 2026.",
+        "summary": "Praises Colman and Skarsg\u00e5rd's performances, deft tonal balance, and extraordinary craftwork; calls it the critic's favorite film of Sundance 2026.",
         "url": "https://sunshinestatecineplex.com/2026/02/11/sundance-wicker-2026/",
         "verdict": "fresh"
       },
@@ -5209,7 +5409,7 @@
         "critic": "",
         "outlet": "The Times-Herald",
         "rating": "",
-        "summary": "A sexy, affecting adult fairy tale with excellent Colman and Skarsgård performances and remarkable practical effects; unusual and rewarding.",
+        "summary": "A sexy, affecting adult fairy tale with excellent Colman and Skarsg\u00e5rd performances and remarkable practical effects; unusual and rewarding.",
         "url": "https://www.times-herald.com/arts_and_community/reviews/wicker/article_b34dfd06-ebde-4095-af96-108b39bc2a87.html",
         "verdict": "fresh"
       },
@@ -5219,7 +5419,7 @@
         "critic": "Neil Pond",
         "outlet": "Neil's Entertainment Picks",
         "rating": "",
-        "summary": "A delightful, bawdy, poetic fairytale fable with Colman's masterful performance and Skarsgård sensational as the wicker man.",
+        "summary": "A delightful, bawdy, poetic fairytale fable with Colman's masterful performance and Skarsg\u00e5rd sensational as the wicker man.",
         "url": "https://neilsentertainmentpicks.com/2026/10/20/movie-review-wicker/",
         "verdict": "fresh"
       },
@@ -5229,7 +5429,7 @@
         "critic": "",
         "outlet": "Spectrum Culture",
         "rating": "82%",
-        "summary": "Wildly original, hilarious fairy-tale fable with superb performances from Colman and Skarsgård, stunning practical effects, and sharp social satire.",
+        "summary": "Wildly original, hilarious fairy-tale fable with superb performances from Colman and Skarsg\u00e5rd, stunning practical effects, and sharp social satire.",
         "url": "https://spectrumculture.com/2026/10/22/wicker/",
         "verdict": "fresh"
       },
@@ -5289,7 +5489,7 @@
         "critic": "Peter Travers",
         "outlet": "The Travers Take",
         "rating": "3/4",
-        "summary": "Colman and Skarsgård bring genuine humor and heart to a wonderfully weird, beautifully shot fable with extravagant empathy and magic.",
+        "summary": "Colman and Skarsg\u00e5rd bring genuine humor and heart to a wonderfully weird, beautifully shot fable with extravagant empathy and magic.",
         "url": "https://www.thetraverstake.com/featured/wicker/",
         "verdict": "fresh"
       },
@@ -5309,7 +5509,7 @@
         "critic": "",
         "outlet": "ScreenAnarchy",
         "rating": "",
-        "summary": "A masterfully handled, witty satirical fairy tale with magical performances from Colman and Skarsgård and an excellent supporting cast.",
+        "summary": "A masterfully handled, witty satirical fairy tale with magical performances from Colman and Skarsg\u00e5rd and an excellent supporting cast.",
         "url": "https://screenanarchy.com/2026/10/wicker-review-witty-modern-fairy-tale-hits-the-spot.html",
         "verdict": "fresh"
       },
@@ -5359,7 +5559,7 @@
         "critic": "",
         "outlet": "Vulture",
         "rating": "",
-        "summary": "Colman and Skarsgård charm and the romance is wonderful, but the rushed, moralistic back half squanders the film's potential.",
+        "summary": "Colman and Skarsg\u00e5rd charm and the romance is wonderful, but the rushed, moralistic back half squanders the film's potential.",
         "url": "https://www.vulture.com/article/wicker-movie-review-olivia-colman-wood.html",
         "verdict": "rotten"
       },
@@ -5369,7 +5569,7 @@
         "critic": "",
         "outlet": "Slant Magazine",
         "rating": "",
-        "summary": "The critic appreciates how the bawdy adult fable brings childlike sincerity to its mature themes, with Skarsgård a sturdy presence.",
+        "summary": "The critic appreciates how the bawdy adult fable brings childlike sincerity to its mature themes, with Skarsg\u00e5rd a sturdy presence.",
         "url": "https://www.slantmagazine.com/film/wicker-review-olivia-colman-alexander-skarsgard/",
         "verdict": "fresh"
       },
@@ -5379,7 +5579,7 @@
         "critic": "",
         "outlet": "The A.V. Club",
         "rating": "",
-        "summary": "A darkly funny, surprisingly moving adult fairy tale with an effervescent Colman, devoted Skarsgård, and disarming handling of insecurity.",
+        "summary": "A darkly funny, surprisingly moving adult fairy tale with an effervescent Colman, devoted Skarsg\u00e5rd, and disarming handling of insecurity.",
         "url": "https://www.avclub.com/wicker-review-olivia-colman-alexander-skarsgard-romance",
         "verdict": "fresh"
       },
@@ -5449,7 +5649,7 @@
         "critic": "",
         "outlet": "Should I See It?",
         "rating": "",
-        "summary": "Colman and a wicker Skarsgård share wonderful chemistry in a beautifully crafted, hilarious, thoughtful fable, despite a forced late conflict.",
+        "summary": "Colman and a wicker Skarsg\u00e5rd share wonderful chemistry in a beautifully crafted, hilarious, thoughtful fable, despite a forced late conflict.",
         "url": "https://www.shouldiseeit.net/reviews/2026/wicker-2026",
         "verdict": "fresh"
       },
@@ -5459,7 +5659,7 @@
         "critic": "",
         "outlet": "Beyond the Cinerama Dome",
         "rating": "",
-        "summary": "A beautifully constructed fable with committed, delightfully strange performances from Colman and Skarsgård, gorgeous design, and a heartfelt message about mutual love.",
+        "summary": "A beautifully constructed fable with committed, delightfully strange performances from Colman and Skarsg\u00e5rd, gorgeous design, and a heartfelt message about mutual love.",
         "url": "https://beyondthecineramadome.com/movie-reviews/wicker-film-review",
         "verdict": "fresh"
       },
@@ -5479,7 +5679,7 @@
         "critic": "",
         "outlet": "Little White Lies",
         "rating": "",
-        "summary": "Entertaining, saucy fable elevated by Colman and Skarsgård's committed performances and impressive Wētā practical effects, despite one-note humour.",
+        "summary": "Entertaining, saucy fable elevated by Colman and Skarsg\u00e5rd's committed performances and impressive W\u0113t\u0101 practical effects, despite one-note humour.",
         "url": "https://www.lwlies.com/reviews/wicker",
         "verdict": "fresh"
       },
@@ -5557,7 +5757,7 @@
         "at": "2026-10-30T04:52:59+00:00",
         "confidence": "medium",
         "critic": "",
-        "outlet": "El País",
+        "outlet": "El Pa\u00eds",
         "rating": "",
         "summary": "Headline calls the film a muddled mess of necessary feminism, sociology, and cheap sexuality, signaling a negative take.",
         "url": "https://elpais.com/cultura/cine/2026-10-30/wicker-una-empanada-de-necesario-feminismo-sociologia-y-sexualidad-de-tres-al-cuarto.html",
@@ -5589,7 +5789,7 @@
         "critic": "",
         "outlet": "The Independent",
         "rating": "",
-        "summary": "A sweet, bawdy comedy with astounding practical effects bringing Alexander Skarsgård's kindly wicker hunk to life.",
+        "summary": "A sweet, bawdy comedy with astounding practical effects bringing Alexander Skarsg\u00e5rd's kindly wicker hunk to life.",
         "url": "https://www.the-independent.com/arts-entertainment/films/reviews/wicker-review-olivia-colman-b3074828.html",
         "verdict": "fresh"
       },
@@ -5599,7 +5799,7 @@
         "critic": "",
         "outlet": "Film Feeder",
         "rating": "",
-        "summary": "A delightful, funny fairy-tale romcom with superb makeup effects, a witty farcical script, and a heartwarming central romance between Colman and Skarsgård.",
+        "summary": "A delightful, funny fairy-tale romcom with superb makeup effects, a witty farcical script, and a heartwarming central romance between Colman and Skarsg\u00e5rd.",
         "url": "https://filmfeeder.co.uk/film-reviews/wicker-dirs-alex-huston-fischer-and-eleanor-wilson?utm_source=rss&utm_medium=rss&utm_campaign=wicker-dirs-alex-huston-fischer-and-eleanor-wilson",
         "verdict": "fresh"
       },
@@ -5619,7 +5819,7 @@
         "critic": "",
         "outlet": "Empire",
         "rating": "",
-        "summary": "A smart, beautifully woven fairy-tale love story with a perfectly cast Skarsgård and delicate Colman, despite uneven pacing and tone.",
+        "summary": "A smart, beautifully woven fairy-tale love story with a perfectly cast Skarsg\u00e5rd and delicate Colman, despite uneven pacing and tone.",
         "url": "https://www.empireonline.com/movies/reviews/wicker/",
         "verdict": "fresh"
       },
@@ -5659,7 +5859,7 @@
         "critic": "",
         "outlet": "The Federal",
         "rating": "",
-        "summary": "A charming, witty fable elevated by Colman and Skarsgård's chemistry, though its feather-light touch slightly blunts emotional highs.",
+        "summary": "A charming, witty fable elevated by Colman and Skarsg\u00e5rd's chemistry, though its feather-light touch slightly blunts emotional highs.",
         "url": "https://thefederal.com/film-reviews/wicker-movie-review-olivia-colman-alexander-akarsgrd-261315",
         "verdict": "fresh"
       },
@@ -5669,7 +5869,7 @@
         "critic": "",
         "outlet": "Polygon",
         "rating": "",
-        "summary": "A sly, ribald feminist fable elevated by Skarsgård's tender performance, amazing creature effects, and a skilled comic cast, despite simplistic satire.",
+        "summary": "A sly, ribald feminist fable elevated by Skarsg\u00e5rd's tender performance, amazing creature effects, and a skilled comic cast, despite simplistic satire.",
         "url": "https://www.polygon.com/wicker-review/",
         "verdict": "fresh"
       },
@@ -5689,7 +5889,7 @@
         "critic": "",
         "outlet": "Deccan Herald",
         "rating": "",
-        "summary": "Praises excellent performances by Colman, Skarsgård and Dinklage, sharp thematic commentary, ominous score and impeccable art direction in a refreshing fairy tale.",
+        "summary": "Praises excellent performances by Colman, Skarsg\u00e5rd and Dinklage, sharp thematic commentary, ominous score and impeccable art direction in a refreshing fairy tale.",
         "url": "https://www.deccanherald.com/entertainment/wicker-movie-review-quaint-sincere-unconventional-4201556",
         "verdict": "fresh"
       },
@@ -5699,7 +5899,7 @@
         "critic": "",
         "outlet": "Hipertextual",
         "rating": "",
-        "summary": "Praises Wicker as an original, moving erotic fable with superb Colman–Skarsgård chemistry and stunning practical visuals.",
+        "summary": "Praises Wicker as an original, moving erotic fable with superb Colman\u2013Skarsg\u00e5rd chemistry and stunning practical visuals.",
         "url": "https://hipertextual.com/cine-television/3-razones-para-ver-wicker-la-comedia-erotica-mas-loca-del-ano-que-causa-furor/",
         "verdict": "fresh"
       }
@@ -6121,7 +6321,7 @@
         "critic": "",
         "outlet": "Third Coast Review",
         "rating": "",
-        "summary": "A witty, twisty spy comedy with top-form Malkovich-Rockwell banter, a scene-stealing Buscemi, and unexpected heart—a total treat.",
+        "summary": "A witty, twisty spy comedy with top-form Malkovich-Rockwell banter, a scene-stealing Buscemi, and unexpected heart\u2014a total treat.",
         "url": "https://thirdcoastreview.com/film-tv/2026/11/06/review-wild-horse-nine",
         "verdict": "fresh"
       },
@@ -6228,7 +6428,7 @@
       {
         "at": "2026-11-07T13:33:27+00:00",
         "confidence": "medium",
-        "critic": "Alejandro Alemán",
+        "critic": "Alejandro Alem\u00e1n",
         "outlet": "El Universal",
         "rating": "",
         "summary": "Witty dialogue and brilliant Malkovich-Rockwell chemistry win out despite feeling like an In Bruges remake and troubling moral ambiguity.",
@@ -7134,6 +7334,11 @@
       "at": "2026-11-24T12:30:28+00:00",
       "status": "not_review"
     },
+    "focker in law|2026|https://theholofiles.com/2026/11/24/review-focker-in-law/": {
+      "at": "2026-11-24T17:06:02+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "focker in law|2026|https://theplaylist.net/focker-in-law-review-ariana-grande-20261123/": {
       "at": "2026-11-23T17:22:52+00:00",
       "status": "review",
@@ -7203,6 +7408,10 @@
       "at": "2026-11-24T16:29:12+00:00",
       "status": "review",
       "verdict": "rotten"
+    },
+    "focker in law|2026|https://www.hollywoodreporter.com/movies/movie-news/focker-in-law-movie-director-ariana-grande-ben-stiller-plot-1236760299/": {
+      "at": "2026-11-24T17:05:18+00:00",
+      "status": "not_review"
     },
     "focker in law|2026|https://www.hollywoodreporter.com/movies/movie-reviews/focker-in-law-review-ariana-grande-robert-de-niro-1236760021/": {
       "at": "2026-11-23T17:22:34+00:00",
@@ -8034,12 +8243,50 @@
       "at": "2026-11-24T14:29:11+00:00",
       "status": "not_review"
     },
+    "hexed|2026|https://collider.com/hexed-review-disney-hailee-steinfeld-jodie-foster/": {
+      "at": "2026-11-24T17:05:37+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "hexed|2026|https://deadline.com/2026/11/hailee-steinfeld-confirms-avengers-doomsday-1237231382/": {
       "at": "2026-11-23T03:29:03+00:00",
       "status": "not_review"
     },
+    "hexed|2026|https://deadline.com/2026/11/hexed-review-disney-fawn-veerasunthorn-jason-hand-1237232517/": {
+      "at": "2026-11-24T17:05:22+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "hexed|2026|https://deadline.com/print-article/1237232517?KeepThis=1&TB_iframe=1&height=500&width=750": {
+      "at": "2026-11-24T17:05:24+00:00",
+      "status": "duplicate"
+    },
+    "hexed|2026|https://moviecricket.net/blog/2026/11/24/review-hexed-sents-a-rebel-teen-and-her-anxious-mom-into-a-world-of-witches-and-nicely-recycles-its-share-of-disney-magic": {
+      "at": "2026-11-24T17:05:16+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "hexed|2026|https://movieweb.com/hexed-review/": {
+      "at": "2026-11-24T17:06:05+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "hexed|2026|https://movieweb.com/tag/movie/hexed-2026/": {
+      "at": "2026-11-24T17:06:07+00:00",
+      "status": "not_review"
+    },
     "hexed|2026|https://news.google.com/rss/articles/CBMiWEFVX3lxTFA0YWgtQUZtbWpCNV9ZYmtEME44ZVJmSm83N3h6dGU0Z1prRWZVSU1FZnp1LThKT1FrWkxpLW1neExlXzJRLXQxdEZHOWtoMHZFZWNrNEtWc0Q?oc=5": {
       "at": "2026-11-24T16:29:22+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "hexed|2026|https://nextbestpicture.com/disneys-hexed/": {
+      "at": "2026-11-24T17:05:54+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "hexed|2026|https://screenanarchy.com/2026/11/disneys-hexed-review-magical-somewhat-familiar-adventure-recaptures-classic-disney-charm.html": {
+      "at": "2026-11-24T17:05:13+00:00",
       "status": "review",
       "verdict": "fresh"
     },
@@ -8050,6 +8297,21 @@
     "hexed|2026|https://screenrant.com/hexed-disney-chosen-one-story-redefine-jared-bush/": {
       "at": "2026-11-21T18:53:21+00:00",
       "status": "not_review"
+    },
+    "hexed|2026|https://screenrant.com/hexed-movie-review/": {
+      "at": "2026-11-24T17:05:39+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "hexed|2026|https://silverscreenriot.com/hexed-review/": {
+      "at": "2026-11-24T17:05:08+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
+    "hexed|2026|https://thefutureoftheforce.com/2026/11/24/review-disneys-hexed-2026/": {
+      "at": "2026-11-24T17:05:59+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "hexed|2026|https://theplaylist.net/avengers-doomsday-hailee-steinfeld-kate-bishop-return-20261122/": {
       "at": "2026-11-23T04:29:11+00:00",
@@ -8067,29 +8329,83 @@
       "at": "2026-11-23T02:28:58+00:00",
       "status": "not_review"
     },
+    "hexed|2026|https://variety.com/2026/film/reviews/hexed-review-1236956898/": {
+      "at": "2026-11-24T17:05:06+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
+    "hexed|2026|https://www.avclub.com/hexed-review-disney-witches-trauma-rashida-jones-hailee-steinfeld": {
+      "at": "2026-11-24T17:05:30+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
     "hexed|2026|https://www.bollywoodhungama.com/movie/hexed-english/": {
       "at": "2026-11-21T16:05:23+00:00",
       "status": "not_review"
+    },
+    "hexed|2026|https://www.bostonglobe.com/2026/11/24/arts/disney-hexed/": {
+      "at": "2026-11-24T17:05:32+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "hexed|2026|https://www.cbr.com/disney-lilo-and-scratch-hybrid-animation/": {
       "at": "2026-11-22T19:41:10+00:00",
       "status": "not_review"
     },
+    "hexed|2026|https://www.comingsoon.net/movies/reviews/2229937-hexed-review-hailee-steinfelds-bewitching-disney-movie": {
+      "at": "2026-11-24T17:05:57+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "hexed|2026|https://www.denofgeek.com/movies/why-disney-got-in-its-witchy-era-with-hexed/": {
       "at": "2026-11-24T13:29:44+00:00",
       "status": "not_review"
+    },
+    "hexed|2026|https://www.empireonline.com/movies/reviews/hexed/": {
+      "at": "2026-11-24T17:05:35+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "hexed|2026|https://www.hollywoodreporter.com/movies/movie-reviews/hexed-review-hailee-steinfeld-rashida-jones-disney-1236761588/": {
+      "at": "2026-11-24T17:05:20+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "hexed|2026|https://www.ign.com/articles/hexed-review-disney-movie": {
+      "at": "2026-11-24T17:05:46+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
+    "hexed|2026|https://www.ign.com/movies/hexed": {
+      "at": "2026-11-24T17:05:48+00:00",
+      "status": "duplicate"
     },
     "hexed|2026|https://www.independent.co.uk/arts-entertainment/films/news/jodie-foster-favorite-film-the-lion-king-b3089246.html": {
       "at": "2026-11-21T21:28:57+00:00",
       "status": "not_review"
     },
+    "hexed|2026|https://www.polygon.com/disney-hexed-review/": {
+      "at": "2026-11-24T17:05:11+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
     "hexed|2026|https://www.reelingreviews.com/reviews/hexed/": {
       "at": "2026-11-23T17:59:03+00:00",
       "status": "not_review"
     },
+    "hexed|2026|https://www.slantmagazine.com/film/hexed-review-disney/": {
+      "at": "2026-11-24T17:05:27+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
     "hexed|2026|https://www.slashfilm.com/2283918/hexed-footage-reaction-disney-casts-a-promising-spell-in-the-new-witchcraft-adventure/": {
       "at": "2026-11-21T16:05:21+00:00",
       "status": "not_review"
+    },
+    "hexed|2026|https://www.slashfilm.com/2324904/hexed-disney-movie-review/": {
+      "at": "2026-11-24T17:05:51+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "hexed|2026|https://www.smh.com.au/culture/movies/jodie-foster-enters-disney-s-dark-side-as-a-witch-with-baggage-in-hexed-20261122-p61fdj.html": {
       "at": "2026-11-21T22:27:54+00:00",
@@ -9671,6 +9987,10 @@
     },
     "the further mis adventures of cliff booth|2026|https://screenrant.com/cliff-booth-sequel-once-upon-time-hollywood-wife-death-mystery/": {
       "at": "2026-11-23T17:22:58+00:00",
+      "status": "not_review"
+    },
+    "the further mis adventures of cliff booth|2026|https://screenrant.com/david-fincher-cliff-booth-sequel-perfect-director-dark-side/": {
+      "at": "2026-11-24T17:05:42+00:00",
       "status": "not_review"
     },
     "the further mis adventures of cliff booth|2026|https://screenrant.com/everything-coming-to-netflix-december-2026/": {
