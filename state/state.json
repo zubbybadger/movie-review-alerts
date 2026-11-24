@@ -1072,6 +1072,26 @@
         "summary": "Rotten, per Jonathan (the bot only saw the headline).",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XZlpvTjREUS1YTXRwU1VFYVRQcjR4VDVpcjl4UjVXaXNzc2hVMmtkNUcwaU8tOFBGU2VfMVZqdzlIcjBsancxaTFwQ1lOUXpwMmQzcEZjQTRmdWZPOVVPQW1Ma2liU21fQTR0eFBYSTI?oc=5",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-24T16:29:04+00:00",
+        "confidence": "low",
+        "critic": "",
+        "outlet": "InReview Online",
+        "rating": "",
+        "summary": "Admits laughing often, but condemns the film as sleek, hollow 'skeletal cinema' that disregards the art and craft of storytelling.",
+        "url": "https://inreviewonline.com/2026/11/24/focker-in-law-review/",
+        "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-24T16:29:12+00:00",
+        "confidence": "high",
+        "critic": "Christian Toto",
+        "outlet": "Hollywood in Toto",
+        "rating": "2/5",
+        "summary": "All cringe and few laughs; a strong cast, especially Grande, is wasted on a stale, implausible script with no growth.",
+        "url": "https://www.hollywoodintoto.com/focker-in-law-review-stiller-deniro-grande/?utm_source=rss&utm_medium=rss&utm_campaign=focker-in-law-review-stiller-deniro-grande",
+        "verdict": "rotten"
       }
     ],
     "godzilla minus zero|": [
@@ -1663,6 +1683,18 @@
         "rating": "",
         "summary": "A rare kaiju sequel that keeps its gravity, pairing a spectacular Godzilla-Ghidorah fight with grounded human stakes and serious themes.",
         "url": "https://www.avclub.com/godzilla-minus-zero-the-only-kaiju-sequel-adds-monsters-but-stays-serious",
+        "verdict": "fresh"
+      }
+    ],
+    "hexed|2026": [
+      {
+        "at": "2026-11-24T16:29:22+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "InSession Film",
+        "rating": "",
+        "summary": "Based only on the headline, the critic found Hexed charming and irresistible.",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA0YWgtQUZtbWpCNV9ZYmtEME44ZVJmSm83N3h6dGU0Z1prRWZVSU1FZnp1LThKT1FrWkxpLW1neExlXzJRLXQxdEZHOWtoMHZFZWNrNEtWc0Q?oc=5",
         "verdict": "fresh"
       }
     ],
@@ -3671,6 +3703,36 @@
         "rating": "",
         "summary": "The critic calls it an unpleasant, embarrassing wallow through the silly power fantasies of three aging, overindulged artists.",
         "url": "https://splicedpersonality.com/2026/11/23/the-further-mis-adventures-of-cliff-booth/",
+        "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-24T16:29:02+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "InReview Online",
+        "rating": "",
+        "summary": "A breezy, pleasurable, nasty thriller-comedy; Pitt and a radiant Debicki shine, and Fincher molds his style impressively to Tarantino's script.",
+        "url": "https://inreviewonline.com/2026/11/24/the-further-mis-adventures-of-cliff-booth-review/",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-24T16:29:06+00:00",
+        "confidence": "medium",
+        "critic": "Scott Tobias",
+        "outlet": "The Reveal",
+        "rating": "",
+        "summary": "A minor but vivid pulp noir thriller; Fincher gives Tarantino's script breathing room, with an agreeably nasty climax\u2014'And that's fine.'",
+        "url": "https://thereveal.film/in-review-the-further-mis-adventures-of-cliff-booth-paper-tiger/",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-24T16:29:09+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "The Independent",
+        "rating": "",
+        "summary": "Tarantino's unfocused script and Fincher's mismatched sensibility make it a frustrating, if oddly compelling, minor curiosity that doesn't really work.",
+        "url": "https://www.the-independent.com/arts-entertainment/films/reviews/cliff-booth-review-netflix-date-brad-pitt-b3088053.html",
         "verdict": "rotten"
       }
     ],
@@ -6974,6 +7036,11 @@
       "at": "2026-11-23T17:22:37+00:00",
       "status": "duplicate"
     },
+    "focker in law|2026|https://inreviewonline.com/2026/11/24/focker-in-law-review/": {
+      "at": "2026-11-24T16:29:04+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
     "focker in law|2026|https://moviecricket.net/blog/2026/11/23/review-focker-in-law-is-a-weak-addition-to-a-played-out-comedy-franchise-with-ben-stillers-main-character-getting-more-sociopathic-by-the-minute": {
       "at": "2026-11-24T06:28:36+00:00",
       "status": "review",
@@ -7006,6 +7073,10 @@
       "at": "2026-11-23T17:59:11+00:00",
       "status": "review",
       "verdict": "rotten"
+    },
+    "focker in law|2026|https://news.google.com/rss/articles/CBMib0FVX3lxTE5HMDJUYkh4UVNyTlI3MUJwaUVLWnZMQzhvNnhuZ2d2VlNwV1cxMW1oazZYSTctU2Y3ZkZiOUthS0NHeHdibnduV09fVmptWDNxTDFNRUE5OENnTjhOMWI3WUFXc0hxS3EtaGJxSUlKTQ?oc=5": {
+      "at": "2026-11-24T16:29:20+00:00",
+      "status": "not_review"
     },
     "focker in law|2026|https://news.google.com/rss/articles/CBMicEFVX3lxTE5XZlpvTjREUS1YTXRwU1VFYVRQcjR4VDVpcjl4UjVXaXNzc2hVMmtkNUcwaU8tOFBGU2VfMVZqdzlIcjBsancxaTFwQ1lOUXpwMmQzcEZjQTRmdWZPOVVPQW1Ma2liU21fQTR0eFBYSTI?oc=5": {
       "at": "2026-11-24T14:02:36+00:00",
@@ -7123,6 +7194,15 @@
       "at": "2026-11-24T08:29:19+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "focker in law|2026|https://www.hollywoodintoto.com/focker-in-law-review-stiller-deniro-grande/": {
+      "at": "2026-11-24T16:29:14+00:00",
+      "status": "duplicate"
+    },
+    "focker in law|2026|https://www.hollywoodintoto.com/focker-in-law-review-stiller-deniro-grande/?utm_source=rss&utm_medium=rss&utm_campaign=focker-in-law-review-stiller-deniro-grande": {
+      "at": "2026-11-24T16:29:12+00:00",
+      "status": "review",
+      "verdict": "rotten"
     },
     "focker in law|2026|https://www.hollywoodreporter.com/movies/movie-reviews/focker-in-law-review-ariana-grande-robert-de-niro-1236760021/": {
       "at": "2026-11-23T17:22:34+00:00",
@@ -7957,6 +8037,11 @@
     "hexed|2026|https://deadline.com/2026/11/hailee-steinfeld-confirms-avengers-doomsday-1237231382/": {
       "at": "2026-11-23T03:29:03+00:00",
       "status": "not_review"
+    },
+    "hexed|2026|https://news.google.com/rss/articles/CBMiWEFVX3lxTFA0YWgtQUZtbWpCNV9ZYmtEME44ZVJmSm83N3h6dGU0Z1prRWZVSU1FZnp1LThKT1FrWkxpLW1neExlXzJRLXQxdEZHOWtoMHZFZWNrNEtWc0Q?oc=5": {
+      "at": "2026-11-24T16:29:22+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "hexed|2026|https://screenrant.com/disney-hexed-animated-harry-potter-movie/": {
       "at": "2026-11-24T02:29:17+00:00",
@@ -9477,6 +9562,11 @@
       "at": "2026-11-19T15:28:39+00:00",
       "status": "not_review"
     },
+    "the further mis adventures of cliff booth|2026|https://inreviewonline.com/2026/11/24/the-further-mis-adventures-of-cliff-booth-review/": {
+      "at": "2026-11-24T16:29:02+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "the further mis adventures of cliff booth|2026|https://moviecricket.net/blog/2026/11/19/review-the-further-mis-adventures-of-cliff-booth-brings-brad-pitt-back-to-his-oscar-winning-role-in-a-laidback-action-tale-thats-just-fun-to-hang-around": {
       "at": "2026-11-19T18:05:00+00:00",
       "status": "review",
@@ -9681,6 +9771,11 @@
       "at": "2026-11-19T15:28:59+00:00",
       "status": "not_review"
     },
+    "the further mis adventures of cliff booth|2026|https://thereveal.film/in-review-the-further-mis-adventures-of-cliff-booth-paper-tiger/": {
+      "at": "2026-11-24T16:29:06+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "the further mis adventures of cliff booth|2026|https://time.com/article/2026/11/19/the-further-mis-adventures-of-cliff-booth-review/": {
       "at": "2026-11-19T18:05:13+00:00",
       "status": "review",
@@ -9694,6 +9789,10 @@
       "at": "2026-11-19T18:04:42+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "the further mis adventures of cliff booth|2026|https://variety.com/2026/tv/news/david-fincher-dc-rings-of-power-1236956992/": {
+      "at": "2026-11-24T16:29:00+00:00",
+      "status": "not_review"
     },
     "the further mis adventures of cliff booth|2026|https://washingtoncitypaper.com/article/795066/the-further-mis-adventures-of-cliff-booth-is-the-darker-sinister-sequel-to-once-upon-a-time-in-hollywood/": {
       "at": "2026-11-20T15:29:03+00:00",
@@ -9734,6 +9833,10 @@
       "at": "2026-11-19T18:06:10+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "the further mis adventures of cliff booth|2026|https://www.cbr.com/video/cliff-booth-why-fincher-and-tarantino-work-so-well/": {
+      "at": "2026-11-24T16:29:24+00:00",
+      "status": "not_review"
     },
     "the further mis adventures of cliff booth|2026|https://www.comingsoon.net/movies/features/2196824-5-best-brad-pitt-movies-ranked-ahead-of-cliff-booth": {
       "at": "2026-11-24T04:29:32+00:00",
@@ -9912,6 +10015,11 @@
     "the further mis adventures of cliff booth|2026|https://www.the-independent.com/arts-entertainment/films/news/brad-pitt-cliff-booth-premiere-flu-b3089894.html": {
       "at": "2026-11-23T17:22:50+00:00",
       "status": "not_review"
+    },
+    "the further mis adventures of cliff booth|2026|https://www.the-independent.com/arts-entertainment/films/reviews/cliff-booth-review-netflix-date-brad-pitt-b3088053.html": {
+      "at": "2026-11-24T16:29:09+00:00",
+      "status": "review",
+      "verdict": "rotten"
     },
     "the further mis adventures of cliff booth|2026|https://www.theguardian.com/film/2026/nov/19/the-further-mis-adventures-of-cliff-booth-review-quentin-tarantino-david-fincher-brad-pitt": {
       "at": "2026-11-19T18:04:44+00:00",
