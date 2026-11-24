@@ -1052,6 +1052,16 @@
         "summary": "A modest, character-focused retread with strong chemistry, an engaged De Niro and a standout Ariana Grande; the franchise's first worthwhile sequel.",
         "url": "https://www.highonfilms.com/focker-in-law-2026-movie-review/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-24T13:29:42+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Den of Geek",
+        "rating": "",
+        "summary": "Despite some laughs from De Niro and a sharp Ariana Grande, Greg's unrelatable, villainous antics make the sequel a colossal miscalculation.",
+        "url": "https://www.denofgeek.com/movies/focker-in-law-review-ben-stiller/",
+        "verdict": "rotten"
       }
     ],
     "godzilla minus zero|": [
@@ -7076,6 +7086,11 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "focker in law|2026|https://www.denofgeek.com/movies/focker-in-law-review-ben-stiller/": {
+      "at": "2026-11-24T13:29:42+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
     "focker in law|2026|https://www.empireonline.com/movies/reviews/focker-in-law/": {
       "at": "2026-11-23T17:22:48+00:00",
       "status": "review",
@@ -7930,6 +7945,10 @@
     },
     "hexed|2026|https://www.cbr.com/disney-lilo-and-scratch-hybrid-animation/": {
       "at": "2026-11-22T19:41:10+00:00",
+      "status": "not_review"
+    },
+    "hexed|2026|https://www.denofgeek.com/movies/why-disney-got-in-its-witchy-era-with-hexed/": {
+      "at": "2026-11-24T13:29:44+00:00",
       "status": "not_review"
     },
     "hexed|2026|https://www.independent.co.uk/arts-entertainment/films/news/jodie-foster-favorite-film-the-lion-king-b3089246.html": {
@@ -9527,6 +9546,10 @@
     },
     "the further mis adventures of cliff booth|2026|https://screenrant.com/netflix-the-further-misadventures-of-cliff-booth-rotten-tomatoes-score-brad-pitt-david-fincher-record/": {
       "at": "2026-11-19T18:59:34+00:00",
+      "status": "not_review"
+    },
+    "the further mis adventures of cliff booth|2026|https://screenrant.com/once-upon-time-hollywood-novel-cliff-booth-story-differences/": {
+      "at": "2026-11-24T13:29:39+00:00",
       "status": "not_review"
     },
     "the further mis adventures of cliff booth|2026|https://screenrant.com/quentin-tarantino-adventures-of-cliff-booth-new-release/": {
