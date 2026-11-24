@@ -1042,6 +1042,16 @@
         "summary": "Weak, formulaic sequel with unfunny callbacks and a sociopathic lead; only Ariana Grande-Butera brings comic energy.",
         "url": "https://moviecricket.net/blog/2026/11/23/review-focker-in-law-is-a-weak-addition-to-a-played-out-comedy-franchise-with-ben-stillers-main-character-getting-more-sociopathic-by-the-minute",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-24T08:29:19+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "High On Films",
+        "rating": "",
+        "summary": "A modest, character-focused retread with strong chemistry, an engaged De Niro and a standout Ariana Grande; the franchise's first worthwhile sequel.",
+        "url": "https://www.highonfilms.com/focker-in-law-2026-movie-review/",
+        "verdict": "fresh"
       }
     ],
     "godzilla minus zero|": [
@@ -7064,6 +7074,11 @@
     },
     "focker in law|2026|https://www.empireonline.com/movies/reviews/focker-in-law/": {
       "at": "2026-11-23T17:22:48+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "focker in law|2026|https://www.highonfilms.com/focker-in-law-2026-movie-review/": {
+      "at": "2026-11-24T08:29:19+00:00",
       "status": "review",
       "verdict": "fresh"
     },
