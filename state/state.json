@@ -1162,6 +1162,16 @@
         "summary": "Dire, largely unfunny sequel wastes an all-star cast, with only one in five gags landing over 105 minutes.",
         "url": "https://www.theglobeandmail.com/culture/film-and-tv/film/article-focker-in-law-review-ben-stiller-robert-de-niro-ariana-grande/",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-24T23:28:51+00:00",
+        "confidence": "low",
+        "critic": "Louisa Moore",
+        "outlet": "Screen Zealots",
+        "rating": "",
+        "summary": "Formulaic and sporadically funny, but a serviceable, less mean-spirited franchise entry with energized De Niro and delightful Grande; an acceptable trip to the movies.",
+        "url": "https://screenzealots.com/2026/11/24/focker-in-law/",
+        "verdict": "fresh"
       }
     ],
     "godzilla minus zero|": [
@@ -2105,6 +2115,16 @@
         "rating": "",
         "summary": "The critic finds that Hexed turns familiar fantasy material into a charming mother-daughter story.",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWk1LOXBIajV1WU1qeU80Z2ZwSkUwd0Z0M3ViLURJOUJLZlZ6cG00bHMyUzA2Q1hSTUUxUnJpdHZRSUVZNUVQM1RyYmpldzA5alg5VVc2TGdscWRCSkVBSkdvNU42WWRnZ0pXOWZNbHJ1QWhQdlN2YVVBY25ESDBWWVl0V2FPaEhWbHROVDRhSFgzXzl4ZGhN?oc=5",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-24T23:28:53+00:00",
+        "confidence": "low",
+        "critic": "",
+        "outlet": "TheWrap",
+        "rating": "",
+        "summary": "Only the headline is available; it suggests the critic found the mother-daughter witch story more nuanced than expected.",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWXdpMlNCN1dteDBCTnN1bnIwNWtmVUpHWmpHZ09sajllWFRZWXpqYThlNDJqRkpjZDFMdGR2Nm9mOXR3aHVHMGpoUnN6M0hERWJvR09ncHN3UmN4aHpnYWJJWE5Oc1dkbnJrSDBXWWJ4NlZGeHdxaWEzSXRmbkU1R1NQV1Q5MHl1MHBRVklIZU52Si1pazF6dmFOWVlRTnh5?oc=5",
         "verdict": "fresh"
       }
     ],
@@ -7473,6 +7493,10 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "focker in law|2026|https://boundingintocomics.com/movies/movie-news/hunger-games-set-to-top-thanksgiving-box-office-hexed-focker-in-law-chase-second": {
+      "at": "2026-11-24T23:28:47+00:00",
+      "status": "not_review"
+    },
     "focker in law|2026|https://collider.com/focker-in-law-ariana-grande-ben-stiller-robert-deniro-review/": {
       "at": "2026-11-23T22:28:45+00:00",
       "status": "review",
@@ -7624,6 +7648,11 @@
     "focker in law|2026|https://screenrant.com/robert-de-niro-snl-season-52-host-december-2026-confirmed/": {
       "at": "2026-11-23T22:28:48+00:00",
       "status": "not_review"
+    },
+    "focker in law|2026|https://screenzealots.com/2026/11/24/focker-in-law/": {
+      "at": "2026-11-24T23:28:51+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "focker in law|2026|https://thefutureoftheforce.com/2026/11/23/review-focker-in-law-2026/": {
       "at": "2026-11-23T17:23:15+00:00",
@@ -8553,6 +8582,10 @@
       "at": "2026-11-24T15:29:03+00:00",
       "status": "not_review"
     },
+    "hexed|2026|https://boundingintocomics.com/movies/movie-news/hunger-games-set-to-top-thanksgiving-box-office-hexed-focker-in-law-chase-second": {
+      "at": "2026-11-24T23:28:49+00:00",
+      "status": "not_review"
+    },
     "hexed|2026|https://collider.com/disney-hexed-screening-jared-bush-kris-bowers-q-and-a/": {
       "at": "2026-11-24T01:29:09+00:00",
       "status": "not_review"
@@ -8646,6 +8679,11 @@
     },
     "hexed|2026|https://news.google.com/rss/articles/CBMilwFBVV95cUxNWk1LOXBIajV1WU1qeU80Z2ZwSkUwd0Z0M3ViLURJOUJLZlZ6cG00bHMyUzA2Q1hSTUUxUnJpdHZRSUVZNUVQM1RyYmpldzA5alg5VVc2TGdscWRCSkVBSkdvNU42WWRnZ0pXOWZNbHJ1QWhQdlN2YVVBY25ESDBWWVl0V2FPaEhWbHROVDRhSFgzXzl4ZGhN?oc=5": {
       "at": "2026-11-24T21:29:20+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "hexed|2026|https://news.google.com/rss/articles/CBMioAFBVV95cUxPWXdpMlNCN1dteDBCTnN1bnIwNWtmVUpHWmpHZ09sajllWFRZWXpqYThlNDJqRkpjZDFMdGR2Nm9mOXR3aHVHMGpoUnN6M0hERWJvR09ncHN3UmN4aHpnYWJJWE5Oc1dkbnJrSDBXWWJ4NlZGeHdxaWEzSXRmbkU1R1NQV1Q5MHl1MHBRVklIZU52Si1pazF6dmFOWVlRTnh5?oc=5": {
+      "at": "2026-11-24T23:28:53+00:00",
       "status": "review",
       "verdict": "fresh"
     },
@@ -10357,6 +10395,10 @@
       "at": "2026-11-24T21:29:18+00:00",
       "status": "not_review"
     },
+    "the further mis adventures of cliff booth|2026|https://news.google.com/rss/articles/CBMiakFVX3lxTE1UbG9NdjlRQXJfQVdhc25XOWZ1bGdFanVuTF9aZUZaNjMwZGNaWHdlc3JTMHFDTmdIS2NYU1FXU01zekJ4T0tlTnM2UHBXUTViSnNFSnJGaGEtQWhtVVNtcGpBbHIyTmRDOUHSAW9BVV95cUxOV0UtUU5PQXdsNXNJaGU5bm1FVnZWYW1ic19RZVBMN3h1czRHRzNpeTVOcjA2SVZDSVo2bGo1U0RhcHVJTk41NEFERWJTQ1JhbWxFUjhTcVExekI1NkN3RXVQQ3pmM1BQOEZ0Mkd0Njg?oc=5": {
+      "at": "2026-11-24T23:28:57+00:00",
+      "status": "not_review"
+    },
     "the further mis adventures of cliff booth|2026|https://news.google.com/rss/articles/CBMie0FVX3lxTFBNQ25wQlY3NlpSZVZDNXdod0JfZTVsR1FLaFdIcU0ydmZnN2JobTZ5amMwN3ZHV1A4QkUyVVliSndqbGF3bWhxNm9DSF9tYl9BR3ZBRDUyMEs4SlliQlJ1R0tMVHdRTU40VDdNMGo1TWtmTnpQTlZnVlE2NNIBgAFBVV95cUxQS2lPWG43b212SVRSclFPcm5pZ2xWUjJhVnVQUTFBQVdrRzU1ZHBRVXdYZGVMWjl6ckF5ZkdzRUlBTmY3d3FBVmw1X0tpd2pTYWx5S2dHSDlpZ3lkME5lMnBzVlU2MmZ5dXdkNWhqUkk2WHlsOXRoVEhWZHJKM0hDMQ?oc=5": {
       "at": "2026-11-24T21:29:14+00:00",
       "status": "review",
@@ -10680,6 +10722,10 @@
       "at": "2026-11-20T05:29:16+00:00",
       "status": "review",
       "verdict": "rotten"
+    },
+    "the further mis adventures of cliff booth|2026|https://www.hindustantimes.com/entertainment/hollywood/tarantinofincher-collaboration-cliff-booth-came-with-pressure-and-fun-cast-say-101795561283914.html": {
+      "at": "2026-11-24T23:28:55+00:00",
+      "status": "not_review"
     },
     "the further mis adventures of cliff booth|2026|https://www.hollywoodreporter.com/gallery/hunger-games-cliff-booth-red-carpet-events-1236755440/": {
       "at": "2026-11-20T17:37:38+00:00",
