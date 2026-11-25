@@ -2346,6 +2346,16 @@
         "summary": "A chaotic, derivative production favoring frantic style over substance, with garish visuals, uninspired characters and few emotional moments.",
         "url": "https://www.kget.com/community/ricks-reviews/hexed-fails-to-cast-magical-spell/",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-25T21:29:15+00:00",
+        "confidence": "low",
+        "critic": "",
+        "outlet": "But Why Tho?",
+        "rating": "",
+        "summary": "Headline suggests the film feels underdeveloped and rushed, needing more time to come together.",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tYWdIYVFrcFFuV2tWT0Q3VmxvNnBTUFFFSVF1a2hLN0dwOVJIUUlqNFZSdXZBVjZFcVYtTVZoakJ0NDlhdFUxLXVpbGIwRG9kUmxPZmpsVzZsWHExWkY5eHNGbnNrZw?oc=5",
+        "verdict": "rotten"
       }
     ],
     "how to rob a bank|2026": [
@@ -4583,6 +4593,16 @@
         "rating": "",
         "summary": "Gorgeously shot and entertaining, but convoluted and overindulgent, and it sours Cliff Booth into a cold, remorseless character.",
         "url": "https://www.cambridgeday.com/2026/11/25/mis-adventures-of-cliff-booth/",
+        "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-25T21:29:17+00:00",
+        "confidence": "low",
+        "critic": "",
+        "outlet": "Showbiz Junkies",
+        "rating": "",
+        "summary": "Brad Pitt shines, but the critic finds the sequel overall lackluster.",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVTRqX0hhYnVsRzBodHpfaXRRWUFHc0hQeVZPZk56VXFaSThyOVlISnVHZjhqOFBVYVJSVHRZXzZPTjNwSjAxZzdsQi1CcjNoaDFYbEpWUzhMZ18zU243cmhjam9zY0V5cElVUUZQYmFDTXFLNEVrNWN6cVJiRnVXLUtWQXkxdXE4UFRJ0gGQAUFVX3lxTFBzRnVLRk5tYzNCZ3VWbml2NlB4eHcwSE92RTdtNTVScEppTjVxYjdYWGtVWW9Wd2dkLUtpTzhKR3ZTNDNhU19UQy15RnNXWk5xT1p5SHRTcFNzd3hpaGlMYkpKLW9XcUM4cFNvLUpsMWR0T0tzMUxZWHlpbHhFUng4YTVGZ0xDaGFFZmE3Zlp0Uw?oc=5",
         "verdict": "rotten"
       }
     ],
@@ -8137,6 +8157,10 @@
       "at": "2026-11-24T15:28:57+00:00",
       "status": "not_review"
     },
+    "focker in law|2026|https://variety.com/2026/film/features/focker-in-law-director-ariana-grande-casting-next-sequel-1236953332/": {
+      "at": "2026-11-25T21:29:04+00:00",
+      "status": "not_review"
+    },
     "focker in law|2026|https://variety.com/2026/film/reviews/focker-in-law-review-1236955690/": {
       "at": "2026-11-23T17:22:16+00:00",
       "status": "review",
@@ -9181,6 +9205,11 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "hexed|2026|https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tYWdIYVFrcFFuV2tWT0Q3VmxvNnBTUFFFSVF1a2hLN0dwOVJIUUlqNFZSdXZBVjZFcVYtTVZoakJ0NDlhdFUxLXVpbGIwRG9kUmxPZmpsVzZsWHExWkY5eHNGbnNrZw?oc=5": {
+      "at": "2026-11-25T21:29:15+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
     "hexed|2026|https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ROW1xMElRTUYxTG1paG93UkRHNlhvX3QwTVYxMmdic2szOGVVZUpkZ2FHcTRxVURnbDNGMG56SEpYdFZoNDkwNVVfZHl6bUJwS0lMcW5CZV9EZmZ2RmYxdHVJM1podw?oc=5": {
       "at": "2026-11-25T04:29:07+00:00",
       "status": "review",
@@ -9269,6 +9298,10 @@
     },
     "hexed|2026|https://screenrant.com/hexed-rotten-tomatoes-score-debut/": {
       "at": "2026-11-24T21:29:08+00:00",
+      "status": "not_review"
+    },
+    "hexed|2026|https://screenrant.com/video/hexed-hailee-steinfeld-jodie-foster-rashida-jones-jared-bush-interview/": {
+      "at": "2026-11-25T21:29:10+00:00",
       "status": "not_review"
     },
     "hexed|2026|https://silverscreenriot.com/hexed-review/": {
@@ -10930,6 +10963,10 @@
       "at": "2026-11-21T00:28:46+00:00",
       "status": "not_review"
     },
+    "the further mis adventures of cliff booth|2026|https://deadline.com/2026/11/indie-films-opening-thanksgiving-the-further-mis-adventures-of-cliff-booth-1237233498/": {
+      "at": "2026-11-25T21:29:08+00:00",
+      "status": "not_review"
+    },
     "the further mis adventures of cliff booth|2026|https://deadline.com/2026/11/the-further-mis-adventures-of-cliff-booth-review-brad-pitt-1237229009/": {
       "at": "2026-11-19T18:05:05+00:00",
       "status": "review",
@@ -11067,6 +11104,11 @@
       "at": "2026-11-19T15:29:11+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "the further mis adventures of cliff booth|2026|https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVTRqX0hhYnVsRzBodHpfaXRRWUFHc0hQeVZPZk56VXFaSThyOVlISnVHZjhqOFBVYVJSVHRZXzZPTjNwSjAxZzdsQi1CcjNoaDFYbEpWUzhMZ18zU243cmhjam9zY0V5cElVUUZQYmFDTXFLNEVrNWN6cVJiRnVXLUtWQXkxdXE4UFRJ0gGQAUFVX3lxTFBzRnVLRk5tYzNCZ3VWbml2NlB4eHcwSE92RTdtNTVScEppTjVxYjdYWGtVWW9Wd2dkLUtpTzhKR3ZTNDNhU19UQy15RnNXWk5xT1p5SHRTcFNzd3hpaGlMYkpKLW9XcUM4cFNvLUpsMWR0T0tzMUxZWHlpbHhFUng4YTVGZ0xDaGFFZmE3Zlp0Uw?oc=5": {
+      "at": "2026-11-25T21:29:17+00:00",
+      "status": "review",
+      "verdict": "rotten"
     },
     "the further mis adventures of cliff booth|2026|https://news.google.com/rss/articles/CBMikAFBVV95cUxNeGRrLWh2dmRRN3VsZnIxbmpHbmdyVElhVDZ5S19SeVlrUHdIZlV0aFNnanFOUmpiNXotTXhxNnlfSUVrX0ZKSm1WSWlsYmRjWHMtVGNGYlBhOE9vOVdGMVVTbEFhUGdDVzRWS0ZobmFVSGozSE9fZnU3aERzLV80RHNGc1NacGliWENKamdLa3Y?oc=5": {
       "at": "2026-11-23T19:29:14+00:00",
@@ -11360,6 +11402,10 @@
       "at": "2026-11-25T18:29:48+00:00",
       "status": "not_review"
     },
+    "the further mis adventures of cliff booth|2026|https://www.comingsoon.net/movies/news/2230863-david-fincher-brad-pitt-cliff-booth-movie-ai-heres-how": {
+      "at": "2026-11-25T21:29:13+00:00",
+      "status": "not_review"
+    },
     "the further mis adventures of cliff booth|2026|https://www.comingsoon.net/movies/reviews/2227004-the-further-mis-adventures-of-cliff-booth-review-brad-pitts-violent-movie-entertains": {
       "at": "2026-11-19T18:05:59+00:00",
       "status": "review",
@@ -11432,6 +11478,10 @@
     },
     "the further mis adventures of cliff booth|2026|https://www.hindustantimes.com/entertainment/hollywood/tarantinofincher-collaboration-cliff-booth-came-with-pressure-and-fun-cast-say-101795561283914.html": {
       "at": "2026-11-24T23:28:55+00:00",
+      "status": "not_review"
+    },
+    "the further mis adventures of cliff booth|2026|https://www.hollywoodreporter.com/business/business-news/brad-pitt-angelina-jolie-lawsuit-settlement-abuse-claims-1236763219/": {
+      "at": "2026-11-25T21:29:06+00:00",
       "status": "not_review"
     },
     "the further mis adventures of cliff booth|2026|https://www.hollywoodreporter.com/gallery/hunger-games-cliff-booth-red-carpet-events-1236755440/": {
