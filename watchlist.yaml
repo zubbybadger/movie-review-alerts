@@ -276,4 +276,4 @@ sites:
   - https://news.google.com/rss/search?q=site:pajiba.com&hl=en-US&gl=US&ceid=US:en
   # Added 2026-11-24 at Jonathan's request (WORLD magazine movies page), plus Google News in case the page blocks the bot.
   - https://wng.org/topics/culture-arts/movies
-  - https://news.google.com/rss/search?q=site:wng.org&hl=en-US&gl=US&ceid=US:en
+  - https://news.google.com/rss/search?q=site:wng.org+movie+review&hl=en-US&gl=US&ceid=US:en
