@@ -4574,6 +4574,16 @@
         "summary": "A seamless Tarantino-Fincher fusion with heart and seedy charm; despite pacing drags, the critic loved hanging out in its world.",
         "url": "https://www.moviejawn.com/home/2026/11/25/the-mis-adventures-of-cliff-booth-review",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-25T20:28:59+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "Cambridge Day",
+        "rating": "",
+        "summary": "Gorgeously shot and entertaining, but convoluted and overindulgent, and it sours Cliff Booth into a cold, remorseless character.",
+        "url": "https://www.cambridgeday.com/2026/11/25/mis-adventures-of-cliff-booth/",
+        "verdict": "rotten"
       }
     ],
     "the hunger games sunrise on the reaping|2026": [
@@ -8155,6 +8165,10 @@
       "at": "2026-11-25T00:30:04+00:00",
       "status": "not_review"
     },
+    "focker in law|2026|https://www.comingsoon.net/movies/features/2230773-top-5-ben-stiller-movies-ranked-ahead-of-focker-in-law": {
+      "at": "2026-11-25T20:29:08+00:00",
+      "status": "not_review"
+    },
     "focker in law|2026|https://www.comingsoon.net/movies/news/2229658-ariana-grande-ben-stiller-robert-de-niro-kissing-kids": {
       "at": "2026-11-23T21:29:41+00:00",
       "status": "not_review"
@@ -11142,6 +11156,10 @@
       "at": "2026-11-21T13:52:19+00:00",
       "status": "not_review"
     },
+    "the further mis adventures of cliff booth|2026|https://screenrant.com/quentin-tarantino-the-further-misadventures-of-cliff-booth-roundtable-interview-netflix/": {
+      "at": "2026-11-25T20:29:05+00:00",
+      "status": "not_review"
+    },
     "the further mis adventures of cliff booth|2026|https://screenrant.com/the-further-misadventures-of-cliff-booth-movie-review/": {
       "at": "2026-11-19T18:05:38+00:00",
       "status": "review",
@@ -11221,6 +11239,10 @@
       "at": "2026-11-25T17:29:21+00:00",
       "status": "not_review"
     },
+    "the further mis adventures of cliff booth|2026|https://theplaylist.net/david-fincher-says-brad-pitt-turned-down-his-scariest-movie-ever-the-two-may-make-an-animated-film-20261125/": {
+      "at": "2026-11-25T20:29:03+00:00",
+      "status": "not_review"
+    },
     "the further mis adventures of cliff booth|2026|https://theplaylist.net/david-leitch-confirms-oceans-14-update-20261123/": {
       "at": "2026-11-23T17:29:11+00:00",
       "status": "not_review"
@@ -11295,6 +11317,11 @@
       "at": "2026-11-23T11:29:19+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "the further mis adventures of cliff booth|2026|https://www.cambridgeday.com/2026/11/25/mis-adventures-of-cliff-booth/": {
+      "at": "2026-11-25T20:28:59+00:00",
+      "status": "review",
+      "verdict": "rotten"
     },
     "the further mis adventures of cliff booth|2026|https://www.cbr.com/david-fincher-the-further-mis-adventures-of-cliff-booth-budget/": {
       "at": "2026-11-23T21:29:42+00:00",
@@ -11413,6 +11440,10 @@
     },
     "the further mis adventures of cliff booth|2026|https://www.hollywoodreporter.com/lists/quentin-tarantino-movies-ranked-worst-best/": {
       "at": "2026-11-25T16:22:40+00:00",
+      "status": "not_review"
+    },
+    "the further mis adventures of cliff booth|2026|https://www.hollywoodreporter.com/movies/movie-features/scott-caan-cliff-booth-charlie-peters-fincher-interview-1236761216/": {
+      "at": "2026-11-25T20:29:01+00:00",
       "status": "not_review"
     },
     "the further mis adventures of cliff booth|2026|https://www.hollywoodreporter.com/movies/movie-features/yahya-abdul-mateen-ii-cliff-booth-feature-1236761149/": {
