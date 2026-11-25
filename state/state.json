@@ -1172,6 +1172,16 @@
         "summary": "Formulaic and sporadically funny, but a serviceable, less mean-spirited franchise entry with energized De Niro and delightful Grande; an acceptable trip to the movies.",
         "url": "https://screenzealots.com/2026/11/24/focker-in-law/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-25T04:29:05+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "TIME",
+        "rating": "",
+        "summary": "Dismal sequel with failed jokes, mediocre direction and overeager Stiller and De Niro; only Ariana Grande's superb timing salvages parts.",
+        "url": "https://time.com/article/2026/11/25/focker-in-law-review-ariana-grande/",
+        "verdict": "rotten"
       }
     ],
     "godzilla minus zero|": [
@@ -2125,6 +2135,16 @@
         "rating": "",
         "summary": "Only the headline is available; it suggests the critic found the mother-daughter witch story more nuanced than expected.",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWXdpMlNCN1dteDBCTnN1bnIwNWtmVUpHWmpHZ09sajllWFRZWXpqYThlNDJqRkpjZDFMdGR2Nm9mOXR3aHVHMGpoUnN6M0hERWJvR09ncHN3UmN4aHpnYWJJWE5Oc1dkbnJrSDBXWWJ4NlZGeHdxaWEzSXRmbkU1R1NQV1Q5MHl1MHBRVklIZU52Si1pazF6dmFOWVlRTnh5?oc=5",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-25T04:29:07+00:00",
+        "confidence": "low",
+        "critic": "",
+        "outlet": "Flickering Myth",
+        "rating": "",
+        "summary": "Only the headline loaded, so the critic's opinion of Hexed can't be determined; the verdict is a low-confidence guess.",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ROW1xMElRTUYxTG1paG93UkRHNlhvX3QwTVYxMmdic2szOGVVZUpkZ2FHcTRxVURnbDNGMG56SEpYdFZoNDkwNVVfZHl6bUJwS0lMcW5CZV9EZmZ2RmYxdHVJM1podw?oc=5",
         "verdict": "fresh"
       }
     ],
@@ -4233,6 +4253,16 @@
         "rating": "3/5",
         "summary": "Fincher's virtuoso, enjoyable Tarantino pastiche charms through Pitt's charisma, but feels excessive, repetitive and a lesser echo of Tarantino.",
         "url": "https://www.elmundo.es/cultura/cine/2026/11/24/6b056459e85ecedb028b457f.html",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-25T04:29:02+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "20minutos (Cineman\u00eda)",
+        "rating": "",
+        "summary": "Fincher honors Tarantino's spirit with stylish violence, strong Pitt and Debicki performances, and great craft, despite long runtime and digital look.",
+        "url": "https://www.20minutos.es/cinemania/criticas/critica-nuevas-desventuras-cliff-booth-fincher-violencia-tarantino_7064845_3.html",
         "verdict": "fresh"
       }
     ],
@@ -7705,6 +7735,11 @@
       "status": "review",
       "verdict": "rotten"
     },
+    "focker in law|2026|https://time.com/article/2026/11/25/focker-in-law-review-ariana-grande/": {
+      "at": "2026-11-25T04:29:05+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
     "focker in law|2026|https://timesofindia.indiatimes.com/entertainment/english/movie-details/focker-in-law/movieshow/130325738.cms": {
       "at": "2026-11-24T18:59:02+00:00",
       "status": "not_review"
@@ -8685,6 +8720,10 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "hexed|2026|https://movieweb.com/hexed-rotten-tomatoes-critics/": {
+      "at": "2026-11-25T04:29:09+00:00",
+      "status": "not_review"
+    },
     "hexed|2026|https://movieweb.com/tag/movie/hexed-2026/": {
       "at": "2026-11-24T17:06:07+00:00",
       "status": "not_review"
@@ -8700,6 +8739,11 @@
     },
     "hexed|2026|https://news.google.com/rss/articles/CBMiZEFVX3lxTFBiZnppcVVrZURCZmx4d01yUkpJalgzN0otdWhwTGdSdG9HNk01MnJwTUxxQjV0VEc3R2xYd21ZanBIQ2Y2bi01cUtRWUJPOWRjRjJaSFZibjNJTmlaSjgzbkdDa3E?oc=5": {
       "at": "2026-11-24T17:29:26+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "hexed|2026|https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ROW1xMElRTUYxTG1paG93UkRHNlhvX3QwTVYxMmdic2szOGVVZUpkZ2FHcTRxVURnbDNGMG56SEpYdFZoNDkwNVVfZHl6bUJwS0lMcW5CZV9EZmZ2RmYxdHVJM1podw?oc=5": {
+      "at": "2026-11-25T04:29:07+00:00",
       "status": "review",
       "verdict": "fresh"
     },
@@ -10670,6 +10714,11 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "the further mis adventures of cliff booth|2026|https://www.20minutos.es/cinemania/criticas/critica-nuevas-desventuras-cliff-booth-fincher-violencia-tarantino_7064845_3.html": {
+      "at": "2026-11-25T04:29:02+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "the further mis adventures of cliff booth|2026|https://www.avclub.com/david-fincher-leaving-netflix-thank-god-cliff-booth-the-killer-mank-mindhunter": {
       "at": "2026-11-24T11:29:36+00:00",
       "status": "not_review"
@@ -10830,6 +10879,10 @@
     },
     "the further mis adventures of cliff booth|2026|https://www.indiewire.com/features/podcast/aaron-pierre-lanterns-dc-shakeup-starfighter-1235229615/": {
       "at": "2026-11-19T22:18:45+00:00",
+      "status": "not_review"
+    },
+    "the further mis adventures of cliff booth|2026|https://www.kaplanvskaplan.com/new-releases/further-mis-adventures-of-cliff-booth-the/": {
+      "at": "2026-11-25T04:28:57+00:00",
       "status": "not_review"
     },
     "the further mis adventures of cliff booth|2026|https://www.latimes.com/entertainment-arts/movies/story/2026-11-19/david-fincher-further-mis-adventures-cliff-booth-holiday-preview-2026": {
