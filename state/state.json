@@ -1272,6 +1272,26 @@
         "summary": "Only the headline is available, and it calls the film a 'focking disaster', signaling a clearly negative take.",
         "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE80UjRJQk1Qd0Vpekc1TXFQOURFOVQ0Z2dad0lRSDM0Ri0wbmZQbTgybkZ4b2Jja0JsazFPVGowWWgxcjRLLWlZbmNaeE1RWEdrdU9BV2pYWmxTMXd5alNLNWRwWQ?oc=5",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-25T18:29:41+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Cinerama Film",
+        "rating": "",
+        "summary": "Despite a scene-stealing Ariana Grande-Butera, it's a sluggish, recycled sequel of crass, predictable gags and grating characters.",
+        "url": "https://cineramafilm.com/2026/11/25/focker-in-law-film-review/",
+        "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-25T18:29:43+00:00",
+        "confidence": "low",
+        "critic": "",
+        "outlet": "Vulture",
+        "rating": "",
+        "summary": "An amiable, inoffensive time waster with decent laughs and a strong Ariana Grande, though programmatic and lacking the original's cringe edge.",
+        "url": "https://www.vulture.com/article/ariana-grande-just-barely-makes-focker-in-law-worthwhile.html",
+        "verdict": "fresh"
       }
     ],
     "godzilla minus zero|": [
@@ -2316,6 +2336,16 @@
         "summary": "Headline suggests the critic found Disney's film routine but ultimately entertaining.",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZ28yRjhGSG5ycjVPYjVmTFRJN3JEalJ5dXY3eTBudEZSa054TlBYc0JEemszdnZ1MDAwOWRTZW50eE1tUDZrY2NQNG1zR2swS09URzFEZk0xZVhhQU5jc1J0aFR4Wml3a1NPSDdDOE5IenZHcjlNLWdCQUJuZEIwRHZMd0F0ODdFUmZzMHhNLUJpSnU4czIzMGlramljRmNIRWJ4eXBHaEdiUQ?oc=5",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-25T18:29:50+00:00",
+        "confidence": "high",
+        "critic": "Rick Bentley",
+        "outlet": "KGET",
+        "rating": "C-",
+        "summary": "A chaotic, derivative production favoring frantic style over substance, with garish visuals, uninspired characters and few emotional moments.",
+        "url": "https://www.kget.com/community/ricks-reviews/hexed-fails-to-cast-magical-spell/",
+        "verdict": "rotten"
       }
     ],
     "how to rob a bank|2026": [
@@ -7846,6 +7876,11 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "focker in law|2026|https://cineramafilm.com/2026/11/25/focker-in-law-film-review/": {
+      "at": "2026-11-25T18:29:41+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
     "focker in law|2026|https://collider.com/ariana-grande-ben-stiller-focker-in-law-november-25-box-office/": {
       "at": "2026-11-25T11:29:55+00:00",
       "status": "not_review"
@@ -8257,6 +8292,11 @@
     "focker in law|2026|https://www.vulture.com/article/ariana-grande-focker-in-law-press-tour-public-appearance.html": {
       "at": "2026-11-21T16:05:09+00:00",
       "status": "not_review"
+    },
+    "focker in law|2026|https://www.vulture.com/article/ariana-grande-just-barely-makes-focker-in-law-worthwhile.html": {
+      "at": "2026-11-25T18:29:43+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "focker in law|2026|https://www.winnipegfreepress.com/arts-and-life/entertainment/2026/11/23/movie-review-ariana-grande-gives-a-moribund-franchise-a-pair-of-shock-paddles-in-focker-in-law": {
       "at": "2026-11-23T17:22:31+00:00",
@@ -9200,6 +9240,10 @@
       "at": "2026-11-24T02:29:17+00:00",
       "status": "not_review"
     },
+    "hexed|2026|https://screenrant.com/disney-hexed-soundtrack-guide-song/": {
+      "at": "2026-11-25T18:29:45+00:00",
+      "status": "not_review"
+    },
     "hexed|2026|https://screenrant.com/hexed-disney-chosen-one-story-redefine-jared-bush/": {
       "at": "2026-11-21T18:53:21+00:00",
       "status": "not_review"
@@ -9336,6 +9380,11 @@
     "hexed|2026|https://www.independent.co.uk/arts-entertainment/films/news/jodie-foster-favorite-film-the-lion-king-b3089246.html": {
       "at": "2026-11-21T21:28:57+00:00",
       "status": "not_review"
+    },
+    "hexed|2026|https://www.kget.com/community/ricks-reviews/hexed-fails-to-cast-magical-spell/": {
+      "at": "2026-11-25T18:29:50+00:00",
+      "status": "review",
+      "verdict": "rotten"
     },
     "hexed|2026|https://www.latimes.com/entertainment-arts/movies/story/2026-11-25/hexed-review-animation-disney-hailee-steinfeld-walton-goggins-jodie-foster": {
       "at": "2026-11-25T11:29:46+00:00",
@@ -11190,6 +11239,10 @@
       "at": "2026-11-23T23:29:27+00:00",
       "status": "not_review"
     },
+    "the further mis adventures of cliff booth|2026|https://variety.com/2026/film/columns/cliff-booth-imax-limited-release-netflix-1236956318/": {
+      "at": "2026-11-25T18:29:39+00:00",
+      "status": "not_review"
+    },
     "the further mis adventures of cliff booth|2026|https://variety.com/2026/film/reviews/the-further-mis-adventures-of-cliff-booth-review-brad-pitt-1236952037/": {
       "at": "2026-11-19T18:04:42+00:00",
       "status": "review",
@@ -11262,6 +11315,10 @@
     },
     "the further mis adventures of cliff booth|2026|https://www.comingsoon.net/movies/news/2227917-brad-pitt-mis-adventures-cliff-booth-movie-alleged-ai-usage-fan-backlash": {
       "at": "2026-11-19T22:28:39+00:00",
+      "status": "not_review"
+    },
+    "the further mis adventures of cliff booth|2026|https://www.comingsoon.net/movies/news/2230620-brad-pitt-cliff-booth-movie-netflix-spin-off-quentin-tarantino-release-date": {
+      "at": "2026-11-25T18:29:48+00:00",
       "status": "not_review"
     },
     "the further mis adventures of cliff booth|2026|https://www.comingsoon.net/movies/reviews/2227004-the-further-mis-adventures-of-cliff-booth-review-brad-pitts-violent-movie-entertains": {
