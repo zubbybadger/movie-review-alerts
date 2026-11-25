@@ -1202,6 +1202,16 @@
         "summary": "Despite a recycled plot, it's a genuinely funny, nostalgic comedy with Stiller, De Niro and Grande in fine form.",
         "url": "https://amovieguy.com/?p=6248",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-25T09:29:05+00:00",
+        "confidence": "low",
+        "critic": "",
+        "outlet": "JoBlo",
+        "rating": "",
+        "summary": "Only the headline is available; it praises Ariana Grande as a worthy foil to Ben Stiller, suggesting a positive take.",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBEUUt2b2dRMmhSSWY4ZnlMUWcwSEo5SDBBTVNFQktQNEpxS1NGeWpNWUxiS1F5WUpiUHMtaEJGVFl2TUtZN3NNT0Fob2RINGRjMXV5aHZ30gFbQVVfeXFMTzIwbzRFNVVBdW02RVVYOXBBcVIzYl84bjNBdFdoX2RVczU4bkF6SVFZZk1IREE0aVZFOEFubF9UMU8zVGRybDRtT0t5ZlVGc0xGVjBrc0E4b0lsbw?oc=5",
+        "verdict": "fresh"
       }
     ],
     "godzilla minus zero|": [
@@ -2166,6 +2176,16 @@
         "summary": "Only the headline loaded, so the critic's opinion of Hexed can't be determined; the verdict is a low-confidence guess.",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ROW1xMElRTUYxTG1paG93UkRHNlhvX3QwTVYxMmdic2szOGVVZUpkZ2FHcTRxVURnbDNGMG56SEpYdFZoNDkwNVVfZHl6bUJwS0lMcW5CZV9EZmZ2RmYxdHVJM1podw?oc=5",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-25T09:29:02+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Film Threat",
+        "rating": "",
+        "summary": "Criticizes mediocre, predictable storytelling, a flawless protagonist, vague magic rules, and an obvious twist, calling it unworthy of Disney's legacy.",
+        "url": "https://filmthreat.com/reviews/disneys-hexed/",
+        "verdict": "rotten"
       }
     ],
     "how to rob a bank|2026": [
@@ -7688,6 +7708,11 @@
       "at": "2026-11-23T17:23:18+00:00",
       "status": "not_review"
     },
+    "focker in law|2026|https://news.google.com/rss/articles/CBMiVkFVX3lxTFBEUUt2b2dRMmhSSWY4ZnlMUWcwSEo5SDBBTVNFQktQNEpxS1NGeWpNWUxiS1F5WUpiUHMtaEJGVFl2TUtZN3NNT0Fob2RINGRjMXV5aHZ30gFbQVVfeXFMTzIwbzRFNVVBdW02RVVYOXBBcVIzYl84bjNBdFdoX2RVczU4bkF6SVFZZk1IREE0aVZFOEFubF9UMU8zVGRybDRtT0t5ZlVGc0xGVjBrc0E4b0lsbw?oc=5": {
+      "at": "2026-11-25T09:29:05+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "focker in law|2026|https://news.google.com/rss/articles/CBMiWkFVX3lxTE5VZGxEVFU1c1J0OVdRbWtfNEZHalRTUzFQakFJeVF1Z0hiRVpCRmFael9lNy15enVWT1dub0tXanRfd05NZEJRZnN0N29od3hrenFDQ3piaE9ld9IBX0FVX3lxTE5YUjhMWjRRTzhoWDYyQ3IxQ0gzV2ExM0JqQVVzcjJTaUE1STBIWDhNSnZycGVwWmRUODZUSG9WR0ZTT3RrdEdjSFJfeExHQXMxQWM4YkZQN0VuVkktUnFr?oc=5": {
       "at": "2026-11-24T21:29:10+00:00",
       "status": "not_review"
@@ -8769,6 +8794,11 @@
     "hexed|2026|https://deadline.com/print-article/1237232517?KeepThis=1&TB_iframe=1&height=500&width=750": {
       "at": "2026-11-24T17:05:24+00:00",
       "status": "duplicate"
+    },
+    "hexed|2026|https://filmthreat.com/reviews/disneys-hexed/": {
+      "at": "2026-11-25T09:29:02+00:00",
+      "status": "review",
+      "verdict": "rotten"
     },
     "hexed|2026|https://mashable.com/entertainment/hexed-disney-review": {
       "at": "2026-11-24T17:29:10+00:00",
