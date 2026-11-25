@@ -4494,6 +4494,26 @@
         "summary": "An indulgent, blissfully bouncy shaggy-dog story worth surrendering to, buoyed by Debicki, despite distracting digital effects and possible AI use.",
         "url": "https://www.vulture.com/article/review-the-further-mis-adventures-of-cliff-booth.html",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-25T16:03:26+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "Michael J. Cinema",
+        "rating": "",
+        "summary": "Despite tense moments and fine craft, it's a bloated, direct-to-video-feeling mess that demystifies Cliff Booth and lets subplots drag.",
+        "url": "https://michaeljcinema.com/2026/11/25/the-further-mis-adventures-of-cliff-booth/",
+        "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-25T16:03:29+00:00",
+        "confidence": "high",
+        "critic": "Lindsey Romain",
+        "outlet": "MovieJawn",
+        "rating": "",
+        "summary": "A seamless Tarantino-Fincher fusion with heart and seedy charm; despite pacing drags, the critic loved hanging out in its world.",
+        "url": "https://www.moviejawn.com/home/2026/11/25/the-mis-adventures-of-cliff-booth-review",
+        "verdict": "fresh"
       }
     ],
     "the hunger games sunrise on the reaping|2026": [
@@ -7826,6 +7846,10 @@
       "status": "review",
       "verdict": "rotten"
     },
+    "focker in law|2026|https://deadline.com/2026/11/box-office-hunger-games-hexed-focker-in-law-thanksgiving-1237233281/": {
+      "at": "2026-11-25T16:03:31+00:00",
+      "status": "not_review"
+    },
     "focker in law|2026|https://deadline.com/2026/11/focker-in-law-review-robert-de-niro-ben-stiller-ariana-grande-1237231271/": {
       "at": "2026-11-23T17:22:36+00:00",
       "status": "review",
@@ -8973,6 +8997,10 @@
       "at": "2026-11-24T21:28:58+00:00",
       "status": "review",
       "verdict": "rotten"
+    },
+    "hexed|2026|https://deadline.com/2026/11/box-office-hunger-games-hexed-focker-in-law-thanksgiving-1237233281/": {
+      "at": "2026-11-25T16:03:33+00:00",
+      "status": "not_review"
     },
     "hexed|2026|https://deadline.com/2026/11/hailee-steinfeld-confirms-avengers-doomsday-1237231382/": {
       "at": "2026-11-23T03:29:03+00:00",
@@ -10823,6 +10851,11 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "the further mis adventures of cliff booth|2026|https://michaeljcinema.com/2026/11/25/the-further-mis-adventures-of-cliff-booth/": {
+      "at": "2026-11-25T16:03:26+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
     "the further mis adventures of cliff booth|2026|https://moviecricket.net/blog/2026/11/19/review-the-further-mis-adventures-of-cliff-booth-brings-brad-pitt-back-to-his-oscar-winning-role-in-a-laidback-action-tale-thats-just-fun-to-hang-around": {
       "at": "2026-11-19T18:05:00+00:00",
       "status": "review",
@@ -11302,6 +11335,11 @@
     },
     "the further mis adventures of cliff booth|2026|https://www.lwlies.com/reviews/the-further-mis-adventures-of-cliff-booth": {
       "at": "2026-11-19T18:05:20+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "the further mis adventures of cliff booth|2026|https://www.moviejawn.com/home/2026/11/25/the-mis-adventures-of-cliff-booth-review": {
+      "at": "2026-11-25T16:03:29+00:00",
       "status": "review",
       "verdict": "fresh"
     },
