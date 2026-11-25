@@ -4214,6 +4214,16 @@
         "summary": "Raves that the Pitt-Tarantino-Fincher sequel is near cinematic perfection, with stellar cast, period locations and Reznor/Ross score.",
         "url": "https://athomeinhollywood.com/2026/11/24/mis-adventures-of-cliff-booth/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-25T00:29:56+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Film-Forward",
+        "rating": "",
+        "summary": "Fincher and Tarantino's relaxed companion piece is meaty entertainment and pure pleasure, graced by Pitt's charm and witty dialogue.",
+        "url": "https://film-forward.com/crime/the-further-mis-adventures-of-cliff-booth",
+        "verdict": "fresh"
       }
     ],
     "the hunger games sunrise on the reaping|2026": [
@@ -7497,6 +7507,10 @@
       "at": "2026-11-24T23:28:47+00:00",
       "status": "not_review"
     },
+    "focker in law|2026|https://collider.com/ariana-grande-focker-in-law-rotten-tomatoes-score/": {
+      "at": "2026-11-25T00:29:59+00:00",
+      "status": "not_review"
+    },
     "focker in law|2026|https://collider.com/focker-in-law-ariana-grande-ben-stiller-robert-deniro-review/": {
       "at": "2026-11-23T22:28:45+00:00",
       "status": "review",
@@ -7593,6 +7607,10 @@
       "at": "2026-11-24T14:02:36+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "focker in law|2026|https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdk1XSkVQYTR3dGg2ekg3WHBNcXU4VmFhTUlpVl9hUUU2NTVHZlhzaC1iZjFqb3RzejJiRGduOVNjWTVjT3l0dElSRkVmRzRmTUt4NElNbTBJX1A2ZVhXSEFrQTJHWi1rVmhJYW9HcWdFUHNHSU1ORzRpNng1blVBaFdPX3JQYW9SOXZGWm9xcHNvOHhxcEpmSkFzLTR2MC0wOGxfSmJYTWU?oc=5": {
+      "at": "2026-11-25T00:30:01+00:00",
+      "status": "duplicate"
     },
     "focker in law|2026|https://news.google.com/rss/articles/CBMirwFBVV95cUxPZTlUcUsyUGhrVTlESFJXUEFhT2VBSzM4ZFhReEtndFg2Zkc3RVNNYXRWY1hrZ093RzNwUXRudFdFX2liYXFTeGtTXzk4UVJtcXBvVko1REcxcXN1ME9DZzlVUVI0R3o4VDZfaG44SFh2SzR2NTg2TTE4b0JMZjVFS1RzR3djaVhNMVpXMVpTdnBJdEs1Q3QxZ3pVbHh4bGtYUkJMTkFua00zZFMwMndj?oc=5": {
       "at": "2026-11-24T00:29:22+00:00",
@@ -7704,6 +7722,10 @@
       "at": "2026-11-23T17:23:20+00:00",
       "status": "review",
       "verdict": "rotten"
+    },
+    "focker in law|2026|https://www.cbr.com/focker-in-law-rotten-tomatoes-score/": {
+      "at": "2026-11-25T00:30:04+00:00",
+      "status": "not_review"
     },
     "focker in law|2026|https://www.comingsoon.net/movies/news/2229658-ariana-grande-ben-stiller-robert-de-niro-kissing-kids": {
       "at": "2026-11-23T21:29:41+00:00",
@@ -10333,6 +10355,11 @@
     "the further mis adventures of cliff booth|2026|https://everymoviehasalesson.com/blog/tag/The+Further+Mis-Adventures+of+Cliff+Booth": {
       "at": "2026-11-19T18:04:54+00:00",
       "status": "duplicate"
+    },
+    "the further mis adventures of cliff booth|2026|https://film-forward.com/crime/the-further-mis-adventures-of-cliff-booth": {
+      "at": "2026-11-25T00:29:56+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "the further mis adventures of cliff booth|2026|https://hipertextual.com/cine-television/trailer-final-las-nuevas-desventuras-de-cliff-booth-secuela-erase-una-vez-en-hollywood/": {
       "at": "2026-11-19T15:28:39+00:00",
