@@ -7540,6 +7540,10 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "focker in law|2026|https://deadline.com/2026/11/hunger-games-focker-in-law-hexed-box-office-thanksgiving-1237233010/": {
+      "at": "2026-11-25T02:12:46+00:00",
+      "status": "not_review"
+    },
     "focker in law|2026|https://deadline.com/print-article/1237231271?KeepThis=1&TB_iframe=1&height=500&width=750": {
       "at": "2026-11-23T17:22:37+00:00",
       "status": "duplicate"
@@ -8648,6 +8652,10 @@
       "at": "2026-11-24T17:05:22+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "hexed|2026|https://deadline.com/2026/11/hunger-games-focker-in-law-hexed-box-office-thanksgiving-1237233010/": {
+      "at": "2026-11-25T02:12:49+00:00",
+      "status": "not_review"
     },
     "hexed|2026|https://deadline.com/print-article/1237232517?KeepThis=1&TB_iframe=1&height=500&width=750": {
       "at": "2026-11-24T17:05:24+00:00",
