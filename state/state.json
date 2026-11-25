@@ -4284,6 +4284,16 @@
         "summary": "Tarantino's sequel coasts on nostalgia for his own prior film, with Fincher's precise direction and a predictable, dull plot.",
         "url": "http://www.markreviewsmovies.com/reviews/F/furthermisadventuresofcliffbooth.htm",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-25T06:28:59+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Spectrum Culture",
+        "rating": "",
+        "summary": "Tarantino's dialogue and Fincher's digital precision make a fascinating mashup that successfully expands the Once Upon a Time world, despite a rushed third act.",
+        "url": "https://spectrumculture.com/2026/11/24/the-further-mis-adventures-of-cliff-booth/",
+        "verdict": "fresh"
       }
     ],
     "the hunger games sunrise on the reaping|2026": [
@@ -10653,6 +10663,11 @@
     },
     "the further mis adventures of cliff booth|2026|https://silverscreenriot.com/further-mis-adventures-of-cliff-booth-review/": {
       "at": "2026-11-19T18:04:49+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "the further mis adventures of cliff booth|2026|https://spectrumculture.com/2026/11/24/the-further-mis-adventures-of-cliff-booth/": {
+      "at": "2026-11-25T06:28:59+00:00",
       "status": "review",
       "verdict": "fresh"
     },
