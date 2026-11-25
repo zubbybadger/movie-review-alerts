@@ -281,3 +281,7 @@ sites:
   - https://thecosmiccircus.com/category/reviews/movie-reviews/
   # Added 2026-11-25 at Jonathan's request.
   - https://flixchatter.net/
+  # Added 2026-11-25 by the daily sweep (reviews the bot never saw; watched through Google News).
+  - https://news.google.com/rss/search?q=site:upi.com&hl=en-US&gl=US&ceid=US:en
+  - https://news.google.com/rss/search?q=site:butwhytho.net&hl=en-US&gl=US&ceid=US:en
+  - https://news.google.com/rss/search?q=site:showbizjunkies.com&hl=en-US&gl=US&ceid=US:en
