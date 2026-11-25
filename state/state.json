@@ -1212,6 +1212,26 @@
         "summary": "Only the headline is available; it praises Ariana Grande as a worthy foil to Ben Stiller, suggesting a positive take.",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBEUUt2b2dRMmhSSWY4ZnlMUWcwSEo5SDBBTVNFQktQNEpxS1NGeWpNWUxiS1F5WUpiUHMtaEJGVFl2TUtZN3NNT0Fob2RINGRjMXV5aHZ30gFbQVVfeXFMTzIwbzRFNVVBdW02RVVYOXBBcVIzYl84bjNBdFdoX2RVczU4bkF6SVFZZk1IREE0aVZFOEFubF9UMU8zVGRybDRtT0t5ZlVGc0xGVjBrc0E4b0lsbw?oc=5",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-25T10:29:43+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "MovieFreak",
+        "rating": "1.5/4",
+        "summary": "Ariana Grande shines, but the sequel is a lazy nostalgia play recycling jokes and set pieces from earlier films.",
+        "url": "http://moviefreak.com/focker-in-law-movie-review/",
+        "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-25T10:30:05+00:00",
+        "confidence": "low",
+        "critic": "",
+        "outlet": "The New York Times",
+        "rating": "",
+        "summary": "A mostly painless sequel that flips the original's dynamics, with Ariana Grande stealing the show.",
+        "url": "https://www.nytimes.com/2026/11/25/movies/focker-in-law-review.html",
+        "verdict": "fresh"
       }
     ],
     "godzilla minus zero|": [
@@ -2185,6 +2205,16 @@
         "rating": "",
         "summary": "Criticizes mediocre, predictable storytelling, a flawless protagonist, vague magic rules, and an obvious twist, calling it unworthy of Disney's legacy.",
         "url": "https://filmthreat.com/reviews/disneys-hexed/",
+        "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-25T10:30:03+00:00",
+        "confidence": "low",
+        "critic": "",
+        "outlet": "The New York Times",
+        "rating": "",
+        "summary": "The critic suggests the witchy mother-daughter adventure is overstuffed and needs decluttering, though the full review is unavailable.",
+        "url": "https://www.nytimes.com/2026/11/25/movies/hexed-review-disney.html",
         "verdict": "rotten"
       }
     ],
@@ -4344,6 +4374,16 @@
         "summary": "Finds it a charmless, boring mess with gratuitous violence, uncertain tone and a poor crime plot despite Fincher and Tarantino's talent.",
         "url": "https://elpais.com/cultura/cine/2026-11-25/las-nuevas-desventuras-de-cliff-booth-extrana-e-inutil-colaboracion-entre-fincher-y-tarantino.html",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-25T10:29:46+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "Fort Worth Weekly",
+        "rating": "",
+        "summary": "Breezy and enjoyable thanks to Tarantino's savorable dialogue and incidental pleasures, though slow and unsatisfying in its conclusion; a modest pleasure.",
+        "url": "https://www.fwweekly.com/2026/11/25/cliff-booth-l-a-noir/",
+        "verdict": "fresh"
       }
     ],
     "the hunger games sunrise on the reaping|2026": [
@@ -7618,6 +7658,11 @@
       "at": "2026-11-15T17:58:52+00:00",
       "status": "not_review"
     },
+    "focker in law|2026|http://moviefreak.com/focker-in-law-movie-review/": {
+      "at": "2026-11-25T10:29:43+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
     "focker in law|2026|http://www.shadowsonthewall.co.uk/26/fockerin.htm": {
       "at": "2026-11-23T19:29:09+00:00",
       "status": "review",
@@ -7965,6 +8010,11 @@
       "at": "2026-11-23T17:23:07+00:00",
       "status": "review",
       "verdict": "rotten"
+    },
+    "focker in law|2026|https://www.nytimes.com/2026/11/25/movies/focker-in-law-review.html": {
+      "at": "2026-11-25T10:30:05+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "focker in law|2026|https://www.rogerebert.com/reviews/focker-in-law-ben-stiller-robert-de-niro-ariana-grande-movie-review-2026": {
       "at": "2026-11-23T17:22:15+00:00",
@@ -8752,6 +8802,10 @@
       "at": "2026-11-08T18:50:32+00:00",
       "status": "not_review"
     },
+    "hexed|2026|https://attractionsmagazine.com/disney-hexed-things-to-do-popcorn-drinks/": {
+      "at": "2026-11-25T10:30:09+00:00",
+      "status": "not_review"
+    },
     "hexed|2026|https://boundingintocomics.com/movies/movie-news/hailee-steinfeld-confirms-kate-bishop-returns-as-hawkeye-in-avengers-doomsday": {
       "at": "2026-11-24T15:29:03+00:00",
       "status": "not_review"
@@ -8799,6 +8853,10 @@
       "at": "2026-11-25T09:29:02+00:00",
       "status": "review",
       "verdict": "rotten"
+    },
+    "hexed|2026|https://mashable.com/entertainment/hexed-disney-easter-eggs": {
+      "at": "2026-11-25T10:30:07+00:00",
+      "status": "not_review"
     },
     "hexed|2026|https://mashable.com/entertainment/hexed-disney-review": {
       "at": "2026-11-24T17:29:10+00:00",
@@ -9027,6 +9085,11 @@
       "at": "2026-11-24T17:59:06+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "hexed|2026|https://www.nytimes.com/2026/11/25/movies/hexed-review-disney.html": {
+      "at": "2026-11-25T10:30:03+00:00",
+      "status": "review",
+      "verdict": "rotten"
     },
     "hexed|2026|https://www.polygon.com/disney-hexed-review/": {
       "at": "2026-11-24T17:05:11+00:00",
@@ -10961,6 +11024,11 @@
     },
     "the further mis adventures of cliff booth|2026|https://www.fotogramas.es/peliculas-criticas/a74519468/las-nuevas-desventuras-de-cliff-booth-critica-pelicula-opinion-tarantino-brad-pitt-netflix/": {
       "at": "2026-11-25T07:28:55+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "the further mis adventures of cliff booth|2026|https://www.fwweekly.com/2026/11/25/cliff-booth-l-a-noir/": {
+      "at": "2026-11-25T10:29:46+00:00",
       "status": "review",
       "verdict": "fresh"
     },
