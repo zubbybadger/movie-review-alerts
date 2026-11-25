@@ -1242,6 +1242,16 @@
         "summary": "Familiar Focker gags still land, with game performances from De Niro, Stiller and a refreshing Ariana Grande, plus some heart.",
         "url": "https://neilsentertainmentpicks.com/2026/11/25/movie-review-focker-in-law/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-25T13:29:28+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "Chicago Reader",
+        "rating": "",
+        "summary": "Shallow and broadly unserious, but it captures generational family friction, and Grande charms opposite De Niro; best enjoyed with family in a full theater.",
+        "url": "https://chicagoreader.com/film-tv/movie-review/review-focker-in-law/",
+        "verdict": "fresh"
       }
     ],
     "godzilla minus zero|": [
@@ -7741,6 +7751,11 @@
       "at": "2026-11-24T23:28:47+00:00",
       "status": "not_review"
     },
+    "focker in law|2026|https://chicagoreader.com/film-tv/movie-review/review-focker-in-law/": {
+      "at": "2026-11-25T13:29:28+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "focker in law|2026|https://collider.com/ariana-grande-ben-stiller-focker-in-law-november-25-box-office/": {
       "at": "2026-11-25T11:29:55+00:00",
       "status": "not_review"
@@ -8990,6 +9005,10 @@
       "at": "2026-11-25T04:29:07+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "hexed|2026|https://news.google.com/rss/articles/CBMif0FVX3lxTFBOci1yYjJCYU9hVnRFcEs2OU9xdEp0d1lOTlhoTE1CUmYzVEhsM0dOSERtWGJMdk56RnlFZHZEeHZFdlZ5c08yWmNKdkdERTZvdW9sUHZPcEN2b3VmY09LUVVzd0xxd1FlX2paUW5wVERabnJ3OHYzamlITmtTSDA?oc=5": {
+      "at": "2026-11-25T13:29:31+00:00",
+      "status": "not_review"
     },
     "hexed|2026|https://news.google.com/rss/articles/CBMifEFVX3lxTE5WMC1VUkM4NGhSZm9seXhSOXdubTBlUHBYQXpSbmUxZFJZblZxWFRnaHcwQUJRaUxaUFJucElrY2hJMUtnYm5WdFJkR1F6TDRQY2ozTTBnRTZVYjc2ZWJaUDZhVWVlYWtxdnJ2c05OaTRkeXZBVzRvTkZHU2Q?oc=5": {
       "at": "2026-11-25T11:30:00+00:00",
