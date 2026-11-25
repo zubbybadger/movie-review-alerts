@@ -279,3 +279,5 @@ sites:
   - https://news.google.com/rss/search?q=site:wng.org+movie+review&hl=en-US&gl=US&ceid=US:en
   # Added 2026-11-25 at Jonathan's request.
   - https://thecosmiccircus.com/category/reviews/movie-reviews/
+  # Added 2026-11-25 at Jonathan's request.
+  - https://flixchatter.net/
