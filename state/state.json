@@ -1292,6 +1292,16 @@
         "summary": "An amiable, inoffensive time waster with decent laughs and a strong Ariana Grande, though programmatic and lacking the original's cringe edge.",
         "url": "https://www.vulture.com/article/ariana-grande-just-barely-makes-focker-in-law-worthwhile.html",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-25T22:28:59+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "Bounding Into Comics",
+        "rating": "6.5/10",
+        "summary": "A well-crafted throwback comedy whose jokes mostly land, with Ariana Grande injecting fresh energy despite diminishing returns on callbacks.",
+        "url": "https://boundingintocomics.com/movies/movie-news/focker-in-law-review-ben-stillers-sequel-is-a-throwback-comedy-where-the-jokes-mostly-land",
+        "verdict": "fresh"
       }
     ],
     "godzilla minus zero|": [
@@ -2356,6 +2366,26 @@
         "summary": "Headline suggests the film feels underdeveloped and rushed, needing more time to come together.",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tYWdIYVFrcFFuV2tWT0Q3VmxvNnBTUFFFSVF1a2hLN0dwOVJIUUlqNFZSdXZBVjZFcVYtTVZoakJ0NDlhdFUxLXVpbGIwRG9kUmxPZmpsVzZsWHExWkY5eHNGbnNrZw?oc=5",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-25T22:29:02+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Fort Worth Weekly",
+        "rating": "",
+        "summary": "Despite a cluttered final third, its exuberant world-building, joyful discovery sequences and great cat sidekick make it a top pick for misfit kids.",
+        "url": "https://www.fwweekly.com/2026/11/25/hexed-cause-its-witchcraft/",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-25T22:29:04+00:00",
+        "confidence": "low",
+        "critic": "",
+        "outlet": "Vulture",
+        "rating": "",
+        "summary": "Overly on-the-nose messaging and thin characters, but speedy pace, evocative visuals and strong voice cast make it passable\u2014'it'll do for now.'",
+        "url": "https://www.vulture.com/article/review-disneys-hexed-will-disney-do-for-disney-now.html",
+        "verdict": "fresh"
       }
     ],
     "how to rob a bank|2026": [
@@ -7897,6 +7927,11 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "focker in law|2026|https://boundingintocomics.com/movies/movie-news/focker-in-law-review-ben-stillers-sequel-is-a-throwback-comedy-where-the-jokes-mostly-land": {
+      "at": "2026-11-25T22:28:59+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "focker in law|2026|https://boundingintocomics.com/movies/movie-news/hunger-games-set-to-top-thanksgiving-box-office-hexed-focker-in-law-chase-second": {
       "at": "2026-11-24T23:28:47+00:00",
       "status": "not_review"
@@ -9410,6 +9445,11 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "hexed|2026|https://www.fwweekly.com/2026/11/25/hexed-cause-its-witchcraft/": {
+      "at": "2026-11-25T22:29:02+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "hexed|2026|https://www.hollywoodreporter.com/movies/movie-news/hunger-games-sunrise-on-the-reaping-thanksgiving-box-office-1236762317/": {
       "at": "2026-11-25T01:28:58+00:00",
       "status": "not_review"
@@ -9498,6 +9538,11 @@
       "at": "2026-11-25T17:29:19+00:00",
       "status": "review",
       "verdict": "rotten"
+    },
+    "hexed|2026|https://www.vulture.com/article/review-disneys-hexed-will-disney-do-for-disney-now.html": {
+      "at": "2026-11-25T22:29:04+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "how to rob a bank|2026|http://www.markreviewsmovies.com/reviews/H/howtorobabank.htm": {
       "at": "2026-11-13T05:38:23+00:00",
@@ -11404,6 +11449,10 @@
     },
     "the further mis adventures of cliff booth|2026|https://www.comingsoon.net/movies/news/2230863-david-fincher-brad-pitt-cliff-booth-movie-ai-heres-how": {
       "at": "2026-11-25T21:29:13+00:00",
+      "status": "not_review"
+    },
+    "the further mis adventures of cliff booth|2026|https://www.comingsoon.net/movies/news/2230964-likely-cant-see-brad-pitt-new-movie-theaters-week": {
+      "at": "2026-11-25T22:29:09+00:00",
       "status": "not_review"
     },
     "the further mis adventures of cliff booth|2026|https://www.comingsoon.net/movies/reviews/2227004-the-further-mis-adventures-of-cliff-booth-review-brad-pitts-violent-movie-entertains": {
