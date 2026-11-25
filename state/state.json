@@ -4314,6 +4314,16 @@
         "summary": "Fun, intriguing and full of cinephile delights, with a superb Elizabeth Debicki, though it feels more Tarantino than Fincher.",
         "url": "https://www.fotogramas.es/peliculas-criticas/a74519468/las-nuevas-desventuras-de-cliff-booth-critica-pelicula-opinion-tarantino-brad-pitt-netflix/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-25T08:29:34+00:00",
+        "confidence": "high",
+        "critic": "Carlos Boyero",
+        "outlet": "El Pa\u00eds",
+        "rating": "",
+        "summary": "Finds it a charmless, boring mess with gratuitous violence, uncertain tone and a poor crime plot despite Fincher and Tarantino's talent.",
+        "url": "https://elpais.com/cultura/cine/2026-11-25/las-nuevas-desventuras-de-cliff-booth-extrana-e-inutil-colaboracion-entre-fincher-y-tarantino.html",
+        "verdict": "rotten"
       }
     ],
     "the hunger games sunrise on the reaping|2026": [
@@ -10489,6 +10499,23 @@
     "the further mis adventures of cliff booth|2026|https://deadline.com/print-article/1237229009?KeepThis=1&TB_iframe=1&height=500&width=750": {
       "at": "2026-11-19T18:05:08+00:00",
       "status": "duplicate"
+    },
+    "the further mis adventures of cliff booth|2026|https://elpais.com/cultura/cine/2026-11-25/david-fincher-cineasta-el-debate-de-la-ia-esconde-una-guerra-de-culturas-no-tiene-nada-que-ver-con-las-peliculas.html": {
+      "at": "2026-11-25T08:29:36+00:00",
+      "status": "not_review"
+    },
+    "the further mis adventures of cliff booth|2026|https://elpais.com/cultura/cine/2026-11-25/las-nuevas-desventuras-de-cliff-booth-extrana-e-inutil-colaboracion-entre-fincher-y-tarantino.html": {
+      "at": "2026-11-25T08:29:34+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
+    "the further mis adventures of cliff booth|2026|https://everymoviehasalesson.com/blog/2026/11/media-appearance-included-in-rotten-tomatoes-first-reviews-for-the-further-mis-adventures-of-cliff-booth": {
+      "at": "2026-11-25T08:29:29+00:00",
+      "status": "not_review"
+    },
+    "the further mis adventures of cliff booth|2026|https://everymoviehasalesson.com/blog/2026/11/media-appearance-quoted-on-streaming-coverage-for-the-further-mis-adventures-of-cliff-booth": {
+      "at": "2026-11-25T08:29:32+00:00",
+      "status": "not_review"
     },
     "the further mis adventures of cliff booth|2026|https://everymoviehasalesson.com/blog/2026/11/movie-review-the-further-mis-adventures-of-cliff-booth": {
       "at": "2026-11-19T18:04:51+00:00",
