@@ -1252,6 +1252,16 @@
         "summary": "Shallow and broadly unserious, but it captures generational family friction, and Grande charms opposite De Niro; best enjoyed with family in a full theater.",
         "url": "https://chicagoreader.com/film-tv/movie-review/review-focker-in-law/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-25T15:29:42+00:00",
+        "confidence": "medium",
+        "critic": "Anthony Morris",
+        "outlet": "It's Better in the Dark",
+        "rating": "",
+        "summary": "Some funny set pieces and committed performances, but the wobbly tone and unfunny central joke of Greg's hostility taint the film.",
+        "url": "https://itsbetterinthedark.blogspot.com/2026/11/review-focker-in-law.html",
+        "verdict": "rotten"
       }
     ],
     "godzilla minus zero|": [
@@ -2256,6 +2266,26 @@
         "summary": "Strong voice work and animation can't overcome a derivative, unoriginal plot and weak villain; 'perfectly okay' doesn't cut it.",
         "url": "http://moviefreak.com/hexed-2026-movie-review/",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-25T15:29:39+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "InReview Online",
+        "rating": "",
+        "summary": "Despite a mature take on generational trauma, the critic finds the design, puns, and rote Disney formula tiring and the resolution troubling.",
+        "url": "https://inreviewonline.com/2026/11/25/hexed-2026-review/",
+        "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-25T15:29:51+00:00",
+        "confidence": "low",
+        "critic": "",
+        "outlet": "JoBlo",
+        "rating": "",
+        "summary": "Disney's witchy mother-daughter adventure has plenty of charm, though the magic fades before the end.",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1JUVVNVkIxcUJHd1VFVHA1QTAtTHRCd24wWndPSWUyMDBWbXNDOHFPVWNPdlpfZ2hIZ3pRUmxrOGtQOWVqdE9WYzYydXI2X3kxelHSAVdBVV95cUxPcERXMWFNODBhdUNNRDQtLTFBLXBKVGpzSWpKejBVUXJLMjZFUHJPdkJVYVJrY0ZEN2t2RV95ckJud3ZRUXk3ZUVzVWZaWHpmN3hVMk4wQUk?oc=5",
+        "verdict": "fresh"
       }
     ],
     "how to rob a bank|2026": [
@@ -4454,6 +4484,16 @@
         "summary": "Entertaining cinematic junk food with fun dialogue and cast, but inessential, juvenile, and unsatisfying given Tarantino's and Fincher's pedigree.",
         "url": "https://bostonhassle.com/review-the-further-mis-adventures-of-cliff-booth-2026-dir-david-fincher/",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-25T15:29:44+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "Vulture",
+        "rating": "",
+        "summary": "An indulgent, blissfully bouncy shaggy-dog story worth surrendering to, buoyed by Debicki, despite distracting digital effects and possible AI use.",
+        "url": "https://www.vulture.com/article/review-the-further-mis-adventures-of-cliff-booth.html",
+        "verdict": "fresh"
       }
     ],
     "the hunger games sunrise on the reaping|2026": [
@@ -7813,6 +7853,11 @@
       "status": "review",
       "verdict": "rotten"
     },
+    "focker in law|2026|https://itsbetterinthedark.blogspot.com/2026/11/review-focker-in-law.html": {
+      "at": "2026-11-25T15:29:42+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
     "focker in law|2026|https://moviecricket.net/blog/2026/11/23/review-focker-in-law-is-a-weak-addition-to-a-played-out-comedy-franchise-with-ben-stillers-main-character-getting-more-sociopathic-by-the-minute": {
       "at": "2026-11-24T06:28:36+00:00",
       "status": "review",
@@ -8951,6 +8996,11 @@
       "status": "review",
       "verdict": "rotten"
     },
+    "hexed|2026|https://inreviewonline.com/2026/11/25/hexed-2026-review/": {
+      "at": "2026-11-25T15:29:39+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
     "hexed|2026|https://mashable.com/entertainment/hexed-disney-easter-eggs": {
       "at": "2026-11-25T10:30:07+00:00",
       "status": "not_review"
@@ -8986,6 +9036,11 @@
     "hexed|2026|https://movieweb.com/tag/movie/hexed-2026/": {
       "at": "2026-11-24T17:06:07+00:00",
       "status": "not_review"
+    },
+    "hexed|2026|https://news.google.com/rss/articles/CBMiUkFVX3lxTE1JUVVNVkIxcUJHd1VFVHA1QTAtTHRCd24wWndPSWUyMDBWbXNDOHFPVWNPdlpfZ2hIZ3pRUmxrOGtQOWVqdE9WYzYydXI2X3kxelHSAVdBVV95cUxPcERXMWFNODBhdUNNRDQtLTFBLXBKVGpzSWpKejBVUXJLMjZFUHJPdkJVYVJrY0ZEN2t2RV95ckJud3ZRUXk3ZUVzVWZaWHpmN3hVMk4wQUk?oc=5": {
+      "at": "2026-11-25T15:29:51+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "hexed|2026|https://news.google.com/rss/articles/CBMiUkFVX3lxTE5MWWxCdW9pRThIb0puWHJXWmE4LUF3dnJpYVphOEZGcVF6WEJJRjZlOG81WmwzQk01T3NNR0VHM1lWMktQb3B1RFpVeHE0RE0wcmc?oc=5": {
       "at": "2026-11-24T19:29:15+00:00",
@@ -9152,6 +9207,10 @@
       "at": "2026-11-24T17:29:12+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "hexed|2026|https://www.comingsoon.net/movies/news/2230232-disney-hexed-reviews-rotten-tomatoes": {
+      "at": "2026-11-25T15:29:49+00:00",
+      "status": "not_review"
     },
     "hexed|2026|https://www.comingsoon.net/movies/reviews/2229937-hexed-review-hailee-steinfelds-bewitching-disney-movie": {
       "at": "2026-11-24T17:05:57+00:00",
@@ -10677,6 +10736,10 @@
       "at": "2026-11-23T17:22:56+00:00",
       "status": "not_review"
     },
+    "the further mis adventures of cliff booth|2026|https://collider.com/elizabeth-debicki-scott-caan-the-further-mis-adventures-of-cliff-booth-interview/": {
+      "at": "2026-11-25T15:29:47+00:00",
+      "status": "not_review"
+    },
     "the further mis adventures of cliff booth|2026|https://collider.com/futher-misadventures-of-cliff-booth-review-brad-pitt-david-fincher-quentin-tarantino/": {
       "at": "2026-11-19T18:05:33+00:00",
       "status": "review",
@@ -11348,6 +11411,11 @@
     },
     "the further mis adventures of cliff booth|2026|https://www.timeout.com/movies/the-further-mis-adventures-of-cliff-booth-review-2026": {
       "at": "2026-11-25T11:29:57+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "the further mis adventures of cliff booth|2026|https://www.vulture.com/article/review-the-further-mis-adventures-of-cliff-booth.html": {
+      "at": "2026-11-25T15:29:44+00:00",
       "status": "review",
       "verdict": "fresh"
     },
