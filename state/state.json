@@ -4224,6 +4224,16 @@
         "summary": "Fincher and Tarantino's relaxed companion piece is meaty entertainment and pure pleasure, graced by Pitt's charm and witty dialogue.",
         "url": "https://film-forward.com/crime/the-further-mis-adventures-of-cliff-booth",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-25T01:28:48+00:00",
+        "confidence": "low",
+        "critic": "",
+        "outlet": "El Mundo",
+        "rating": "3/5",
+        "summary": "Fincher's virtuoso, enjoyable Tarantino pastiche charms through Pitt's charisma, but feels excessive, repetitive and a lesser echo of Tarantino.",
+        "url": "https://www.elmundo.es/cultura/cine/2026/11/24/6b056459e85ecedb028b457f.html",
+        "verdict": "fresh"
       }
     ],
     "the hunger games sunrise on the reaping|2026": [
@@ -7772,6 +7782,10 @@
       "at": "2026-11-24T17:05:18+00:00",
       "status": "not_review"
     },
+    "focker in law|2026|https://www.hollywoodreporter.com/movies/movie-news/hunger-games-sunrise-on-the-reaping-thanksgiving-box-office-1236762317/": {
+      "at": "2026-11-25T01:28:56+00:00",
+      "status": "not_review"
+    },
     "focker in law|2026|https://www.hollywoodreporter.com/movies/movie-reviews/focker-in-law-review-ariana-grande-robert-de-niro-1236760021/": {
       "at": "2026-11-23T17:22:34+00:00",
       "status": "review",
@@ -8826,6 +8840,10 @@
       "at": "2026-11-24T17:05:35+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "hexed|2026|https://www.hollywoodreporter.com/movies/movie-news/hunger-games-sunrise-on-the-reaping-thanksgiving-box-office-1236762317/": {
+      "at": "2026-11-25T01:28:58+00:00",
+      "status": "not_review"
     },
     "hexed|2026|https://www.hollywoodreporter.com/movies/movie-reviews/hexed-review-hailee-steinfeld-rashida-jones-disney-1236761588/": {
       "at": "2026-11-24T17:05:20+00:00",
@@ -10435,6 +10453,10 @@
       "at": "2026-11-24T21:29:16+00:00",
       "status": "not_review"
     },
+    "the further mis adventures of cliff booth|2026|https://news.google.com/rss/articles/CBMiggJBVV95cUxOYWRrcmQ3M1lzTlJaaE1HNWU0cHlDVUczRFhIMjlzMEw4RU1FME9JbFBZajBQeTZ6WVdoQ29ZV3ZyUXFaWWpyaGI5YVBDbkRPQ19lZ3dKekNraVJSZmVKVUtJSmlqaTBtVlhDanZYTjdweFdMTnVReEtmMVpFeDk3ay1iN2tGUkFzMmJXcWkyZlRnZUV3RkF0bXp4clBiSFRxZmVueEwzWGI0ckNaZW9TR2VGVnkyT0xZbVpjd0NBa1lXd1U3d3BBWXNncmN3eENqa0tCcWRHZzdCSlN1bVNHeV8wdUxtYmg5dWxUTFFJYzJ4dnpfOG0yRUZBd012RDUtOWc?oc=5": {
+      "at": "2026-11-25T01:29:00+00:00",
+      "status": "not_review"
+    },
     "the further mis adventures of cliff booth|2026|https://news.google.com/rss/articles/CBMigwFBVV95cUxQOXRRZXpqbTRkOHF2ZEVzS3ZsdjlmcEMtNC1CWG5MT0R1OU1qMHN6SDE4UkpSQlo0anNCMFVtdEZWM283ZFJqOWt3N2k4dmxlYk45TUZ2NXlRODRMeGt1U2R6TENkV3FJTjE2M0U1MTVZRmY0TkJUUmhITHM1V05NSy1TQQ?oc=5": {
       "at": "2026-11-23T19:29:30+00:00",
       "status": "review",
@@ -10714,6 +10736,11 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "the further mis adventures of cliff booth|2026|https://www.elmundo.es/cultura/cine/2026/11/24/6b056459e85ecedb028b457f.html": {
+      "at": "2026-11-25T01:28:48+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "the further mis adventures of cliff booth|2026|https://www.empireonline.com/movies/features/quentin-tarantino-david-fincher-further-mis-adventures-of-cliff-booth-interview-exclusive/": {
       "at": "2026-11-19T15:28:55+00:00",
       "status": "not_review"
@@ -10760,6 +10787,10 @@
     },
     "the further mis adventures of cliff booth|2026|https://www.hollywoodreporter.com/movies/movie-features/yahya-abdul-mateen-ii-cliff-booth-feature-1236761149/": {
       "at": "2026-11-23T18:29:25+00:00",
+      "status": "not_review"
+    },
+    "the further mis adventures of cliff booth|2026|https://www.hollywoodreporter.com/movies/movie-news/hunger-games-sunrise-on-the-reaping-thanksgiving-box-office-1236762317/": {
+      "at": "2026-11-25T01:28:54+00:00",
       "status": "not_review"
     },
     "the further mis adventures of cliff booth|2026|https://www.hollywoodreporter.com/movies/movie-reviews/the-further-mis-adventures-of-cliff-booth-review-brad-pitt-1236759005/": {
@@ -10865,6 +10896,10 @@
       "at": "2026-11-19T18:29:20+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "the further mis adventures of cliff booth|2026|https://www.smh.com.au/culture/movies/is-cliff-booth-brad-pitt-s-greatest-creation-it-s-complicated-20261125-p61g2j.html": {
+      "at": "2026-11-25T01:28:52+00:00",
+      "status": "not_review"
     },
     "the further mis adventures of cliff booth|2026|https://www.telegraph.co.uk/films/0/the-further-mis-adventures-of-cliff-booth-review-brad-pitt/": {
       "at": "2026-11-19T18:05:27+00:00",
