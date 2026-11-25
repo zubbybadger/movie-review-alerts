@@ -1192,6 +1192,16 @@
         "summary": "De Niro coasts through silly material, though the critic shrugs it off as a harmless paycheck hobby.",
         "url": "https://splicedpersonality.com/2026/11/24/focker-in-law/",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-25T07:28:58+00:00",
+        "confidence": "high",
+        "critic": "Leo Brady",
+        "outlet": "AMovieGuy.com",
+        "rating": "3/4",
+        "summary": "Despite a recycled plot, it's a genuinely funny, nostalgic comedy with Stiller, De Niro and Grande in fine form.",
+        "url": "https://amovieguy.com/?p=6248",
+        "verdict": "fresh"
       }
     ],
     "godzilla minus zero|": [
@@ -4293,6 +4303,16 @@
         "rating": "",
         "summary": "Tarantino's dialogue and Fincher's digital precision make a fascinating mashup that successfully expands the Once Upon a Time world, despite a rushed third act.",
         "url": "https://spectrumculture.com/2026/11/24/the-further-mis-adventures-of-cliff-booth/",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-25T07:28:55+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Fotogramas",
+        "rating": "",
+        "summary": "Fun, intriguing and full of cinephile delights, with a superb Elizabeth Debicki, though it feels more Tarantino than Fincher.",
+        "url": "https://www.fotogramas.es/peliculas-criticas/a74519468/las-nuevas-desventuras-de-cliff-booth-critica-pelicula-opinion-tarantino-brad-pitt-netflix/",
         "verdict": "fresh"
       }
     ],
@@ -7573,6 +7593,15 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "focker in law|2026|https://amovieguy.com/2026/11/focker-in-law/": {
+      "at": "2026-11-25T07:29:00+00:00",
+      "status": "duplicate"
+    },
+    "focker in law|2026|https://amovieguy.com/?p=6248": {
+      "at": "2026-11-25T07:28:58+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "focker in law|2026|https://boundingintocomics.com/movies/movie-news/hunger-games-set-to-top-thanksgiving-box-office-hexed-focker-in-law-chase-second": {
       "at": "2026-11-24T23:28:47+00:00",
       "status": "not_review"
@@ -8789,6 +8818,10 @@
     },
     "hexed|2026|https://news.google.com/rss/articles/CBMiigFBVV95cUxNb1FBQTVtNm9hZ2JFblotRU5Hdm9uUTRUaVJXRTNHcjhBZFV2Ujd1SUZ1ZWNNaVZPZVNsWnU5WU4tTk5xZEhiNm9RZTNFMG1PUWdaNUhuWE5iSFBPRzEwb253OWxaQ1FnSEl5SFRJME4tVmlZeVNzSzhaRy1sSDAzTVl2dmRXWWhzckE?oc=5": {
       "at": "2026-11-24T19:29:13+00:00",
+      "status": "not_review"
+    },
+    "hexed|2026|https://news.google.com/rss/articles/CBMijwFBVV95cUxOcWozVTJscF9mb21tWFdNMHFwMFZJN3lIMTUyMk1rZEpOYkJIRkRMWlJwNXRTSDhNOENkYVZWN2l6dW4zX1pZQkNTQVNpaU5WUlVibkpzaGpiU1NoVnlGRDAza1B4a3hHMG4wbTE1bllBUWVTMlNzdVNxUVF3UzBaSGlPaDdTcnBlaXZnck0ydw?oc=5": {
+      "at": "2026-11-25T07:29:02+00:00",
       "status": "not_review"
     },
     "hexed|2026|https://news.google.com/rss/articles/CBMijwFBVV95cUxQRGZ4eTRfZUZRczlXaXh1Z2g0V09ZNWRtQmlVVGwzSk9GZjFmeG5IaEVWNzVwcU95XzlGclNXeWVjS2FmdTZmZy02OWNDYlBFcFBJYkhyMHZ0YXJhZEdvQ2FGR1RTdVota1ZNMEVHZ2U0X0tYWXVUdGl6dlBJeVJwWm5CX1E0X1RXN0x1NEhUMA?oc=5": {
@@ -10868,6 +10901,11 @@
     "the further mis adventures of cliff booth|2026|https://www.espinof.com/directores-y-guionistas/david-fincher-uso-ia-generativa-nuevas-desventuras-cliff-booth-existe-no-deberiamos-usarla": {
       "at": "2026-11-23T17:22:20+00:00",
       "status": "not_review"
+    },
+    "the further mis adventures of cliff booth|2026|https://www.fotogramas.es/peliculas-criticas/a74519468/las-nuevas-desventuras-de-cliff-booth-critica-pelicula-opinion-tarantino-brad-pitt-netflix/": {
+      "at": "2026-11-25T07:28:55+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "the further mis adventures of cliff booth|2026|https://www.gamesradar.com/entertainment/thriller-movies/the-further-mis-adventures-of-cliff-booth-review/": {
       "at": "2026-11-19T18:05:18+00:00",
