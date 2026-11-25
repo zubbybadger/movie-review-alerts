@@ -1232,6 +1232,16 @@
         "summary": "A mostly painless sequel that flips the original's dynamics, with Ariana Grande stealing the show.",
         "url": "https://www.nytimes.com/2026/11/25/movies/focker-in-law-review.html",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-25T12:29:53+00:00",
+        "confidence": "high",
+        "critic": "Neil Pond",
+        "outlet": "Neil's Entertainment Picks",
+        "rating": "",
+        "summary": "Familiar Focker gags still land, with game performances from De Niro, Stiller and a refreshing Ariana Grande, plus some heart.",
+        "url": "https://neilsentertainmentpicks.com/2026/11/25/movie-review-focker-in-law/",
+        "verdict": "fresh"
       }
     ],
     "godzilla minus zero|": [
@@ -2226,6 +2236,16 @@
         "summary": "Formulaic but imaginative, funny and exceptionally moving, with a delightful Walton Goggins cat and an emotional mother-daughter story.",
         "url": "https://www.latimes.com/entertainment-arts/movies/story/2026-11-25/hexed-review-animation-disney-hailee-steinfeld-walton-goggins-jodie-foster",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-25T12:29:50+00:00",
+        "confidence": "medium",
+        "critic": "Sara Michelle Fetters",
+        "outlet": "MovieFreak.com",
+        "rating": "2.5/4",
+        "summary": "Strong voice work and animation can't overcome a derivative, unoriginal plot and weak villain; 'perfectly okay' doesn't cut it.",
+        "url": "http://moviefreak.com/hexed-2026-movie-review/",
+        "verdict": "rotten"
       }
     ],
     "how to rob a bank|2026": [
@@ -4414,6 +4434,16 @@
         "summary": "Long-winded but nostalgically enjoyable caper, buoyed by Pitt's charisma and Fincher's staging of Tarantino dialogue, though forgettable and sometimes gratuitous.",
         "url": "https://www.timeout.com/movies/the-further-mis-adventures-of-cliff-booth-review-2026",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-25T12:29:56+00:00",
+        "confidence": "low",
+        "critic": "",
+        "outlet": "Boston Hassle",
+        "rating": "",
+        "summary": "Entertaining cinematic junk food with fun dialogue and cast, but inessential, juvenile, and unsatisfying given Tarantino's and Fincher's pedigree.",
+        "url": "https://bostonhassle.com/review-the-further-mis-adventures-of-cliff-booth-2026-dir-david-fincher/",
+        "verdict": "rotten"
       }
     ],
     "the hunger games sunrise on the reaping|2026": [
@@ -7715,6 +7745,10 @@
       "at": "2026-11-25T11:29:55+00:00",
       "status": "not_review"
     },
+    "focker in law|2026|https://collider.com/ariana-grande-focker-in-law-john-hamburg-ben-still-robert-de-niro-interview/": {
+      "at": "2026-11-25T12:30:05+00:00",
+      "status": "not_review"
+    },
     "focker in law|2026|https://collider.com/ariana-grande-focker-in-law-rotten-tomatoes-score/": {
       "at": "2026-11-25T00:29:59+00:00",
       "status": "not_review"
@@ -7790,6 +7824,11 @@
     "focker in law|2026|https://movieweb.com/tag/movie/focker-in-law/": {
       "at": "2026-11-23T17:23:18+00:00",
       "status": "not_review"
+    },
+    "focker in law|2026|https://neilsentertainmentpicks.com/2026/11/25/movie-review-focker-in-law/": {
+      "at": "2026-11-25T12:29:53+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "focker in law|2026|https://news.google.com/rss/articles/CBMiVkFVX3lxTFBEUUt2b2dRMmhSSWY4ZnlMUWcwSEo5SDBBTVNFQktQNEpxS1NGeWpNWUxiS1F5WUpiUHMtaEJGVFl2TUtZN3NNT0Fob2RINGRjMXV5aHZ30gFbQVVfeXFMTzIwbzRFNVVBdW02RVVYOXBBcVIzYl84bjNBdFdoX2RVczU4bkF6SVFZZk1IREE0aVZFOEFubF9UMU8zVGRybDRtT0t5ZlVGc0xGVjBrc0E4b0lsbw?oc=5": {
       "at": "2026-11-25T09:29:05+00:00",
@@ -8840,6 +8879,11 @@
       "at": "2026-11-08T18:50:32+00:00",
       "status": "not_review"
     },
+    "hexed|2026|http://moviefreak.com/hexed-2026-movie-review/": {
+      "at": "2026-11-25T12:29:50+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
     "hexed|2026|https://attractionsmagazine.com/disney-hexed-things-to-do-popcorn-drinks/": {
       "at": "2026-11-25T10:30:09+00:00",
       "status": "not_review"
@@ -9063,6 +9107,10 @@
       "at": "2026-11-24T17:05:30+00:00",
       "status": "review",
       "verdict": "rotten"
+    },
+    "hexed|2026|https://www.avclub.com/hexed-review-disney-witches-trauma-rashida-jones-hailee-steinfeld?utm_source=rss&utm_medium=rss&utm_campaign=hexed-review-disney-witches-trauma-rashida-jones-hailee-steinfeld": {
+      "at": "2026-11-25T12:30:00+00:00",
+      "status": "duplicate"
     },
     "hexed|2026|https://www.bollywoodhungama.com/movie/hexed-english/": {
       "at": "2026-11-21T16:05:23+00:00",
@@ -10582,6 +10630,11 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "the further mis adventures of cliff booth|2026|https://bostonhassle.com/review-the-further-mis-adventures-of-cliff-booth-2026-dir-david-fincher/": {
+      "at": "2026-11-25T12:29:56+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
     "the further mis adventures of cliff booth|2026|https://cinapse.net/2026/11/tarantino-and-pitt-bring-fincher-along-for-the-ride-in-the-further-mis-adventures-of-cliff-booth/": {
       "at": "2026-11-20T05:29:11+00:00",
       "status": "review",
@@ -10620,6 +10673,10 @@
     },
     "the further mis adventures of cliff booth|2026|https://collider.com/tag/movie/the-adventures-of-cliff-booth/": {
       "at": "2026-11-19T18:05:36+00:00",
+      "status": "not_review"
+    },
+    "the further mis adventures of cliff booth|2026|https://collider.com/the-further-mis-adventures-of-cliff-booth-imax-theaters-netflix-release/": {
+      "at": "2026-11-25T12:30:03+00:00",
       "status": "not_review"
     },
     "the further mis adventures of cliff booth|2026|https://consequence.net/2026/11/further-mis-adventures-of-cliff-booth-review/": {
@@ -10811,6 +10868,10 @@
       "at": "2026-11-19T18:05:50+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "the further mis adventures of cliff booth|2026|https://screenrant.com/brad-pitt-further-misadventures-of-cliff-booth-imax-release-netflix-history/": {
+      "at": "2026-11-25T12:30:07+00:00",
+      "status": "not_review"
     },
     "the further mis adventures of cliff booth|2026|https://screenrant.com/cliff-booth-sequel-once-upon-time-hollywood-wife-death-mystery/": {
       "at": "2026-11-23T17:22:58+00:00",
