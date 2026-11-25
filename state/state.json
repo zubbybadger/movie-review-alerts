@@ -1182,6 +1182,16 @@
         "summary": "Dismal sequel with failed jokes, mediocre direction and overeager Stiller and De Niro; only Ariana Grande's superb timing salvages parts.",
         "url": "https://time.com/article/2026/11/25/focker-in-law-review-ariana-grande/",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-25T05:30:38+00:00",
+        "confidence": "low",
+        "critic": "",
+        "outlet": "Spliced Personality",
+        "rating": "",
+        "summary": "De Niro coasts through silly material, though the critic shrugs it off as a harmless paycheck hobby.",
+        "url": "https://splicedpersonality.com/2026/11/24/focker-in-law/",
+        "verdict": "rotten"
       }
     ],
     "godzilla minus zero|": [
@@ -4264,6 +4274,16 @@
         "summary": "Fincher honors Tarantino's spirit with stylish violence, strong Pitt and Debicki performances, and great craft, despite long runtime and digital look.",
         "url": "https://www.20minutos.es/cinemania/criticas/critica-nuevas-desventuras-cliff-booth-fincher-violencia-tarantino_7064845_3.html",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-25T05:30:36+00:00",
+        "confidence": "medium",
+        "critic": "Mark Dujsik",
+        "outlet": "Mark Reviews Movies",
+        "rating": "",
+        "summary": "Tarantino's sequel coasts on nostalgia for his own prior film, with Fincher's precise direction and a predictable, dull plot.",
+        "url": "http://www.markreviewsmovies.com/reviews/F/furthermisadventuresofcliffbooth.htm",
+        "verdict": "rotten"
       }
     ],
     "the hunger games sunrise on the reaping|2026": [
@@ -7716,6 +7736,11 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "focker in law|2026|https://splicedpersonality.com/2026/11/24/focker-in-law/": {
+      "at": "2026-11-25T05:30:38+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
     "focker in law|2026|https://thefutureoftheforce.com/2026/11/23/review-focker-in-law-2026/": {
       "at": "2026-11-23T17:23:15+00:00",
       "status": "review",
@@ -10354,6 +10379,11 @@
       "at": "2026-11-08T18:50:34+00:00",
       "status": "not_review"
     },
+    "the further mis adventures of cliff booth|2026|http://www.markreviewsmovies.com/reviews/F/furthermisadventuresofcliffbooth.htm": {
+      "at": "2026-11-25T05:30:36+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
     "the further mis adventures of cliff booth|2026|https://athomeinhollywood.com/2026/11/24/mis-adventures-of-cliff-booth/": {
       "at": "2026-11-24T22:30:29+00:00",
       "status": "review",
@@ -10960,6 +10990,10 @@
     },
     "the further mis adventures of cliff booth|2026|https://www.smh.com.au/culture/movies/is-cliff-booth-brad-pitt-s-greatest-creation-it-s-complicated-20261125-p61g2j.html": {
       "at": "2026-11-25T01:28:52+00:00",
+      "status": "not_review"
+    },
+    "the further mis adventures of cliff booth|2026|https://www.smh.com.au/culture/movies/the-further-mis-adventures-of-cliff-booth-20261125-p61haa.html": {
+      "at": "2026-11-25T05:30:40+00:00",
       "status": "not_review"
     },
     "the further mis adventures of cliff booth|2026|https://www.telegraph.co.uk/films/0/the-further-mis-adventures-of-cliff-booth-review-brad-pitt/": {
