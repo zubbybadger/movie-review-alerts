@@ -1262,6 +1262,16 @@
         "summary": "Some funny set pieces and committed performances, but the wobbly tone and unfunny central joke of Greg's hostility taint the film.",
         "url": "https://itsbetterinthedark.blogspot.com/2026/11/review-focker-in-law.html",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-25T17:29:27+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "InSession Film",
+        "rating": "",
+        "summary": "Only the headline is available, and it calls the film a 'focking disaster', signaling a clearly negative take.",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE80UjRJQk1Qd0Vpekc1TXFQOURFOVQ0Z2dad0lRSDM0Ri0wbmZQbTgybkZ4b2Jja0JsazFPVGowWWgxcjRLLWlZbmNaeE1RWEdrdU9BV2pYWmxTMXd5alNLNWRwWQ?oc=5",
+        "verdict": "rotten"
       }
     ],
     "godzilla minus zero|": [
@@ -2285,6 +2295,26 @@
         "rating": "",
         "summary": "Disney's witchy mother-daughter adventure has plenty of charm, though the magic fades before the end.",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1JUVVNVkIxcUJHd1VFVHA1QTAtTHRCd24wWndPSWUyMDBWbXNDOHFPVWNPdlpfZ2hIZ3pRUmxrOGtQOWVqdE9WYzYydXI2X3kxelHSAVdBVV95cUxPcERXMWFNODBhdUNNRDQtLTFBLXBKVGpzSWpKejBVUXJLMjZFUHJPdkJVYVJrY0ZEN2t2RV95ckJud3ZRUXk3ZUVzVWZaWHpmN3hVMk4wQUk?oc=5",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-25T17:29:19+00:00",
+        "confidence": "low",
+        "critic": "",
+        "outlet": "The Globe and Mail",
+        "rating": "",
+        "summary": "Some magic sparkles, but a meandering, muddled plot blunts its motherhood commentary and the mother-daughter bond lacks emotional pull.",
+        "url": "https://www.theglobeandmail.com/culture/film-and-tv/film/article-hexed-review-disney-animation-hailee-steinfeld-rashida-jones/",
+        "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-25T17:29:31+00:00",
+        "confidence": "low",
+        "critic": "",
+        "outlet": "TheOnlyCritic",
+        "rating": "",
+        "summary": "Headline suggests the critic found Disney's film routine but ultimately entertaining.",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZ28yRjhGSG5ycjVPYjVmTFRJN3JEalJ5dXY3eTBudEZSa054TlBYc0JEemszdnZ1MDAwOWRTZW50eE1tUDZrY2NQNG1zR2swS09URzFEZk0xZVhhQU5jc1J0aFR4Wml3a1NPSDdDOE5IenZHcjlNLWdCQUJuZEIwRHZMd0F0ODdFUmZzMHhNLUJpSnU4czIzMGlramljRmNIRWJ4eXBHaEdiUQ?oc=5",
         "verdict": "fresh"
       }
     ],
@@ -7928,6 +7958,11 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "focker in law|2026|https://news.google.com/rss/articles/CBMiY0FVX3lxTE80UjRJQk1Qd0Vpekc1TXFQOURFOVQ0Z2dad0lRSDM0Ri0wbmZQbTgybkZ4b2Jja0JsazFPVGowWWgxcjRLLWlZbmNaeE1RWEdrdU9BV2pYWmxTMXd5alNLNWRwWQ?oc=5": {
+      "at": "2026-11-25T17:29:27+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
     "focker in law|2026|https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pSG44Y1A4cW9FTF9aX2gzQ3RkOHNRbmdycC1lSDdsWFVDcEVZdXBxdTVPRUJ0eFc2VjFHWXVCbU9obU5QX1BqWXBHRFVGcHNqY29EQTNtbGZ0T05wT2N5QTAwLWgxSWM?oc=5": {
       "at": "2026-11-23T19:29:28+00:00",
       "status": "review",
@@ -8001,6 +8036,10 @@
     },
     "focker in law|2026|https://screenrant.com/focker-in-law-rotten-tomatoes-score-debut/": {
       "at": "2026-11-23T18:29:27+00:00",
+      "status": "not_review"
+    },
+    "focker in law|2026|https://screenrant.com/focker-in-law-sequel-olivia-parents-casting-return-potential/": {
+      "at": "2026-11-25T17:29:23+00:00",
       "status": "not_review"
     },
     "focker in law|2026|https://screenrant.com/new-movies-releasing-thanksgiving-weekend-2026/": {
@@ -8091,6 +8130,10 @@
     },
     "focker in law|2026|https://www.comingsoon.net/movies/news/2230011-ariana-grande-2-peacock-movies-wicked-focker-in-law-release-dates": {
       "at": "2026-11-24T17:59:10+00:00",
+      "status": "not_review"
+    },
+    "focker in law|2026|https://www.comingsoon.net/movies/news/2230585-focker-in-law-director-barbra-streisand-dustin-hoffman-return": {
+      "at": "2026-11-25T17:29:25+00:00",
       "status": "not_review"
     },
     "focker in law|2026|https://www.comingsoon.net/movies/reviews/2229269-focker-in-law-review-ariana-grande-shines-in-familiar-movie-sequel": {
@@ -9133,6 +9176,11 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "hexed|2026|https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZ28yRjhGSG5ycjVPYjVmTFRJN3JEalJ5dXY3eTBudEZSa054TlBYc0JEemszdnZ1MDAwOWRTZW50eE1tUDZrY2NQNG1zR2swS09URzFEZk0xZVhhQU5jc1J0aFR4Wml3a1NPSDdDOE5IenZHcjlNLWdCQUJuZEIwRHZMd0F0ODdFUmZzMHhNLUJpSnU4czIzMGlramljRmNIRWJ4eXBHaEdiUQ?oc=5": {
+      "at": "2026-11-25T17:29:31+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "hexed|2026|https://nextbestpicture.com/disneys-hexed/": {
       "at": "2026-11-24T17:05:54+00:00",
       "status": "review",
@@ -9192,6 +9240,10 @@
       "at": "2026-11-24T21:28:55+00:00",
       "status": "not_review"
     },
+    "hexed|2026|https://variety.com/2026/film/box-office/sunrise-on-the-reaping-box-office-hunger-games-prequel-hexed-previews-1236958028/": {
+      "at": "2026-11-25T17:29:16+00:00",
+      "status": "not_review"
+    },
     "hexed|2026|https://variety.com/2026/film/box-office/thanksgiving-box-office-projections-sunrise-on-the-reaping-focker-in-law-disney-hexed-1236956070/": {
       "at": "2026-11-24T15:28:59+00:00",
       "status": "not_review"
@@ -9226,6 +9278,10 @@
       "at": "2026-11-24T17:05:32+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "hexed|2026|https://www.cbr.com/disney-hexed-rotten-tomatoes-score/": {
+      "at": "2026-11-25T17:29:29+00:00",
+      "status": "not_review"
     },
     "hexed|2026|https://www.cbr.com/disney-lilo-and-scratch-hybrid-animation/": {
       "at": "2026-11-22T19:41:10+00:00",
@@ -9337,6 +9393,11 @@
     "hexed|2026|https://www.the-independent.com/arts-entertainment/films/news/jodie-foster-favorite-film-the-lion-king-b3089246.html": {
       "at": "2026-11-21T21:47:17+00:00",
       "status": "not_review"
+    },
+    "hexed|2026|https://www.theglobeandmail.com/culture/film-and-tv/film/article-hexed-review-disney-animation-hailee-steinfeld-rashida-jones/": {
+      "at": "2026-11-25T17:29:19+00:00",
+      "status": "review",
+      "verdict": "rotten"
     },
     "how to rob a bank|2026|http://www.markreviewsmovies.com/reviews/H/howtorobabank.htm": {
       "at": "2026-11-13T05:38:23+00:00",
@@ -11097,6 +11158,10 @@
     },
     "the further mis adventures of cliff booth|2026|https://theplaylist.net/david-fincher-ai-cliff-booth-controversy-20261120/": {
       "at": "2026-11-20T14:45:29+00:00",
+      "status": "not_review"
+    },
+    "the further mis adventures of cliff booth|2026|https://theplaylist.net/david-fincher-confirms-ai-use-cliff-booth-future-filmmaking-20261125/": {
+      "at": "2026-11-25T17:29:21+00:00",
       "status": "not_review"
     },
     "the further mis adventures of cliff booth|2026|https://theplaylist.net/david-leitch-confirms-oceans-14-update-20261123/": {
