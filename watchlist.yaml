@@ -285,3 +285,5 @@ sites:
   - https://news.google.com/rss/search?q=site:upi.com&hl=en-US&gl=US&ceid=US:en
   - https://news.google.com/rss/search?q=site:butwhytho.net&hl=en-US&gl=US&ceid=US:en
   - https://news.google.com/rss/search?q=site:showbizjunkies.com&hl=en-US&gl=US&ceid=US:en
+  # Added 2026-11-26 by the daily sweep (reviews the bot never saw; watched through Google News).
+  - https://news.google.com/rss/search?q=site:rendyreviews.com&hl=en-US&gl=US&ceid=US:en
