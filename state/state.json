@@ -9437,6 +9437,10 @@
       "status": "review",
       "verdict": "rotten"
     },
+    "hexed|2026|https://movieweb.com/hexed-magic-explained/": {
+      "at": "2026-11-26T20:29:19+00:00",
+      "status": "not_review"
+    },
     "hexed|2026|https://movieweb.com/hexed-review/": {
       "at": "2026-11-24T17:06:05+00:00",
       "status": "review",
@@ -9673,6 +9677,10 @@
     },
     "hexed|2026|https://www.comingsoon.net/movies/news/2231543-hailee-steinfeld-disney-hexed-surprise": {
       "at": "2026-11-26T18:29:13+00:00",
+      "status": "not_review"
+    },
+    "hexed|2026|https://www.comingsoon.net/movies/news/2231629-hailee-steinfeld-200m-hexed-thanksgiving-box-office-curse": {
+      "at": "2026-11-26T20:29:17+00:00",
       "status": "not_review"
     },
     "hexed|2026|https://www.comingsoon.net/movies/reviews/2229937-hexed-review-hailee-steinfelds-bewitching-disney-movie": {
