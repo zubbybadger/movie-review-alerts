@@ -2446,6 +2446,16 @@
         "summary": "Despite familiar Disney echoes, it's a colorful, emotional mother-daughter adventure with fun sidekicks that finds fresh, resonant magic.",
         "url": "https://www.timeout.com/movies/hexed-review-2026",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-26T18:29:03+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "Boston Hassle",
+        "rating": "",
+        "summary": "Despite bland design and modern Disney annoyances, an energetic mother-daughter adventure with real stakes and a genuine villain makes it a solid effort.",
+        "url": "https://bostonhassle.com/review-hexed-2026-dir-fawn-veerasunthorn-jason-hand/",
+        "verdict": "fresh"
       }
     ],
     "how to rob a bank|2026": [
@@ -8417,6 +8427,10 @@
       "at": "2026-11-26T13:28:54+00:00",
       "status": "not_review"
     },
+    "focker in law|2026|https://www.comingsoon.net/movies/news/2231549-robert-de-niro-ariana-grande-focker-in-law-sequel-update": {
+      "at": "2026-11-26T18:29:15+00:00",
+      "status": "not_review"
+    },
     "focker in law|2026|https://www.comingsoon.net/movies/reviews/2229269-focker-in-law-review-ariana-grande-shines-in-familiar-movie-sequel": {
       "at": "2026-11-23T17:23:12+00:00",
       "status": "review",
@@ -8448,6 +8462,10 @@
     },
     "focker in law|2026|https://www.hollywoodreporter.com/movies/movie-news/focker-in-law-movie-director-ariana-grande-ben-stiller-plot-1236760299/": {
       "at": "2026-11-24T17:05:18+00:00",
+      "status": "not_review"
+    },
+    "focker in law|2026|https://www.hollywoodreporter.com/movies/movie-news/hunger-games-sunrise-box-office-thanksgiving-focker-hexed-1236764014/": {
+      "at": "2026-11-26T18:29:05+00:00",
       "status": "not_review"
     },
     "focker in law|2026|https://www.hollywoodreporter.com/movies/movie-news/hunger-games-sunrise-on-the-reaping-thanksgiving-box-office-1236762317/": {
@@ -8505,6 +8523,10 @@
       "at": "2026-11-23T17:22:15+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "focker in law|2026|https://www.rollingstone.com/tv-movies/tv-movie-lists/ariana-grande-focker-in-law-best-acting-roles-1235663043/": {
+      "at": "2026-11-26T18:29:09+00:00",
+      "status": "not_review"
     },
     "focker in law|2026|https://www.screendaily.com/reviews/focker-in-law-review-ariana-grande-joins-ben-stiller-and-robert-de-niro-for-strained-fourth-installment-of-comedy-franchise/5222711.article": {
       "at": "2026-11-23T17:59:08+00:00",
@@ -9301,6 +9323,11 @@
       "at": "2026-11-25T10:30:09+00:00",
       "status": "not_review"
     },
+    "hexed|2026|https://bostonhassle.com/review-hexed-2026-dir-fawn-veerasunthorn-jason-hand/": {
+      "at": "2026-11-26T18:29:03+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "hexed|2026|https://boundingintocomics.com/movies/movie-news/disneys-hexed-review-hailee-steinfeld-film-is-hollow-joke-heavy-and-low-on-stakes": {
       "at": "2026-11-26T14:29:40+00:00",
       "status": "review",
@@ -9624,6 +9651,10 @@
       "at": "2026-11-25T19:29:13+00:00",
       "status": "not_review"
     },
+    "hexed|2026|https://www.comingsoon.net/movies/news/2231543-hailee-steinfeld-disney-hexed-surprise": {
+      "at": "2026-11-26T18:29:13+00:00",
+      "status": "not_review"
+    },
     "hexed|2026|https://www.comingsoon.net/movies/reviews/2229937-hexed-review-hailee-steinfelds-bewitching-disney-movie": {
       "at": "2026-11-24T17:05:57+00:00",
       "status": "review",
@@ -9647,6 +9678,10 @@
       "at": "2026-11-25T22:29:02+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "hexed|2026|https://www.hollywoodreporter.com/movies/movie-news/hunger-games-sunrise-box-office-thanksgiving-focker-hexed-1236764014/": {
+      "at": "2026-11-26T18:29:07+00:00",
+      "status": "not_review"
     },
     "hexed|2026|https://www.hollywoodreporter.com/movies/movie-news/hunger-games-sunrise-on-the-reaping-thanksgiving-box-office-1236762317/": {
       "at": "2026-11-25T01:28:58+00:00",
@@ -11208,6 +11243,10 @@
       "at": "2026-11-21T23:29:04+00:00",
       "status": "not_review"
     },
+    "the further mis adventures of cliff booth|2026|https://collider.com/quentin-tarantino-the-further-mis-adventures-of-cliff-booth-box-office-1-million/": {
+      "at": "2026-11-26T18:29:11+00:00",
+      "status": "not_review"
+    },
     "the further mis adventures of cliff booth|2026|https://collider.com/quentin-tarantino-the-further-mis-adventures-of-cliff-booth-rotten-tomatoes-score/": {
       "at": "2026-11-19T18:29:17+00:00",
       "status": "not_review"
@@ -11307,6 +11346,10 @@
     },
     "the further mis adventures of cliff booth|2026|https://movieweb.com/tag/movie/the-adventures-of-cliff-booth/": {
       "at": "2026-11-19T18:06:08+00:00",
+      "status": "not_review"
+    },
+    "the further mis adventures of cliff booth|2026|https://movieweb.com/the-further-mis-adventures-of-cliff-booth-audience-score/": {
+      "at": "2026-11-26T18:29:17+00:00",
       "status": "not_review"
     },
     "the further mis adventures of cliff booth|2026|https://movieweb.com/the-further-mis-adventures-of-cliff-booth-review/": {
