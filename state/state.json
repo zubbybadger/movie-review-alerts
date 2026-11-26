@@ -1302,6 +1302,26 @@
         "summary": "A well-crafted throwback comedy whose jokes mostly land, with Ariana Grande injecting fresh energy despite diminishing returns on callbacks.",
         "url": "https://boundingintocomics.com/movies/movie-news/focker-in-law-review-ben-stillers-sequel-is-a-throwback-comedy-where-the-jokes-mostly-land",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-26T04:28:41+00:00",
+        "confidence": "medium",
+        "critic": "Mark Dujsik",
+        "outlet": "Mark Reviews Movies",
+        "rating": "",
+        "summary": "Clever premise flip and charming leads, but sidelined characters and stretched, cheap gags make it 'if not a good movie,' merely occasionally charming.",
+        "url": "http://www.markreviewsmovies.com/reviews/F/fockerinlaw.htm",
+        "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-26T04:28:46+00:00",
+        "confidence": "low",
+        "critic": "",
+        "outlet": "TheOnlyCritic",
+        "rating": "",
+        "summary": "Headline suggests Ariana Grande's performance keeps the aging comedy franchise afloat, implying a mildly positive take.",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOemVSWXJWSzRYREZVcDJTWW5wSVBMODlDSUtZTUJ5T2kwblZWYjF0eWY2eUJIYk5EQUNaOXgweDhtNTRQRE8zVkFUWWk1UTR4YWhaMnd5eTVhTnRZOUk3U1ZXZDEyZEFGcktjRVQ3Z0RBclpXOTFfSWlJWnZ6UTFMYnJTOUdDcGJ3ZkpJOWNLOFYtdEVDSklRWFVHQ3piX1B3LXE5ek1XcXU?oc=5",
+        "verdict": "fresh"
       }
     ],
     "godzilla minus zero|": [
@@ -7953,6 +7973,11 @@
       "status": "review",
       "verdict": "rotten"
     },
+    "focker in law|2026|http://www.markreviewsmovies.com/reviews/F/fockerinlaw.htm": {
+      "at": "2026-11-26T04:28:41+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
     "focker in law|2026|http://www.shadowsonthewall.co.uk/26/fockerin.htm": {
       "at": "2026-11-23T19:29:09+00:00",
       "status": "review",
@@ -8124,6 +8149,11 @@
     },
     "focker in law|2026|https://news.google.com/rss/articles/CBMicEFVX3lxTE5XZlpvTjREUS1YTXRwU1VFYVRQcjR4VDVpcjl4UjVXaXNzc2hVMmtkNUcwaU8tOFBGU2VfMVZqdzlIcjBsancxaTFwQ1lOUXpwMmQzcEZjQTRmdWZPOVVPQW1Ma2liU21fQTR0eFBYSTI?oc=5": {
       "at": "2026-11-24T14:02:36+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "focker in law|2026|https://news.google.com/rss/articles/CBMiqAFBVV95cUxOemVSWXJWSzRYREZVcDJTWW5wSVBMODlDSUtZTUJ5T2kwblZWYjF0eWY2eUJIYk5EQUNaOXgweDhtNTRQRE8zVkFUWWk1UTR4YWhaMnd5eTVhTnRZOUk3U1ZXZDEyZEFGcktjRVQ3Z0RBclpXOTFfSWlJWnZ6UTFMYnJTOUdDcGJ3ZkpJOWNLOFYtdEVDSklRWFVHQ3piX1B3LXE5ek1XcXU?oc=5": {
+      "at": "2026-11-26T04:28:46+00:00",
       "status": "review",
       "verdict": "fresh"
     },
@@ -9530,6 +9560,10 @@
     },
     "hexed|2026|https://www.independent.co.uk/arts-entertainment/films/news/jodie-foster-favorite-film-the-lion-king-b3089246.html": {
       "at": "2026-11-21T21:28:57+00:00",
+      "status": "not_review"
+    },
+    "hexed|2026|https://www.kaplanvskaplan.com/new-releases/hexed/": {
+      "at": "2026-11-26T04:28:43+00:00",
       "status": "not_review"
     },
     "hexed|2026|https://www.kget.com/community/ricks-reviews/hexed-fails-to-cast-magical-spell/": {
