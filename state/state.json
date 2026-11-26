@@ -4694,6 +4694,16 @@
         "summary": "Brad Pitt shines in a Tarantino script filtered through Fincher's darker style, with prodigious period detail, superb soundtrack and perfect supporting cast.",
         "url": "https://www.lanacion.com.ar/espectaculos/cine/las-nuevas-desventuras-de-cliff-booth-brad-pitt-brilla-con-el-guion-de-tarantino-pasado-por-el-nid26112026/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-26T09:29:03+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "Clar\u00edn",
+        "rating": "Buena",
+        "summary": "A fun, gritty black comedy anchored by Brad Pitt, though less excessive than its predecessor and possibly slow for non-cinephiles.",
+        "url": "https://www.clarin.com/espectaculos/brad-pitt-actua-tarantino-escribe-david-fincher-dirige-nuevas-desventuras-cliff-booth-divertida-escabrosa-comedia-negra_0_DJEWnOg2R3.html",
+        "verdict": "fresh"
       }
     ],
     "the hunger games sunrise on the reaping|2026": [
@@ -11558,6 +11568,11 @@
     "the further mis adventures of cliff booth|2026|https://www.cbr.com/video/cliff-booth-why-fincher-and-tarantino-work-so-well/": {
       "at": "2026-11-24T16:29:24+00:00",
       "status": "not_review"
+    },
+    "the further mis adventures of cliff booth|2026|https://www.clarin.com/espectaculos/brad-pitt-actua-tarantino-escribe-david-fincher-dirige-nuevas-desventuras-cliff-booth-divertida-escabrosa-comedia-negra_0_DJEWnOg2R3.html": {
+      "at": "2026-11-26T09:29:03+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "the further mis adventures of cliff booth|2026|https://www.comingsoon.net/movies/features/2196824-5-best-brad-pitt-movies-ranked-ahead-of-cliff-booth": {
       "at": "2026-11-24T04:29:32+00:00",
