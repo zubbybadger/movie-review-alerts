@@ -4634,6 +4634,16 @@
         "summary": "Brad Pitt shines, but the critic finds the sequel overall lackluster.",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVTRqX0hhYnVsRzBodHpfaXRRWUFHc0hQeVZPZk56VXFaSThyOVlISnVHZjhqOFBVYVJSVHRZXzZPTjNwSjAxZzdsQi1CcjNoaDFYbEpWUzhMZ18zU243cmhjam9zY0V5cElVUUZQYmFDTXFLNEVrNWN6cVJiRnVXLUtWQXkxdXE4UFRJ0gGQAUFVX3lxTFBzRnVLRk5tYzNCZ3VWbml2NlB4eHcwSE92RTdtNTVScEppTjVxYjdYWGtVWW9Wd2dkLUtpTzhKR3ZTNDNhU19UQy15RnNXWk5xT1p5SHRTcFNzd3hpaGlMYkpKLW9XcUM4cFNvLUpsMWR0T0tzMUxZWHlpbHhFUng4YTVGZ0xDaGFFZmE3Zlp0Uw?oc=5",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-26T00:17:33+00:00",
+        "confidence": "high",
+        "critic": "Christian Toto",
+        "outlet": "Hollywood in Toto",
+        "rating": "4/5",
+        "summary": "A near-perfect 'hang' with witty dialogue, Pitt's star power and strong Debicki and Caan turns, despite a plodding plot.",
+        "url": "https://www.hollywoodintoto.com/further-mis-adventures-of-cliff-booth-review/?utm_source=rss&utm_medium=rss&utm_campaign=further-mis-adventures-of-cliff-booth-review",
+        "verdict": "fresh"
       }
     ],
     "the hunger games sunrise on the reaping|2026": [
@@ -8134,6 +8144,10 @@
       "status": "review",
       "verdict": "rotten"
     },
+    "focker in law|2026|https://screenrant.com/focker-in-law-no-post-credits-reason-to-stay/": {
+      "at": "2026-11-26T00:17:30+00:00",
+      "status": "not_review"
+    },
     "focker in law|2026|https://screenrant.com/focker-in-law-rotten-tomatoes-score-debut/": {
       "at": "2026-11-23T18:29:27+00:00",
       "status": "not_review"
@@ -9149,6 +9163,10 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "hexed|2026|https://collider.com/walton-goggins-disneys-hexed-rotten-tomatoes-score/": {
+      "at": "2026-11-26T00:17:28+00:00",
+      "status": "not_review"
+    },
     "hexed|2026|https://culturemixonline.com/review-hexed-2026-starring-the-voices-of-hailee-steinfeld-rashida-jones-jodie-foster-henry-winkler-walton-goggins-dan-stevens-and-brett-gelman/": {
       "at": "2026-11-24T21:28:58+00:00",
       "status": "review",
@@ -9283,6 +9301,10 @@
       "at": "2026-11-24T19:29:09+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "hexed|2026|https://news.google.com/rss/articles/CBMikAFBVV95cUxPUUkwNWpUcUsxc01vMGF0dDNNdGk0QmhJMGFqZERYbk0xU0wxUUtQRTgwUmE3ZFFTa3g0bmhKc05XUVh2emVDR3FWdVpDWnVlNzZTRk1YUm5iZ0hmcmJMdGgtWGljeFpHVzhwWnhVWTA4dmFINTJQazNFUmF0UzhHUmwwZnZrVlNheXd1bU4zcTc?oc=5": {
+      "at": "2026-11-26T00:17:37+00:00",
+      "status": "not_review"
     },
     "hexed|2026|https://news.google.com/rss/articles/CBMikwFBVV95cUxOTW1pR2p3aDFkTGxEemQtUHdEN09VRjlFMTY5WXd5V0Y3UjlsMjF6YlBaME1ibW1BTFVCdS04VjQ1WXZoZ0t1ckNoVkRmRm03NEZtZnZTSVlEUE50TTdYdXRsazZ4SHhWcTk5SG1FbTZRelFSQ3hZeGZ3Wk5JeFRhVUwzQW4tRHpiNkxxYlAtNklfSG8?oc=5": {
       "at": "2026-11-24T19:29:11+00:00",
@@ -11532,6 +11554,15 @@
     "the further mis adventures of cliff booth|2026|https://www.hindustantimes.com/entertainment/hollywood/tarantinofincher-collaboration-cliff-booth-came-with-pressure-and-fun-cast-say-101795561283914.html": {
       "at": "2026-11-24T23:28:55+00:00",
       "status": "not_review"
+    },
+    "the further mis adventures of cliff booth|2026|https://www.hollywoodintoto.com/further-mis-adventures-of-cliff-booth-review/": {
+      "at": "2026-11-26T00:17:35+00:00",
+      "status": "duplicate"
+    },
+    "the further mis adventures of cliff booth|2026|https://www.hollywoodintoto.com/further-mis-adventures-of-cliff-booth-review/?utm_source=rss&utm_medium=rss&utm_campaign=further-mis-adventures-of-cliff-booth-review": {
+      "at": "2026-11-26T00:17:33+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "the further mis adventures of cliff booth|2026|https://www.hollywoodreporter.com/business/business-news/brad-pitt-angelina-jolie-lawsuit-settlement-abuse-claims-1236763219/": {
       "at": "2026-11-25T21:29:06+00:00",
