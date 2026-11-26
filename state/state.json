@@ -2416,6 +2416,16 @@
         "summary": "Overly on-the-nose messaging and thin characters, but speedy pace, evocative visuals and strong voice cast make it passable\u2014'it'll do for now.'",
         "url": "https://www.vulture.com/article/review-disneys-hexed-will-disney-do-for-disney-now.html",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-26T12:29:29+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "SciFiNow",
+        "rating": "",
+        "summary": "A simple but fast, funny, sweet-natured adventure with an exceptional voice cast, especially Jodie Foster and Walton Goggins.",
+        "url": "https://www.scifinow.co.uk/reviews/hexed-review/",
+        "verdict": "fresh"
       }
     ],
     "how to rob a bank|2026": [
@@ -9642,6 +9652,11 @@
       "status": "review",
       "verdict": "rotten"
     },
+    "hexed|2026|https://www.scifinow.co.uk/reviews/hexed-review/": {
+      "at": "2026-11-26T12:29:29+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "hexed|2026|https://www.screendaily.com/reviews/hexed-review-uninspiring-disney-animation-about-a-teen-witch-fails-to-generate-a-great-deal-of-magic/5222730.article": {
       "at": "2026-11-24T17:29:06+00:00",
       "status": "review",
@@ -11535,6 +11550,10 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "the further mis adventures of cliff booth|2026|https://www.20minutos.es/cinemania/criticas/critica-nuevas-desventuras-cliff-booth-fincher-violencia-esplendor-hollywood-tarantino_7064845_3.html": {
+      "at": "2026-11-26T12:29:32+00:00",
+      "status": "duplicate"
+    },
     "the further mis adventures of cliff booth|2026|https://www.20minutos.es/cinemania/criticas/critica-nuevas-desventuras-cliff-booth-fincher-violencia-tarantino_7064845_3.html": {
       "at": "2026-11-25T04:29:02+00:00",
       "status": "review",
@@ -11810,6 +11829,10 @@
       "at": "2026-11-19T18:04:57+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "the further mis adventures of cliff booth|2026|https://www.polygon.com/the-further-misadventures-of-cliff-booth-david-fincher-ai/": {
+      "at": "2026-11-26T12:29:34+00:00",
+      "status": "not_review"
     },
     "the further mis adventures of cliff booth|2026|https://www.reelingreviews.com/reviews/the-further-mis-adventures-of-cliff-booth/": {
       "at": "2026-11-23T20:28:48+00:00",
