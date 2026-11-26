@@ -2426,6 +2426,16 @@
         "summary": "A simple but fast, funny, sweet-natured adventure with an exceptional voice cast, especially Jodie Foster and Walton Goggins.",
         "url": "https://www.scifinow.co.uk/reviews/hexed-review/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-26T14:29:40+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Bounding Into Comics (via That Park Place)",
+        "rating": "3/10",
+        "summary": "Flawless heroine, nonsensical magic, no stakes, and constant undercutting jokes make it hollow despite attractive art and some good voice work.",
+        "url": "https://boundingintocomics.com/movies/movie-news/disneys-hexed-review-hailee-steinfeld-film-is-hollow-joke-heavy-and-low-on-stakes",
+        "verdict": "rotten"
       }
     ],
     "how to rob a bank|2026": [
@@ -9257,6 +9267,11 @@
       "at": "2026-11-25T10:30:09+00:00",
       "status": "not_review"
     },
+    "hexed|2026|https://boundingintocomics.com/movies/movie-news/disneys-hexed-review-hailee-steinfeld-film-is-hollow-joke-heavy-and-low-on-stakes": {
+      "at": "2026-11-26T14:29:40+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
     "hexed|2026|https://boundingintocomics.com/movies/movie-news/hailee-steinfeld-confirms-kate-bishop-returns-as-hawkeye-in-avengers-doomsday": {
       "at": "2026-11-24T15:29:03+00:00",
       "status": "not_review"
@@ -9465,6 +9480,10 @@
     },
     "hexed|2026|https://screenrant.com/hexed-disney-chosen-one-story-redefine-jared-bush/": {
       "at": "2026-11-21T18:53:21+00:00",
+      "status": "not_review"
+    },
+    "hexed|2026|https://screenrant.com/hexed-disney-history-wish/": {
+      "at": "2026-11-26T14:29:43+00:00",
       "status": "not_review"
     },
     "hexed|2026|https://screenrant.com/hexed-movie-review/": {
