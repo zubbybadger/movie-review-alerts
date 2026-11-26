@@ -4754,6 +4754,16 @@
         "summary": "Cliff Booth as lead is insufferable, the plot is endlessly delayed, and the Fincher-Tarantino pairing yields something tame.",
         "url": "https://screenanarchy.com/2026/11/the-further-mis-adventures-of-cliff-booth-review.html",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-26T16:29:34+00:00",
+        "confidence": "low",
+        "critic": "",
+        "outlet": "CGMagazine",
+        "rating": "",
+        "summary": "A mixed bag where Tarantino and Fincher clash and Cliff is too infallible, but strong supporting cast keeps it fun.",
+        "url": "https://www.cgmagonline.com/review/movie/the-further-mis-adventures-of-cliff-booth/",
+        "verdict": "fresh"
       }
     ],
     "the hunger games sunrise on the reaping|2026": [
@@ -8343,6 +8353,10 @@
       "at": "2026-11-24T18:59:02+00:00",
       "status": "not_review"
     },
+    "focker in law|2026|https://variety.com/2026/film/box-office/sunrise-on-the-reaping-box-office-hunger-games-thanksgiving-eve-focker-in-law-1236958999/": {
+      "at": "2026-11-26T16:29:29+00:00",
+      "status": "not_review"
+    },
     "focker in law|2026|https://variety.com/2026/film/box-office/thanksgiving-box-office-projections-sunrise-on-the-reaping-focker-in-law-disney-hexed-1236956070/": {
       "at": "2026-11-24T15:28:57+00:00",
       "status": "not_review"
@@ -11472,6 +11486,10 @@
       "at": "2026-11-21T13:52:19+00:00",
       "status": "not_review"
     },
+    "the further mis adventures of cliff booth|2026|https://screenrant.com/quentin-tarantino-the-further-misadventures-of-cliff-booth-rotten-tomatoes-audience-score/": {
+      "at": "2026-11-26T16:29:31+00:00",
+      "status": "not_review"
+    },
     "the further mis adventures of cliff booth|2026|https://screenrant.com/quentin-tarantino-the-further-misadventures-of-cliff-booth-roundtable-interview-netflix/": {
       "at": "2026-11-25T20:29:05+00:00",
       "status": "not_review"
@@ -11667,6 +11685,11 @@
     "the further mis adventures of cliff booth|2026|https://www.cbr.com/video/cliff-booth-why-fincher-and-tarantino-work-so-well/": {
       "at": "2026-11-24T16:29:24+00:00",
       "status": "not_review"
+    },
+    "the further mis adventures of cliff booth|2026|https://www.cgmagonline.com/review/movie/the-further-mis-adventures-of-cliff-booth/": {
+      "at": "2026-11-26T16:29:34+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "the further mis adventures of cliff booth|2026|https://www.clarin.com/espectaculos/brad-pitt-actua-tarantino-escribe-david-fincher-dirige-nuevas-desventuras-cliff-booth-divertida-escabrosa-comedia-negra_0_DJEWnOg2R3.html": {
       "at": "2026-11-26T09:29:03+00:00",
