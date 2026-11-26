@@ -1322,6 +1322,16 @@
         "summary": "Headline suggests Ariana Grande's performance keeps the aging comedy franchise afloat, implying a mildly positive take.",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOemVSWXJWSzRYREZVcDJTWW5wSVBMODlDSUtZTUJ5T2kwblZWYjF0eWY2eUJIYk5EQUNaOXgweDhtNTRQRE8zVkFUWWk1UTR4YWhaMnd5eTVhTnRZOUk3U1ZXZDEyZEFGcktjRVQ3Z0RBclpXOTFfSWlJWnZ6UTFMYnJTOUdDcGJ3ZkpJOWNLOFYtdEVDSklRWFVHQ3piX1B3LXE5ek1XcXU?oc=5",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-26T11:29:09+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Filmfeeder",
+        "rating": "",
+        "summary": "A banal legacy sequel that forces nostalgia by replicating the original's formula; Ariana Grande-Butera's charisma can't save it.",
+        "url": "https://filmfeeder.co.uk/film-reviews/focker-in-law-dir-john-hamburg?utm_source=rss&utm_medium=rss&utm_campaign=focker-in-law-dir-john-hamburg",
+        "verdict": "rotten"
       }
     ],
     "godzilla minus zero|": [
@@ -8076,6 +8086,15 @@
     "focker in law|2026|https://everymoviehasalesson.com/blog/tag/Focker-in-Law": {
       "at": "2026-11-24T18:58:59+00:00",
       "status": "not_review"
+    },
+    "focker in law|2026|https://filmfeeder.co.uk/film-reviews/focker-in-law-dir-john-hamburg": {
+      "at": "2026-11-26T11:29:17+00:00",
+      "status": "duplicate"
+    },
+    "focker in law|2026|https://filmfeeder.co.uk/film-reviews/focker-in-law-dir-john-hamburg?utm_source=rss&utm_medium=rss&utm_campaign=focker-in-law-dir-john-hamburg": {
+      "at": "2026-11-26T11:29:09+00:00",
+      "status": "review",
+      "verdict": "rotten"
     },
     "focker in law|2026|https://inreviewonline.com/2026/11/24/focker-in-law-review/": {
       "at": "2026-11-24T16:29:04+00:00",
