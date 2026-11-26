@@ -1332,6 +1332,26 @@
         "summary": "A banal legacy sequel that forces nostalgia by replicating the original's formula; Ariana Grande-Butera's charisma can't save it.",
         "url": "https://filmfeeder.co.uk/film-reviews/focker-in-law-dir-john-hamburg?utm_source=rss&utm_medium=rss&utm_campaign=focker-in-law-dir-john-hamburg",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-26T21:28:50+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Riot US",
+        "rating": "C-",
+        "summary": "Despite some laughs and a strong Ariana Grande, it's a stale, junk-food comedy that makes Greg unlikable and isn't worth a theater trip.",
+        "url": "https://riot-us.com/2026/11/26/focker-in-law-review-a-comedy-full-of-empty-microwave-calories/",
+        "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-26T21:28:52+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "FlixChatter",
+        "rating": "",
+        "summary": "Familiar and predictable, but Grande, De Niro and the cast's comic spark made the critic laugh; fans should enjoy it.",
+        "url": "https://flixchatter.net/2026/11/26/flixchatter-review-focker-in-law-2026-ariana-grande-steals-the-spotlight-in-this-familiar-cringe-comedy-sequel/",
+        "verdict": "fresh"
       }
     ],
     "godzilla minus zero|": [
@@ -8156,6 +8176,39 @@
       "status": "review",
       "verdict": "rotten"
     },
+    "focker in law|2026|https://flixchatter.net/2026/11/26/flixchatter-review-focker-in-law-2026-ariana-grande-steals-the-spotlight-in-this-familiar-cringe-comedy-sequel/": {
+      "at": "2026-11-26T21:28:52+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "focker in law|2026|https://flixchatter.net/2026/11/26/flixchatter-review-focker-in-law-2026-ariana-grande-steals-the-spotlight-in-this-familiar-cringe-comedy-sequel/?share=facebook": {
+      "at": "2026-11-26T21:29:09+00:00",
+      "status": "not_review"
+    },
+    "focker in law|2026|https://flixchatter.net/2026/11/26/flixchatter-review-focker-in-law-2026-ariana-grande-steals-the-spotlight-in-this-familiar-cringe-comedy-sequel/?share=linkedin": {
+      "at": "2026-11-26T21:28:57+00:00",
+      "status": "duplicate"
+    },
+    "focker in law|2026|https://flixchatter.net/2026/11/26/flixchatter-review-focker-in-law-2026-ariana-grande-steals-the-spotlight-in-this-familiar-cringe-comedy-sequel/?share=pinterest": {
+      "at": "2026-11-26T21:29:16+00:00",
+      "status": "duplicate"
+    },
+    "focker in law|2026|https://flixchatter.net/2026/11/26/flixchatter-review-focker-in-law-2026-ariana-grande-steals-the-spotlight-in-this-familiar-cringe-comedy-sequel/?share=print": {
+      "at": "2026-11-26T21:28:54+00:00",
+      "status": "duplicate"
+    },
+    "focker in law|2026|https://flixchatter.net/2026/11/26/flixchatter-review-focker-in-law-2026-ariana-grande-steals-the-spotlight-in-this-familiar-cringe-comedy-sequel/?share=reddit": {
+      "at": "2026-11-26T21:29:11+00:00",
+      "status": "duplicate"
+    },
+    "focker in law|2026|https://flixchatter.net/2026/11/26/flixchatter-review-focker-in-law-2026-ariana-grande-steals-the-spotlight-in-this-familiar-cringe-comedy-sequel/?share=tumblr": {
+      "at": "2026-11-26T21:28:59+00:00",
+      "status": "duplicate"
+    },
+    "focker in law|2026|https://flixchatter.net/2026/11/26/flixchatter-review-focker-in-law-2026-ariana-grande-steals-the-spotlight-in-this-familiar-cringe-comedy-sequel/?share=twitter": {
+      "at": "2026-11-26T21:29:04+00:00",
+      "status": "duplicate"
+    },
     "focker in law|2026|https://inreviewonline.com/2026/11/24/focker-in-law-review/": {
       "at": "2026-11-24T16:29:04+00:00",
       "status": "review",
@@ -8285,6 +8338,11 @@
     "focker in law|2026|https://nextbestpicture.com/the-next-best-picture-podcast-interview-with-focker-in-law-primetime-star-skyler-gisondo/": {
       "at": "2026-11-24T22:30:34+00:00",
       "status": "not_review"
+    },
+    "focker in law|2026|https://riot-us.com/2026/11/26/focker-in-law-review-a-comedy-full-of-empty-microwave-calories/": {
+      "at": "2026-11-26T21:28:50+00:00",
+      "status": "review",
+      "verdict": "rotten"
     },
     "focker in law|2026|https://screenanarchy.com/2026/11/focker-in-law-review-turns-out-you-can-milk-a-lot-of-things.html": {
       "at": "2026-11-23T18:59:14+00:00",
