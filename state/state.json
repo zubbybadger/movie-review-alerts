@@ -2476,6 +2476,16 @@
         "summary": "Despite bland design and modern Disney annoyances, an energetic mother-daughter adventure with real stakes and a genuine villain makes it a solid effort.",
         "url": "https://bostonhassle.com/review-hexed-2026-dir-fawn-veerasunthorn-jason-hand/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-26T22:29:00+00:00",
+        "confidence": "low",
+        "critic": "",
+        "outlet": "Rendy Reviews",
+        "rating": "",
+        "summary": "Headline suggests the film retreads familiar generational-trauma themes; only the headline was available, so the verdict is a guess.",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5mZENBQWxfYlo3Vmd3NzR5eUxseTFYWEI0c1lLZlhWRGJoNTI5U0tUZmE2N2plLVFRVVFBZmRXeGtzLXR0ZHZ1T3hCelVsQjRMazZqMGZISkZJYmR3WnpOTzJ1VXdfZw?oc=5",
+        "verdict": "rotten"
       }
     ],
     "how to rob a bank|2026": [
@@ -4794,6 +4804,16 @@
         "summary": "A mixed bag where Tarantino and Fincher clash and Cliff is too infallible, but strong supporting cast keeps it fun.",
         "url": "https://www.cgmagonline.com/review/movie/the-further-mis-adventures-of-cliff-booth/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-26T22:28:58+00:00",
+        "confidence": "low",
+        "critic": "Rendy Jones",
+        "outlet": "Rendy Reviews",
+        "rating": "",
+        "summary": "Headline suggests the film coasts on vibe and underserves Tarantino's iconic Cliff Booth character.",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYW1ZZ3pFSHNQZ3F6eENGakJENzNTUVB0OW1QYlNtMzhQbkJjSENOb1lFaFUyVHBRY09VM0RjVEJ3RHJKYWttYVp5dDlXV1N4VTZSZFhHZWdzZVpaRnEzSUxTNVNPYU9mOUsxVGdxTVdJdWt2UnZ3OS02NHNqMHJwNzkxY1B0aWlFMTNuYy1tSFgxS1dSaWc?oc=5",
+        "verdict": "rotten"
       }
     ],
     "the hunger games sunrise on the reaping|2026": [
@@ -8626,6 +8646,10 @@
       "status": "review",
       "verdict": "rotten"
     },
+    "focker in law|2026|https://www.the-independent.com/arts-entertainment/films/news/focker-in-law-barbra-streisand-dustin-hoffman-b3092391.html": {
+      "at": "2026-11-26T22:28:55+00:00",
+      "status": "not_review"
+    },
     "focker in law|2026|https://www.theglobeandmail.com/culture/film-and-tv/film/article-focker-in-law-review-ben-stiller-robert-de-niro-ariana-grande/": {
       "at": "2026-11-24T21:29:03+00:00",
       "status": "review",
@@ -9536,6 +9560,11 @@
       "status": "review",
       "verdict": "rotten"
     },
+    "hexed|2026|https://news.google.com/rss/articles/CBMiZkFVX3lxTE5mZENBQWxfYlo3Vmd3NzR5eUxseTFYWEI0c1lLZlhWRGJoNTI5U0tUZmE2N2plLVFRVVFBZmRXeGtzLXR0ZHZ1T3hCelVsQjRMazZqMGZISkZJYmR3WnpOTzJ1VXdfZw?oc=5": {
+      "at": "2026-11-26T22:29:00+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
     "hexed|2026|https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ROW1xMElRTUYxTG1paG93UkRHNlhvX3QwTVYxMmdic2szOGVVZUpkZ2FHcTRxVURnbDNGMG56SEpYdFZoNDkwNVVfZHl6bUJwS0lMcW5CZV9EZmZ2RmYxdHVJM1podw?oc=5": {
       "at": "2026-11-25T04:29:07+00:00",
       "status": "review",
@@ -9651,6 +9680,10 @@
       "at": "2026-11-24T17:05:59+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "hexed|2026|https://thefutureoftheforce.com/2026/11/26/exclusive-interview-fawn-veerasunthorn-jason-hand-talk-us-through-creating-disneys-hexed/": {
+      "at": "2026-11-26T22:28:56+00:00",
+      "status": "not_review"
     },
     "hexed|2026|https://thefutureoftheforce.com/2026/11/26/whats-opening-in-cinemas-this-week-focker-in-law-gets-hexed-by-a-ghost-soldier/": {
       "at": "2026-11-26T07:28:54+00:00",
@@ -11538,6 +11571,11 @@
       "at": "2026-11-20T03:29:11+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "the further mis adventures of cliff booth|2026|https://news.google.com/rss/articles/CBMilgFBVV95cUxQYW1ZZ3pFSHNQZ3F6eENGakJENzNTUVB0OW1QYlNtMzhQbkJjSENOb1lFaFUyVHBRY09VM0RjVEJ3RHJKYWttYVp5dDlXV1N4VTZSZFhHZWdzZVpaRnEzSUxTNVNPYU9mOUsxVGdxTVdJdWt2UnZ3OS02NHNqMHJwNzkxY1B0aWlFMTNuYy1tSFgxS1dSaWc?oc=5": {
+      "at": "2026-11-26T22:28:58+00:00",
+      "status": "review",
+      "verdict": "rotten"
     },
     "the further mis adventures of cliff booth|2026|https://news.google.com/rss/articles/CBMipAJBVV95cUxPVENtYUdqNS1vakZVOEpnaDRCWVo2bk41WHd2Vi1ZbkNtcHVYdl9Vc09HVmRLZ2VfbmUtWTlzck1WSVhHOF9zeFN6U3NRNnFPWXRpSGVPSXk4TnloUTJNTVhyM0Ryd0FMRmJ0dmw0VnE2cE1lb3JPWXFuclhFejRtaHBYUzlXWlA2bkE5bEFBUVNTak1TSjJvdG5rQl9VVnlvRERGR3RodjBxdnRWTDEwRjZvREYtVWd0TUkzdkRzWm5jZk91ZHY1NnN3Ql9oVG96djNPZ01xTEVPNkU1VmhyMmhzV0hIdEd5MnJlQ1pfem8zdG5oRm5yZlZRRE5XVEhiUjdidWcwNVE2Y0R5Y204NW5aUXlJUnhpMExfTGlkMDFsYVpL?oc=5": {
       "at": "2026-11-23T19:29:20+00:00",
