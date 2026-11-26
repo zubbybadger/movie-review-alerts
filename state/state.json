@@ -4654,6 +4654,26 @@
         "summary": "Despite an uneven blend of humour and grisly violence, terrific energy, witty dialogue and engaging performances keep viewers thoroughly involved.",
         "url": "http://www.shadowsonthewall.co.uk/26/furtmisa.htm",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-26T03:29:18+00:00",
+        "confidence": "medium",
+        "critic": "Carla Hay",
+        "outlet": "Culture Mix",
+        "rating": "",
+        "summary": "Not outstanding and shallow on character, but a stylish hangout story with engaging performances, great music, and excellent period craft.",
+        "url": "https://culturemixonline.com/review-the-further-mis-adventures-of-cliff-booth-starring-brad-pitt-elizabeth-debicki-scott-caan-yahya-abdul-mateen-ii-carla-gugino-peter-weller-matt-groove-and-jb-tadena/",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-26T03:29:21+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "La Naci\u00f3n",
+        "rating": "Muy buena",
+        "summary": "Brad Pitt shines in a Tarantino script filtered through Fincher's darker style, with prodigious period detail, superb soundtrack and perfect supporting cast.",
+        "url": "https://www.lanacion.com.ar/espectaculos/cine/las-nuevas-desventuras-de-cliff-booth-brad-pitt-brilla-con-el-guion-de-tarantino-pasado-por-el-nid26112026/",
+        "verdict": "fresh"
       }
     ],
     "the hunger games sunrise on the reaping|2026": [
@@ -11049,6 +11069,11 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "the further mis adventures of cliff booth|2026|https://culturemixonline.com/review-the-further-mis-adventures-of-cliff-booth-starring-brad-pitt-elizabeth-debicki-scott-caan-yahya-abdul-mateen-ii-carla-gugino-peter-weller-matt-groove-and-jb-tadena/": {
+      "at": "2026-11-26T03:29:18+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "the further mis adventures of cliff booth|2026|https://deadline.com/2026/11/david-fincher-defends-ai-cliff-booth-criticism-1237230711/": {
       "at": "2026-11-21T00:28:46+00:00",
       "status": "not_review"
@@ -11657,6 +11682,11 @@
     "the further mis adventures of cliff booth|2026|https://www.kaplanvskaplan.com/new-releases/further-mis-adventures-of-cliff-booth-the/": {
       "at": "2026-11-25T04:28:57+00:00",
       "status": "not_review"
+    },
+    "the further mis adventures of cliff booth|2026|https://www.lanacion.com.ar/espectaculos/cine/las-nuevas-desventuras-de-cliff-booth-brad-pitt-brilla-con-el-guion-de-tarantino-pasado-por-el-nid26112026/": {
+      "at": "2026-11-26T03:29:21+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "the further mis adventures of cliff booth|2026|https://www.latimes.com/entertainment-arts/movies/list/cliff-booth-los-angeles-locations-tarantino-fincher-brad-pitt": {
       "at": "2026-11-25T11:29:48+00:00",
