@@ -2576,6 +2576,16 @@
         "summary": "Calls it a pleasant family watch with emotional mother-daughter moments, but predictable, visually excessive and safe; the 2-star score leans negative.",
         "url": "https://indianexpress.com/article/entertainment/movie-review/hexed-movie-review-animated-fantasy-aims-to-enchant-plays-it-safe-10980628/",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-27T12:29:05+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "Film Feeder",
+        "rating": "",
+        "summary": "A perfectly fine, classic-feeling Disney original with creative visuals and a true villain, though rushed, safe, and overloaded with awkward humour.",
+        "url": "https://filmfeeder.co.uk/film-reviews/hexed-dirs-jason-hand-and-fawn-veerasunthorn?utm_source=rss&utm_medium=rss&utm_campaign=hexed-dirs-jason-hand-and-fawn-veerasunthorn",
+        "verdict": "fresh"
       }
     ],
     "how to rob a bank|2026": [
@@ -9613,6 +9623,15 @@
     },
     "hexed|2026|https://fictionmachine.com/2026/11/26/review-hexed-2026/": {
       "at": "2026-11-27T00:28:57+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "hexed|2026|https://filmfeeder.co.uk/film-reviews/hexed-dirs-jason-hand-and-fawn-veerasunthorn": {
+      "at": "2026-11-27T12:29:13+00:00",
+      "status": "duplicate"
+    },
+    "hexed|2026|https://filmfeeder.co.uk/film-reviews/hexed-dirs-jason-hand-and-fawn-veerasunthorn?utm_source=rss&utm_medium=rss&utm_campaign=hexed-dirs-jason-hand-and-fawn-veerasunthorn": {
+      "at": "2026-11-27T12:29:05+00:00",
       "status": "review",
       "verdict": "fresh"
     },
