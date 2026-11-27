@@ -2566,6 +2566,16 @@
         "summary": "Impressive animation and amusing moments can't overcome predictable storytelling and overreliance on a familiar Disney formula.",
         "url": "https://www.bollywoodhungama.com/movie/hexed-english/critic-review/hexed-english-movie-review/hexed-scores-with-its-impressive-animation/",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-27T09:28:49+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "The Indian Express",
+        "rating": "2/5",
+        "summary": "Calls it a pleasant family watch with emotional mother-daughter moments, but predictable, visually excessive and safe; the 2-star score leans negative.",
+        "url": "https://indianexpress.com/article/entertainment/movie-review/hexed-movie-review-animated-fantasy-aims-to-enchant-plays-it-safe-10980628/",
+        "verdict": "rotten"
       }
     ],
     "how to rob a bank|2026": [
@@ -9603,6 +9613,11 @@
       "status": "review",
       "verdict": "rotten"
     },
+    "hexed|2026|https://indianexpress.com/article/entertainment/movie-review/hexed-movie-review-animated-fantasy-aims-to-enchant-plays-it-safe-10980628/": {
+      "at": "2026-11-27T09:28:49+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
     "hexed|2026|https://inreviewonline.com/2026/11/25/hexed-2026-review/": {
       "at": "2026-11-25T15:29:39+00:00",
       "status": "review",
@@ -11951,6 +11966,10 @@
       "at": "2026-11-20T15:29:03+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "the further mis adventures of cliff booth|2026|https://www.20minutos.es/cinemania/criticas/critica-nuevas-desventuras-cliff-booth-fincher-violencia-esplendor-hollywood-tarantino-estreno-cines_7064845_3.html": {
+      "at": "2026-11-27T09:28:46+00:00",
+      "status": "duplicate"
     },
     "the further mis adventures of cliff booth|2026|https://www.20minutos.es/cinemania/criticas/critica-nuevas-desventuras-cliff-booth-fincher-violencia-esplendor-hollywood-tarantino_7064845_3.html": {
       "at": "2026-11-26T12:29:32+00:00",
