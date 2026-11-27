@@ -1392,6 +1392,16 @@
         "summary": "Better than Little Fockers but predictable and unambitious, with few laughs; Stiller and Grande barely salvage it.",
         "url": "https://thefederal.com/film-reviews/film-review-hollywood-english-cinema-focker-in-law-robert-de-niro-ben-stiller-ariana-grande-meet-the-parents-meet-the-fockers-series-264300",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-27T15:28:49+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "But Why Tho?",
+        "rating": "",
+        "summary": "Only the headline is available; it calls the film excruciatingly painful, signaling a negative take.",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1CWWJHZGIwUkhDYkpCellzRE9kN2hBS1EzLWx6TTRQbjBMTDRvTmIyT1ZjeFk0R3pLSGN0ODhuWkh1dHl5MEh0OGVpT3NFT0JRRFJtWUozVGxXdW9CVG84dkZuQl9STXVhQ0JiOWxkMHV2Tjg?oc=5",
+        "verdict": "rotten"
       }
     ],
     "godzilla minus zero|": [
@@ -4934,6 +4944,16 @@
         "summary": "Headline suggests the film coasts on vibe and underserves Tarantino's iconic Cliff Booth character.",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYW1ZZ3pFSHNQZ3F6eENGakJENzNTUVB0OW1QYlNtMzhQbkJjSENOb1lFaFUyVHBRY09VM0RjVEJ3RHJKYWttYVp5dDlXV1N4VTZSZFhHZWdzZVpaRnEzSUxTNVNPYU9mOUsxVGdxTVdJdWt2UnZ3OS02NHNqMHJwNzkxY1B0aWlFMTNuYy1tSFgxS1dSaWc?oc=5",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-27T15:28:46+00:00",
+        "confidence": "low",
+        "critic": "",
+        "outlet": "But Why Tho?",
+        "rating": "",
+        "summary": "Only the headline is available; it calls the film 'a misadventure indeed,' suggesting a negative take.",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBLQzlQQ2J2YnlRZVN4TzdLOGkzTVpGMU5hdGR6S1JjZzlsTmlVM3BsN2Q4VHItOS1sOEUtOTRjd3k4WTBjU0ZBRnFmTDFEZlFMbkI1d05Ud29VY3RfcHA3eUZrTVJSeE8wZ3VmYW5hbXJDM3p1T1hGc1hmcXY?oc=5",
+        "verdict": "rotten"
       }
     ],
     "the hunger games sunrise on the reaping|2026": [
@@ -8438,6 +8458,11 @@
       "at": "2026-11-24T16:29:20+00:00",
       "status": "not_review"
     },
+    "focker in law|2026|https://news.google.com/rss/articles/CBMic0FVX3lxTE1CWWJHZGIwUkhDYkpCellzRE9kN2hBS1EzLWx6TTRQbjBMTDRvTmIyT1ZjeFk0R3pLSGN0ODhuWkh1dHl5MEh0OGVpT3NFT0JRRFJtWUozVGxXdW9CVG84dkZuQl9STXVhQ0JiOWxkMHV2Tjg?oc=5": {
+      "at": "2026-11-27T15:28:49+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
     "focker in law|2026|https://news.google.com/rss/articles/CBMicEFVX3lxTE5XZlpvTjREUS1YTXRwU1VFYVRQcjR4VDVpcjl4UjVXaXNzc2hVMmtkNUcwaU8tOFBGU2VfMVZqdzlIcjBsancxaTFwQ1lOUXpwMmQzcEZjQTRmdWZPOVVPQW1Ma2liU21fQTR0eFBYSTI?oc=5": {
       "at": "2026-11-24T14:02:36+00:00",
       "status": "review",
@@ -10024,6 +10049,10 @@
     },
     "hexed|2026|https://www.independent.co.uk/arts-entertainment/films/news/jodie-foster-favorite-film-the-lion-king-b3089246.html": {
       "at": "2026-11-21T21:28:57+00:00",
+      "status": "not_review"
+    },
+    "hexed|2026|https://www.independent.co.uk/tv/culture/jodie-foster-hexed-women-hollywood-b3092870.html": {
+      "at": "2026-11-27T15:28:44+00:00",
       "status": "not_review"
     },
     "hexed|2026|https://www.indiatoday.in/movies/reviews/story/hexed-review-disney-animated-witch-adventure-family-drama-humour-magic-3048009-2026-11-27": {
@@ -11758,6 +11787,11 @@
     "the further mis adventures of cliff booth|2026|https://news.google.com/rss/articles/CBMif0FVX3lxTE1kb0NrMlFIWFZwc1g3d0FlZHJ6c2k2SXFhaHh0Z3FMZk5UVHNCQk9RMzNlLUVPX3ZfTnF2WmZBdWlKOHBiWVdDcHJkVHFTSm41elk4M3VOQ3hUWURRdnJma2tBT2Rwbm9pLWxJN2RjSVFUQ0dDN0tBZEFvNFBsbE3SAYQBQVVfeXFMT01pQUN0U1BKeWo0elA5aGdSTmx5NW1lb2dibVdFT1RFdWVMcWdIQzB4LXBwcndVVlE5MTlkZk05Z0Zma05HOXNuMFhMSjFOYzZwcW81TzYyTm9zQnVDcjltNzBwTDV2VG1RUUNVR0k0UHJqa0tJWmZNWm5TaFA1WVNIdFZO?oc=5": {
       "at": "2026-11-24T21:29:16+00:00",
       "status": "not_review"
+    },
+    "the further mis adventures of cliff booth|2026|https://news.google.com/rss/articles/CBMifEFVX3lxTFBLQzlQQ2J2YnlRZVN4TzdLOGkzTVpGMU5hdGR6S1JjZzlsTmlVM3BsN2Q4VHItOS1sOEUtOTRjd3k4WTBjU0ZBRnFmTDFEZlFMbkI1d05Ud29VY3RfcHA3eUZrTVJSeE8wZ3VmYW5hbXJDM3p1T1hGc1hmcXY?oc=5": {
+      "at": "2026-11-27T15:28:46+00:00",
+      "status": "review",
+      "verdict": "rotten"
     },
     "the further mis adventures of cliff booth|2026|https://news.google.com/rss/articles/CBMiggJBVV95cUxOYWRrcmQ3M1lzTlJaaE1HNWU0cHlDVUczRFhIMjlzMEw4RU1FME9JbFBZajBQeTZ6WVdoQ29ZV3ZyUXFaWWpyaGI5YVBDbkRPQ19lZ3dKekNraVJSZmVKVUtJSmlqaTBtVlhDanZYTjdweFdMTnVReEtmMVpFeDk3ay1iN2tGUkFzMmJXcWkyZlRnZUV3RkF0bXp4clBiSFRxZmVueEwzWGI0ckNaZW9TR2VGVnkyT0xZbVpjd0NBa1lXd1U3d3BBWXNncmN3eENqa0tCcWRHZzdCSlN1bVNHeV8wdUxtYmg5dWxUTFFJYzJ4dnpfOG0yRUZBd012RDUtOWc?oc=5": {
       "at": "2026-11-25T01:29:00+00:00",
