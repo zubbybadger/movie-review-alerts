@@ -1352,6 +1352,16 @@
         "summary": "Familiar and predictable, but Grande, De Niro and the cast's comic spark made the critic laugh; fans should enjoy it.",
         "url": "https://flixchatter.net/2026/11/26/flixchatter-review-focker-in-law-2026-ariana-grande-steals-the-spotlight-in-this-familiar-cringe-comedy-sequel/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-27T04:28:53+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "India Today",
+        "rating": "",
+        "summary": "Ariana Grande's lively performance and familiar charm make it a pleasant holiday watch, despite predictable antics and shallow emotional exploration.",
+        "url": "https://www.indiatoday.in/movies/reviews/story/focker-in-law-review-ariana-grande-refreshes-ben-stiller-family-comedy-3048000-2026-11-27",
+        "verdict": "fresh"
       }
     ],
     "godzilla minus zero|": [
@@ -8608,6 +8618,11 @@
       "at": "2026-11-27T01:29:05+00:00",
       "status": "not_review"
     },
+    "focker in law|2026|https://www.indiatoday.in/movies/reviews/story/focker-in-law-review-ariana-grande-refreshes-ben-stiller-family-comedy-3048000-2026-11-27": {
+      "at": "2026-11-27T04:28:53+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "focker in law|2026|https://www.indiewire.com/criticism/movies/focker-in-law-movie-review-ariana-grande-ben-stiller-1235230046/": {
       "at": "2026-11-23T17:22:18+00:00",
       "status": "review",
@@ -11955,6 +11970,10 @@
     },
     "the further mis adventures of cliff booth|2026|https://www.comingsoon.net/movies/news/2231445-david-fincher-brad-pitt-animated-movie-report": {
       "at": "2026-11-26T18:39:27+00:00",
+      "status": "not_review"
+    },
+    "the further mis adventures of cliff booth|2026|https://www.comingsoon.net/movies/news/2231998-david-fincher-dismisses-ai-backlash-over-brad-pitt-cliff-booth-movie": {
+      "at": "2026-11-27T04:28:50+00:00",
       "status": "not_review"
     },
     "the further mis adventures of cliff booth|2026|https://www.comingsoon.net/movies/reviews/2227004-the-further-mis-adventures-of-cliff-booth-review-brad-pitts-violent-movie-entertains": {
