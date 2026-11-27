@@ -5114,6 +5114,16 @@
         "summary": "Only the headline is available; it suggests a mixed take, with Tarantino and Fincher showing both their best and worst qualities.",
         "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMW1GLW5UNWtkdnZnc2lXaDUtam1QcmV2SWtXWjFSVGJORjNlRm1CNGJuUHU3SzdqQmVXNWFZT21JQTV5MVRpZWdEUnk1WWc1eEVadmFKWFh0ekVXVFVvbml5NlZzYzhJbmp2d1J0cG9kZEs2UGtiYUQ5OHBnMkp0Wi10c0FQU0htSm5EWmxzcVh5bGc5aHRVSTlZWDdSbnlFWGtOM2VoS3RCdWhSeFY4ZGxIbnJSdGVPdmhIZEtOYldNTzFQelA5aFg3X3RUU0NLeXo1d3gwazdtLXZBN0hKRTIyaFdRYnByaHB5RVVQNF9UZw?oc=5",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-27T22:29:00+00:00",
+        "confidence": "low",
+        "critic": "",
+        "outlet": "Loud And Clear Reviews",
+        "rating": "",
+        "summary": "Only the headline was available, so the critic's opinion is unknown; the fresh verdict is a guess.",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1oU2pRU2ZPa1E3Nm1fVVpIOTNwSWQ5VGdtTUFWRUU4NDItQ1phRUZpNXNUZ2I4OWxpRUtGU1FDQzNERXdVdWYxODZsc0NQUXRmRXYxSG9KdG9RV2xPdWEtdVdSOFFteC1zbnc0?oc=5",
+        "verdict": "fresh"
       }
     ],
     "the hunger games sunrise on the reaping|2026": [
@@ -12060,6 +12070,11 @@
       "at": "2026-11-27T21:29:03+00:00",
       "status": "not_review"
     },
+    "the further mis adventures of cliff booth|2026|https://news.google.com/rss/articles/CBMia0FVX3lxTE1oU2pRU2ZPa1E3Nm1fVVpIOTNwSWQ5VGdtTUFWRUU4NDItQ1phRUZpNXNUZ2I4OWxpRUtGU1FDQzNERXdVdWYxODZsc0NQUXRmRXYxSG9KdG9RV2xPdWEtdVdSOFFteC1zbnc0?oc=5": {
+      "at": "2026-11-27T22:29:00+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "the further mis adventures of cliff booth|2026|https://news.google.com/rss/articles/CBMiakFVX3lxTE1UbG9NdjlRQXJfQVdhc25XOWZ1bGdFanVuTF9aZUZaNjMwZGNaWHdlc3JTMHFDTmdIS2NYU1FXU01zekJ4T0tlTnM2UHBXUTViSnNFSnJGaGEtQWhtVVNtcGpBbHIyTmRDOUHSAW9BVV95cUxOV0UtUU5PQXdsNXNJaGU5bm1FVnZWYW1ic19RZVBMN3h1czRHRzNpeTVOcjA2SVZDSVo2bGo1U0RhcHVJTk41NEFERWJTQ1JhbWxFUjhTcVExekI1NkN3RXVQQ3pmM1BQOEZ0Mkd0Njg?oc=5": {
       "at": "2026-11-24T23:28:57+00:00",
       "status": "not_review"
@@ -12801,6 +12816,10 @@
       "at": "2026-11-20T16:28:49+00:00",
       "status": "review",
       "verdict": "rotten"
+    },
+    "the further mis adventures of cliff booth|2026|https://www.thetraverstake.com/featured/the-further-mis-adventures-of-cliff-booth/": {
+      "at": "2026-11-27T22:28:58+00:00",
+      "status": "duplicate"
     },
     "the further mis adventures of cliff booth|2026|https://www.thetraverstake.com/featured/the-further-mis-adventures-of-cliff-boots/": {
       "at": "2026-11-27T21:28:40+00:00",
