@@ -1432,6 +1432,16 @@
         "summary": "Ariana Grande shines, but Stiller's increasingly unlikable Greg makes the film more cringe-inducing and uncomfortable than funny.",
         "url": "https://bgdailynews.com/2026/11/27/fockers-franchise-remains-uncomfortable-and-unfunny/",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-27T19:29:03+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "The Indian Express",
+        "rating": "1.5/5",
+        "summary": "The long-delayed sequel feels like an afterthought, with a bland Ariana Grande character and a peevish Stiller failing to generate laughs.",
+        "url": "https://indianexpress.com/article/entertainment/movie-review/focker-in-law-review-ben-stiller-robert-de-niros-reunion-feels-like-an-afterthought-10981052/",
+        "verdict": "rotten"
       }
     ],
     "godzilla minus zero|": [
@@ -2646,6 +2656,16 @@
         "summary": "Predictable but warm and fun, with enjoyable performances (especially Goggins and Foster), good jokes, and a sweet mother-daughter focus.",
         "url": "https://www.thehindu.com/entertainment/movies/hexed-movie-review-hailee-steinfeld-rashida-jones-jodie-foster-walton-goggins/article71750941.ece",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-27T19:29:09+00:00",
+        "confidence": "high",
+        "critic": "Collin Garbarino",
+        "outlet": "WORLD",
+        "rating": "",
+        "summary": "Despite smooth animation, the plot is tired paint-by-numbers, the pace prevents connection, and the absence of fathers is a startling omission.",
+        "url": "https://wng.org/podcasts/a-hex-on-the-dads-1795658360",
+        "verdict": "rotten"
       }
     ],
     "how to rob a bank|2026": [
@@ -8404,6 +8424,11 @@
       "at": "2026-11-26T21:29:04+00:00",
       "status": "duplicate"
     },
+    "focker in law|2026|https://indianexpress.com/article/entertainment/movie-review/focker-in-law-review-ben-stiller-robert-de-niros-reunion-feels-like-an-afterthought-10981052/": {
+      "at": "2026-11-27T19:29:03+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
     "focker in law|2026|https://inreviewonline.com/2026/11/24/focker-in-law-review/": {
       "at": "2026-11-24T16:29:04+00:00",
       "status": "review",
@@ -8505,6 +8530,10 @@
     },
     "focker in law|2026|https://news.google.com/rss/articles/CBMidkFVX3lxTFBoWk9CWFk4VE5NNklrTksyQXdRdmZoYVlwY0w5dTVVZEtFS01TTXVDeGJWV01PdGhvbkxFdWIzODJ6R2N5NWRVeTlrSm0wMVZnNGdLTUhpcDB3Y0xPcW9IbTgwdjRJS1ZSR0otX2U5b0FRTTgyV3c?oc=5": {
       "at": "2026-11-26T08:41:57+00:00",
+      "status": "not_review"
+    },
+    "focker in law|2026|https://news.google.com/rss/articles/CBMihAFBVV95cUxNbEJRY0cyOVZrbUd3R3hPeTRrcnREM1hldVJtSFdLNW8yY25VeExKbVhNTG9QLTJZT3VBY2xtQjBkbS1vTDhPdGdVaUpQNk5DNzlKcjczc2VoalVjdmtjREstVlhWdVBZdnQwUjIxUnhPMVBhQjNIQVRiY2t0Z1N0ZVVyY1HSAYoBQVVfeXFMUFRKVEQza3kyNHBZcnN1Sm5kQlZHNEtob3RmNS00TVlOSWNUeGZUd1BiZWxzNk1QSVhwbE5tTTd2ZWpPdzVqd3BhdkZWeVJ6REhLVGV1TVdBSXpGQzc5QUFHUVhzWkd5NGhsR0pzTi0xc3pvR2Jwd1JLR2FwY1Y1cnp3UERtWF9UbUt3?oc=5": {
+      "at": "2026-11-27T19:29:07+00:00",
       "status": "not_review"
     },
     "focker in law|2026|https://news.google.com/rss/articles/CBMihgFBVV95cUxNNklvZmNmenJFS2RhdGJITHJHMGNMZlgtN09XMlZ3SVhnLW9pRlVTWk5FdVVORUN1VC1QNXNzSlgxc3Ixbzl2d3lxLUV5NWZsaWdjWUZIUlR0R2pRWlJmV1NMbDlpSmN5S3NQWFE4RmR4WkgteVJiZm1IU21qWEw0OFA2WWhtd9IBiwFBVV95cUxQcXV5Nl83M3NYSi1mZHNPVW1BdUVnbE52eXFiTXJlU2FtS0NzVnB3WHMxVkVlRWFxeGoxM0VJUHJpR2VsbXdmby1lMVppRUZVTHhhR2l0ZDRGanRTOTJBa3RjYUtlWTNfaWdrS1pqNXZMSkUzQ1hGZFY3Z05RRzdIOGNsVFZfTzJ3b0ow?oc=5": {
@@ -10011,6 +10040,11 @@
     },
     "hexed|2026|https://variety.com/2026/film/reviews/hexed-review-1236956898/": {
       "at": "2026-11-24T17:05:06+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
+    "hexed|2026|https://wng.org/podcasts/a-hex-on-the-dads-1795658360": {
+      "at": "2026-11-27T19:29:09+00:00",
       "status": "review",
       "verdict": "rotten"
     },
@@ -11878,6 +11912,10 @@
       "at": "2026-11-23T19:29:30+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "the further mis adventures of cliff booth|2026|https://news.google.com/rss/articles/CBMihAFBVV95cUxNbEJRY0cyOVZrbUd3R3hPeTRrcnREM1hldVJtSFdLNW8yY25VeExKbVhNTG9QLTJZT3VBY2xtQjBkbS1vTDhPdGdVaUpQNk5DNzlKcjczc2VoalVjdmtjREstVlhWdVBZdnQwUjIxUnhPMVBhQjNIQVRiY2t0Z1N0ZVVyY1HSAYoBQVVfeXFMUFRKVEQza3kyNHBZcnN1Sm5kQlZHNEtob3RmNS00TVlOSWNUeGZUd1BiZWxzNk1QSVhwbE5tTTd2ZWpPdzVqd3BhdkZWeVJ6REhLVGV1TVdBSXpGQzc5QUFHUVhzWkd5NGhsR0pzTi0xc3pvR2Jwd1JLR2FwY1Y1cnp3UERtWF9UbUt3?oc=5": {
+      "at": "2026-11-27T19:29:05+00:00",
+      "status": "not_review"
     },
     "the further mis adventures of cliff booth|2026|https://news.google.com/rss/articles/CBMihgFBVV95cUxNNklvZmNmenJFS2RhdGJITHJHMGNMZlgtN09XMlZ3SVhnLW9pRlVTWk5FdVVORUN1VC1QNXNzSlgxc3Ixbzl2d3lxLUV5NWZsaWdjWUZIUlR0R2pRWlJmV1NMbDlpSmN5S3NQWFE4RmR4WkgteVJiZm1IU21qWEw0OFA2WWhtd9IBiwFBVV95cUxQcXV5Nl83M3NYSi1mZHNPVW1BdUVnbE52eXFiTXJlU2FtS0NzVnB3WHMxVkVlRWFxeGoxM0VJUHJpR2VsbXdmby1lMVppRUZVTHhhR2l0ZDRGanRTOTJBa3RjYUtlWTNfaWdrS1pqNXZMSkUzQ1hGZFY3Z05RRzdIOGNsVFZfTzJ3b0ow?oc=5": {
       "at": "2026-11-26T23:28:42+00:00",
