@@ -8726,6 +8726,10 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "focker in law|2026|https://www.nytimes.com/2026/11/27/movies/focker-in-law-cast-gisondo-feldstein-franco.html": {
+      "at": "2026-11-27T10:16:58+00:00",
+      "status": "not_review"
+    },
     "focker in law|2026|https://www.rogerebert.com/reviews/focker-in-law-ben-stiller-robert-de-niro-ariana-grande-movie-review-2026": {
       "at": "2026-11-23T17:22:15+00:00",
       "status": "review",
@@ -8733,6 +8737,10 @@
     },
     "focker in law|2026|https://www.rollingstone.com/tv-movies/tv-movie-lists/ariana-grande-focker-in-law-best-acting-roles-1235663043/": {
       "at": "2026-11-26T18:29:09+00:00",
+      "status": "not_review"
+    },
+    "focker in law|2026|https://www.screendaily.com/news/uk-ireland-box-office-preview-focker-in-law-hexed-lead-new-releases/5222844.article": {
+      "at": "2026-11-27T10:17:00+00:00",
       "status": "not_review"
     },
     "focker in law|2026|https://www.screendaily.com/reviews/focker-in-law-review-ariana-grande-joins-ben-stiller-and-robert-de-niro-for-strained-fourth-installment-of-comedy-franchise/5222711.article": {
@@ -10003,6 +10011,10 @@
       "status": "review",
       "verdict": "rotten"
     },
+    "hexed|2026|https://www.nytimes.com/2026/11/27/movies/lilo-stitch-film-disney.html": {
+      "at": "2026-11-27T10:16:56+00:00",
+      "status": "not_review"
+    },
     "hexed|2026|https://www.polygon.com/disney-hexed-review/": {
       "at": "2026-11-24T17:05:11+00:00",
       "status": "review",
@@ -10026,6 +10038,10 @@
       "at": "2026-11-26T12:29:29+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "hexed|2026|https://www.screendaily.com/news/uk-ireland-box-office-preview-focker-in-law-hexed-lead-new-releases/5222844.article": {
+      "at": "2026-11-27T10:17:03+00:00",
+      "status": "not_review"
     },
     "hexed|2026|https://www.screendaily.com/reviews/hexed-review-uninspiring-disney-animation-about-a-teen-witch-fails-to-generate-a-great-deal-of-magic/5222730.article": {
       "at": "2026-11-24T17:29:06+00:00",
