@@ -1382,6 +1382,16 @@
         "summary": "Grande and the cast shine, but predictable humor and a recycled template make it only intermittently entertaining rather than consistently engaging.",
         "url": "https://timesofindia.indiatimes.com/entertainment/english/movie-reviews/focker-in-law/movie-review/136183345.cms",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-27T14:29:19+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "The Federal",
+        "rating": "",
+        "summary": "Better than Little Fockers but predictable and unambitious, with few laughs; Stiller and Grande barely salvage it.",
+        "url": "https://thefederal.com/film-reviews/film-review-hollywood-english-cinema-focker-in-law-robert-de-niro-ben-stiller-ariana-grande-meet-the-parents-meet-the-fockers-series-264300",
+        "verdict": "rotten"
       }
     ],
     "godzilla minus zero|": [
@@ -2585,6 +2595,16 @@
         "rating": "",
         "summary": "A perfectly fine, classic-feeling Disney original with creative visuals and a true villain, though rushed, safe, and overloaded with awkward humour.",
         "url": "https://filmfeeder.co.uk/film-reviews/hexed-dirs-jason-hand-and-fawn-veerasunthorn?utm_source=rss&utm_medium=rss&utm_campaign=hexed-dirs-jason-hand-and-fawn-veerasunthorn",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-27T14:29:21+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "The Hindu",
+        "rating": "",
+        "summary": "Predictable but warm and fun, with enjoyable performances (especially Goggins and Foster), good jokes, and a sweet mother-daughter focus.",
+        "url": "https://www.thehindu.com/entertainment/movies/hexed-movie-review-hailee-steinfeld-rashida-jones-jodie-foster-walton-goggins/article71750941.ece",
         "verdict": "fresh"
       }
     ],
@@ -8530,6 +8550,11 @@
       "status": "review",
       "verdict": "rotten"
     },
+    "focker in law|2026|https://thefederal.com/film-reviews/film-review-hollywood-english-cinema-focker-in-law-robert-de-niro-ben-stiller-ariana-grande-meet-the-parents-meet-the-fockers-series-264300": {
+      "at": "2026-11-27T14:29:19+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
     "focker in law|2026|https://thefutureoftheforce.com/2026/11/23/review-focker-in-law-2026/": {
       "at": "2026-11-23T17:23:15+00:00",
       "status": "review",
@@ -10097,6 +10122,11 @@
       "at": "2026-11-25T17:29:19+00:00",
       "status": "review",
       "verdict": "rotten"
+    },
+    "hexed|2026|https://www.thehindu.com/entertainment/movies/hexed-movie-review-hailee-steinfeld-rashida-jones-jodie-foster-walton-goggins/article71750941.ece": {
+      "at": "2026-11-27T14:29:21+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "hexed|2026|https://www.timeout.com/movies/hexed-review-2026": {
       "at": "2026-11-26T15:29:38+00:00",
@@ -12031,6 +12061,10 @@
       "at": "2026-11-20T21:16:31+00:00",
       "status": "not_review"
     },
+    "the further mis adventures of cliff booth|2026|https://www.avclub.com/quentin-tarantino-screenplays-written-not-directed-cliff-booth-true-romance-dusk-till-dawn-natural-born-killers": {
+      "at": "2026-11-27T14:29:15+00:00",
+      "status": "not_review"
+    },
     "the further mis adventures of cliff booth|2026|https://www.avclub.com/the-further-mis-adventures-of-cliff-booth-review-quentin-tarantino-sequel-david-fincher-brad-pitt-netflix": {
       "at": "2026-11-19T18:29:16+00:00",
       "status": "review",
@@ -12257,6 +12291,10 @@
     },
     "the further mis adventures of cliff booth|2026|https://www.indiewire.com/features/interviews/cliff-booth-elizabeth-debicki-slapping-brad-pitt-rom-coms-1235229895/": {
       "at": "2026-11-23T18:59:11+00:00",
+      "status": "not_review"
+    },
+    "the further mis adventures of cliff booth|2026|https://www.indiewire.com/features/interviews/cliff-booth-star-nicholas-hammond-returning-tarantino-1235230960/": {
+      "at": "2026-11-27T14:29:13+00:00",
       "status": "not_review"
     },
     "the further mis adventures of cliff booth|2026|https://www.indiewire.com/features/podcast/aaron-pierre-lanterns-dc-shakeup-starfighter-1235229615/": {
