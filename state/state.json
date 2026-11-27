@@ -1422,6 +1422,16 @@
         "summary": "Despite an all-star cast, the film fails to generate laughs, with only Ariana Grande seeming to really try.",
         "url": "https://www.kget.com/community/ricks-reviews/relatively-speaking-focker-in-law-is-stinker/",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-27T18:29:06+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "Bowling Green Daily News",
+        "rating": "D+",
+        "summary": "Ariana Grande shines, but Stiller's increasingly unlikable Greg makes the film more cringe-inducing and uncomfortable than funny.",
+        "url": "https://bgdailynews.com/2026/11/27/fockers-franchise-remains-uncomfortable-and-unfunny/",
+        "verdict": "rotten"
       }
     ],
     "godzilla minus zero|": [
@@ -8272,6 +8282,11 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "focker in law|2026|https://bgdailynews.com/2026/11/27/fockers-franchise-remains-uncomfortable-and-unfunny/": {
+      "at": "2026-11-27T18:29:06+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
     "focker in law|2026|https://boundingintocomics.com/movies/movie-news/focker-in-law-review-ben-stillers-sequel-is-a-throwback-comedy-where-the-jokes-mostly-land": {
       "at": "2026-11-25T22:28:59+00:00",
       "status": "review",
@@ -8577,6 +8592,10 @@
       "at": "2026-11-27T16:29:07+00:00",
       "status": "not_review"
     },
+    "focker in law|2026|https://screenrant.com/meet-the-parents-franchise-ranked-focker-in-law/": {
+      "at": "2026-11-27T18:29:08+00:00",
+      "status": "not_review"
+    },
     "focker in law|2026|https://screenrant.com/new-movies-releasing-thanksgiving-weekend-2026/": {
       "at": "2026-11-24T22:30:32+00:00",
       "status": "not_review"
@@ -8680,6 +8699,10 @@
       "at": "2026-11-23T17:23:20+00:00",
       "status": "review",
       "verdict": "rotten"
+    },
+    "focker in law|2026|https://www.cbr.com/focker-in-law-rotten-tomatoes-audience-score/": {
+      "at": "2026-11-27T18:29:13+00:00",
+      "status": "not_review"
     },
     "focker in law|2026|https://www.cbr.com/focker-in-law-rotten-tomatoes-score/": {
       "at": "2026-11-25T00:30:04+00:00",
@@ -10045,6 +10068,10 @@
     },
     "hexed|2026|https://www.comingsoon.net/movies/news/2231629-hailee-steinfeld-200m-hexed-thanksgiving-box-office-curse": {
       "at": "2026-11-26T20:29:17+00:00",
+      "status": "not_review"
+    },
+    "hexed|2026|https://www.comingsoon.net/movies/news/2232455-disney-the-little-mermaid-crossover-movie-completely-shocking-fans": {
+      "at": "2026-11-27T18:29:11+00:00",
       "status": "not_review"
     },
     "hexed|2026|https://www.comingsoon.net/movies/reviews/2229937-hexed-review-hailee-steinfelds-bewitching-disney-movie": {
