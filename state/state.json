@@ -2556,6 +2556,16 @@
         "summary": "Familiar chosen-one plot, but a heartfelt mother-daughter bond, strong humour and gorgeous animation make it an enjoyable watch.",
         "url": "https://www.indiatoday.in/movies/reviews/story/hexed-review-disney-animated-witch-adventure-family-drama-humour-magic-3048009-2026-11-27",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-27T06:29:02+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "Bollywood Hungama",
+        "rating": "2/5",
+        "summary": "Impressive animation and amusing moments can't overcome predictable storytelling and overreliance on a familiar Disney formula.",
+        "url": "https://www.bollywoodhungama.com/movie/hexed-english/critic-review/hexed-english-movie-review/hexed-scores-with-its-impressive-animation/",
+        "verdict": "rotten"
       }
     ],
     "how to rob a bank|2026": [
@@ -9851,6 +9861,11 @@
     "hexed|2026|https://www.bollywoodhungama.com/movie/hexed-english/": {
       "at": "2026-11-21T16:05:23+00:00",
       "status": "not_review"
+    },
+    "hexed|2026|https://www.bollywoodhungama.com/movie/hexed-english/critic-review/hexed-english-movie-review/hexed-scores-with-its-impressive-animation/": {
+      "at": "2026-11-27T06:29:02+00:00",
+      "status": "review",
+      "verdict": "rotten"
     },
     "hexed|2026|https://www.bostonglobe.com/2026/11/24/arts/disney-hexed/": {
       "at": "2026-11-24T17:05:32+00:00",
