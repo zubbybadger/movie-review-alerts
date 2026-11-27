@@ -1362,6 +1362,26 @@
         "summary": "Ariana Grande's lively performance and familiar charm make it a pleasant holiday watch, despite predictable antics and shallow emotional exploration.",
         "url": "https://www.indiatoday.in/movies/reviews/story/focker-in-law-review-ariana-grande-refreshes-ben-stiller-family-comedy-3048000-2026-11-27",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-27T05:29:18+00:00",
+        "confidence": "low",
+        "critic": "",
+        "outlet": "KKFI Freeze Frame",
+        "rating": "",
+        "summary": "Formulaic but fits the franchise template fans want, with Ariana Grande adding a needed spark.",
+        "url": "https://kkfi.org/program-episodes/freeze-frame-focker-in-law-pg-13-hexed-pg-paper-tiger-r-la-bola-negra-r/",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-27T05:29:22+00:00",
+        "confidence": "low",
+        "critic": "",
+        "outlet": "The Times of India",
+        "rating": "",
+        "summary": "Grande and the cast shine, but predictable humor and a recycled template make it only intermittently entertaining rather than consistently engaging.",
+        "url": "https://timesofindia.indiatimes.com/entertainment/english/movie-reviews/focker-in-law/movie-review/136183345.cms",
+        "verdict": "rotten"
       }
     ],
     "godzilla minus zero|": [
@@ -2515,6 +2535,26 @@
         "rating": "",
         "summary": "Only the headline was available, so the critic's opinion of the film cannot be determined.",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9lUVFjWEJVT3VLWnFReUF5RE85MGwyNENFOUIzYXJZclkyWGhvbkYza21IOEExblo2REhwb18wOU9Nc1JLcWVFeGM3WGFjVm5UY0ZVV3ZFUFlLaFE0LXZULVNGckplbGZBLUxCeg?oc=5",
+        "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-27T05:29:20+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "KKFI Freeze Frame",
+        "rating": "",
+        "summary": "A passable timewaster for kids on the lower end of Disney product, offering little for adults.",
+        "url": "https://kkfi.org/program-episodes/freeze-frame-focker-in-law-pg-13-hexed-pg-paper-tiger-r-la-bola-negra-r/",
+        "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-27T05:29:24+00:00",
+        "confidence": "high",
+        "critic": "",
+        "outlet": "India Today",
+        "rating": "",
+        "summary": "Familiar chosen-one plot, but a heartfelt mother-daughter bond, strong humour and gorgeous animation make it an enjoyable watch.",
+        "url": "https://www.indiatoday.in/movies/reviews/story/hexed-review-disney-animated-witch-adventure-family-drama-humour-magic-3048009-2026-11-27",
         "verdict": "fresh"
       }
     ],
@@ -8269,6 +8309,11 @@
       "status": "review",
       "verdict": "rotten"
     },
+    "focker in law|2026|https://kkfi.org/program-episodes/freeze-frame-focker-in-law-pg-13-hexed-pg-paper-tiger-r-la-bola-negra-r/": {
+      "at": "2026-11-27T05:29:18+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
     "focker in law|2026|https://moviecricket.net/blog/2026/11/23/review-focker-in-law-is-a-weak-addition-to-a-played-out-comedy-franchise-with-ben-stillers-main-character-getting-more-sociopathic-by-the-minute": {
       "at": "2026-11-24T06:28:36+00:00",
       "status": "review",
@@ -8486,6 +8531,11 @@
     "focker in law|2026|https://timesofindia.indiatimes.com/entertainment/english/movie-details/focker-in-law/movieshow/130325738.cms": {
       "at": "2026-11-24T18:59:02+00:00",
       "status": "not_review"
+    },
+    "focker in law|2026|https://timesofindia.indiatimes.com/entertainment/english/movie-reviews/focker-in-law/movie-review/136183345.cms": {
+      "at": "2026-11-27T05:29:22+00:00",
+      "status": "review",
+      "verdict": "rotten"
     },
     "focker in law|2026|https://variety.com/2026/film/box-office/sunrise-on-the-reaping-box-office-hunger-games-thanksgiving-eve-focker-in-law-1236958999/": {
       "at": "2026-11-26T16:29:29+00:00",
@@ -9544,6 +9594,11 @@
       "status": "review",
       "verdict": "rotten"
     },
+    "hexed|2026|https://kkfi.org/program-episodes/freeze-frame-focker-in-law-pg-13-hexed-pg-paper-tiger-r-la-bola-negra-r/": {
+      "at": "2026-11-27T05:29:20+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
     "hexed|2026|https://mashable.com/entertainment/hexed-disney-easter-eggs": {
       "at": "2026-11-25T10:30:07+00:00",
       "status": "not_review"
@@ -9880,6 +9935,11 @@
     "hexed|2026|https://www.independent.co.uk/arts-entertainment/films/news/jodie-foster-favorite-film-the-lion-king-b3089246.html": {
       "at": "2026-11-21T21:28:57+00:00",
       "status": "not_review"
+    },
+    "hexed|2026|https://www.indiatoday.in/movies/reviews/story/hexed-review-disney-animated-witch-adventure-family-drama-humour-magic-3048009-2026-11-27": {
+      "at": "2026-11-27T05:29:24+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "hexed|2026|https://www.indiewire.com/features/animation/hexed-writers-directors-disney-animated-movie-1235230741/": {
       "at": "2026-11-26T19:28:59+00:00",
