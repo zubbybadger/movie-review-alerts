@@ -2496,6 +2496,16 @@
         "summary": "Charming world, great voice cast and characters outweigh a predictable story and cramped animation; the critic liked it, calling it decent but not great.",
         "url": "https://fictionmachine.com/2026/11/26/review-hexed-2026/",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-27T03:28:45+00:00",
+        "confidence": "low",
+        "critic": "",
+        "outlet": "The Upcoming",
+        "rating": "",
+        "summary": "Only the headline was available, so the critic's opinion of the film cannot be determined.",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9lUVFjWEJVT3VLWnFReUF5RE85MGwyNENFOUIzYXJZclkyWGhvbkYza21IOEExblo2REhwb18wOU9Nc1JLcWVFeGM3WGFjVm5UY0ZVV3ZFUFlLaFE0LXZULVNGckplbGZBLUxCeg?oc=5",
+        "verdict": "fresh"
       }
     ],
     "how to rob a bank|2026": [
@@ -9590,6 +9600,11 @@
     },
     "hexed|2026|https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ROW1xMElRTUYxTG1paG93UkRHNlhvX3QwTVYxMmdic2szOGVVZUpkZ2FHcTRxVURnbDNGMG56SEpYdFZoNDkwNVVfZHl6bUJwS0lMcW5CZV9EZmZ2RmYxdHVJM1podw?oc=5": {
       "at": "2026-11-25T04:29:07+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "hexed|2026|https://news.google.com/rss/articles/CBMibEFVX3lxTE9lUVFjWEJVT3VLWnFReUF5RE85MGwyNENFOUIzYXJZclkyWGhvbkYza21IOEExblo2REhwb18wOU9Nc1JLcWVFeGM3WGFjVm5UY0ZVV3ZFUFlLaFE0LXZULVNGckplbGZBLUxCeg?oc=5": {
+      "at": "2026-11-27T03:28:45+00:00",
       "status": "review",
       "verdict": "fresh"
     },
