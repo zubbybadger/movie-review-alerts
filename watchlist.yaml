@@ -287,3 +287,8 @@ sites:
   - https://news.google.com/rss/search?q=site:showbizjunkies.com&hl=en-US&gl=US&ceid=US:en
   # Added 2026-11-26 by the daily sweep (reviews the bot never saw; watched through Google News).
   - https://news.google.com/rss/search?q=site:rendyreviews.com&hl=en-US&gl=US&ceid=US:en
+  # Added 2026-11-27 by the daily sweep (reviews the bot never saw; watched through Google News).
+  - https://news.google.com/rss/search?q=site:loudandclearreviews.com&hl=en-US&gl=US&ceid=US:en
+  - https://news.google.com/rss/search?q=site:vanyaland.com&hl=en-US&gl=US&ceid=US:en
+  - https://news.google.com/rss/search?q=site:worldofreel.com&hl=en-US&gl=US&ceid=US:en
+  - https://news.google.com/rss/search?q=site:filmspeak.net&hl=en-US&gl=US&ceid=US:en
