@@ -2486,6 +2486,16 @@
         "summary": "Headline suggests the film retreads familiar generational-trauma themes; only the headline was available, so the verdict is a guess.",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5mZENBQWxfYlo3Vmd3NzR5eUxseTFYWEI0c1lLZlhWRGJoNTI5U0tUZmE2N2plLVFRVVFBZmRXeGtzLXR0ZHZ1T3hCelVsQjRMazZqMGZISkZJYmR3WnpOTzJ1VXdfZw?oc=5",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-27T00:28:57+00:00",
+        "confidence": "medium",
+        "critic": "",
+        "outlet": "FictionMachine",
+        "rating": "",
+        "summary": "Charming world, great voice cast and characters outweigh a predictable story and cramped animation; the critic liked it, calling it decent but not great.",
+        "url": "https://fictionmachine.com/2026/11/26/review-hexed-2026/",
+        "verdict": "fresh"
       }
     ],
     "how to rob a bank|2026": [
@@ -8382,6 +8392,10 @@
       "at": "2026-11-26T19:29:03+00:00",
       "status": "not_review"
     },
+    "focker in law|2026|https://screenrant.com/focker-in-law-dustin-hoffman-barbra-streisand-absence-explained-john-hamburg/": {
+      "at": "2026-11-27T00:29:00+00:00",
+      "status": "not_review"
+    },
     "focker in law|2026|https://screenrant.com/focker-in-law-move-review/": {
       "at": "2026-11-24T18:29:01+00:00",
       "status": "review",
@@ -9485,6 +9499,11 @@
     "hexed|2026|https://deadline.com/print-article/1237232517?KeepThis=1&TB_iframe=1&height=500&width=750": {
       "at": "2026-11-24T17:05:24+00:00",
       "status": "duplicate"
+    },
+    "hexed|2026|https://fictionmachine.com/2026/11/26/review-hexed-2026/": {
+      "at": "2026-11-27T00:28:57+00:00",
+      "status": "review",
+      "verdict": "fresh"
     },
     "hexed|2026|https://filmthreat.com/reviews/disneys-hexed/": {
       "at": "2026-11-25T09:29:02+00:00",
