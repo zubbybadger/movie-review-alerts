@@ -1412,6 +1412,16 @@
         "summary": "Despite a bright Ariana Grande and scene-stealing Owen Wilson, the sequel is thin, reliant on callbacks, and never justifies its existence.",
         "url": "https://www.deccanherald.com/entertainment/focker-in-law-movie-review-meet-the-parents-again-unfortunately-4233745",
         "verdict": "rotten"
+      },
+      {
+        "at": "2026-11-27T17:29:17+00:00",
+        "confidence": "high",
+        "critic": "Rick Bentley",
+        "outlet": "KGET",
+        "rating": "",
+        "summary": "Despite an all-star cast, the film fails to generate laughs, with only Ariana Grande seeming to really try.",
+        "url": "https://www.kget.com/community/ricks-reviews/relatively-speaking-focker-in-law-is-stinker/",
+        "verdict": "rotten"
       }
     ],
     "godzilla minus zero|": [
@@ -8631,6 +8641,10 @@
       "status": "review",
       "verdict": "rotten"
     },
+    "focker in law|2026|https://variety.com/2026/film/box-office/box-office-hunger-games-sunrise-reaping-thanksgiving-1236959537/": {
+      "at": "2026-11-27T17:29:08+00:00",
+      "status": "not_review"
+    },
     "focker in law|2026|https://variety.com/2026/film/box-office/sunrise-on-the-reaping-box-office-hunger-games-thanksgiving-eve-focker-in-law-1236958999/": {
       "at": "2026-11-26T16:29:29+00:00",
       "status": "not_review"
@@ -8784,6 +8798,11 @@
     "focker in law|2026|https://www.kaplanvskaplan.com/new-releases/focker-in-law/": {
       "at": "2026-11-23T17:22:22+00:00",
       "status": "not_review"
+    },
+    "focker in law|2026|https://www.kget.com/community/ricks-reviews/relatively-speaking-focker-in-law-is-stinker/": {
+      "at": "2026-11-27T17:29:17+00:00",
+      "status": "review",
+      "verdict": "rotten"
     },
     "focker in law|2026|https://www.latimes.com/entertainment-arts/movies/story/2026-11-24/focker-in-law-review-robert-de-niro-ben-stiller-ariana-grande-meet-parents-john-hamburg": {
       "at": "2026-11-24T20:29:18+00:00",
@@ -9878,6 +9897,10 @@
       "status": "review",
       "verdict": "fresh"
     },
+    "hexed|2026|https://screenanarchy.com/2026/11/now-playing-cliff-booth-hexed-in-waves.html": {
+      "at": "2026-11-27T17:29:13+00:00",
+      "status": "not_review"
+    },
     "hexed|2026|https://screencrush.com/hexed-kids-review/": {
       "at": "2026-11-24T17:29:08+00:00",
       "status": "review",
@@ -9990,6 +10013,10 @@
       "at": "2026-11-24T17:05:32+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "hexed|2026|https://www.cbr.com/disney-hexed-rotten-tomatoes-audience-score/": {
+      "at": "2026-11-27T17:29:19+00:00",
+      "status": "not_review"
     },
     "hexed|2026|https://www.cbr.com/disney-hexed-rotten-tomatoes-score/": {
       "at": "2026-11-25T17:29:29+00:00",
@@ -10164,6 +10191,10 @@
     },
     "hexed|2026|https://www.the-independent.com/arts-entertainment/films/news/jodie-foster-favorite-film-the-lion-king-b3089246.html": {
       "at": "2026-11-21T21:47:17+00:00",
+      "status": "not_review"
+    },
+    "hexed|2026|https://www.the-independent.com/tv/culture/jodie-foster-hexed-women-hollywood-b3092870.html": {
+      "at": "2026-11-27T17:29:15+00:00",
       "status": "not_review"
     },
     "hexed|2026|https://www.theglobeandmail.com/culture/film-and-tv/film/article-hexed-review-disney-animation-hailee-steinfeld-rashida-jones/": {
@@ -11883,6 +11914,10 @@
       "at": "2026-11-19T18:05:55+00:00",
       "status": "review",
       "verdict": "fresh"
+    },
+    "the further mis adventures of cliff booth|2026|https://screenanarchy.com/2026/11/now-playing-cliff-booth-hexed-in-waves.html": {
+      "at": "2026-11-27T17:29:10+00:00",
+      "status": "not_review"
     },
     "the further mis adventures of cliff booth|2026|https://screenanarchy.com/2026/11/opening-this-week-the-further-mis-adventures-of-cliff-booth-fusing-quentin-tarantino-and-david-finch.html": {
       "at": "2026-11-23T17:22:32+00:00",
