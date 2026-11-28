@@ -1472,6 +1472,16 @@
         "summary": "Only the headline is available; calling it a 'cozy throwback comedy' suggests a mildly positive take.",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeFdoVFRSMnNqREY4bGY4VFdFcmx6Zm04X2RQUzYxaTR0NkV5WDZ4NjBmSlItTnUxdDRLTEwtbFl2NjlhTHRMYnlVVU90cWxfTkVXMkp0SUltN2J4S0NSeDhjd3UzZF9ybU04Z1lTTEhvMnE4N0NzMFZxRTRKT283bll2S1FZUDMtaXByYzdScDlnY1pxVWc?oc=5",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-28T10:18:30+00:00",
+        "confidence": "low",
+        "critic": "",
+        "outlet": "Loud And Clear Reviews",
+        "rating": "",
+        "summary": "Only the headline is available; 'A Comedy of Errors' hints the critic found the film's execution flawed.",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9QSXVjNDFuVmwta01VM1R1V0NIbFhfcXJNcmlDSC1aY2pra09MQnlRT1RXY0RXTHJMZTlGN3lMUmZVdk1jSmpWNXFJN2JFZkd1Q196LTJabXR4Q3ZGdVc3Y2pKQQ?oc=5",
+        "verdict": "rotten"
       }
     ],
     "godzilla minus zero|": [
@@ -8634,6 +8644,11 @@
     },
     "focker in law|2026|https://news.google.com/rss/articles/CBMiY0FVX3lxTE80UjRJQk1Qd0Vpekc1TXFQOURFOVQ0Z2dad0lRSDM0Ri0wbmZQbTgybkZ4b2Jja0JsazFPVGowWWgxcjRLLWlZbmNaeE1RWEdrdU9BV2pYWmxTMXd5alNLNWRwWQ?oc=5": {
       "at": "2026-11-25T17:29:27+00:00",
+      "status": "review",
+      "verdict": "rotten"
+    },
+    "focker in law|2026|https://news.google.com/rss/articles/CBMiY0FVX3lxTE9QSXVjNDFuVmwta01VM1R1V0NIbFhfcXJNcmlDSC1aY2pra09MQnlRT1RXY0RXTHJMZTlGN3lMUmZVdk1jSmpWNXFJN2JFZkd1Q196LTJabXR4Q3ZGdVc3Y2pKQQ?oc=5": {
+      "at": "2026-11-28T10:18:30+00:00",
       "status": "review",
       "verdict": "rotten"
     },
