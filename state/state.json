@@ -5124,6 +5124,16 @@
         "summary": "Only the headline was available, so the critic's opinion is unknown; the fresh verdict is a guess.",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1oU2pRU2ZPa1E3Nm1fVVpIOTNwSWQ5VGdtTUFWRUU4NDItQ1phRUZpNXNUZ2I4OWxpRUtGU1FDQzNERXdVdWYxODZsc0NQUXRmRXYxSG9KdG9RV2xPdWEtdVdSOFFteC1zbnc0?oc=5",
         "verdict": "fresh"
+      },
+      {
+        "at": "2026-11-28T04:28:34+00:00",
+        "confidence": "high",
+        "critic": "Alex McPherson",
+        "outlet": "PopLifeSTL",
+        "rating": "A-",
+        "summary": "An intoxicating, violent neo-noir and incisive character study with standout Pitt and Debicki performances, despite disappointing generative AI use.",
+        "url": "https://poplifestl.com/fincher-and-tarantino-deliver-a-worthy-spinoff-in-the-further-mis-adventures-of-cliff-booth/",
+        "verdict": "fresh"
       }
     ],
     "the hunger games sunrise on the reaping|2026": [
@@ -12203,6 +12213,11 @@
     },
     "the further mis adventures of cliff booth|2026|https://nextbestpicture.com/the-further-mis-adventures-of-cliff-booth/": {
       "at": "2026-11-19T18:05:55+00:00",
+      "status": "review",
+      "verdict": "fresh"
+    },
+    "the further mis adventures of cliff booth|2026|https://poplifestl.com/fincher-and-tarantino-deliver-a-worthy-spinoff-in-the-further-mis-adventures-of-cliff-booth/": {
+      "at": "2026-11-28T04:28:34+00:00",
       "status": "review",
       "verdict": "fresh"
     },
